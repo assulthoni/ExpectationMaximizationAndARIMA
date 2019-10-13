@@ -1,0 +1,1924 @@
+Lintang (deg), Bujur (deg), Tanggal (dd/mm/yyy), Waktu Akuisisi (UTC), Tingkat Kepercayaan (%), Satelit, Kecamatan, Kabupaten, Provinsi
+0.800501,102.159546,2015-09-01,03:05:00,37,terra,Siak Sri Indrapura , Siak , Riau 
+0.12696,101.875748,2015-09-01,03:05:00,45,terra,Langgam , Pelalawan , Riau 
+0.128071,101.868362,2015-09-01,03:05:00,32,terra,Langgam , Pelalawan , Riau 
+-0.090608,101.599144,2015-09-01,03:05:00,89,terra,Langgam , Pelalawan , Riau 
+-0.147108,101.562462,2015-09-01,03:05:00,49,terra,Langgam , Pelalawan , Riau 
+-0.103556,101.591278,2015-09-01,03:05:00,54,terra,Langgam , Pelalawan , Riau 
+-0.14476,101.55703,2015-09-01,03:05:00,38,terra,Langgam , Pelalawan , Riau 
+-0.184883,101.722481,2015-09-01,03:05:00,70,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.408489,102.704155,2015-09-01,03:05:00,86,terra,Tempuling , Indragiri Hilir , Riau 
+-0.41191,102.726913,2015-09-01,03:05:00,38,terra,Tempuling , Indragiri Hilir , Riau 
+-0.849973,102.931404,2015-09-01,03:05:00,49,terra,Keritang , Indragiri Hilir , Riau 
+-0.878469,102.87735,2015-09-01,03:05:00,47,terra,Keritang , Indragiri Hilir , Riau 
+-0.833329,102.100243,2015-09-01,03:05:00,59,terra,Seberida , Indragiri Hulu , Riau 
+-0.835394,102.09272,2015-09-01,03:05:00,65,terra,Seberida , Indragiri Hulu , Riau 
+-0.965695,101.859543,2015-09-01,03:05:00,42,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.957877,102.579,2015-09-01,06:34:00,79,snpp,Seberida , Indragiri Hulu , Riau 
+-0.902127,102.722,2015-09-01,06:34:00,100,snpp,Keritang , Indragiri Hilir , Riau 
+-0.937376,102.225,2015-09-01,06:34:00,65,snpp,Seberida , Indragiri Hulu , Riau 
+-0.870038,102.58,2015-09-01,06:34:00,88,snpp,Seberida , Indragiri Hulu , Riau 
+-0.918402,102.259,2015-09-01,06:34:00,92,snpp,Seberida , Indragiri Hulu , Riau 
+-0.849903,102.577,2015-09-01,06:34:00,64,snpp,Seberida , Indragiri Hulu , Riau 
+-0.850972,102.57,2015-09-01,06:34:00,72,snpp,Seberida , Indragiri Hulu , Riau 
+-0.956038,101.871,2015-09-01,06:34:00,100,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.957151,101.863,2015-09-01,06:34:00,100,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.950297,101.862,2015-09-01,06:34:00,100,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.951402,101.855,2015-09-01,06:34:00,100,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.790338,102.791,2015-09-01,06:34:00,72,snpp,Keritang , Indragiri Hilir , Riau 
+-0.875347,102.224,2015-09-01,06:34:00,100,snpp,Seberida , Indragiri Hulu , Riau 
+-0.876433,102.216,2015-09-01,06:34:00,100,snpp,Seberida , Indragiri Hulu , Riau 
+-0.893718,102.101,2015-09-01,06:34:00,65,snpp,Seberida , Indragiri Hulu , Riau 
+1,100.62989,2015-09-01,18:23:00,100,aqua,Kepenuhan , Rokan Hulu , Riau 
+1.0752,100.650185,2015-09-01,18:23:00,92,aqua,Kepenuhan , Rokan Hulu , Riau 
+0.449977,101.354507,2015-09-01,18:23:00,77,aqua,Tambang , Kampar , Riau 
+0.452669,101.247147,2015-09-01,18:23:00,11,aqua,Tapung , Kampar , Riau 
+0.43774,101.352737,2015-09-01,18:23:00,79,aqua,Tambang , Kampar , Riau 
+0.447856,101.34742,2015-09-01,18:23:00,67,aqua,Tambang , Kampar , Riau 
+0.451338,101.240143,2015-09-01,18:23:00,44,aqua,Tapung , Kampar , Riau 
+0.443424,101.293259,2015-09-01,18:23:00,49,aqua,Tambang , Kampar , Riau 
+0.435617,101.345665,2015-09-01,18:23:00,83,aqua,Tambang , Kampar , Riau 
+0.263458,102.267998,2015-09-01,18:23:00,50,aqua,Bunut , Pelalawan , Riau 
+0.231563,102.24839,2015-09-01,18:23:00,84,aqua,Bunut , Pelalawan , Riau 
+0.232316,102.242783,2015-09-01,18:23:00,53,aqua,Bunut , Pelalawan , Riau 
+0.230095,102.257507,2015-09-01,18:23:00,73,aqua,Bunut , Pelalawan , Riau 
+0.203037,102.283684,2015-09-01,18:23:00,75,aqua,Bunut , Pelalawan , Riau 
+0.264215,101.792542,2015-09-01,18:23:00,93,aqua,Langgam , Pelalawan , Riau 
+0.191729,102.282066,2015-09-01,18:23:00,68,aqua,Bunut , Pelalawan , Riau 
+0.193985,101.863564,2015-09-01,18:23:00,98,aqua,Langgam , Pelalawan , Riau 
+0.199706,101.857323,2015-09-01,18:23:00,54,aqua,Langgam , Pelalawan , Riau 
+0.197329,101.873039,2015-09-01,18:23:00,94,aqua,Pangkalan Kuras , Pelalawan , Riau 
+0.150604,101.866364,2015-09-01,18:23:00,100,aqua,Langgam , Pelalawan , Riau 
+0.108784,101.908287,2015-09-01,18:23:00,56,aqua,Langgam , Pelalawan , Riau 
+0.087733,101.889366,2015-09-01,18:23:00,56,aqua,Pangkalan Kuras , Pelalawan , Riau 
+0.090927,101.884201,2015-09-01,18:23:00,66,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.054453,102.396324,2015-09-01,18:23:00,100,aqua,Kuala Kampar , Pelalawan , Riau 
+-0.10482,102.589264,2015-09-01,18:23:00,71,aqua,Rengat , Indragiri Hulur , Riau 
+-0.106786,102.603004,2015-09-01,18:23:00,78,aqua,Rengat , Indragiri Hulur , Riau 
+-0.107024,102.596153,2015-09-01,18:23:00,97,aqua,Rengat , Indragiri Hulur , Riau 
+-0.022779,101.464676,2015-09-01,18:23:00,93,aqua,Kampar Kiri Hilir , Kampar , Riau 
+-0.01656,101.460281,2015-09-01,18:23:00,76,aqua,Kampar Kiri Hilir , Kampar , Riau 
+-0.019077,101.476883,2015-09-01,18:23:00,45,aqua,Kampar Kiri Hilir , Kampar , Riau 
+-0.251849,102.413521,2015-09-01,18:23:00,53,aqua,Rengat , Indragiri Hulur , Riau 
+-0.25308,102.42083,2015-09-01,18:23:00,66,aqua,Rengat , Indragiri Hulur , Riau 
+-0.300924,102.513725,2015-09-01,18:23:00,41,aqua,Rengat , Indragiri Hulur , Riau 
+-0.302976,102.527512,2015-09-01,18:23:00,100,aqua,Rengat , Indragiri Hulur , Riau 
+-0.305019,102.541237,2015-09-01,18:23:00,59,aqua,Rengat , Indragiri Hulur , Riau 
+-0.195934,101.727806,2015-09-01,18:23:00,90,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.221559,101.820641,2015-09-01,18:23:00,53,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.22386,101.836304,2015-09-01,18:23:00,33,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.394381,102.694839,2015-09-01,18:23:00,100,aqua,Tempuling , Indragiri Hilir , Riau 
+-0.396304,102.708229,2015-09-01,18:23:00,67,aqua,Tempuling , Indragiri Hilir , Riau 
+-0.411524,102.814178,2015-09-01,18:23:00,31,aqua,Tempuling , Indragiri Hilir , Riau 
+-0.388764,102.703606,2015-09-01,18:23:00,56,aqua,Tempuling , Indragiri Hilir , Riau 
+-0.397586,102.688644,2015-09-01,18:23:00,79,aqua,Rengat , Indragiri Hulur , Riau 
+-0.399601,102.702026,2015-09-01,18:23:00,84,aqua,Tempuling , Indragiri Hilir , Riau 
+-0.438006,102.586182,2015-09-01,18:23:00,39,aqua,Rengat , Indragiri Hulur , Riau 
+-0.439989,102.599739,2015-09-01,18:23:00,100,aqua,Rengat , Indragiri Hulur , Riau 
+-0.573662,102.636993,2015-09-01,18:23:00,90,aqua,Seberida , Indragiri Hulu , Riau 
+-0.575683,102.650398,2015-09-01,18:23:00,19,aqua,Seberida , Indragiri Hulu , Riau 
+-0.582512,102.621994,2015-09-01,18:23:00,41,aqua,Seberida , Indragiri Hulu , Riau 
+-0.584524,102.635422,2015-09-01,18:23:00,100,aqua,Seberida , Indragiri Hulu , Riau 
+-0.638839,102.627586,2015-09-01,18:23:00,38,aqua,Seberida , Indragiri Hulu , Riau 
+-0.705234,102.760269,2015-09-01,18:23:00,38,aqua,Keritang , Indragiri Hilir , Riau 
+-0.578555,101.291374,2015-09-01,18:23:00,56,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.895926,102.878876,2015-09-01,18:23:00,78,aqua,Keritang , Indragiri Hilir , Riau 
+-0.897843,102.89164,2015-09-01,18:23:00,90,aqua,Keritang , Indragiri Hilir , Riau 
+-0.885361,102.735596,2015-09-01,18:23:00,100,aqua,Keritang , Indragiri Hilir , Riau 
+-0.755378,101.54435,2015-09-01,18:23:00,100,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.863736,102.209129,2015-09-01,18:23:00,65,aqua,Seberida , Indragiri Hulu , Riau 
+-0.865873,102.223892,2015-09-01,18:23:00,63,aqua,Seberida , Indragiri Hulu , Riau 
+-0.762775,101.537796,2015-09-01,18:23:00,100,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.765235,101.553894,2015-09-01,18:23:00,51,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.866545,102.21788,2015-09-01,18:23:00,90,aqua,Seberida , Indragiri Hulu , Riau 
+-0.903848,102.886116,2015-09-01,15:25:00,72,terra,Keritang , Indragiri Hilir , Riau 
+-0.905228,102.876343,2015-09-01,15:25:00,71,terra,Keritang , Indragiri Hilir , Riau 
+-0.894489,102.884766,2015-09-01,15:25:00,75,terra,Keritang , Indragiri Hilir , Riau 
+-0.895867,102.874977,2015-09-01,15:25:00,81,terra,Keritang , Indragiri Hilir , Riau 
+-0.872121,102.865776,2015-09-01,15:25:00,71,terra,Keritang , Indragiri Hilir , Riau 
+-0.890503,102.738007,2015-09-01,15:25:00,33,terra,Keritang , Indragiri Hilir , Riau 
+-0.891923,102.728142,2015-09-01,15:25:00,94,terra,Keritang , Indragiri Hilir , Riau 
+-0.955824,101.864891,2015-09-01,15:25:00,32,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.947465,101.852455,2015-09-01,15:25:00,81,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.781914,102.786369,2015-09-01,15:25:00,57,terra,Keritang , Indragiri Hilir , Riau 
+-0.783327,102.776527,2015-09-01,15:25:00,87,terra,Keritang , Indragiri Hilir , Riau 
+-0.865031,102.207771,2015-09-01,15:25:00,80,terra,Seberida , Indragiri Hulu , Riau 
+-0.869833,102.035515,2015-09-01,15:25:00,41,terra,Seberida , Indragiri Hulu , Riau 
+-0.877599,101.981094,2015-09-01,15:25:00,73,terra,Peranap , Indragiri Hulu , Riau 
+-0.712829,102.760635,2015-09-01,15:25:00,100,terra,Keritang , Indragiri Hilir , Riau 
+-0.767188,101.970497,2015-09-01,15:25:00,37,terra,Peranap , Indragiri Hulu , Riau 
+-0.781028,101.872665,2015-09-01,15:25:00,42,terra,Peranap , Indragiri Hulu , Riau 
+-0.785696,101.839661,2015-09-01,15:25:00,72,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.790404,101.806374,2015-09-01,15:25:00,83,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.791969,101.795311,2015-09-01,15:25:00,49,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.77271,101.860207,2015-09-01,15:25:00,75,terra,Peranap , Indragiri Hulu , Riau 
+-0.64497,102.629524,2015-09-01,15:25:00,70,terra,Seberida , Indragiri Hulu , Riau 
+-0.64637,102.619545,2015-09-01,15:25:00,100,terra,Seberida , Indragiri Hulu , Riau 
+-0.766399,101.544502,2015-09-01,15:25:00,83,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.768051,101.533005,2015-09-01,15:25:00,100,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.756348,101.54287,2015-09-01,15:25:00,71,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.757963,101.531555,2015-09-01,15:25:00,100,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.590673,102.635651,2015-09-01,15:25:00,88,terra,Seberida , Indragiri Hulu , Riau 
+-0.592088,102.625702,2015-09-01,15:25:00,55,terra,Seberida , Indragiri Hulu , Riau 
+-0.579823,102.644249,2015-09-01,15:25:00,56,terra,Seberida , Indragiri Hulu , Riau 
+-0.581232,102.6343,2015-09-01,15:25:00,100,terra,Seberida , Indragiri Hulu , Riau 
+-0.582644,102.624344,2015-09-01,15:25:00,100,terra,Seberida , Indragiri Hulu , Riau 
+-0.553969,102.691139,2015-09-01,15:25:00,40,terra,Rengat , Indragiri Hulur , Riau 
+-0.467833,102.581772,2015-09-01,15:25:00,37,terra,Rengat , Indragiri Hulur , Riau 
+-0.420047,102.810051,2015-09-01,15:25:00,54,terra,Tempuling , Indragiri Hilir , Riau 
+-0.45129,102.593353,2015-09-01,15:25:00,28,terra,Rengat , Indragiri Hulur , Riau 
+-0.410702,102.808708,2015-09-01,15:25:00,78,terra,Tempuling , Indragiri Hilir , Riau 
+-0.44042,102.601913,2015-09-01,15:25:00,49,terra,Rengat , Indragiri Hulur , Riau 
+-0.441851,102.591965,2015-09-01,15:25:00,100,terra,Rengat , Indragiri Hulur , Riau 
+-0.405988,102.708122,2015-09-01,15:25:00,94,terra,Tempuling , Indragiri Hilir , Riau 
+-0.407394,102.698273,2015-09-01,15:25:00,55,terra,Tempuling , Indragiri Hilir , Riau 
+-0.393799,102.726456,2015-09-01,15:25:00,100,terra,Tempuling , Indragiri Hilir , Riau 
+-0.396597,102.706787,2015-09-01,15:25:00,35,terra,Tempuling , Indragiri Hilir , Riau 
+-0.397999,102.696938,2015-09-01,15:25:00,100,terra,Tempuling , Indragiri Hilir , Riau 
+-0.399403,102.687073,2015-09-01,15:25:00,100,terra,Rengat , Indragiri Hulur , Riau 
+-0.419201,102.547966,2015-09-01,15:25:00,44,terra,Rengat , Indragiri Hulur , Riau 
+-0.588969,101.28183,2015-09-01,15:25:00,73,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.578742,101.280312,2015-09-01,15:25:00,61,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.311029,102.526649,2015-09-01,15:25:00,100,terra,Rengat , Indragiri Hulur , Riau 
+-0.312445,102.51664,2015-09-01,15:25:00,98,terra,Rengat , Indragiri Hulur , Riau 
+-0.301563,102.525314,2015-09-01,15:25:00,100,terra,Rengat , Indragiri Hulur , Riau 
+-0.302973,102.515305,2015-09-01,15:25:00,100,terra,Rengat , Indragiri Hulur , Riau 
+-0.284994,102.403587,2015-09-01,15:25:00,47,terra,Rengat , Indragiri Hulur , Riau 
+-0.253556,102.419731,2015-09-01,15:25:00,25,terra,Rengat , Indragiri Hulur , Riau 
+-0.254996,102.409622,2015-09-01,15:25:00,100,terra,Rengat , Indragiri Hulur , Riau 
+-0.378287,101.251488,2015-09-01,15:25:00,27,terra,Singingi , Kuantan Singingi , Riau 
+-0.24374,101.913628,2015-09-01,15:25:00,100,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.274879,101.696175,2015-09-01,15:25:00,67,terra,Kuatan Hilir , Kuantan Singingi , Riau 
+-0.225697,101.900146,2015-09-01,15:25:00,69,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.22722,101.889427,2015-09-01,15:25:00,43,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.116988,102.598206,2015-09-01,15:25:00,41,terra,Rengat , Indragiri Hulur , Riau 
+-0.118389,102.58831,2015-09-01,15:25:00,37,terra,Rengat , Indragiri Hulur , Riau 
+-0.226577,101.82328,2015-09-01,15:25:00,59,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.107579,102.596848,2015-09-01,15:25:00,85,terra,Rengat , Indragiri Hulur , Riau 
+-0.108975,102.586952,2015-09-01,15:25:00,100,terra,Rengat , Indragiri Hulur , Riau 
+-0.213702,101.843506,2015-09-01,15:25:00,51,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.215224,101.832687,2015-09-01,15:25:00,34,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.216751,101.821831,2015-09-01,15:25:00,91,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.200868,101.863632,2015-09-01,15:25:00,98,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.12258,102.38871,2015-09-01,15:25:00,73,terra,Kuala Kampar , Pelalawan , Riau 
+-0.124049,102.378593,2015-09-01,15:25:00,53,terra,Kuala Kampar , Pelalawan , Riau 
+-0.198337,101.867905,2015-09-01,15:25:00,46,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.199902,101.85717,2015-09-01,15:25:00,33,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.199153,101.723892,2015-09-01,15:25:00,89,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.200745,101.712891,2015-09-01,15:25:00,71,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.062676,102.40065,2015-09-01,15:25:00,62,terra,Kuala Kampar , Pelalawan , Riau 
+-0.064112,102.390541,2015-09-01,15:25:00,72,terra,Kuala Kampar , Pelalawan , Riau 
+-0.053179,102.399284,2015-09-01,15:25:00,92,terra,Kuala Kampar , Pelalawan , Riau 
+-0.054607,102.389198,2015-09-01,15:25:00,100,terra,Kuala Kampar , Pelalawan , Riau 
+-0.126199,101.662636,2015-09-01,15:25:00,83,terra,Langgam , Pelalawan , Riau 
+-0.127802,101.651619,2015-09-01,15:25:00,100,terra,Langgam , Pelalawan , Riau 
+-0.140747,101.562599,2015-09-01,15:25:00,6,terra,Langgam , Pelalawan , Riau 
+-0.142376,101.551399,2015-09-01,15:25:00,24,terra,Kuatan Hilir , Kuantan Singingi , Riau 
+-0.113097,101.68325,2015-09-01,15:25:00,47,terra,Langgam , Pelalawan , Riau 
+-0.102822,101.613998,2015-09-01,15:25:00,14,terra,Langgam , Pelalawan , Riau 
+-0.115647,101.524582,2015-09-01,15:25:00,78,terra,Kuatan Hilir , Kuantan Singingi , Riau 
+-0.092883,101.612549,2015-09-01,15:25:00,88,terra,Langgam , Pelalawan , Riau 
+-0.094471,101.601425,2015-09-01,15:25:00,78,terra,Langgam , Pelalawan , Riau 
+-0.096071,101.590218,2015-09-01,15:25:00,11,terra,Langgam , Pelalawan , Riau 
+-0.035135,101.947571,2015-09-01,15:25:00,67,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.023897,101.956795,2015-09-01,15:25:00,92,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.030739,101.837776,2015-09-01,15:25:00,37,terra,Pangkalan Kuras , Pelalawan , Riau 
+0.034665,101.93119,2015-09-01,15:25:00,84,terra,Pangkalan Kuras , Pelalawan , Riau 
+0.033133,101.920509,2015-09-01,15:25:00,64,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.031302,101.471329,2015-09-01,15:25:00,14,terra,Kampar Kiri Hilir , Kampar , Riau 
+-0.032925,101.460022,2015-09-01,15:25:00,56,terra,Kampar Kiri Hilir , Kampar , Riau 
+-0.021279,101.469879,2015-09-01,15:25:00,30,terra,Kampar Kiri Hilir , Kampar , Riau 
+-0.022889,101.458603,2015-09-01,15:25:00,100,terra,Kampar Kiri Hilir , Kampar , Riau 
+-0.024503,101.447304,2015-09-01,15:25:00,31,terra,Kampar Kiri Hilir , Kampar , Riau 
+0.078848,101.892227,2015-09-01,15:25:00,14,terra,Pangkalan Kuras , Pelalawan , Riau 
+0.077352,101.881561,2015-09-01,15:25:00,39,terra,Pangkalan Kuras , Pelalawan , Riau 
+0.080274,101.886337,2015-09-01,15:25:00,98,terra,Pangkalan Kuras , Pelalawan , Riau 
+0.078719,101.875679,2015-09-01,15:25:00,31,terra,Pangkalan Kuras , Pelalawan , Riau 
+0.090026,101.884926,2015-09-01,15:25:00,31,terra,Pangkalan Kuras , Pelalawan , Riau 
+0.088476,101.87426,2015-09-01,15:25:00,53,terra,Langgam , Pelalawan , Riau 
+0.102856,101.9048,2015-09-01,15:25:00,69,terra,Pangkalan Kuras , Pelalawan , Riau 
+0.112597,101.903404,2015-09-01,15:25:00,90,terra,Langgam , Pelalawan , Riau 
+0.195043,102.273392,2015-09-01,15:25:00,100,terra,Bunut , Pelalawan , Riau 
+0.135737,101.856476,2015-09-01,15:25:00,45,terra,Langgam , Pelalawan , Riau 
+0.147021,101.865791,2015-09-01,15:25:00,100,terra,Langgam , Pelalawan , Riau 
+0.145503,101.855072,2015-09-01,15:25:00,100,terra,Langgam , Pelalawan , Riau 
+0.143996,101.844429,2015-09-01,15:25:00,62,terra,Langgam , Pelalawan , Riau 
+0.225681,102.252266,2015-09-01,15:25:00,97,terra,Bunut , Pelalawan , Riau 
+0.224201,102.242088,2015-09-01,15:25:00,76,terra,Bunut , Pelalawan , Riau 
+0.235217,102.250885,2015-09-01,15:25:00,70,terra,Bunut , Pelalawan , Riau 
+0.233742,102.240707,2015-09-01,15:25:00,97,terra,Bunut , Pelalawan , Riau 
+0.189046,101.864197,2015-09-01,15:25:00,100,terra,Langgam , Pelalawan , Riau 
+0.187499,101.853508,2015-09-01,15:25:00,64,terra,Langgam , Pelalawan , Riau 
+0.257216,102.268463,2015-09-01,15:25:00,100,terra,Bunut , Pelalawan , Riau 
+0.1988,101.862801,2015-09-01,15:25:00,90,terra,Langgam , Pelalawan , Riau 
+0.197263,101.852135,2015-09-01,15:25:00,63,terra,Langgam , Pelalawan , Riau 
+0.260706,101.793518,2015-09-01,15:25:00,97,terra,Langgam , Pelalawan , Riau 
+0.259142,101.782761,2015-09-01,15:25:00,100,terra,Langgam , Pelalawan , Riau 
+0.416549,101.318558,2015-09-01,15:25:00,38,terra,Tambang , Kampar , Riau 
+0.431474,101.351204,2015-09-01,15:25:00,64,terra,Tambang , Kampar , Riau 
+0.429855,101.339851,2015-09-01,15:25:00,100,terra,Tambang , Kampar , Riau 
+0.441513,101.349754,2015-09-01,15:25:00,87,terra,Tambang , Kampar , Riau 
+0.439902,101.338402,2015-09-01,15:25:00,33,terra,Tambang , Kampar , Riau 
+0.431802,101.281319,2015-09-01,15:25:00,100,terra,Tambang , Kampar , Riau 
+0.430173,101.269844,2015-09-01,15:25:00,8,terra,Tambang , Kampar , Riau 
+0.451552,101.348312,2015-09-01,15:25:00,85,terra,Tambang , Kampar , Riau 
+0.449949,101.336952,2015-09-01,15:25:00,72,terra,Tambang , Kampar , Riau 
+0.441891,101.279884,2015-09-01,15:25:00,100,terra,Tambang , Kampar , Riau 
+0.447128,101.243912,2015-09-01,15:25:00,35,terra,Tambang , Kampar , Riau 
+0.44551,101.232399,2015-09-01,15:25:00,89,terra,Tambang , Kampar , Riau 
+0.445351,101.237724,2015-09-01,15:25:00,91,terra,Tambang , Kampar , Riau 
+0.45546,101.236259,2015-09-01,15:25:00,58,terra,Tapung , Kampar , Riau 
+0.477234,101.314957,2015-09-01,15:25:00,46,terra,Tapung , Kampar , Riau 
+0.661355,102.112907,2015-09-01,15:25:00,43,terra,Siak Sri Indrapura , Siak , Riau 
+0.659909,102.102638,2015-09-01,15:25:00,82,terra,Siak Sri Indrapura , Siak , Riau 
+0.664522,102.106735,2015-09-01,15:25:00,52,terra,Siak Sri Indrapura , Siak , Riau 
+0.672601,102.095139,2015-09-01,15:25:00,51,terra,Siak Sri Indrapura , Siak , Riau 
+0.719612,101.221169,2015-09-01,15:25:00,66,terra,Tapung Hilir , Kampar , Riau 
+0.800398,101.777199,2015-09-01,15:25:00,41,terra,Siak Sri Indrapura , Siak , Riau 
+0.871152,101.563171,2015-09-01,15:25:00,42,terra,Siak , Siak , Riau 
+0.973731,101.49807,2015-09-01,15:25:00,32,terra,Pinggir , Bengkalis , Riau 
+0.975662,101.44165,2015-09-01,15:25:00,90,terra,Siak , Siak , Riau 
+0.974067,101.430603,2015-09-01,15:25:00,88,terra,Siak , Siak , Riau 
+1.014231,101.0718,2015-09-01,15:25:00,55,terra,Pinggir , Bengkalis , Riau 
+1.075751,100.641815,2015-09-01,15:25:00,93,terra,Kepenuhan , Rokan Hulu , Riau 
+1.073989,100.629471,2015-09-01,15:25:00,100,terra,Kepenuhan , Rokan Hulu , Riau 
+1.07222,100.617073,2015-09-01,15:25:00,100,terra,Kepenuhan , Rokan Hulu , Riau 
+1.168845,101.013626,2015-09-01,15:25:00,42,terra,Mandau , Bengkalis , Riau 
+1.228885,100.867043,2015-09-01,15:25:00,41,terra,Kunto Darussalam , Rokan Hulu , Riau 
+1.351906,101.430107,2015-09-01,15:25:00,98,terra,Mandau , Bengkalis , Riau 
+1.439137,101.466606,2015-09-01,15:25:00,41,terra,Mandau , Bengkalis , Riau 
+1.348818,100.843338,2015-09-01,15:25:00,66,terra,Tanah Putih , Rokan Hilir , Riau 
+1.32259,100.66275,2015-09-01,15:25:00,71,terra,Tanah Putih , Rokan Hilir , Riau 
+1.583519,101.333076,2015-09-01,15:25:00,54,terra,Dumai Timur , Kota Dumai , Riau 
+1.752135,101.653915,2015-09-01,15:25:00,73,terra,Rupat , Bengkalis , Riau 
+1.699385,101.287979,2015-09-01,15:25:00,49,terra,Dumai Barat , Kota Dumai , Riau 
+1.707701,101.275497,2015-09-01,15:25:00,28,terra,Dumai Barat , Kota Dumai , Riau 
+-1.000192,102.705109,2015-09-02,06:43:00,70,aqua,Keritang , Indragiri Hilir , Riau 
+-0.909849,102.882133,2015-09-02,06:43:00,47,aqua,Keritang , Indragiri Hilir , Riau 
+-0.90075,102.880829,2015-09-02,06:43:00,99,aqua,Keritang , Indragiri Hilir , Riau 
+-0.90207,102.871613,2015-09-02,06:43:00,64,aqua,Keritang , Indragiri Hilir , Riau 
+-0.874782,102.867691,2015-09-02,06:43:00,70,aqua,Keritang , Indragiri Hilir , Riau 
+-0.876107,102.85849,2015-09-02,06:43:00,95,aqua,Keritang , Indragiri Hilir , Riau 
+-0.857685,102.921761,2015-09-02,06:43:00,17,aqua,Keritang , Indragiri Hilir , Riau 
+-0.849682,102.924194,2015-09-02,06:43:00,35,aqua,Keritang , Indragiri Hilir , Riau 
+-0.823657,102.911018,2015-09-02,06:43:00,37,aqua,Keritang , Indragiri Hilir , Riau 
+-0.824977,102.901764,2015-09-02,06:43:00,85,aqua,Keritang , Indragiri Hilir , Riau 
+-0.826295,102.892525,2015-09-02,06:43:00,41,aqua,Keritang , Indragiri Hilir , Riau 
+-0.922086,102.22123,2015-09-02,06:43:00,53,aqua,Seberida , Indragiri Hulu , Riau 
+-0.825211,102.770317,2015-09-02,06:43:00,81,aqua,Keritang , Indragiri Hilir , Riau 
+-0.955096,101.86216,2015-09-02,06:43:00,91,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.956366,101.853271,2015-09-02,06:43:00,74,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.946152,101.860878,2015-09-02,06:43:00,94,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.947422,101.851982,2015-09-02,06:43:00,96,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.803108,102.795219,2015-09-02,06:43:00,89,aqua,Keritang , Indragiri Hilir , Riau 
+-0.794025,102.793922,2015-09-02,06:43:00,83,aqua,Keritang , Indragiri Hilir , Riau 
+-0.923177,101.893883,2015-09-02,06:43:00,90,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.786268,102.783432,2015-09-02,06:43:00,57,aqua,Keritang , Indragiri Hilir , Riau 
+-0.869546,102.204575,2015-09-02,06:43:00,69,aqua,Seberida , Indragiri Hulu , Riau 
+-0.778037,102.775772,2015-09-02,06:43:00,64,aqua,Keritang , Indragiri Hilir , Riau 
+-0.845037,102.304253,2015-09-02,06:43:00,75,aqua,Seberida , Indragiri Hulu , Riau 
+-0.859068,102.205704,2015-09-02,06:43:00,38,aqua,Seberida , Indragiri Hulu , Riau 
+-0.886987,101.945747,2015-09-02,06:43:00,46,aqua,Peranap , Indragiri Hulu , Riau 
+-0.853876,102.11377,2015-09-02,06:43:00,70,aqua,Seberida , Indragiri Hulu , Riau 
+-0.886928,101.88221,2015-09-02,06:43:00,65,aqua,Peranap , Indragiri Hulu , Riau 
+-0.842365,102.130348,2015-09-02,06:43:00,42,aqua,Seberida , Indragiri Hulu , Riau 
+-0.870362,101.934288,2015-09-02,06:43:00,29,aqua,Peranap , Indragiri Hulu , Riau 
+-0.881793,101.854256,2015-09-02,06:43:00,86,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.883063,101.84536,2015-09-02,06:43:00,87,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.741723,102.770546,2015-09-02,06:43:00,41,aqua,Keritang , Indragiri Hilir , Riau 
+-0.84233,102.066582,2015-09-02,06:43:00,61,aqua,Seberida , Indragiri Hulu , Riau 
+-0.833374,102.065292,2015-09-02,06:43:00,54,aqua,Seberida , Indragiri Hulu , Riau 
+-0.820588,102.090775,2015-09-02,06:43:00,88,aqua,Seberida , Indragiri Hulu , Riau 
+-0.821864,102.081856,2015-09-02,06:43:00,99,aqua,Seberida , Indragiri Hulu , Riau 
+-0.82314,102.072937,2015-09-02,06:43:00,87,aqua,Seberida , Indragiri Hulu , Riau 
+-0.826968,102.046181,2015-09-02,06:43:00,94,aqua,Seberida , Indragiri Hulu , Riau 
+-0.828244,102.037262,2015-09-02,06:43:00,87,aqua,Seberida , Indragiri Hulu , Riau 
+-0.846062,101.912643,2015-09-02,06:43:00,35,aqua,Peranap , Indragiri Hulu , Riau 
+-0.714486,102.76664,2015-09-02,06:43:00,70,aqua,Keritang , Indragiri Hilir , Riau 
+-0.715804,102.757462,2015-09-02,06:43:00,86,aqua,Keritang , Indragiri Hilir , Riau 
+-0.717122,102.748299,2015-09-02,06:43:00,80,aqua,Keritang , Indragiri Hilir , Riau 
+-0.814182,102.071655,2015-09-02,06:43:00,63,aqua,Seberida , Indragiri Hulu , Riau 
+-0.818013,102.044891,2015-09-02,06:43:00,88,aqua,Seberida , Indragiri Hulu , Riau 
+-0.839659,101.89357,2015-09-02,06:43:00,93,aqua,Peranap , Indragiri Hulu , Riau 
+-0.706728,102.756165,2015-09-02,06:43:00,25,aqua,Keritang , Indragiri Hilir , Riau 
+-0.831986,101.883392,2015-09-02,06:43:00,57,aqua,Peranap , Indragiri Hulu , Riau 
+-0.833256,101.874504,2015-09-02,06:43:00,58,aqua,Peranap , Indragiri Hulu , Riau 
+-0.794991,102.077995,2015-09-02,06:43:00,82,aqua,Seberida , Indragiri Hulu , Riau 
+-0.815404,101.935478,2015-09-02,06:43:00,55,aqua,Peranap , Indragiri Hulu , Riau 
+-0.82304,101.882111,2015-09-02,06:43:00,91,aqua,Peranap , Indragiri Hulu , Riau 
+-0.804556,101.882713,2015-09-02,06:43:00,18,aqua,Peranap , Indragiri Hulu , Riau 
+-0.805826,101.873817,2015-09-02,06:43:00,49,aqua,Peranap , Indragiri Hulu , Riau 
+-0.800689,101.845848,2015-09-02,06:43:00,57,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.803228,101.828064,2015-09-02,06:43:00,48,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.785395,101.889038,2015-09-02,06:43:00,84,aqua,Peranap , Indragiri Hulu , Riau 
+-0.794284,101.826782,2015-09-02,06:43:00,41,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.796824,101.808998,2015-09-02,06:43:00,92,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.798093,101.80011,2015-09-02,06:43:00,63,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.753554,102.048058,2015-09-02,06:43:00,95,aqua,Peranap , Indragiri Hulu , Riau 
+-0.754828,102.039139,2015-09-02,06:43:00,100,aqua,Peranap , Indragiri Hulu , Riau 
+-0.763736,101.976768,2015-09-02,06:43:00,79,aqua,Peranap , Indragiri Hulu , Riau 
+-0.765008,101.967865,2015-09-02,06:43:00,56,aqua,Peranap , Indragiri Hulu , Riau 
+-0.776448,101.887756,2015-09-02,06:43:00,70,aqua,Peranap , Indragiri Hulu , Riau 
+-0.655721,102.668236,2015-09-02,06:43:00,73,aqua,Keritang , Indragiri Hilir , Riau 
+-0.704953,102.324097,2015-09-02,06:43:00,76,aqua,Seberida , Indragiri Hulu , Riau 
+-0.790364,101.726425,2015-09-02,06:43:00,56,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.791633,101.717537,2015-09-02,06:43:00,44,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.779974,101.543495,2015-09-02,06:43:00,65,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.761616,101.534439,2015-09-02,06:43:00,79,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.595543,102.634537,2015-09-02,06:43:00,77,aqua,Seberida , Indragiri Hulu , Riau 
+-0.603329,102.579865,2015-09-02,06:43:00,61,aqua,Seberida , Indragiri Hulu , Riau 
+-0.583885,102.651489,2015-09-02,06:43:00,74,aqua,Seberida , Indragiri Hulu , Riau 
+-0.585187,102.642357,2015-09-02,06:43:00,68,aqua,Seberida , Indragiri Hulu , Riau 
+-0.58649,102.633232,2015-09-02,06:43:00,100,aqua,Seberida , Indragiri Hulu , Riau 
+-0.672589,102.029922,2015-09-02,06:43:00,62,aqua,Peranap , Indragiri Hulu , Riau 
+-0.673861,102.021011,2015-09-02,06:43:00,70,aqua,Peranap , Indragiri Hulu , Riau 
+-0.557914,102.703758,2015-09-02,06:43:00,65,aqua,Rengat , Indragiri Hulur , Riau 
+-0.559225,102.694603,2015-09-02,06:43:00,87,aqua,Keritang , Indragiri Hilir , Riau 
+-0.560535,102.685448,2015-09-02,06:43:00,53,aqua,Keritang , Indragiri Hilir , Riau 
+-0.64447,102.09874,2015-09-02,06:43:00,76,aqua,Pasir Penyu , Indragiri Hulu , Riau 
+-0.474547,102.583458,2015-09-02,06:43:00,94,aqua,Rengat , Indragiri Hulur , Riau 
+-0.414379,102.808716,2015-09-02,06:43:00,39,aqua,Tempuling , Indragiri Hilir , Riau 
+-0.444776,102.597809,2015-09-02,06:43:00,92,aqua,Rengat , Indragiri Hulur , Riau 
+-0.44609,102.588692,2015-09-02,06:43:00,99,aqua,Rengat , Indragiri Hulur , Riau 
+-0.438869,102.571899,2015-09-02,06:43:00,36,aqua,Rengat , Indragiri Hulur , Riau 
+-0.410332,102.707756,2015-09-02,06:43:00,42,aqua,Tempuling , Indragiri Hilir , Riau 
+-0.397331,102.734001,2015-09-02,06:43:00,68,aqua,Tempuling , Indragiri Hilir , Riau 
+-0.402559,102.697266,2015-09-02,06:43:00,64,aqua,Tempuling , Indragiri Hilir , Riau 
+-0.403864,102.688103,2015-09-02,06:43:00,91,aqua,Rengat , Indragiri Hulur , Riau 
+-0.405169,102.678932,2015-09-02,06:43:00,28,aqua,Rengat , Indragiri Hulur , Riau 
+-0.586609,101.279099,2015-09-02,06:43:00,90,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.431181,102.302895,2015-09-02,06:43:00,93,aqua,Pasir Penyu , Indragiri Hulu , Riau 
+-0.422186,102.301598,2015-09-02,06:43:00,86,aqua,Pasir Penyu , Indragiri Hulu , Riau 
+-0.423475,102.292595,2015-09-02,06:43:00,72,aqua,Pasir Penyu , Indragiri Hulu , Riau 
+-0.316552,102.529808,2015-09-02,06:43:00,85,aqua,Rengat , Indragiri Hulur , Riau 
+-0.30751,102.528503,2015-09-02,06:43:00,97,aqua,Rengat , Indragiri Hulur , Riau 
+-0.308811,102.519402,2015-09-02,06:43:00,99,aqua,Rengat , Indragiri Hulur , Riau 
+-0.288296,102.405411,2015-09-02,06:43:00,79,aqua,Rengat , Indragiri Hulur , Riau 
+-0.348825,101.983627,2015-09-02,06:43:00,87,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.324211,102.019081,2015-09-02,06:43:00,57,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.325483,102.010155,2015-09-02,06:43:00,50,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.308745,101.871315,2015-09-02,06:43:00,80,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.292116,101.859856,2015-09-02,06:43:00,42,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.252512,102.008812,2015-09-02,06:43:00,66,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.146822,102.689232,2015-09-02,06:43:00,80,aqua,Rengat , Indragiri Hulur , Riau 
+-0.24814,101.911453,2015-09-02,06:43:00,69,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.25703,101.849083,2015-09-02,06:43:00,94,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.2583,101.840179,2015-09-02,06:43:00,70,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.260838,101.822372,2015-09-02,06:43:00,89,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.232776,101.891052,2015-09-02,06:43:00,91,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.237861,101.855423,2015-09-02,06:43:00,61,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.165016,102.301743,2015-09-02,06:43:00,40,aqua,Kuala Kampar , Pelalawan , Riau 
+-0.167588,102.283714,2015-09-02,06:43:00,78,aqua,Kuala Kampar , Pelalawan , Riau 
+-0.226367,101.871956,2015-09-02,06:43:00,31,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.228911,101.854134,2015-09-02,06:43:00,78,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.114484,102.590981,2015-09-02,06:43:00,83,aqua,Rengat , Indragiri Hulur , Riau 
+-0.115793,102.581825,2015-09-02,06:43:00,48,aqua,Rengat , Indragiri Hulur , Riau 
+-0.198303,102.004456,2015-09-02,06:43:00,56,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.199579,101.995529,2015-09-02,06:43:00,74,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.218689,101.861755,2015-09-02,06:43:00,86,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.219962,101.852852,2015-09-02,06:43:00,100,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.222506,101.835045,2015-09-02,06:43:00,61,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.223777,101.826141,2015-09-02,06:43:00,77,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.225047,101.817245,2015-09-02,06:43:00,84,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.189341,102.003174,2015-09-02,06:43:00,84,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.208465,101.869385,2015-09-02,06:43:00,67,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.209738,101.860474,2015-09-02,06:43:00,91,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.213512,101.770187,2015-09-02,06:43:00,52,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.19693,101.822304,2015-09-02,06:43:00,62,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.203295,101.777802,2015-09-02,06:43:00,84,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.193075,101.785416,2015-09-02,06:43:00,85,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.20198,101.72316,2015-09-02,06:43:00,75,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.203251,101.714264,2015-09-02,06:43:00,76,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.174676,101.712715,2015-09-02,06:43:00,77,aqua,Pangkalan Kuras , Pelalawan , Riau 
+0.090786,103.511803,2015-09-02,06:43:00,53,aqua,Enok , Indragiri Hilir , Riau 
+-0.170754,101.612381,2015-09-02,06:43:00,82,aqua,Langgam , Pelalawan , Riau 
+-0.149116,101.699966,2015-09-02,06:43:00,81,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.168159,101.566673,2015-09-02,06:43:00,65,aqua,Langgam , Pelalawan , Riau 
+-0.128689,101.715187,2015-09-02,06:43:00,33,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.136311,101.661858,2015-09-02,06:43:00,60,aqua,Langgam , Pelalawan , Riau 
+-0.137581,101.652969,2015-09-02,06:43:00,89,aqua,Langgam , Pelalawan , Riau 
+-0.138851,101.644081,2015-09-02,06:43:00,90,aqua,Langgam , Pelalawan , Riau 
+-0.150277,101.56411,2015-09-02,06:43:00,82,aqua,Langgam , Pelalawan , Riau 
+-0.151546,101.555222,2015-09-02,06:43:00,86,aqua,Kuatan Hilir , Kuantan Singingi , Riau 
+-0.152815,101.546341,2015-09-02,06:43:00,59,aqua,Kuatan Hilir , Kuantan Singingi , Riau 
+-0.126098,101.669456,2015-09-02,06:43:00,87,aqua,Langgam , Pelalawan , Riau 
+-0.127369,101.660568,2015-09-02,06:43:00,98,aqua,Langgam , Pelalawan , Riau 
+-0.12864,101.65168,2015-09-02,06:43:00,74,aqua,Langgam , Pelalawan , Riau 
+-0.141336,101.562828,2015-09-02,06:43:00,87,aqua,Langgam , Pelalawan , Riau 
+-0.142605,101.55394,2015-09-02,06:43:00,100,aqua,Langgam , Pelalawan , Riau 
+-0.115885,101.677063,2015-09-02,06:43:00,87,aqua,Langgam , Pelalawan , Riau 
+-0.063189,101.982033,2015-09-02,06:43:00,79,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.105072,101.688057,2015-09-02,06:43:00,74,aqua,Langgam , Pelalawan , Riau 
+-0.112564,101.507767,2015-09-02,06:43:00,41,aqua,Kuatan Hilir , Kuantan Singingi , Riau 
+-0.040117,101.951393,2015-09-02,06:43:00,86,aqua,Pangkalan Kuras , Pelalawan , Riau 
+0.181773,103.442863,2015-09-02,06:43:00,42,aqua,Mandah , Indragiri Hilir , Riau 
+-0.029882,101.95903,2015-09-02,06:43:00,94,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.031156,101.950104,2015-09-02,06:43:00,98,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.02092,101.957741,2015-09-02,06:43:00,72,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.037479,101.841812,2015-09-02,06:43:00,66,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.038751,101.832901,2015-09-02,06:43:00,86,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.029799,101.831619,2015-09-02,06:43:00,50,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.071721,101.538177,2015-09-02,06:43:00,83,aqua,Langgam , Pelalawan , Riau 
+-0.03103,101.759117,2015-09-02,06:43:00,71,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.05257,101.544495,2015-09-02,06:43:00,95,aqua,Langgam , Pelalawan , Riau 
+-0.053839,101.535614,2015-09-02,06:43:00,83,aqua,Langgam , Pelalawan , Riau 
+0.031829,101.934288,2015-09-02,06:43:00,99,aqua,Pangkalan Kuras , Pelalawan , Riau 
+0.030558,101.925369,2015-09-02,06:43:00,95,aqua,Pangkalan Kuras , Pelalawan , Riau 
+0.010085,101.078003,2015-09-02,06:43:00,54,aqua,Kampar Kiri , Kampar , Riau 
+0.008812,101.069099,2015-09-02,06:43:00,38,aqua,Kampar Kiri , Kampar , Riau 
+0.13988,101.85862,2015-09-02,06:43:00,86,aqua,Langgam , Pelalawan , Riau 
+0.080749,100.988258,2015-09-02,06:43:00,58,aqua,Kampar Kiri , Kampar , Riau 
+0.079459,100.979279,2015-09-02,06:43:00,64,aqua,Kampar Kiri , Kampar , Riau 
+0.43505,101.346931,2015-09-02,06:43:00,82,aqua,Tambang , Kampar , Riau 
+0.43378,101.338043,2015-09-02,06:43:00,29,aqua,Tambang , Kampar , Riau 
+1.183913,101.626076,2015-09-02,06:43:00,66,aqua,Pinggir , Bengkalis , Riau 
+1.070618,100.641647,2015-09-02,06:43:00,95,aqua,Kepenuhan , Rokan Hulu , Riau 
+1.069328,100.632645,2015-09-02,06:43:00,100,aqua,Kepenuhan , Rokan Hulu , Riau 
+1.078323,100.631348,2015-09-02,06:43:00,62,aqua,Kepenuhan , Rokan Hulu , Riau 
+1.344817,101.527191,2015-09-02,06:43:00,73,aqua,Mandau , Bengkalis , Riau 
+1.253254,100.75898,2015-09-02,06:43:00,41,aqua,Tanah Putih , Rokan Hilir , Riau 
+1.697242,101.28862,2015-09-02,06:43:00,82,aqua,Dumai Barat , Kota Dumai , Riau 
+1.818474,101.689804,2015-09-02,06:43:00,67,aqua,Rupat , Bengkalis , Riau 
+1.97726,101.311195,2015-09-02,06:43:00,68,aqua,Dumai Barat , Kota Dumai , Riau 
+2.051033,100.931969,2015-09-02,06:43:00,69,aqua,Bangko , Rokan Hilir , Riau 
+2.049761,100.923073,2015-09-02,06:43:00,56,aqua,Bangko , Rokan Hilir , Riau 
+2.128187,100.887138,2015-09-02,06:43:00,61,aqua,Bangko , Rokan Hilir , Riau 
+1.935274,101.502541,2015-09-02,03:51:00,26,terra,Rupat , Bengkalis , Riau 
+1.815331,101.691727,2015-09-02,03:51:00,57,terra,Rupat , Bengkalis , Riau 
+1.870389,101.190269,2015-09-02,03:51:00,56,terra,Dumai Barat , Kota Dumai , Riau 
+1.711949,101.272667,2015-09-02,03:51:00,56,terra,Dumai Barat , Kota Dumai , Riau 
+1.710534,101.282318,2015-09-02,03:51:00,61,terra,Dumai Barat , Kota Dumai , Riau 
+1.699807,101.290649,2015-09-02,03:51:00,77,terra,Dumai Barat , Kota Dumai , Riau 
+1.66586,100.95871,2015-09-02,03:51:00,57,terra,Bangko , Rokan Hilir , Riau 
+1.583201,101.327461,2015-09-02,03:51:00,51,terra,Dumai Timur , Kota Dumai , Riau 
+1.431761,101.469414,2015-09-02,03:51:00,69,terra,Mandau , Bengkalis , Riau 
+1.354741,101.432167,2015-09-02,03:51:00,49,terra,Mandau , Bengkalis , Riau 
+1.251912,100.75972,2015-09-02,03:51:00,69,terra,Tanah Putih , Rokan Hilir , Riau 
+1.078011,100.62764,2015-09-02,03:51:00,100,terra,Kepenuhan , Rokan Hulu , Riau 
+1.076626,100.636909,2015-09-02,03:51:00,96,terra,Kepenuhan , Rokan Hulu , Riau 
+1.075241,100.646179,2015-09-02,03:51:00,59,terra,Kepenuhan , Rokan Hulu , Riau 
+0.036531,101.495255,2015-09-02,03:51:00,55,terra,Kampar Kiri Hilir , Kampar , Riau 
+-0.025033,101.756157,2015-09-02,03:51:00,71,terra,Langgam , Pelalawan , Riau 
+-0.035869,101.830765,2015-09-02,03:51:00,65,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.037424,101.841469,2015-09-02,03:51:00,76,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.022435,101.469864,2015-09-02,03:51:00,19,terra,Kampar Kiri Hilir , Kampar , Riau 
+-0.044601,101.487579,2015-09-02,03:51:00,84,terra,Kampar Kiri Hilir , Kampar , Riau 
+-0.047647,101.508049,2015-09-02,03:51:00,29,terra,Kampar Kiri Hilir , Kampar , Riau 
+-0.05224,101.538902,2015-09-02,03:51:00,26,terra,Langgam , Pelalawan , Riau 
+-0.053786,101.549286,2015-09-02,03:51:00,73,terra,Langgam , Pelalawan , Riau 
+-0.069894,101.525856,2015-09-02,03:51:00,65,terra,Langgam , Pelalawan , Riau 
+-0.122988,101.660904,2015-09-02,03:51:00,70,terra,Langgam , Pelalawan , Riau 
+-0.111271,101.514084,2015-09-02,03:51:00,66,terra,Kuatan Hilir , Kuantan Singingi , Riau 
+-0.112783,101.524353,2015-09-02,03:51:00,50,terra,Kampar Kiri Hilir , Kampar , Riau 
+-0.117346,101.555382,2015-09-02,03:51:00,79,terra,Langgam , Pelalawan , Riau 
+-0.131124,101.649055,2015-09-02,03:51:00,22,terra,Langgam , Pelalawan , Riau 
+-0.132667,101.659546,2015-09-02,03:51:00,58,terra,Langgam , Pelalawan , Riau 
+-0.183122,102.002823,2015-09-02,03:51:00,60,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.19301,102.001434,2015-09-02,03:51:00,67,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.147737,101.561607,2015-09-02,03:51:00,68,terra,Langgam , Pelalawan , Riau 
+-0.182162,101.792931,2015-09-02,03:51:00,72,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.191913,101.791504,2015-09-02,03:51:00,67,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.211319,101.854416,2015-09-02,03:51:00,88,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.212937,101.865189,2015-09-02,03:51:00,47,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.213817,101.858513,2015-09-02,03:51:00,82,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.203457,101.718132,2015-09-02,03:51:00,60,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.21893,101.824776,2015-09-02,03:51:00,87,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.269436,101.828568,2015-09-02,03:51:00,74,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.271032,101.839348,2015-09-02,03:51:00,67,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.305289,101.867622,2015-09-02,03:51:00,73,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.306905,101.878387,2015-09-02,03:51:00,76,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.307871,101.872444,2015-09-02,03:51:00,80,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.344983,101.989708,2015-09-02,03:51:00,35,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.442062,102.585968,2015-09-02,03:51:00,82,terra,Rengat , Indragiri Hulur , Riau 
+-0.443818,102.598022,2015-09-02,03:51:00,84,terra,Rengat , Indragiri Hulur , Riau 
+-0.455898,102.608536,2015-09-02,03:51:00,43,terra,Rengat , Indragiri Hulur , Riau 
+-0.474785,102.593575,2015-09-02,03:51:00,58,terra,Rengat , Indragiri Hulur , Riau 
+-0.561016,102.698822,2015-09-02,03:51:00,68,terra,Keritang , Indragiri Hilir , Riau 
+-0.581386,102.62117,2015-09-02,03:51:00,78,terra,Seberida , Indragiri Hulu , Riau 
+-0.583192,102.633324,2015-09-02,03:51:00,98,terra,Seberida , Indragiri Hulu , Riau 
+-0.585001,102.6455,2015-09-02,03:51:00,77,terra,Seberida , Indragiri Hulu , Riau 
+-0.596657,102.581932,2015-09-02,03:51:00,46,terra,Seberida , Indragiri Hulu , Riau 
+-0.604984,102.587311,2015-09-02,03:51:00,46,terra,Seberida , Indragiri Hulu , Riau 
+-0.651706,102.617836,2015-09-02,03:51:00,54,terra,Seberida , Indragiri Hulu , Riau 
+-0.653493,102.629997,2015-09-02,03:51:00,72,terra,Seberida , Indragiri Hulu , Riau 
+-0.715339,102.759529,2015-09-02,03:51:00,37,terra,Keritang , Indragiri Hilir , Riau 
+-0.711823,102.766106,2015-09-02,03:51:00,37,terra,Keritang , Indragiri Hilir , Riau 
+-0.585536,101.27916,2015-09-02,03:51:00,72,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.590624,101.282761,2015-09-02,03:51:00,52,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.82566,102.769676,2015-09-02,03:51:00,64,terra,Keritang , Indragiri Hilir , Riau 
+-0.751165,102.043106,2015-09-02,03:51:00,76,terra,Peranap , Indragiri Hulu , Riau 
+-0.872008,102.866142,2015-09-02,03:51:00,29,terra,Keritang , Indragiri Hilir , Riau 
+-0.794736,102.19931,2015-09-02,03:51:00,57,terra,Seberida , Indragiri Hulu , Riau 
+-0.89509,102.875908,2015-09-02,03:51:00,32,terra,Keritang , Indragiri Hilir , Riau 
+-0.89698,102.888649,2015-09-02,03:51:00,56,terra,Keritang , Indragiri Hilir , Riau 
+-0.861099,102.575302,2015-09-02,03:51:00,41,terra,Seberida , Indragiri Hulu , Riau 
+-0.779554,101.885323,2015-09-02,03:51:00,72,terra,Peranap , Indragiri Hulu , Riau 
+-0.781151,101.896385,2015-09-02,03:51:00,42,terra,Peranap , Indragiri Hulu , Riau 
+-0.792313,101.973709,2015-09-02,03:51:00,75,terra,Peranap , Indragiri Hulu , Riau 
+-0.828256,102.223099,2015-09-02,03:51:00,66,terra,Seberida , Indragiri Hulu , Riau 
+-0.818519,102.084496,2015-09-02,03:51:00,81,terra,Seberida , Indragiri Hulu , Riau 
+-0.75889,101.537392,2015-09-02,03:51:00,93,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.798059,101.804794,2015-09-02,03:51:00,70,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.76857,101.535995,2015-09-02,03:51:00,33,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.819128,101.879738,2015-09-02,03:51:00,77,terra,Peranap , Indragiri Hulu , Riau 
+-0.820754,101.8908,2015-09-02,03:51:00,87,terra,Peranap , Indragiri Hulu , Riau 
+-0.830644,101.889328,2015-09-02,03:51:00,40,terra,Peranap , Indragiri Hulu , Riau 
+-0.86859,101.940239,2015-09-02,03:51:00,63,terra,Peranap , Indragiri Hulu , Riau 
+-0.807829,101.513077,2015-09-02,03:51:00,46,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.891488,101.953651,2015-09-02,03:51:00,81,terra,Peranap , Indragiri Hulu , Riau 
+-1.00027,102.706703,2015-09-02,03:51:00,53,terra,Keritang , Indragiri Hilir , Riau 
+-0.947933,101.855469,2015-09-02,03:51:00,87,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.949578,101.86647,2015-09-02,03:51:00,66,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.949681,101.859909,2015-09-02,03:51:00,84,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-1.00004,102.712,2015-09-02,06:15:00,33,snpp,Keritang , Indragiri Hilir , Riau 
+-0.991534,102.71,2015-09-02,06:15:00,82,snpp,Keritang , Indragiri Hilir , Riau 
+-0.900708,102.887,2015-09-02,06:15:00,92,snpp,Keritang , Indragiri Hilir , Riau 
+-0.901887,102.879,2015-09-02,06:15:00,90,snpp,Keritang , Indragiri Hilir , Riau 
+-0.87902,102.86,2015-09-02,06:15:00,51,snpp,Keritang , Indragiri Hilir , Riau 
+-0.915279,102.62,2015-09-02,06:15:00,81,snpp,Keritang , Indragiri Hilir , Riau 
+-0.869463,102.866,2015-09-02,06:15:00,63,snpp,Keritang , Indragiri Hilir , Riau 
+-0.870619,102.859,2015-09-02,06:15:00,90,snpp,Keritang , Indragiri Hilir , Riau 
+-0.866026,102.579,2015-09-02,06:15:00,82,snpp,Seberida , Indragiri Hulu , Riau 
+-0.918024,102.243,2015-09-02,06:15:00,48,snpp,Seberida , Indragiri Hulu , Riau 
+-0.920641,102.226,2015-09-02,06:15:00,86,snpp,Seberida , Indragiri Hulu , Riau 
+-0.858724,102.57,2015-09-02,06:15:00,57,snpp,Seberida , Indragiri Hulu , Riau 
+-0.964079,101.886,2015-09-02,06:15:00,80,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.965433,101.877,2015-09-02,06:15:00,80,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.948803,101.866,2015-09-02,06:15:00,100,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.950172,101.857,2015-09-02,06:15:00,90,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.941151,101.856,2015-09-02,06:15:00,100,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.782736,102.783,2015-09-02,06:15:00,71,snpp,Keritang , Indragiri Hilir , Riau 
+-0.869261,102.21,2015-09-02,06:15:00,80,snpp,Seberida , Indragiri Hulu , Riau 
+-0.916428,101.897,2015-09-02,06:15:00,74,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.846583,102.301,2015-09-02,06:15:00,87,snpp,Seberida , Indragiri Hulu , Riau 
+-0.837888,102.3,2015-09-02,06:15:00,33,snpp,Seberida , Indragiri Hulu , Riau 
+-0.890468,101.948,2015-09-02,06:15:00,89,snpp,Peranap , Indragiri Hulu , Riau 
+-0.881826,101.883,2015-09-02,06:15:00,56,snpp,Peranap , Indragiri Hulu , Riau 
+-0.741711,102.769,2015-09-02,06:15:00,41,snpp,Keritang , Indragiri Hilir , Riau 
+-0.762221,102.571,2015-09-02,06:15:00,62,snpp,Seberida , Indragiri Hulu , Riau 
+-0.804266,102.286,2015-09-02,06:15:00,89,snpp,Seberida , Indragiri Hulu , Riau 
+-0.75991,102.571,2015-09-02,06:15:00,75,snpp,Seberida , Indragiri Hulu , Riau 
+-0.80406,102.286,2015-09-02,06:15:00,77,snpp,Seberida , Indragiri Hulu , Riau 
+-0.712694,102.764,2015-09-02,06:15:00,95,snpp,Keritang , Indragiri Hilir , Riau 
+-0.713875,102.757,2015-09-02,06:15:00,69,snpp,Keritang , Indragiri Hilir , Riau 
+-0.817812,102.081,2015-09-02,06:15:00,86,snpp,Seberida , Indragiri Hulu , Riau 
+-0.803892,101.873,2015-09-02,06:15:00,78,snpp,Peranap , Indragiri Hulu , Riau 
+-0.795301,101.807,2015-09-02,06:15:00,92,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.589775,102.636,2015-09-02,06:15:00,100,snpp,Seberida , Indragiri Hulu , Riau 
+-0.598125,102.581,2015-09-02,06:15:00,67,snpp,Seberida , Indragiri Hulu , Riau 
+-0.578921,102.65,2015-09-02,06:15:00,86,snpp,Seberida , Indragiri Hulu , Riau 
+-0.581288,102.635,2015-09-02,06:15:00,100,snpp,Seberida , Indragiri Hulu , Riau 
+-0.553779,102.702,2015-09-02,06:15:00,79,snpp,Rengat , Indragiri Hulur , Riau 
+-0.554946,102.695,2015-09-02,06:15:00,83,snpp,Rengat , Indragiri Hulur , Riau 
+-0.472517,102.586,2015-09-02,06:15:00,91,snpp,Rengat , Indragiri Hulur , Riau 
+-0.443499,102.606,2015-09-02,06:15:00,74,snpp,Rengat , Indragiri Hulur , Riau 
+-0.444663,102.598,2015-09-02,06:15:00,92,snpp,Rengat , Indragiri Hulur , Riau 
+-0.445832,102.59,2015-09-02,06:15:00,100,snpp,Rengat , Indragiri Hulur , Riau 
+-0.44103,102.598,2015-09-02,06:15:00,86,snpp,Rengat , Indragiri Hulur , Riau 
+-0.442253,102.59,2015-09-02,06:15:00,100,snpp,Rengat , Indragiri Hulur , Riau 
+-0.393966,102.734,2015-09-02,06:15:00,70,snpp,Tempuling , Indragiri Hilir , Riau 
+-0.399909,102.695,2015-09-02,06:15:00,77,snpp,Tempuling , Indragiri Hilir , Riau 
+-0.40111,102.688,2015-09-02,06:15:00,67,snpp,Rengat , Indragiri Hulur , Riau 
+-0.309315,102.53,2015-09-02,06:15:00,100,snpp,Rengat , Indragiri Hulur , Riau 
+-0.310531,102.522,2015-09-02,06:15:00,90,snpp,Rengat , Indragiri Hulur , Riau 
+-0.300792,102.529,2015-09-02,06:15:00,74,snpp,Rengat , Indragiri Hulur , Riau 
+-0.356244,101.99,2015-09-02,06:15:00,31,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.310892,101.878,2015-09-02,06:15:00,69,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.312251,101.869,2015-09-02,06:15:00,61,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.301166,101.823,2015-09-02,06:15:00,30,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.281526,101.891,2015-09-02,06:15:00,90,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.251164,101.851,2015-09-02,06:15:00,100,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.252481,101.842,2015-09-02,06:15:00,66,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.165478,102.304,2015-09-02,06:15:00,71,snpp,Kuala Kampar , Pelalawan , Riau 
+-0.167907,102.288,2015-09-02,06:15:00,80,snpp,Kuala Kampar , Pelalawan , Riau 
+-0.225563,101.901,2015-09-02,06:15:00,84,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.226852,101.892,2015-09-02,06:15:00,97,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.232033,101.857,2015-09-02,06:15:00,70,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.193168,102.003,2015-09-02,06:15:00,29,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.215908,101.857,2015-09-02,06:15:00,100,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.221337,101.822,2015-09-02,06:15:00,100,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.184347,102.002,2015-09-02,06:15:00,82,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.205663,101.864,2015-09-02,06:15:00,100,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.200503,101.72,2015-09-02,06:15:00,75,snpp,Pangkalan Kuras , Pelalawan , Riau 
+0.0973233,103.508,2015-09-02,06:15:00,33,snpp,Enok , Indragiri Hilir , Riau 
+-0.120507,101.718,2015-09-02,06:15:00,65,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.127449,101.673,2015-09-02,06:15:00,74,snpp,Langgam , Pelalawan , Riau 
+-0.128835,101.664,2015-09-02,06:15:00,93,snpp,Langgam , Pelalawan , Riau 
+-0.130218,101.655,2015-09-02,06:15:00,88,snpp,Langgam , Pelalawan , Riau 
+-0.0474732,101.956,2015-09-02,06:15:00,70,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.09007,101.677,2015-09-02,06:15:00,57,snpp,Langgam , Pelalawan , Riau 
+1.54796,101.494,2015-09-02,06:15:00,57,snpp,Bukit Batu , Bengkalis , Riau 
+1.9778,101.317,2015-09-02,06:15:00,23,snpp,Dumai Barat , Kota Dumai , Riau 
+2.06053,100.927,2015-09-02,06:15:00,67,snpp,Bangko , Rokan Hilir , Riau 
+0.0559704,103.583,2015-09-03,05:56:00,52,snpp,Enok , Indragiri Hilir , Riau 
+0.0955805,103.513,2015-09-03,05:56:00,45,snpp,Enok , Indragiri Hilir , Riau 
+0.0944694,103.506,2015-09-03,05:56:00,64,snpp,Enok , Indragiri Hilir , Riau 
+0.194527,103.388,2015-09-03,05:56:00,57,snpp,Mandah , Indragiri Hilir , Riau 
+1.72279,101.595,2015-09-03,05:56:00,71,snpp,Rupat , Bengkalis , Riau 
+1.82205,101.699,2015-09-03,05:56:00,42,snpp,Rupat , Bengkalis , Riau 
+1.8206,101.691,2015-09-03,05:56:00,98,snpp,Rupat , Bengkalis , Riau 
+1.81914,101.682,2015-09-03,05:56:00,61,snpp,Rupat , Bengkalis , Riau 
+1.818479,101.691132,2015-09-04,03:37:00,75,terra,Rupat , Bengkalis , Riau 
+-0.78554,101.97953,2015-09-04,03:37:00,71,terra,Peranap , Indragiri Hulu , Riau 
+-0.770796,101.818062,2015-09-04,03:37:00,45,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.794494,101.978256,2015-09-04,03:37:00,75,terra,Peranap , Indragiri Hulu , Riau 
+-0.816585,102.06588,2015-09-04,03:37:00,75,terra,Seberida , Indragiri Hulu , Riau 
+-0.848696,102.09761,2015-09-04,03:37:00,46,terra,Seberida , Indragiri Hulu , Riau 
+-0.865768,102.213165,2015-09-04,03:37:00,24,terra,Seberida , Indragiri Hulu , Riau 
+-0.86708,102.222054,2015-09-04,03:37:00,35,terra,Seberida , Indragiri Hulu , Riau 
+-0.830069,101.909622,2015-09-04,03:37:00,97,terra,Peranap , Indragiri Hulu , Riau 
+-0.831382,101.918526,2015-09-04,03:37:00,85,terra,Peranap , Indragiri Hulu , Riau 
+-0.845829,102.01635,2015-09-04,03:37:00,59,terra,Peranap , Indragiri Hulu , Riau 
+-0.836398,101.890549,2015-09-04,03:37:00,90,terra,Peranap , Indragiri Hulu , Riau 
+-0.899644,102.881096,2015-09-04,06:30:00,86,aqua,Keritang , Indragiri Hilir , Riau 
+-0.838862,101.735901,2015-09-04,06:30:00,61,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.650333,102.62355,2015-09-04,06:30:00,71,aqua,Seberida , Indragiri Hulu , Riau 
+-0.558103,102.696739,2015-09-04,06:30:00,71,aqua,Rengat , Indragiri Hulur , Riau 
+-0.316723,101.884933,2015-09-04,06:30:00,89,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.318297,101.874031,2015-09-04,06:30:00,86,aqua,Pangkalan Kuras , Pelalawan , Riau 
+0.065645,103.641289,2015-09-04,06:30:00,45,aqua,Enok , Indragiri Hilir , Riau 
+0.064343,103.632149,2015-09-04,06:30:00,75,aqua,Enok , Indragiri Hilir , Riau 
+1.02026,101.067,2015-09-04,18:18:00,94,snpp,Pinggir , Bengkalis , Riau 
+0.438494,101.282,2015-09-04,18:18:00,90,snpp,Tambang , Kampar , Riau 
+0.345794,101.811,2015-09-04,18:18:00,82,snpp,Langgam , Pelalawan , Riau 
+0.328838,101.809,2015-09-04,18:18:00,84,snpp,Langgam , Pelalawan , Riau 
+0.327603,101.817,2015-09-04,18:18:00,33,snpp,Langgam , Pelalawan , Riau 
+0.243466,102.246,2015-09-04,18:18:00,100,snpp,Bunut , Pelalawan , Riau 
+0.242328,102.253,2015-09-04,18:18:00,100,snpp,Bunut , Pelalawan , Riau 
+0.108259,101.896,2015-09-04,18:18:00,45,snpp,Langgam , Pelalawan , Riau 
+0.107049,101.903,2015-09-04,18:18:00,100,snpp,Langgam , Pelalawan , Riau 
+0.0986462,101.902,2015-09-04,18:18:00,70,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.0603245,101.598,2015-09-04,18:18:00,66,snpp,Langgam , Pelalawan , Riau 
+-0.122686,101.662,2015-09-04,18:18:00,62,snpp,Langgam , Pelalawan , Riau 
+-0.262102,102.403,2015-09-04,18:18:00,66,snpp,Rengat , Indragiri Hulur , Riau 
+-0.262306,102.403,2015-09-04,18:18:00,56,snpp,Rengat , Indragiri Hulur , Riau 
+-0.305364,102.518,2015-09-04,18:18:00,62,snpp,Rengat , Indragiri Hulur , Riau 
+-0.306458,102.525,2015-09-04,18:18:00,14,snpp,Rengat , Indragiri Hulur , Riau 
+-0.339362,101.999,2015-09-04,18:18:00,100,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.438096,102.518,2015-09-04,18:18:00,81,snpp,Rengat , Indragiri Hulur , Riau 
+-0.547077,102.68,2015-09-04,18:18:00,73,snpp,Rengat , Indragiri Hulur , Riau 
+-0.566006,102.646,2015-09-04,18:18:00,64,snpp,Rengat , Indragiri Hulur , Riau 
+-0.58817,102.632,2015-09-04,18:18:00,60,snpp,Seberida , Indragiri Hulu , Riau 
+-0.738546,102.775764,2015-09-06,03:24:00,43,terra,Keritang , Indragiri Hilir , Riau 
+-0.895394,102.892693,2015-09-06,06:17:00,70,aqua,Keritang , Indragiri Hilir , Riau 
+-0.897602,102.877228,2015-09-06,06:17:00,84,aqua,Keritang , Indragiri Hilir , Riau 
+-0.589766,102.633156,2015-09-06,06:17:00,55,aqua,Seberida , Indragiri Hulu , Riau 
+-0.900436,102.885,2015-09-06,06:40:00,67,snpp,Keritang , Indragiri Hilir , Riau 
+-0.89376,102.884,2015-09-06,06:40:00,100,snpp,Keritang , Indragiri Hilir , Riau 
+-0.798917,102.797,2015-09-06,06:40:00,66,snpp,Keritang , Indragiri Hilir , Riau 
+-0.735145,102.773,2015-09-06,06:40:00,76,snpp,Keritang , Indragiri Hilir , Riau 
+-0.709511,102.762,2015-09-06,06:40:00,67,snpp,Keritang , Indragiri Hilir , Riau 
+-0.649725,102.625,2015-09-06,06:40:00,79,snpp,Seberida , Indragiri Hulu , Riau 
+-0.593274,102.637,2015-09-06,06:40:00,95,snpp,Seberida , Indragiri Hulu , Riau 
+-0.58101,102.629,2015-09-06,06:40:00,86,snpp,Seberida , Indragiri Hulu , Riau 
+-0.0502609,101.491,2015-09-06,06:40:00,69,snpp,Kampar Kiri Hilir , Kampar , Riau 
+0.348023,101.847,2015-09-06,06:40:00,91,snpp,Langgam , Pelalawan , Riau 
+0.444562,101.28,2015-09-06,06:40:00,92,snpp,Tambang , Kampar , Riau 
+0.867267,101.568,2015-09-06,06:40:00,80,snpp,Siak , Siak , Riau 
+1.08816,100.623,2015-09-06,06:40:00,36,snpp,Kepenuhan , Rokan Hulu , Riau 
+-0.899074,102.887268,2015-09-06,15:44:00,65,terra,Keritang , Indragiri Hilir , Riau 
+-0.900643,102.876465,2015-09-06,15:44:00,23,terra,Keritang , Indragiri Hilir , Riau 
+-0.887678,102.896683,2015-09-06,15:44:00,58,terra,Keritang , Indragiri Hilir , Riau 
+-0.889257,102.885857,2015-09-06,15:44:00,100,terra,Keritang , Indragiri Hilir , Riau 
+-0.862003,102.853455,2015-09-06,15:44:00,58,terra,Keritang , Indragiri Hilir , Riau 
+-0.844385,101.928314,2015-09-06,15:44:00,38,terra,Peranap , Indragiri Hulu , Riau 
+-0.597729,102.633614,2015-09-06,15:44:00,29,terra,Seberida , Indragiri Hulu , Riau 
+-0.578322,102.630791,2015-09-06,15:44:00,12,terra,Seberida , Indragiri Hulu , Riau 
+-0.565557,102.650513,2015-09-06,15:44:00,5,terra,Rengat , Indragiri Hulur , Riau 
+-0.551212,102.680923,2015-09-06,15:44:00,36,terra,Rengat , Indragiri Hulur , Riau 
+-0.552756,102.670303,2015-09-06,15:44:00,70,terra,Rengat , Indragiri Hulur , Riau 
+-0.463016,102.586197,2015-09-06,15:44:00,100,terra,Rengat , Indragiri Hulur , Riau 
+-0.464551,102.575676,2015-09-06,15:44:00,100,terra,Rengat , Indragiri Hulur , Riau 
+-0.459588,102.590675,2015-09-06,15:44:00,28,terra,Rengat , Indragiri Hulur , Riau 
+-0.461071,102.580132,2015-09-06,15:44:00,100,terra,Rengat , Indragiri Hulur , Riau 
+-0.462551,102.569595,2015-09-06,15:44:00,62,terra,Rengat , Indragiri Hulur , Riau 
+-0.263286,102.400742,2015-09-06,15:44:00,21,terra,Rengat , Indragiri Hulur , Riau 
+-0.142846,101.689217,2015-09-06,15:44:00,100,terra,Langgam , Pelalawan , Riau 
+-0.13355,101.687874,2015-09-06,15:44:00,42,terra,Langgam , Pelalawan , Riau 
+0.106557,101.903725,2015-09-06,15:44:00,100,terra,Langgam , Pelalawan , Riau 
+0.064162,101.020912,2015-09-06,15:44:00,48,terra,Kampar Kiri , Kampar , Riau 
+0.247056,102.248146,2015-09-06,15:44:00,63,terra,Bunut , Pelalawan , Riau 
+0.271431,102.213165,2015-09-06,15:44:00,58,terra,Bunut , Pelalawan , Riau 
+0.259853,101.620155,2015-09-06,15:44:00,96,terra,Langgam , Pelalawan , Riau 
+0.258485,101.610512,2015-09-06,15:44:00,55,terra,Langgam , Pelalawan , Riau 
+0.329293,101.839188,2015-09-06,15:44:00,95,terra,Langgam , Pelalawan , Riau 
+0.327877,101.829323,2015-09-06,15:44:00,100,terra,Langgam , Pelalawan , Riau 
+0.32505,101.809647,2015-09-06,15:44:00,39,terra,Langgam , Pelalawan , Riau 
+0.349527,101.846359,2015-09-06,15:44:00,46,terra,Langgam , Pelalawan , Riau 
+0.432205,101.339531,2015-09-06,15:44:00,34,terra,Tambang , Kampar , Riau 
+0.442773,101.347656,2015-09-06,15:44:00,32,terra,Tambang , Kampar , Riau 
+0.433311,101.281609,2015-09-06,15:44:00,56,terra,Tambang , Kampar , Riau 
+0.442502,101.280273,2015-09-06,15:44:00,100,terra,Tambang , Kampar , Riau 
+0.612448,102.025215,2015-09-06,15:44:00,41,terra,Siak Sri Indrapura , Siak , Riau 
+0.769487,101.836617,2015-09-06,15:44:00,23,terra,Siak Sri Indrapura , Siak , Riau 
+0.908919,101.523842,2015-09-06,15:44:00,86,terra,Siak , Siak , Riau 
+1.075055,100.621468,2015-09-06,15:44:00,38,terra,Kepenuhan , Rokan Hulu , Riau 
+1.084105,100.620171,2015-09-06,15:44:00,100,terra,Kepenuhan , Rokan Hulu , Riau 
+1.437691,100.778748,2015-09-06,15:44:00,78,terra,Tanah Putih , Rokan Hilir , Riau 
+1.544126,100.947083,2015-09-06,15:44:00,75,terra,Tanah Putih , Rokan Hilir , Riau 
+1.727088,101.591064,2015-09-06,15:44:00,47,terra,Rupat , Bengkalis , Riau 
+1.735105,101.579765,2015-09-06,15:44:00,21,terra,Rupat , Bengkalis , Riau 
+2.34493,100.362831,2015-09-06,15:44:00,35,terra,Bagan Sinembah , Rokan Hilir , Riau 
+-0.900436,102.885,2015-09-06,06:40:00,67,snpp,Keritang , Indragiri Hilir , Riau 
+-0.89376,102.884,2015-09-06,06:40:00,100,snpp,Keritang , Indragiri Hilir , Riau 
+-0.798917,102.797,2015-09-06,06:40:00,66,snpp,Keritang , Indragiri Hilir , Riau 
+-0.735145,102.773,2015-09-06,06:40:00,76,snpp,Keritang , Indragiri Hilir , Riau 
+-0.709511,102.762,2015-09-06,06:40:00,67,snpp,Keritang , Indragiri Hilir , Riau 
+-0.649725,102.625,2015-09-06,06:40:00,79,snpp,Seberida , Indragiri Hulu , Riau 
+-0.593274,102.637,2015-09-06,06:40:00,95,snpp,Seberida , Indragiri Hulu , Riau 
+-0.58101,102.629,2015-09-06,06:40:00,86,snpp,Seberida , Indragiri Hulu , Riau 
+-0.0502609,101.491,2015-09-06,06:40:00,69,snpp,Kampar Kiri Hilir , Kampar , Riau 
+0.348023,101.847,2015-09-06,06:40:00,91,snpp,Langgam , Pelalawan , Riau 
+0.444562,101.28,2015-09-06,06:40:00,92,snpp,Tambang , Kampar , Riau 
+0.867267,101.568,2015-09-06,06:40:00,80,snpp,Siak , Siak , Riau 
+1.08816,100.623,2015-09-06,06:40:00,36,snpp,Kepenuhan , Rokan Hulu , Riau 
+-0.592288,102.638,2015-09-07,06:21:00,56,snpp,Seberida , Indragiri Hulu , Riau 
+-0.896151,102.884895,2015-09-08,15:31:00,41,terra,Keritang , Indragiri Hilir , Riau 
+-0.885912,102.892532,2015-09-08,15:31:00,42,terra,Keritang , Indragiri Hilir , Riau 
+-0.887181,102.883598,2015-09-08,15:31:00,65,terra,Keritang , Indragiri Hilir , Riau 
+-0.865436,102.907806,2015-09-08,15:31:00,75,terra,Keritang , Indragiri Hilir , Riau 
+-0.72896,102.766518,2015-09-08,15:31:00,100,terra,Keritang , Indragiri Hilir , Riau 
+-0.730233,102.757568,2015-09-08,15:31:00,53,terra,Keritang , Indragiri Hilir , Riau 
+-0.815084,102.094788,2015-09-08,15:31:00,62,terra,Seberida , Indragiri Hulu , Riau 
+-0.839341,101.672218,2015-09-08,15:31:00,69,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.830117,101.670837,2015-09-08,15:31:00,34,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.607873,102.970398,2015-09-08,15:31:00,89,terra,Tempuling , Indragiri Hilir , Riau 
+-0.577199,102.668556,2015-09-08,15:31:00,100,terra,Seberida , Indragiri Hulu , Riau 
+-0.578476,102.659592,2015-09-08,15:31:00,100,terra,Seberida , Indragiri Hulu , Riau 
+-0.581031,102.641655,2015-09-08,15:31:00,79,terra,Seberida , Indragiri Hulu , Riau 
+-0.582308,102.63269,2015-09-08,15:31:00,18,terra,Seberida , Indragiri Hulu , Riau 
+-0.591199,102.441071,2015-09-08,15:31:00,51,terra,Seberida , Indragiri Hulu , Riau 
+-0.468556,102.591644,2015-09-08,15:31:00,94,terra,Rengat , Indragiri Hulur , Riau 
+-0.469831,102.582664,2015-09-08,15:31:00,51,terra,Rengat , Indragiri Hulur , Riau 
+-0.459564,102.590347,2015-09-08,15:31:00,96,terra,Rengat , Indragiri Hulur , Riau 
+-0.460838,102.581375,2015-09-08,15:31:00,100,terra,Rengat , Indragiri Hulur , Riau 
+-0.462112,102.572395,2015-09-08,15:31:00,88,terra,Rengat , Indragiri Hulur , Riau 
+-0.463387,102.563416,2015-09-08,15:31:00,100,terra,Rengat , Indragiri Hulur , Riau 
+-0.450574,102.589043,2015-09-08,15:31:00,89,terra,Rengat , Indragiri Hulur , Riau 
+-0.451846,102.58007,2015-09-08,15:31:00,100,terra,Rengat , Indragiri Hulur , Riau 
+-0.453119,102.571098,2015-09-08,15:31:00,100,terra,Rengat , Indragiri Hulur , Riau 
+-0.454392,102.562119,2015-09-08,15:31:00,100,terra,Rengat , Indragiri Hulur , Riau 
+-0.442199,102.581993,2015-09-08,15:31:00,100,terra,Rengat , Indragiri Hulur , Riau 
+-0.443483,102.573021,2015-09-08,15:31:00,100,terra,Rengat , Indragiri Hulur , Riau 
+-0.444767,102.564041,2015-09-08,15:31:00,100,terra,Rengat , Indragiri Hulur , Riau 
+-0.44605,102.555069,2015-09-08,15:31:00,100,terra,Rengat , Indragiri Hulur , Riau 
+0.04685,101.947372,2015-09-08,15:31:00,42,terra,Pangkalan Kuras , Pelalawan , Riau 
+0.096203,101.90271,2015-09-08,15:31:00,55,terra,Pangkalan Kuras , Pelalawan , Riau 
+0.106237,101.913651,2015-09-08,15:31:00,15,terra,Pangkalan Kuras , Pelalawan , Riau 
+0.104915,101.904457,2015-09-08,15:31:00,100,terra,Langgam , Pelalawan , Riau 
+0.239714,102.266335,2015-09-08,15:31:00,100,terra,Bunut , Pelalawan , Riau 
+0.249171,102.268471,2015-09-08,15:31:00,99,terra,Bunut , Pelalawan , Riau 
+0.247877,102.259438,2015-09-08,15:31:00,89,terra,Bunut , Pelalawan , Riau 
+1.733338,101.578796,2015-09-08,15:31:00,58,terra,Rupat , Bengkalis , Riau 
+-0.0558863,101.485,2015-09-08,18:43:00,22,snpp,Kampar Kiri Hilir , Kampar , Riau 
+-0.0747231,101.475,2015-09-08,18:43:00,57,snpp,Kampar Kiri Hilir , Kampar , Riau 
+-0.447513,102.561,2015-09-08,18:43:00,21,snpp,Rengat , Indragiri Hulur , Riau 
+-0.448634,102.569,2015-09-08,18:43:00,38,snpp,Rengat , Indragiri Hulur , Riau 
+-0.579478,102.667,2015-09-08,18:43:00,100,snpp,Seberida , Indragiri Hulu , Riau 
+-0.896778,102.882187,2015-09-09,06:49:00,60,aqua,Keritang , Indragiri Hilir , Riau 
+0.103624,101.905,2015-09-09,18:24:00,100,snpp,Pangkalan Kuras , Pelalawan , Riau 
+0.102204,101.914,2015-09-09,18:24:00,100,snpp,Pangkalan Kuras , Pelalawan , Riau 
+0.096025,101.904,2015-09-09,18:24:00,100,snpp,Pangkalan Kuras , Pelalawan , Riau 
+0.0946162,101.913,2015-09-09,18:24:00,100,snpp,Pangkalan Kuras , Pelalawan , Riau 
+0.0966596,101.906,2015-09-09,18:24:00,100,snpp,Pangkalan Kuras , Pelalawan , Riau 
+0.0951969,101.915,2015-09-09,18:24:00,97,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.0494044,102.395,2015-09-09,18:24:00,83,snpp,Kuala Kampar , Pelalawan , Riau 
+-0.310319,101.888,2015-09-09,18:24:00,71,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.311732,101.897,2015-09-09,18:24:00,100,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.441399,102.54,2015-09-09,18:24:00,100,snpp,Rengat , Indragiri Hulur , Riau 
+-0.442694,102.548,2015-09-09,18:24:00,100,snpp,Rengat , Indragiri Hulur , Riau 
+-0.443987,102.557,2015-09-09,18:24:00,88,snpp,Rengat , Indragiri Hulur , Riau 
+-0.445276,102.565,2015-09-09,18:24:00,75,snpp,Rengat , Indragiri Hulur , Riau 
+-0.446567,102.573,2015-09-09,18:24:00,100,snpp,Rengat , Indragiri Hulur , Riau 
+-0.447862,102.582,2015-09-09,18:24:00,100,snpp,Rengat , Indragiri Hulur , Riau 
+-0.437773,102.542,2015-09-09,18:24:00,100,snpp,Rengat , Indragiri Hulur , Riau 
+-0.439117,102.55,2015-09-09,18:24:00,54,snpp,Rengat , Indragiri Hulur , Riau 
+-0.445052,102.54,2015-09-09,18:24:00,100,snpp,Rengat , Indragiri Hulur , Riau 
+-0.446393,102.549,2015-09-09,18:24:00,100,snpp,Rengat , Indragiri Hulur , Riau 
+-0.447733,102.557,2015-09-09,18:24:00,87,snpp,Rengat , Indragiri Hulur , Riau 
+-0.449066,102.566,2015-09-09,18:24:00,92,snpp,Rengat , Indragiri Hulur , Riau 
+-0.450407,102.574,2015-09-09,18:24:00,100,snpp,Rengat , Indragiri Hulur , Riau 
+-0.451743,102.582,2015-09-09,18:24:00,100,snpp,Rengat , Indragiri Hulur , Riau 
+-0.453073,102.591,2015-09-09,18:24:00,17,snpp,Rengat , Indragiri Hulur , Riau 
+-0.456336,102.564,2015-09-09,18:24:00,6,snpp,Rengat , Indragiri Hulur , Riau 
+-0.458994,102.581,2015-09-09,18:24:00,100,snpp,Rengat , Indragiri Hulur , Riau 
+-0.460326,102.59,2015-09-09,18:24:00,100,snpp,Rengat , Indragiri Hulur , Riau 
+-0.467576,102.588,2015-09-09,18:24:00,85,snpp,Rengat , Indragiri Hulur , Riau 
+-0.468899,102.597,2015-09-09,18:24:00,95,snpp,Rengat , Indragiri Hulur , Riau 
+-0.476139,102.596,2015-09-09,18:24:00,95,snpp,Rengat , Indragiri Hulur , Riau 
+-0.590019,102.442,2015-09-09,18:24:00,33,snpp,Seberida , Indragiri Hulu , Riau 
+-0.753891,102.657,2015-09-09,18:24:00,54,snpp,Keritang , Indragiri Hilir , Riau 
+-0.75517,102.665,2015-09-09,18:24:00,100,snpp,Keritang , Indragiri Hilir , Riau 
+-0.850473,101.989,2015-09-09,18:24:00,100,snpp,Peranap , Indragiri Hulu , Riau 
+-0.864857,102.032,2015-09-09,18:24:00,77,snpp,Seberida , Indragiri Hulu , Riau 
+0.102463,101.906,2015-09-10,18:05:00,53,snpp,Pangkalan Kuras , Pelalawan , Riau 
+0.101484,101.912,2015-09-10,18:05:00,32,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.470111,102.596,2015-09-10,18:05:00,89,snpp,Rengat , Indragiri Hulur , Riau 
+-0.745903,102.662,2015-09-10,18:05:00,67,snpp,Keritang , Indragiri Hilir , Riau 
+-0.755705,102.66,2015-09-10,18:05:00,98,snpp,Keritang , Indragiri Hilir , Riau 
+0.102299,101.919479,2015-09-10,18:16:00,35,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.437918,102.553421,2015-09-10,18:16:00,13,aqua,Rengat , Indragiri Hulur , Riau 
+-0.440585,102.571274,2015-09-10,18:16:00,35,aqua,Rengat , Indragiri Hulur , Riau 
+-0.4556,102.587364,2015-09-10,18:16:00,26,aqua,Rengat , Indragiri Hulur , Riau 
+-0.470555,102.60331,2015-09-10,18:16:00,12,aqua,Rengat , Indragiri Hulur , Riau 
+-0.741851,102.669624,2015-09-10,18:16:00,76,aqua,Keritang , Indragiri Hilir , Riau 
+-0.754057,102.667892,2015-09-10,18:16:00,69,aqua,Keritang , Indragiri Hilir , Riau 
+0.663283,102.104698,2015-09-11,03:43:00,54,terra,Siak Sri Indrapura , Siak , Riau 
+0.066498,103.643013,2015-09-11,03:43:00,33,terra,Enok , Indragiri Hilir , Riau 
+0.414774,100.670761,2015-09-11,03:43:00,59,terra,Tiga Belas Koto Kampar , Kampar , Riau 
+0.131056,102.587036,2015-09-11,03:43:00,48,terra,Kuala Kampar , Pelalawan , Riau 
+0.100929,100.924561,2015-09-11,03:43:00,56,terra,Tiga Belas Koto Kampar , Kampar , Riau 
+0.099616,100.933441,2015-09-11,03:43:00,48,terra,Tiga Belas Koto Kampar , Kampar , Riau 
+0.091977,100.923286,2015-09-11,03:43:00,84,terra,Tiga Belas Koto Kampar , Kampar , Riau 
+0.090663,100.932175,2015-09-11,03:43:00,47,terra,Tiga Belas Koto Kampar , Kampar , Riau 
+0.078832,101.012192,2015-09-11,03:43:00,71,terra,Kampar Kiri , Kampar , Riau 
+-0.763128,103.231544,2015-09-11,03:43:00,50,terra,Reteh , Indragiri Hilir , Riau 
+-0.854651,102.210739,2015-09-11,03:43:00,57,terra,Seberida , Indragiri Hulu , Riau 
+-0.952771,101.897141,2015-09-11,06:36:00,80,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.823182,102.090286,2015-09-11,06:36:00,80,aqua,Seberida , Indragiri Hulu , Riau 
+-0.814077,102.088974,2015-09-11,06:36:00,97,aqua,Seberida , Indragiri Hulu , Riau 
+-0.687204,102.40107,2015-09-11,06:36:00,76,aqua,Seberida , Indragiri Hulu , Riau 
+-0.052262,102.395706,2015-09-11,06:36:00,93,aqua,Kuala Kampar , Pelalawan , Riau 
+-0.166713,101.201424,2015-09-11,06:36:00,52,aqua,Singingi , Kuantan Singingi , Riau 
+-0.168106,101.191589,2015-09-11,06:36:00,61,aqua,Kampar Kiri , Kampar , Riau 
+-0.076198,101.527527,2015-09-11,06:36:00,73,aqua,Langgam , Pelalawan , Riau 
+0.242029,103.430855,2015-09-11,06:36:00,69,aqua,Mandah , Indragiri Hilir , Riau 
+0.097606,100.947075,2015-09-11,06:36:00,59,aqua,Tiga Belas Koto Kampar , Kampar , Riau 
+0.094689,100.926994,2015-09-11,06:36:00,98,aqua,Tiga Belas Koto Kampar , Kampar , Riau 
+0.09323,100.916954,2015-09-11,06:36:00,98,aqua,Tiga Belas Koto Kampar , Kampar , Riau 
+0.545809,103.17173,2015-09-11,06:36:00,68,aqua,Kuala Kampar , Pelalawan , Riau 
+0.661146,102.106041,2015-09-11,06:36:00,68,aqua,Siak Sri Indrapura , Siak , Riau 
+1.135686,101.952011,2015-09-11,06:36:00,37,aqua,Siak Kecil , Bengkalis , Riau 
+1.134391,101.942924,2015-09-11,06:36:00,50,aqua,Siak Kecil , Bengkalis , Riau 
+0.0923456,100.927,2015-09-11,06:46:00,100,snpp,Tiga Belas Koto Kampar , Kampar , Riau 
+-0.96556,102.59,2015-09-12,06:27:00,75,snpp,Seberida , Indragiri Hulu , Riau 
+-0.951375,102.588,2015-09-12,06:27:00,73,snpp,Keritang , Indragiri Hilir , Riau 
+-0.831586,102.905,2015-09-12,06:27:00,22,snpp,Keritang , Indragiri Hilir , Riau 
+-0.905559,102.225,2015-09-12,06:27:00,71,snpp,Seberida , Indragiri Hulu , Riau 
+-0.946321,101.904,2015-09-12,06:27:00,87,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.947612,101.896,2015-09-12,06:27:00,87,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.852129,102.434,2015-09-12,06:27:00,54,snpp,Seberida , Indragiri Hulu , Riau 
+-0.853311,102.426,2015-09-12,06:27:00,70,snpp,Seberida , Indragiri Hulu , Riau 
+-0.902475,102.097,2015-09-12,06:27:00,41,snpp,Seberida , Indragiri Hulu , Riau 
+-0.905797,101.925,2015-09-12,06:27:00,82,snpp,Peranap , Indragiri Hulu , Riau 
+-0.874717,102.084,2015-09-12,06:27:00,38,snpp,Seberida , Indragiri Hulu , Riau 
+-0.897584,101.908,2015-09-12,06:27:00,74,snpp,Peranap , Indragiri Hulu , Riau 
+-0.851595,102.159,2015-09-12,06:27:00,25,snpp,Seberida , Indragiri Hulu , Riau 
+-0.848175,102.133,2015-09-12,06:27:00,58,snpp,Seberida , Indragiri Hulu , Riau 
+-0.849444,102.125,2015-09-12,06:27:00,48,snpp,Seberida , Indragiri Hulu , Riau 
+-0.862172,102.041,2015-09-12,06:27:00,100,snpp,Seberida , Indragiri Hulu , Riau 
+-0.736143,102.773,2015-09-12,06:27:00,58,snpp,Keritang , Indragiri Hilir , Riau 
+-0.847983,101.987,2015-09-12,06:27:00,22,snpp,Peranap , Indragiri Hulu , Riau 
+-0.82423,102.095,2015-09-12,06:27:00,100,snpp,Seberida , Indragiri Hulu , Riau 
+-0.82549,102.087,2015-09-12,06:27:00,94,snpp,Seberida , Indragiri Hulu , Riau 
+-0.815712,102.102,2015-09-12,06:27:00,36,snpp,Seberida , Indragiri Hulu , Riau 
+-0.816966,102.094,2015-09-12,06:27:00,100,snpp,Seberida , Indragiri Hulu , Riau 
+-0.818219,102.086,2015-09-12,06:27:00,100,snpp,Seberida , Indragiri Hulu , Riau 
+-0.808462,102.101,2015-09-12,06:27:00,100,snpp,Seberida , Indragiri Hulu , Riau 
+-0.809715,102.093,2015-09-12,06:27:00,100,snpp,Seberida , Indragiri Hulu , Riau 
+-0.835437,101.872,2015-09-12,06:27:00,68,snpp,Peranap , Indragiri Hulu , Riau 
+-0.847836,101.688,2015-09-12,06:27:00,100,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.807331,101.859,2015-09-12,06:27:00,100,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.794894,101.892,2015-09-12,06:27:00,93,snpp,Peranap , Indragiri Hulu , Riau 
+-0.803788,101.832,2015-09-12,06:27:00,86,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.804741,101.859,2015-09-12,06:27:00,96,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.792116,101.893,2015-09-12,06:27:00,99,snpp,Peranap , Indragiri Hulu , Riau 
+-0.801348,101.833,2015-09-12,06:27:00,100,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.80268,101.824,2015-09-12,06:27:00,17,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.784006,101.848,2015-09-12,06:27:00,92,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.785316,101.839,2015-09-12,06:27:00,100,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.786621,101.831,2015-09-12,06:27:00,100,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.776663,101.846,2015-09-12,06:27:00,100,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.777966,101.838,2015-09-12,06:27:00,100,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.779269,101.829,2015-09-12,06:27:00,100,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.783239,101.803,2015-09-12,06:27:00,64,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.774552,101.811,2015-09-12,06:27:00,76,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.745975,101.851,2015-09-12,06:27:00,100,snpp,Peranap , Indragiri Hulu , Riau 
+-0.554248,102.691,2015-09-12,06:27:00,81,snpp,Rengat , Indragiri Hulur , Riau 
+-0.327414,101.862,2015-09-12,06:27:00,54,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.307687,101.894,2015-09-12,06:27:00,86,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.288358,101.874,2015-09-12,06:27:00,86,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.289631,101.865,2015-09-12,06:27:00,68,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.249388,101.86,2015-09-12,06:27:00,55,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.244679,101.842,2015-09-12,06:27:00,94,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.22836,101.9,2015-09-12,06:27:00,66,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.229644,101.892,2015-09-12,06:27:00,65,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.22405,101.831,2015-09-12,06:27:00,32,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.211626,101.863,2015-09-12,06:27:00,88,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.212901,101.855,2015-09-12,06:27:00,42,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.215464,101.838,2015-09-12,06:27:00,37,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.20306,101.87,2015-09-12,06:27:00,77,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.202147,101.827,2015-09-12,06:27:00,100,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.218858,101.716,2015-09-12,06:27:00,100,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.197384,101.809,2015-09-12,06:27:00,81,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.178677,101.884,2015-09-12,06:27:00,57,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.195528,101.722,2015-09-12,06:27:00,85,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.184657,101.694,2015-09-12,06:27:00,96,snpp,Langgam , Pelalawan , Riau 
+-0.18594,101.685,2015-09-12,06:27:00,66,snpp,Langgam , Pelalawan , Riau 
+-0.162097,101.795,2015-09-12,06:27:00,87,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.159128,101.795,2015-09-12,06:27:00,86,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.148131,101.671,2015-09-12,06:27:00,91,snpp,Langgam , Pelalawan , Riau 
+-0.169371,101.532,2015-09-12,06:27:00,76,snpp,Kuatan Hilir , Kuantan Singingi , Riau 
+-0.157946,101.558,2015-09-12,06:27:00,82,snpp,Kuatan Hilir , Kuantan Singingi , Riau 
+-0.150534,101.556,2015-09-12,06:27:00,63,snpp,Kuatan Hilir , Kuantan Singingi , Riau 
+-0.143122,101.555,2015-09-12,06:27:00,93,snpp,Langgam , Pelalawan , Riau 
+-0.14445,101.547,2015-09-12,06:27:00,99,snpp,Kuatan Hilir , Kuantan Singingi , Riau 
+-0.137041,101.546,2015-09-12,06:27:00,100,snpp,Kuatan Hilir , Kuantan Singingi , Riau 
+-0.117839,101.623,2015-09-12,06:27:00,74,snpp,Langgam , Pelalawan , Riau 
+-0.128309,101.553,2015-09-12,06:27:00,31,snpp,Langgam , Pelalawan , Riau 
+-0.129624,101.544,2015-09-12,06:27:00,100,snpp,Kuatan Hilir , Kuantan Singingi , Riau 
+-0.165631,101.203,2015-09-12,06:27:00,64,snpp,Singingi , Kuantan Singingi , Riau 
+-0.109998,101.524,2015-09-12,06:27:00,76,snpp,Kampar Kiri Hilir , Kampar , Riau 
+-0.111316,101.515,2015-09-12,06:27:00,84,snpp,Kuatan Hilir , Kuantan Singingi , Riau 
+-0.0951583,101.521,2015-09-12,06:27:00,100,snpp,Langgam , Pelalawan , Riau 
+-0.0654176,101.651,2015-09-12,06:27:00,70,snpp,Langgam , Pelalawan , Riau 
+-0.0667528,101.643,2015-09-12,06:27:00,75,snpp,Langgam , Pelalawan , Riau 
+-0.0693073,101.528,2015-09-12,06:27:00,39,snpp,Langgam , Pelalawan , Riau 
+-0.0436486,101.497,2015-09-12,06:27:00,53,snpp,Kampar Kiri Hilir , Kampar , Riau 
+0.0930669,100.924,2015-09-12,06:27:00,100,snpp,Tiga Belas Koto Kampar , Kampar , Riau 
+0.0916422,100.914,2015-09-12,06:27:00,69,snpp,Tiga Belas Koto Kampar , Kampar , Riau 
+0.099109,101.911674,2015-09-12,18:03:00,74,aqua,Pangkalan Kuras , Pelalawan , Riau 
+0.096428,101.903564,2015-09-12,18:03:00,34,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.137422,101.671097,2015-09-12,18:03:00,97,aqua,Langgam , Pelalawan , Riau 
+-0.142244,101.665779,2015-09-12,18:03:00,99,aqua,Langgam , Pelalawan , Riau 
+-0.819381,102.092667,2015-09-12,15:05:00,54,terra,Seberida , Indragiri Hulu , Riau 
+-0.814352,102.086769,2015-09-12,15:05:00,40,terra,Seberida , Indragiri Hulu , Riau 
+-0.778051,101.83696,2015-09-12,15:05:00,94,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.763862,101.834702,2015-09-12,15:05:00,89,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.774654,101.829842,2015-09-12,15:05:00,100,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.760461,101.827629,2015-09-12,15:05:00,74,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.200626,101.810486,2015-09-12,15:05:00,36,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.133228,101.544586,2015-09-12,15:05:00,81,terra,Kuatan Hilir , Kuantan Singingi , Riau 
+-0.041177,101.549919,2015-09-12,15:05:00,62,terra,Langgam , Pelalawan , Riau 
+0.068659,101.874977,2015-09-12,15:05:00,63,terra,Pangkalan Kuras , Pelalawan , Riau 
+0.103337,101.917526,2015-09-12,15:05:00,100,terra,Pangkalan Kuras , Pelalawan , Riau 
+0.099974,101.894302,2015-09-12,15:05:00,100,terra,Langgam , Pelalawan , Riau 
+0.326237,101.801109,2015-09-12,15:05:00,39,terra,Langgam , Pelalawan , Riau 
+0.320467,101.819504,2015-09-12,15:05:00,75,terra,Langgam , Pelalawan , Riau 
+0.316939,101.79583,2015-09-12,15:05:00,28,terra,Langgam , Pelalawan , Riau 
+0.089958,101.643684,2015-09-13,03:30:00,90,terra,Langgam , Pelalawan , Riau 
+0.094144,100.925079,2015-09-13,03:30:00,76,terra,Tiga Belas Koto Kampar , Kampar , Riau 
+-0.039817,101.540115,2015-09-13,03:30:00,98,terra,Langgam , Pelalawan , Riau 
+-0.050902,101.548943,2015-09-13,03:30:00,37,terra,Langgam , Pelalawan , Riau 
+-0.064565,101.640305,2015-09-13,03:30:00,12,terra,Langgam , Pelalawan , Riau 
+-0.076557,101.52449,2015-09-13,03:30:00,86,terra,Langgam , Pelalawan , Riau 
+-0.078066,101.534691,2015-09-13,03:30:00,78,terra,Langgam , Pelalawan , Riau 
+-0.096634,101.594414,2015-09-13,03:30:00,47,terra,Langgam , Pelalawan , Riau 
+-0.097197,101.532021,2015-09-13,03:30:00,59,terra,Langgam , Pelalawan , Riau 
+-0.160305,101.830688,2015-09-13,03:30:00,31,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.161745,101.840538,2015-09-13,03:30:00,80,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.128854,101.548401,2015-09-13,03:30:00,67,terra,Langgam , Pelalawan , Riau 
+-0.143589,101.649788,2015-09-13,03:30:00,93,terra,Langgam , Pelalawan , Riau 
+-0.145051,101.659836,2015-09-13,03:30:00,81,terra,Langgam , Pelalawan , Riau 
+-0.132049,101.541313,2015-09-13,03:30:00,38,terra,Kuatan Hilir , Kuantan Singingi , Riau 
+-0.148773,101.65271,2015-09-13,03:30:00,84,terra,Langgam , Pelalawan , Riau 
+-0.192418,101.879814,2015-09-13,03:30:00,53,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.202418,101.818085,2015-09-13,03:30:00,57,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.203886,101.827965,2015-09-13,03:30:00,85,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.216064,101.714851,2015-09-13,03:30:00,60,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.241528,101.822701,2015-09-13,03:30:00,54,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.25955,101.88028,2015-09-13,03:30:00,57,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.766372,101.830284,2015-09-13,03:30:00,96,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.767815,101.840012,2015-09-13,03:30:00,100,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.775732,101.828987,2015-09-13,03:30:00,49,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.777172,101.838722,2015-09-13,03:30:00,34,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.785801,101.897064,2015-09-13,03:30:00,81,terra,Peranap , Indragiri Hulu , Riau 
+-0.808081,101.85421,2015-09-13,03:30:00,27,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.897016,102.21627,2015-09-13,03:30:00,69,terra,Seberida , Indragiri Hulu , Riau 
+-0.898419,102.225685,2015-09-13,03:30:00,82,terra,Seberida , Indragiri Hulu , Riau 
+-0.871601,101.918304,2015-09-13,03:30:00,56,terra,Peranap , Indragiri Hulu , Riau 
+-0.846256,101.682747,2015-09-13,03:30:00,36,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.847699,101.692497,2015-09-13,03:30:00,72,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.880912,101.917,2015-09-13,03:30:00,47,terra,Peranap , Indragiri Hulu , Riau 
+-0.857113,101.6912,2015-09-13,03:30:00,36,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.962579,102.608269,2015-09-13,06:26:00,69,aqua,Keritang , Indragiri Hilir , Riau 
+-0.964365,102.595673,2015-09-13,06:26:00,74,aqua,Seberida , Indragiri Hulu , Riau 
+-0.928825,102.348907,2015-09-13,06:26:00,64,aqua,Seberida , Indragiri Hulu , Riau 
+-0.930619,102.336411,2015-09-13,06:26:00,43,aqua,Seberida , Indragiri Hulu , Riau 
+-0.860843,102.598747,2015-09-13,06:26:00,75,aqua,Seberida , Indragiri Hulu , Riau 
+-0.911607,102.238953,2015-09-13,06:26:00,41,aqua,Seberida , Indragiri Hulu , Riau 
+-0.961656,101.883896,2015-09-13,06:26:00,73,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.905228,102.10994,2015-09-13,06:26:00,32,aqua,Seberida , Indragiri Hulu , Riau 
+-0.935478,101.903336,2015-09-13,06:26:00,14,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.911322,101.914215,2015-09-13,06:26:00,93,aqua,Peranap , Indragiri Hulu , Riau 
+-0.87131,102.036446,2015-09-13,06:26:00,73,aqua,Seberida , Indragiri Hulu , Riau 
+-0.848952,102.115303,2015-09-13,06:26:00,22,aqua,Seberida , Indragiri Hulu , Riau 
+-0.868305,101.978989,2015-09-13,06:26:00,78,aqua,Peranap , Indragiri Hulu , Riau 
+-0.878174,101.909462,2015-09-13,06:26:00,64,aqua,Peranap , Indragiri Hulu , Riau 
+-0.893174,101.723145,2015-09-13,06:26:00,76,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.815664,102.090271,2015-09-13,06:26:00,78,aqua,Seberida , Indragiri Hulu , Riau 
+-0.836895,101.868202,2015-09-13,06:26:00,66,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.825815,101.866646,2015-09-13,06:26:00,49,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.852581,101.681763,2015-09-13,06:26:00,66,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.839333,101.694122,2015-09-13,06:26:00,72,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.841371,101.679947,2015-09-13,06:26:00,93,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.80565,101.849586,2015-09-13,06:26:00,90,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.788584,101.890091,2015-09-13,06:26:00,31,aqua,Peranap , Indragiri Hulu , Riau 
+-0.755205,101.879791,2015-09-13,06:26:00,59,aqua,Peranap , Indragiri Hulu , Riau 
+-0.748248,101.850136,2015-09-13,06:26:00,34,aqua,Peranap , Indragiri Hulu , Riau 
+-0.336013,102.005257,2015-09-13,06:26:00,55,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.108211,101.672157,2015-09-13,06:26:00,70,aqua,Langgam , Pelalawan , Riau 
+-0.164999,101.199028,2015-09-13,06:26:00,63,aqua,Singingi , Kuantan Singingi , Riau 
+0.082939,101.646339,2015-09-13,06:26:00,60,aqua,Langgam , Pelalawan , Riau 
+0.094035,101.64473,2015-09-13,06:26:00,92,aqua,Langgam , Pelalawan , Riau 
+0.092014,101.63063,2015-09-13,06:26:00,90,aqua,Langgam , Pelalawan , Riau 
+0.081595,100.922264,2015-09-13,06:26:00,37,aqua,Tiga Belas Koto Kampar , Kampar , Riau 
+0.093361,100.920662,2015-09-13,06:26:00,35,aqua,Tiga Belas Koto Kampar , Kampar , Riau 
+-1,102.62,2015-09-13,06:09:00,48,snpp,Seberida , Indragiri Hulu , Riau 
+-0.906405,102.24,2015-09-13,06:09:00,34,snpp,Seberida , Indragiri Hulu , Riau 
+-0.958906,101.884,2015-09-13,06:09:00,100,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.959741,101.878,2015-09-13,06:09:00,66,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.909268,102.244,2015-09-13,06:09:00,61,snpp,Seberida , Indragiri Hulu , Riau 
+-0.954958,101.884,2015-09-13,06:09:00,100,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.90005,102.108,2015-09-13,06:09:00,24,snpp,Seberida , Indragiri Hulu , Riau 
+-0.909474,101.913,2015-09-13,06:09:00,57,snpp,Peranap , Indragiri Hulu , Riau 
+-0.872093,102.092,2015-09-13,06:09:00,24,snpp,Seberida , Indragiri Hulu , Riau 
+-0.870392,102.036,2015-09-13,06:09:00,57,snpp,Seberida , Indragiri Hulu , Riau 
+-0.882476,101.956,2015-09-13,06:09:00,22,snpp,Peranap , Indragiri Hulu , Riau 
+-0.847328,102.122,2015-09-13,06:09:00,84,snpp,Seberida , Indragiri Hulu , Riau 
+-0.869109,101.977,2015-09-13,06:09:00,21,snpp,Peranap , Indragiri Hulu , Riau 
+-0.877657,101.92,2015-09-13,06:09:00,47,snpp,Peranap , Indragiri Hulu , Riau 
+-0.820969,102.096,2015-09-13,06:09:00,84,snpp,Seberida , Indragiri Hulu , Riau 
+-0.840818,101.961,2015-09-13,06:09:00,20,snpp,Peranap , Indragiri Hulu , Riau 
+-0.846602,101.955,2015-09-13,06:09:00,57,snpp,Peranap , Indragiri Hulu , Riau 
+-0.804159,102.098,2015-09-13,06:09:00,97,snpp,Seberida , Indragiri Hulu , Riau 
+-0.839029,101.872,2015-09-13,06:09:00,65,snpp,Peranap , Indragiri Hulu , Riau 
+-0.797643,102.074,2015-09-13,06:09:00,68,snpp,Seberida , Indragiri Hulu , Riau 
+-0.846112,101.692,2015-09-13,06:09:00,84,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.836875,101.684,2015-09-13,06:09:00,76,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.800564,101.855,2015-09-13,06:09:00,93,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.783582,101.899,2015-09-13,06:09:00,70,snpp,Peranap , Indragiri Hulu , Riau 
+-0.773567,101.898,2015-09-13,06:09:00,70,snpp,Peranap , Indragiri Hulu , Riau 
+-0.162247,101.199,2015-09-13,06:09:00,61,snpp,Singingi , Kuantan Singingi , Riau 
+0.668668,102.101311,2015-09-13,18:49:00,52,aqua,Siak Sri Indrapura , Siak , Riau 
+0.330598,101.831314,2015-09-13,18:49:00,13,aqua,Langgam , Pelalawan , Riau 
+0.329257,101.840454,2015-09-13,18:49:00,14,aqua,Langgam , Pelalawan , Riau 
+0.324206,101.811752,2015-09-13,18:49:00,67,aqua,Langgam , Pelalawan , Riau 
+0.322864,101.820885,2015-09-13,18:49:00,38,aqua,Langgam , Pelalawan , Riau 
+0.289165,101.670639,2015-09-13,18:49:00,77,aqua,Siak Hulu , Kampar , Riau 
+0.28012,101.669365,2015-09-13,18:49:00,40,aqua,Siak Hulu , Kampar , Riau 
+0.099428,101.898239,2015-09-13,18:49:00,29,aqua,Pangkalan Kuras , Pelalawan , Riau 
+0.09807,101.90744,2015-09-13,18:49:00,100,aqua,Pangkalan Kuras , Pelalawan , Riau 
+0.09671,101.916656,2015-09-13,18:49:00,51,aqua,Pangkalan Kuras , Pelalawan , Riau 
+0.075895,101.870239,2015-09-13,18:49:00,79,aqua,Pangkalan Kuras , Pelalawan , Riau 
+0.074555,101.879433,2015-09-13,18:49:00,31,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.14118,102.280273,2015-09-13,18:49:00,74,aqua,Kuala Kampar , Pelalawan , Riau 
+-0.150416,102.278961,2015-09-13,18:49:00,73,aqua,Kuala Kampar , Pelalawan , Riau 
+-0.075825,101.584557,2015-09-13,18:49:00,68,aqua,Langgam , Pelalawan , Riau 
+-0.084865,101.583267,2015-09-13,18:49:00,91,aqua,Langgam , Pelalawan , Riau 
+-0.167352,101.648361,2015-09-13,18:49:00,40,aqua,Langgam , Pelalawan , Riau 
+-0.168307,101.215523,2015-09-13,18:49:00,30,aqua,Singingi , Kuantan Singingi , Riau 
+-0.428391,102.545357,2015-09-13,18:49:00,100,aqua,Rengat , Indragiri Hulur , Riau 
+-0.429822,102.555138,2015-09-13,18:49:00,100,aqua,Rengat , Indragiri Hulur , Riau 
+-0.749789,102.661606,2015-09-13,18:49:00,68,aqua,Keritang , Indragiri Hilir , Riau 
+-0.886423,102.893944,2015-09-13,18:49:00,88,aqua,Keritang , Indragiri Hilir , Riau 
+-0.784126,101.8992,2015-09-13,18:49:00,100,aqua,Peranap , Indragiri Hulu , Riau 
+-0.785488,101.908524,2015-09-13,18:49:00,100,aqua,Peranap , Indragiri Hulu , Riau 
+-0.819799,102.1436,2015-09-13,18:49:00,23,aqua,Seberida , Indragiri Hulu , Riau 
+-0.796988,101.859428,2015-09-13,18:49:00,29,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.852862,101.984627,2015-09-13,18:49:00,99,aqua,Peranap , Indragiri Hulu , Riau 
+-0.854227,101.993866,2015-09-13,18:49:00,92,aqua,Peranap , Indragiri Hulu , Riau 
+-0.861448,101.987373,2015-09-13,18:49:00,57,aqua,Peranap , Indragiri Hulu , Riau 
+-0.861583,101.984619,2015-09-13,15:50:00,77,terra,Peranap , Indragiri Hulu , Riau 
+-0.85138,101.983078,2015-09-13,15:50:00,100,terra,Peranap , Indragiri Hulu , Riau 
+-0.792786,101.896729,2015-09-13,15:50:00,38,terra,Peranap , Indragiri Hulu , Riau 
+-0.796153,101.873512,2015-09-13,15:50:00,72,terra,Peranap , Indragiri Hulu , Riau 
+-0.782616,101.895309,2015-09-13,15:50:00,100,terra,Peranap , Indragiri Hulu , Riau 
+-0.434344,102.543007,2015-09-13,15:50:00,62,terra,Rengat , Indragiri Hulur , Riau 
+-0.147852,102.280426,2015-09-13,15:50:00,94,terra,Kuala Kampar , Pelalawan , Riau 
+-0.149619,102.26786,2015-09-13,15:50:00,92,terra,Kuala Kampar , Pelalawan , Riau 
+-0.04658,101.476997,2015-09-13,15:50:00,33,terra,Kampar Kiri Hilir , Kampar , Riau 
+0.235287,101.592026,2015-09-13,15:50:00,75,terra,Langgam , Pelalawan , Riau 
+0.287432,101.667229,2015-09-13,15:50:00,92,terra,Siak Hulu , Kampar , Riau 
+0.321617,101.830902,2015-09-13,15:50:00,86,terra,Langgam , Pelalawan , Riau 
+0.319882,101.81897,2015-09-13,15:50:00,15,terra,Langgam , Pelalawan , Riau 
+0.31815,101.807076,2015-09-13,15:50:00,95,terra,Langgam , Pelalawan , Riau 
+0.307825,101.736099,2015-09-13,15:50:00,55,terra,Langgam , Pelalawan , Riau 
+0.331896,101.829391,2015-09-13,15:50:00,57,terra,Langgam , Pelalawan , Riau 
+0.330113,101.836212,2015-09-13,15:50:00,44,terra,Langgam , Pelalawan , Riau 
+0.328445,101.824242,2015-09-13,15:50:00,73,terra,Langgam , Pelalawan , Riau 
+0.429716,101.309273,2015-09-13,15:50:00,30,terra,Tambang , Kampar , Riau 
+0,102.097,2015-09-13,18:48:00,57,snpp,Pangkalan Kuras , Pelalawan , Riau 
+0.326477,101.828,2015-09-13,18:48:00,88,snpp,Langgam , Pelalawan , Riau 
+0.325278,101.836,2015-09-13,18:48:00,63,snpp,Langgam , Pelalawan , Riau 
+0.321937,101.812,2015-09-13,18:48:00,90,snpp,Langgam , Pelalawan , Riau 
+0.310791,101.733,2015-09-13,18:48:00,19,snpp,Langgam , Pelalawan , Riau 
+0.285653,101.668,2015-09-13,18:48:00,98,snpp,Siak Hulu , Kampar , Riau 
+0.234305,101.591,2015-09-13,18:48:00,61,snpp,Langgam , Pelalawan , Riau 
+0,101.903,2015-09-13,18:50:00,100,snpp,Pangkalan Kuras , Pelalawan , Riau 
+0.0970427,101.911,2015-09-13,18:50:00,98,snpp,Pangkalan Kuras , Pelalawan , Riau 
+0.0912909,101.902,2015-09-13,18:50:00,70,snpp,Pangkalan Kuras , Pelalawan , Riau 
+0.0735921,101.869,2015-09-13,18:50:00,92,snpp,Pangkalan Kuras , Pelalawan , Riau 
+0.0395998,101.95,2015-09-13,18:50:00,81,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.147876,102.275,2015-09-13,18:50:00,100,snpp,Kuala Kampar , Pelalawan , Riau 
+-0.073674,101.576,2015-09-13,18:50:00,67,snpp,Langgam , Pelalawan , Riau 
+-0.081748,101.582,2015-09-13,18:50:00,62,snpp,Langgam , Pelalawan , Riau 
+-0.0886321,101.581,2015-09-13,18:50:00,99,snpp,Langgam , Pelalawan , Riau 
+-0.164552,101.825,2015-09-13,18:50:00,74,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.172305,101.738,2015-09-13,18:50:00,69,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.429148,102.549,2015-09-13,18:50:00,100,snpp,Rengat , Indragiri Hulur , Riau 
+-0.748536,102.659,2015-09-13,18:50:00,35,snpp,Keritang , Indragiri Hilir , Riau 
+-0.725483,102.323,2015-09-13,18:50:00,43,snpp,Seberida , Indragiri Hulu , Riau 
+-0.885265,102.893,2015-09-13,18:50:00,93,snpp,Keritang , Indragiri Hilir , Riau 
+-0.788273,101.898,2015-09-13,18:50:00,100,snpp,Peranap , Indragiri Hulu , Riau 
+-0.852742,101.985,2015-09-13,18:50:00,97,snpp,Peranap , Indragiri Hulu , Riau 
+-0.859807,101.984,2015-09-13,18:50:00,100,snpp,Peranap , Indragiri Hulu , Riau 
+-0.861583,101.984619,2015-09-13,15:50:00,77,terra,Peranap , Indragiri Hulu , Riau 
+-0.85138,101.983078,2015-09-13,15:50:00,100,terra,Peranap , Indragiri Hulu , Riau 
+-0.792786,101.896729,2015-09-13,15:50:00,38,terra,Peranap , Indragiri Hulu , Riau 
+-0.796153,101.873512,2015-09-13,15:50:00,72,terra,Peranap , Indragiri Hulu , Riau 
+-0.782616,101.895309,2015-09-13,15:50:00,100,terra,Peranap , Indragiri Hulu , Riau 
+-0.434344,102.543007,2015-09-13,15:50:00,62,terra,Rengat , Indragiri Hulur , Riau 
+-0.147852,102.280426,2015-09-13,15:50:00,94,terra,Kuala Kampar , Pelalawan , Riau 
+-0.149619,102.26786,2015-09-13,15:50:00,92,terra,Kuala Kampar , Pelalawan , Riau 
+-0.04658,101.476997,2015-09-13,15:50:00,33,terra,Kampar Kiri Hilir , Kampar , Riau 
+0.235287,101.592026,2015-09-13,15:50:00,75,terra,Langgam , Pelalawan , Riau 
+0.287432,101.667229,2015-09-13,15:50:00,92,terra,Siak Hulu , Kampar , Riau 
+0.321617,101.830902,2015-09-13,15:50:00,86,terra,Langgam , Pelalawan , Riau 
+0.319882,101.81897,2015-09-13,15:50:00,15,terra,Langgam , Pelalawan , Riau 
+0.31815,101.807076,2015-09-13,15:50:00,95,terra,Langgam , Pelalawan , Riau 
+0.307825,101.736099,2015-09-13,15:50:00,55,terra,Langgam , Pelalawan , Riau 
+0.331896,101.829391,2015-09-13,15:50:00,57,terra,Langgam , Pelalawan , Riau 
+0.330113,101.836212,2015-09-13,15:50:00,44,terra,Langgam , Pelalawan , Riau 
+0.328445,101.824242,2015-09-13,15:50:00,73,terra,Langgam , Pelalawan , Riau 
+0.429716,101.309273,2015-09-13,15:50:00,30,terra,Tambang , Kampar , Riau 
+-0.861583,101.984619,2015-09-13,15:50:00,77,terra,Peranap , Indragiri Hulu , Riau 
+-0.85138,101.983078,2015-09-13,15:50:00,100,terra,Peranap , Indragiri Hulu , Riau 
+-0.792786,101.896729,2015-09-13,15:50:00,38,terra,Peranap , Indragiri Hulu , Riau 
+-0.796153,101.873512,2015-09-13,15:50:00,72,terra,Peranap , Indragiri Hulu , Riau 
+-0.782616,101.895309,2015-09-13,15:50:00,100,terra,Peranap , Indragiri Hulu , Riau 
+-0.434344,102.543007,2015-09-13,15:50:00,62,terra,Rengat , Indragiri Hulur , Riau 
+-0.147852,102.280426,2015-09-13,15:50:00,94,terra,Kuala Kampar , Pelalawan , Riau 
+-0.149619,102.26786,2015-09-13,15:50:00,92,terra,Kuala Kampar , Pelalawan , Riau 
+-0.04658,101.476997,2015-09-13,15:50:00,33,terra,Kampar Kiri Hilir , Kampar , Riau 
+0.235287,101.592026,2015-09-13,15:50:00,75,terra,Langgam , Pelalawan , Riau 
+0.287432,101.667229,2015-09-13,15:50:00,92,terra,Siak Hulu , Kampar , Riau 
+0.321617,101.830902,2015-09-13,15:50:00,86,terra,Langgam , Pelalawan , Riau 
+0.319882,101.81897,2015-09-13,15:50:00,15,terra,Langgam , Pelalawan , Riau 
+0.31815,101.807076,2015-09-13,15:50:00,95,terra,Langgam , Pelalawan , Riau 
+0.307825,101.736099,2015-09-13,15:50:00,55,terra,Langgam , Pelalawan , Riau 
+0.331896,101.829391,2015-09-13,15:50:00,57,terra,Langgam , Pelalawan , Riau 
+0.330113,101.836212,2015-09-13,15:50:00,44,terra,Langgam , Pelalawan , Riau 
+0.328445,101.824242,2015-09-13,15:50:00,73,terra,Langgam , Pelalawan , Riau 
+0.429716,101.309273,2015-09-13,15:50:00,30,terra,Tambang , Kampar , Riau 
+-0.861583,101.984619,2015-09-13,15:50:00,77,terra,Peranap , Indragiri Hulu , Riau 
+-0.85138,101.983078,2015-09-13,15:50:00,100,terra,Peranap , Indragiri Hulu , Riau 
+-0.792786,101.896729,2015-09-13,15:50:00,38,terra,Peranap , Indragiri Hulu , Riau 
+-0.796153,101.873512,2015-09-13,15:50:00,72,terra,Peranap , Indragiri Hulu , Riau 
+-0.782616,101.895309,2015-09-13,15:50:00,100,terra,Peranap , Indragiri Hulu , Riau 
+-0.434344,102.543007,2015-09-13,15:50:00,62,terra,Rengat , Indragiri Hulur , Riau 
+-0.147852,102.280426,2015-09-13,15:50:00,94,terra,Kuala Kampar , Pelalawan , Riau 
+-0.149619,102.26786,2015-09-13,15:50:00,92,terra,Kuala Kampar , Pelalawan , Riau 
+-0.04658,101.476997,2015-09-13,15:50:00,33,terra,Kampar Kiri Hilir , Kampar , Riau 
+0.235287,101.592026,2015-09-13,15:50:00,75,terra,Langgam , Pelalawan , Riau 
+0.287432,101.667229,2015-09-13,15:50:00,92,terra,Siak Hulu , Kampar , Riau 
+0.321617,101.830902,2015-09-13,15:50:00,86,terra,Langgam , Pelalawan , Riau 
+0.319882,101.81897,2015-09-13,15:50:00,15,terra,Langgam , Pelalawan , Riau 
+0.31815,101.807076,2015-09-13,15:50:00,95,terra,Langgam , Pelalawan , Riau 
+0.307825,101.736099,2015-09-13,15:50:00,55,terra,Langgam , Pelalawan , Riau 
+0.331896,101.829391,2015-09-13,15:50:00,57,terra,Langgam , Pelalawan , Riau 
+0.330113,101.836212,2015-09-13,15:50:00,44,terra,Langgam , Pelalawan , Riau 
+0.328445,101.824242,2015-09-13,15:50:00,73,terra,Langgam , Pelalawan , Riau 
+0.429716,101.309273,2015-09-13,15:50:00,30,terra,Tambang , Kampar , Riau 
+0.314781,101.812,2015-09-14,18:31:00,56,snpp,Langgam , Pelalawan , Riau 
+0.0990842,101.9,2015-09-14,18:31:00,67,snpp,Pangkalan Kuras , Pelalawan , Riau 
+0.0966528,101.915,2015-09-14,18:31:00,31,snpp,Pangkalan Kuras , Pelalawan , Riau 
+0.0908742,101.906,2015-09-14,18:31:00,100,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.148166,102.275,2015-09-14,18:31:00,89,snpp,Kuala Kampar , Pelalawan , Riau 
+-0.317086,101.885,2015-09-14,18:31:00,95,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.428735,102.548,2015-09-14,18:31:00,75,snpp,Rengat , Indragiri Hulur , Riau 
+-0.517606,101.785,2015-09-14,18:31:00,72,snpp,Kuatan Hilir , Kuantan Singingi , Riau 
+-0.789202,101.633,2015-09-14,18:31:00,87,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.790397,101.641,2015-09-14,18:31:00,54,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.789959,101.634,2015-09-14,18:31:00,100,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+0,102.266037,2015-09-15,18:35:00,78,aqua,Bunut , Pelalawan , Riau 
+0.24763,102.275612,2015-09-15,18:35:00,78,aqua,Bunut , Pelalawan , Riau 
+0.31666,101.744026,2015-09-15,18:35:00,45,aqua,Langgam , Pelalawan , Riau 
+0.000424,101.945,2015-09-15,18:35:00,45,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.873791,102.002014,2015-09-15,18:35:00,42,aqua,Peranap , Indragiri Hulu , Riau 
+-0.892297,102.895218,2015-09-15,15:37:00,27,terra,Keritang , Indragiri Hilir , Riau 
+-0.883178,102.893913,2015-09-15,15:37:00,70,terra,Keritang , Indragiri Hilir , Riau 
+-0.884505,102.884666,2015-09-15,15:37:00,31,terra,Keritang , Indragiri Hilir , Riau 
+-0.474743,102.597908,2015-09-15,15:37:00,40,terra,Rengat , Indragiri Hulur , Riau 
+-0.426919,102.547874,2015-09-15,15:37:00,30,terra,Rengat , Indragiri Hulur , Riau 
+0.242087,102.269417,2015-09-15,15:37:00,91,terra,Bunut , Pelalawan , Riau 
+0.240791,102.260368,2015-09-15,15:37:00,42,terra,Bunut , Pelalawan , Riau 
+0.667953,102.094757,2015-09-15,15:37:00,75,terra,Siak Sri Indrapura , Siak , Riau 
+-0.548673,102.678,2015-09-17,06:32:00,100,snpp,Rengat , Indragiri Hulur , Riau 
+-0.0046803,101.938,2015-09-17,06:34:00,77,snpp,Pangkalan Kuras , Pelalawan , Riau 
+0.00320189,101.944,2015-09-17,06:34:00,94,snpp,Pangkalan Kuras , Pelalawan , Riau 
+0.338403,101.817612,2015-09-17,18:22:00,24,aqua,Langgam , Pelalawan , Riau 
+0.336077,101.833549,2015-09-17,18:22:00,97,aqua,Langgam , Pelalawan , Riau 
+-0.544454,102.680061,2015-09-17,18:22:00,83,aqua,Rengat , Indragiri Hulur , Riau 
+-0.909947,102.60614,2015-09-17,15:23:00,61,terra,Keritang , Indragiri Hilir , Riau 
+-0.003599,101.940147,2015-09-17,15:23:00,40,terra,Pangkalan Kuras , Pelalawan , Riau 
+0.102101,101.89724,2015-09-17,15:23:00,63,terra,Langgam , Pelalawan , Riau 
+0.327508,101.824203,2015-09-17,15:23:00,84,terra,Langgam , Pelalawan , Riau 
+-0.015489,101.477684,2015-09-18,03:50:00,80,terra,Kampar Kiri Hilir , Kampar , Riau 
+-0.039067,101.505333,2015-09-18,03:50:00,44,terra,Kampar Kiri Hilir , Kampar , Riau 
+-0.049155,101.477211,2015-09-18,03:50:00,59,terra,Kampar Kiri Hilir , Kampar , Riau 
+-0.050631,101.487396,2015-09-18,03:50:00,40,terra,Kampar Kiri Hilir , Kampar , Riau 
+-0.745351,102.055122,2015-09-18,03:50:00,73,terra,Peranap , Indragiri Hulu , Riau 
+-0.805638,102.32341,2015-09-18,03:50:00,45,terra,Seberida , Indragiri Hulu , Riau 
+-0.840993,102.080368,2015-09-18,03:50:00,74,terra,Seberida , Indragiri Hulu , Riau 
+-0.842644,102.091553,2015-09-18,03:50:00,65,terra,Seberida , Indragiri Hulu , Riau 
+-0.857564,101.986992,2015-09-18,03:50:00,25,terra,Peranap , Indragiri Hulu , Riau 
+-0.872571,102.087273,2015-09-18,03:50:00,49,terra,Seberida , Indragiri Hulu , Riau 
+-0.975884,102.629425,2015-09-18,06:40:00,72,aqua,Keritang , Indragiri Hilir , Riau 
+-0.963003,102.590523,2015-09-18,06:40:00,38,aqua,Seberida , Indragiri Hulu , Riau 
+-0.942606,102.213486,2015-09-18,06:40:00,73,aqua,Seberida , Indragiri Hulu , Riau 
+-0.910536,102.373756,2015-09-18,06:40:00,83,aqua,Seberida , Indragiri Hulu , Riau 
+-0.911821,102.364769,2015-09-18,06:40:00,71,aqua,Seberida , Indragiri Hulu , Riau 
+-0.910546,102.117645,2015-09-18,06:40:00,86,aqua,Seberida , Indragiri Hulu , Riau 
+-0.911832,102.108688,2015-09-18,06:40:00,92,aqua,Seberida , Indragiri Hulu , Riau 
+-0.887463,102.214729,2015-09-18,06:40:00,74,aqua,Seberida , Indragiri Hulu , Riau 
+-0.878229,102.216736,2015-09-18,06:40:00,89,aqua,Seberida , Indragiri Hulu , Riau 
+-0.925288,101.886581,2015-09-18,06:40:00,70,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.857761,102.296059,2015-09-18,06:40:00,48,aqua,Seberida , Indragiri Hulu , Riau 
+-0.908714,101.938705,2015-09-18,06:40:00,94,aqua,Peranap , Indragiri Hulu , Riau 
+-0.847485,102.303833,2015-09-18,06:40:00,57,aqua,Seberida , Indragiri Hulu , Riau 
+-0.853887,102.258934,2015-09-18,06:40:00,30,aqua,Seberida , Indragiri Hulu , Riau 
+-0.855167,102.249947,2015-09-18,06:40:00,88,aqua,Seberida , Indragiri Hulu , Riau 
+-0.84234,102.275604,2015-09-18,06:40:00,55,aqua,Seberida , Indragiri Hulu , Riau 
+-0.843619,102.266647,2015-09-18,06:40:00,63,aqua,Seberida , Indragiri Hulu , Riau 
+-0.84746,102.239738,2015-09-18,06:40:00,89,aqua,Seberida , Indragiri Hulu , Riau 
+-0.856405,102.177078,2015-09-18,06:40:00,84,aqua,Seberida , Indragiri Hulu , Riau 
+-0.857684,102.168121,2015-09-18,06:40:00,92,aqua,Seberida , Indragiri Hulu , Riau 
+-0.862789,102.132362,2015-09-18,06:40:00,68,aqua,Seberida , Indragiri Hulu , Riau 
+-0.866616,102.105553,2015-09-18,06:40:00,42,aqua,Seberida , Indragiri Hulu , Riau 
+-0.881904,101.998474,2015-09-18,06:40:00,56,aqua,Seberida , Indragiri Hulu , Riau 
+-0.892078,101.927231,2015-09-18,06:40:00,82,aqua,Peranap , Indragiri Hulu , Riau 
+-0.830785,102.292297,2015-09-18,06:40:00,83,aqua,Seberida , Indragiri Hulu , Riau 
+-0.833351,102.274338,2015-09-18,06:40:00,80,aqua,Seberida , Indragiri Hulu , Riau 
+-0.834632,102.265373,2015-09-18,06:40:00,62,aqua,Seberida , Indragiri Hulu , Riau 
+-0.864028,102.059624,2015-09-18,06:40:00,95,aqua,Seberida , Indragiri Hulu , Riau 
+-0.87931,101.95266,2015-09-18,06:40:00,98,aqua,Peranap , Indragiri Hulu , Riau 
+-0.880581,101.943756,2015-09-18,06:40:00,91,aqua,Peranap , Indragiri Hulu , Riau 
+-0.884397,101.917046,2015-09-18,06:40:00,92,aqua,Peranap , Indragiri Hulu , Riau 
+-0.82949,102.237213,2015-09-18,06:40:00,53,aqua,Seberida , Indragiri Hulu , Riau 
+-0.83334,102.210289,2015-09-18,06:40:00,80,aqua,Seberida , Indragiri Hulu , Riau 
+-0.871627,101.942467,2015-09-18,06:40:00,90,aqua,Peranap , Indragiri Hulu , Riau 
+-0.875444,101.915764,2015-09-18,06:40:00,72,aqua,Peranap , Indragiri Hulu , Riau 
+-0.807678,102.325554,2015-09-18,06:40:00,64,aqua,Seberida , Indragiri Hulu , Riau 
+-0.808958,102.316612,2015-09-18,06:40:00,30,aqua,Seberida , Indragiri Hulu , Riau 
+-0.82179,102.226967,2015-09-18,06:40:00,85,aqua,Seberida , Indragiri Hulu , Riau 
+-0.823075,102.217987,2015-09-18,06:40:00,56,aqua,Seberida , Indragiri Hulu , Riau 
+-0.849933,102.030289,2015-09-18,06:40:00,88,aqua,Seberida , Indragiri Hulu , Riau 
+-0.851212,102.021347,2015-09-18,06:40:00,93,aqua,Seberida , Indragiri Hulu , Riau 
+-0.852497,102.012383,2015-09-18,06:40:00,82,aqua,Peranap , Indragiri Hulu , Riau 
+-0.89446,101.718758,2015-09-18,06:40:00,76,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.838393,101.983154,2015-09-18,06:40:00,70,aqua,Peranap , Indragiri Hulu , Riau 
+-0.794849,102.223091,2015-09-18,06:40:00,82,aqua,Seberida , Indragiri Hulu , Riau 
+-0.83028,101.902794,2015-09-18,06:40:00,64,aqua,Peranap , Indragiri Hulu , Riau 
+-0.818728,101.855728,2015-09-18,06:40:00,23,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.793197,101.906548,2015-09-18,06:40:00,29,aqua,Peranap , Indragiri Hulu , Riau 
+-0.717721,102.370392,2015-09-18,06:40:00,100,aqua,Seberida , Indragiri Hulu , Riau 
+-0.719009,102.361397,2015-09-18,06:40:00,98,aqua,Seberida , Indragiri Hulu , Riau 
+-0.753621,102.055473,2015-09-18,06:40:00,78,aqua,Peranap , Indragiri Hulu , Riau 
+-0.763751,101.856911,2015-09-18,06:40:00,86,aqua,Peranap , Indragiri Hulu , Riau 
+-0.766295,101.839127,2015-09-18,06:40:00,76,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.752928,101.804199,2015-09-18,06:40:00,43,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.44272,103.136505,2015-09-18,06:40:00,66,aqua,Enok , Indragiri Hilir , Riau 
+-0.444069,103.127045,2015-09-18,06:40:00,81,aqua,Enok , Indragiri Hilir , Riau 
+-0.434856,103.125717,2015-09-18,06:40:00,83,aqua,Tembilahan , Indragiri Hilir , Riau 
+-0.41252,102.707779,2015-09-18,06:40:00,42,aqua,Tempuling , Indragiri Hilir , Riau 
+-0.402119,102.715652,2015-09-18,06:40:00,52,aqua,Tempuling , Indragiri Hilir , Riau 
+-0.390396,102.732742,2015-09-18,06:40:00,89,aqua,Tempuling , Indragiri Hilir , Riau 
+-0.391713,102.723534,2015-09-18,06:40:00,92,aqua,Tempuling , Indragiri Hilir , Riau 
+-0.460552,101.986336,2015-09-18,06:40:00,95,aqua,Peranap , Indragiri Hulu , Riau 
+-0.461831,101.977409,2015-09-18,06:40:00,75,aqua,Peranap , Indragiri Hulu , Riau 
+-0.45258,101.969597,2015-09-18,06:40:00,79,aqua,Peranap , Indragiri Hulu , Riau 
+-0.374494,102.003922,2015-09-18,06:40:00,82,aqua,Pasir Penyu , Indragiri Hulu , Riau 
+-0.252235,102.411743,2015-09-18,06:40:00,83,aqua,Rengat , Indragiri Hulur , Riau 
+-0.306161,101.842659,2015-09-18,06:40:00,58,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.307435,101.833755,2015-09-18,06:40:00,77,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.290829,101.885925,2015-09-18,06:40:00,73,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.292105,101.877007,2015-09-18,06:40:00,86,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.29338,101.868103,2015-09-18,06:40:00,84,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.253464,102.010689,2015-09-18,06:40:00,57,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.275094,101.858986,2015-09-18,06:40:00,77,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.227831,101.997894,2015-09-18,06:40:00,63,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.237996,101.862747,2015-09-18,06:40:00,69,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.114152,102.599304,2015-09-18,06:40:00,61,aqua,Rengat , Indragiri Hulur , Riau 
+-0.115468,102.590141,2015-09-18,06:40:00,65,aqua,Rengat , Indragiri Hulur , Riau 
+-0.226455,101.815636,2015-09-18,06:40:00,40,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.170946,101.820068,2015-09-18,06:40:00,86,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.16199,101.818787,2015-09-18,06:40:00,79,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.187413,101.640785,2015-09-18,06:40:00,34,aqua,Langgam , Pelalawan , Riau 
+-0.130713,101.644394,2015-09-18,06:40:00,47,aqua,Langgam , Pelalawan , Riau 
+-0.131983,101.635506,2015-09-18,06:40:00,75,aqua,Langgam , Pelalawan , Riau 
+-0.133253,101.626617,2015-09-18,06:40:00,24,aqua,Langgam , Pelalawan , Riau 
+-0.119226,101.660896,2015-09-18,06:40:00,76,aqua,Langgam , Pelalawan , Riau 
+-0.121765,101.643112,2015-09-18,06:40:00,90,aqua,Langgam , Pelalawan , Riau 
+-0.123036,101.634224,2015-09-18,06:40:00,100,aqua,Langgam , Pelalawan , Riau 
+-0.124305,101.625328,2015-09-18,06:40:00,100,aqua,Langgam , Pelalawan , Riau 
+-0.125575,101.61644,2015-09-18,06:40:00,82,aqua,Langgam , Pelalawan , Riau 
+-0.109008,101.668503,2015-09-18,06:40:00,69,aqua,Langgam , Pelalawan , Riau 
+-0.110278,101.659615,2015-09-18,06:40:00,82,aqua,Langgam , Pelalawan , Riau 
+-0.112818,101.64183,2015-09-18,06:40:00,78,aqua,Langgam , Pelalawan , Riau 
+-0.114088,101.632935,2015-09-18,06:40:00,100,aqua,Langgam , Pelalawan , Riau 
+-0.115358,101.624046,2015-09-18,06:40:00,100,aqua,Langgam , Pelalawan , Riau 
+-0.116628,101.61515,2015-09-18,06:40:00,85,aqua,Langgam , Pelalawan , Riau 
+-0.119168,101.597374,2015-09-18,06:40:00,68,aqua,Langgam , Pelalawan , Riau 
+-0.10641,101.622765,2015-09-18,06:40:00,89,aqua,Langgam , Pelalawan , Riau 
+-0.10768,101.613869,2015-09-18,06:40:00,100,aqua,Langgam , Pelalawan , Riau 
+-0.108951,101.60498,2015-09-18,06:40:00,91,aqua,Langgam , Pelalawan , Riau 
+-0.097463,101.621475,2015-09-18,06:40:00,95,aqua,Langgam , Pelalawan , Riau 
+-0.105084,101.568138,2015-09-18,06:40:00,100,aqua,Langgam , Pelalawan , Riau 
+-0.106355,101.559242,2015-09-18,06:40:00,80,aqua,Langgam , Pelalawan , Riau 
+-0.110165,101.532578,2015-09-18,06:40:00,62,aqua,Langgam , Pelalawan , Riau 
+-0.07072,101.74472,2015-09-18,06:40:00,71,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.093597,101.584633,2015-09-18,06:40:00,54,aqua,Langgam , Pelalawan , Riau 
+-0.096138,101.566849,2015-09-18,06:40:00,100,aqua,Langgam , Pelalawan , Riau 
+-0.097408,101.557961,2015-09-18,06:40:00,87,aqua,Langgam , Pelalawan , Riau 
+0.18688,103.412186,2015-09-18,06:40:00,57,aqua,Mandah , Indragiri Hilir , Riau 
+-0.040074,101.83123,2015-09-18,06:40:00,95,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.041349,101.822311,2015-09-18,06:40:00,92,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.076973,101.573174,2015-09-18,06:40:00,23,aqua,Langgam , Pelalawan , Riau 
+-0.078188,101.500771,2015-09-18,06:40:00,35,aqua,Kampar Kiri Hilir , Kampar , Riau 
+-0.03176,101.697151,2015-09-18,06:40:00,60,aqua,Langgam , Pelalawan , Riau 
+-0.033029,101.688248,2015-09-18,06:40:00,72,aqua,Langgam , Pelalawan , Riau 
+-0.037991,101.525581,2015-09-18,06:40:00,38,aqua,Langgam , Pelalawan , Riau 
+-0.044344,101.481125,2015-09-18,06:40:00,94,aqua,Kampar Kiri Hilir , Kampar , Riau 
+-0.045614,101.472229,2015-09-18,06:40:00,100,aqua,Kampar Kiri Hilir , Kampar , Riau 
+-0.046885,101.463341,2015-09-18,06:40:00,52,aqua,Kampar Kiri Hilir , Kampar , Riau 
+-0.029044,101.5243,2015-09-18,06:40:00,71,aqua,Langgam , Pelalawan , Riau 
+-0.035397,101.479836,2015-09-18,06:40:00,93,aqua,Kampar Kiri Hilir , Kampar , Riau 
+-0.036667,101.470947,2015-09-18,06:40:00,100,aqua,Kampar Kiri Hilir , Kampar , Riau 
+-0.037938,101.462051,2015-09-18,06:40:00,80,aqua,Kampar Kiri Hilir , Kampar , Riau 
+-0.026449,101.478554,2015-09-18,06:40:00,56,aqua,Kampar Kiri Hilir , Kampar , Riau 
+-0.027719,101.469666,2015-09-18,06:40:00,90,aqua,Kampar Kiri Hilir , Kampar , Riau 
+-0.02899,101.46077,2015-09-18,06:40:00,51,aqua,Kampar Kiri Hilir , Kampar , Riau 
+-0.017501,101.477272,2015-09-18,06:40:00,95,aqua,Kampar Kiri Hilir , Kampar , Riau 
+-0.018772,101.468376,2015-09-18,06:40:00,99,aqua,Kampar Kiri Hilir , Kampar , Riau 
+0.10012,101.908035,2015-09-18,06:40:00,94,aqua,Pangkalan Kuras , Pelalawan , Riau 
+0.115594,101.760185,2015-09-18,06:40:00,66,aqua,Langgam , Pelalawan , Riau 
+0.186555,101.617203,2015-09-18,06:40:00,71,aqua,Langgam , Pelalawan , Riau 
+0.163688,101.457123,2015-09-18,06:40:00,99,aqua,Kampar Kiri Hilir , Kampar , Riau 
+0.162417,101.448227,2015-09-18,06:40:00,78,aqua,Kampar Kiri Hilir , Kampar , Riau 
+0.195504,101.615921,2015-09-18,06:40:00,45,aqua,Langgam , Pelalawan , Riau 
+0.172635,101.455841,2015-09-18,06:40:00,93,aqua,Kampar Kiri Hilir , Kampar , Riau 
+0.171365,101.446945,2015-09-18,06:40:00,75,aqua,Kampar Kiri Hilir , Kampar , Riau 
+0.327465,101.826729,2015-09-18,06:40:00,100,aqua,Langgam , Pelalawan , Riau 
+0.324913,101.808884,2015-09-18,06:40:00,65,aqua,Langgam , Pelalawan , Riau 
+0.356353,101.517059,2015-09-18,06:40:00,68,aqua,Siak Hulu , Kampar , Riau 
+0.355083,101.508171,2015-09-18,06:40:00,82,aqua,Siak Hulu , Kampar , Riau 
+0.411883,101.321007,2015-09-18,06:40:00,62,aqua,Tambang , Kampar , Riau 
+0.943101,101.887566,2015-09-18,06:40:00,19,aqua,Siak , Siak , Riau 
+-0.975884,102.629425,2015-09-18,06:43:00,72,aqua,Keritang , Indragiri Hilir , Riau 
+-0.963003,102.590523,2015-09-18,06:43:00,38,aqua,Seberida , Indragiri Hulu , Riau 
+-0.942606,102.213486,2015-09-18,06:43:00,73,aqua,Seberida , Indragiri Hulu , Riau 
+-0.910536,102.373756,2015-09-18,06:43:00,83,aqua,Seberida , Indragiri Hulu , Riau 
+-0.911821,102.364769,2015-09-18,06:43:00,71,aqua,Seberida , Indragiri Hulu , Riau 
+-0.910546,102.117645,2015-09-18,06:43:00,86,aqua,Seberida , Indragiri Hulu , Riau 
+-0.911832,102.108688,2015-09-18,06:43:00,92,aqua,Seberida , Indragiri Hulu , Riau 
+-0.887463,102.214729,2015-09-18,06:43:00,74,aqua,Seberida , Indragiri Hulu , Riau 
+-0.878229,102.216736,2015-09-18,06:43:00,89,aqua,Seberida , Indragiri Hulu , Riau 
+-0.925288,101.886581,2015-09-18,06:43:00,70,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.857761,102.296059,2015-09-18,06:43:00,48,aqua,Seberida , Indragiri Hulu , Riau 
+-0.908714,101.938698,2015-09-18,06:43:00,94,aqua,Peranap , Indragiri Hulu , Riau 
+-0.847485,102.303833,2015-09-18,06:43:00,57,aqua,Seberida , Indragiri Hulu , Riau 
+-0.853887,102.258926,2015-09-18,06:43:00,30,aqua,Seberida , Indragiri Hulu , Riau 
+-0.855167,102.249947,2015-09-18,06:43:00,88,aqua,Seberida , Indragiri Hulu , Riau 
+-0.84234,102.275604,2015-09-18,06:43:00,55,aqua,Seberida , Indragiri Hulu , Riau 
+-0.843619,102.266647,2015-09-18,06:43:00,63,aqua,Seberida , Indragiri Hulu , Riau 
+-0.84746,102.239731,2015-09-18,06:43:00,89,aqua,Seberida , Indragiri Hulu , Riau 
+-0.856405,102.177078,2015-09-18,06:43:00,84,aqua,Seberida , Indragiri Hulu , Riau 
+-0.857684,102.168121,2015-09-18,06:43:00,92,aqua,Seberida , Indragiri Hulu , Riau 
+-0.862789,102.132362,2015-09-18,06:43:00,68,aqua,Seberida , Indragiri Hulu , Riau 
+-0.866617,102.105553,2015-09-18,06:43:00,42,aqua,Seberida , Indragiri Hulu , Riau 
+-0.881904,101.998474,2015-09-18,06:43:00,56,aqua,Seberida , Indragiri Hulu , Riau 
+-0.892079,101.927231,2015-09-18,06:43:00,82,aqua,Peranap , Indragiri Hulu , Riau 
+-0.830785,102.292297,2015-09-18,06:43:00,83,aqua,Seberida , Indragiri Hulu , Riau 
+-0.833351,102.274338,2015-09-18,06:43:00,80,aqua,Seberida , Indragiri Hulu , Riau 
+-0.834632,102.265373,2015-09-18,06:43:00,62,aqua,Seberida , Indragiri Hulu , Riau 
+-0.864028,102.059624,2015-09-18,06:43:00,95,aqua,Seberida , Indragiri Hulu , Riau 
+-0.87931,101.95266,2015-09-18,06:43:00,98,aqua,Peranap , Indragiri Hulu , Riau 
+-0.880581,101.943756,2015-09-18,06:43:00,91,aqua,Peranap , Indragiri Hulu , Riau 
+-0.884397,101.917046,2015-09-18,06:43:00,92,aqua,Peranap , Indragiri Hulu , Riau 
+-0.82949,102.237213,2015-09-18,06:43:00,53,aqua,Seberida , Indragiri Hulu , Riau 
+-0.83334,102.210289,2015-09-18,06:43:00,80,aqua,Seberida , Indragiri Hulu , Riau 
+-0.871628,101.942467,2015-09-18,06:43:00,90,aqua,Peranap , Indragiri Hulu , Riau 
+-0.875444,101.915764,2015-09-18,06:43:00,72,aqua,Peranap , Indragiri Hulu , Riau 
+-0.807678,102.325554,2015-09-18,06:43:00,64,aqua,Seberida , Indragiri Hulu , Riau 
+-0.808958,102.316612,2015-09-18,06:43:00,30,aqua,Seberida , Indragiri Hulu , Riau 
+-0.82179,102.226959,2015-09-18,06:43:00,85,aqua,Seberida , Indragiri Hulu , Riau 
+-0.823075,102.217987,2015-09-18,06:43:00,56,aqua,Seberida , Indragiri Hulu , Riau 
+-0.849933,102.030289,2015-09-18,06:43:00,88,aqua,Seberida , Indragiri Hulu , Riau 
+-0.851213,102.021347,2015-09-18,06:43:00,93,aqua,Seberida , Indragiri Hulu , Riau 
+-0.852497,102.012383,2015-09-18,06:43:00,82,aqua,Peranap , Indragiri Hulu , Riau 
+-0.89446,101.718758,2015-09-18,06:43:00,76,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.838393,101.983154,2015-09-18,06:43:00,70,aqua,Peranap , Indragiri Hulu , Riau 
+-0.794849,102.223091,2015-09-18,06:43:00,82,aqua,Seberida , Indragiri Hulu , Riau 
+-0.83028,101.902794,2015-09-18,06:43:00,64,aqua,Peranap , Indragiri Hulu , Riau 
+-0.818728,101.855736,2015-09-18,06:43:00,23,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.793197,101.906548,2015-09-18,06:43:00,29,aqua,Peranap , Indragiri Hulu , Riau 
+-0.717721,102.370399,2015-09-18,06:43:00,100,aqua,Seberida , Indragiri Hulu , Riau 
+-0.719009,102.361397,2015-09-18,06:43:00,98,aqua,Seberida , Indragiri Hulu , Riau 
+-0.753621,102.055473,2015-09-18,06:43:00,78,aqua,Peranap , Indragiri Hulu , Riau 
+-0.763751,101.856918,2015-09-18,06:43:00,86,aqua,Peranap , Indragiri Hulu , Riau 
+-0.766294,101.839127,2015-09-18,06:43:00,76,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.752928,101.804199,2015-09-18,06:43:00,43,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.44272,103.136505,2015-09-18,06:43:00,66,aqua,Enok , Indragiri Hilir , Riau 
+-0.444069,103.127045,2015-09-18,06:43:00,81,aqua,Enok , Indragiri Hilir , Riau 
+-0.434856,103.125717,2015-09-18,06:43:00,83,aqua,Tembilahan , Indragiri Hilir , Riau 
+-0.41252,102.707779,2015-09-18,06:43:00,42,aqua,Tempuling , Indragiri Hilir , Riau 
+-0.40212,102.715652,2015-09-18,06:43:00,52,aqua,Tempuling , Indragiri Hilir , Riau 
+-0.390396,102.732742,2015-09-18,06:43:00,89,aqua,Tempuling , Indragiri Hilir , Riau 
+-0.391713,102.723534,2015-09-18,06:43:00,92,aqua,Tempuling , Indragiri Hilir , Riau 
+-0.460552,101.986336,2015-09-18,06:43:00,95,aqua,Peranap , Indragiri Hulu , Riau 
+-0.461831,101.977409,2015-09-18,06:43:00,75,aqua,Peranap , Indragiri Hulu , Riau 
+-0.45258,101.969597,2015-09-18,06:43:00,79,aqua,Peranap , Indragiri Hulu , Riau 
+-0.374494,102.003922,2015-09-18,06:43:00,82,aqua,Pasir Penyu , Indragiri Hulu , Riau 
+-0.252235,102.411743,2015-09-18,06:43:00,83,aqua,Rengat , Indragiri Hulur , Riau 
+-0.306162,101.842659,2015-09-18,06:43:00,58,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.307435,101.833755,2015-09-18,06:43:00,77,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.290829,101.885925,2015-09-18,06:43:00,73,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.292105,101.877007,2015-09-18,06:43:00,86,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.29338,101.868103,2015-09-18,06:43:00,84,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.253464,102.010689,2015-09-18,06:43:00,57,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.275095,101.858986,2015-09-18,06:43:00,77,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.227832,101.997894,2015-09-18,06:43:00,63,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.237996,101.862747,2015-09-18,06:43:00,69,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.114152,102.599304,2015-09-18,06:43:00,61,aqua,Rengat , Indragiri Hulur , Riau 
+-0.115468,102.590141,2015-09-18,06:43:00,65,aqua,Rengat , Indragiri Hulur , Riau 
+-0.226455,101.815636,2015-09-18,06:43:00,40,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.170945,101.820068,2015-09-18,06:43:00,86,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.16199,101.818794,2015-09-18,06:43:00,79,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.187413,101.640785,2015-09-18,06:43:00,34,aqua,Langgam , Pelalawan , Riau 
+-0.130713,101.644394,2015-09-18,06:43:00,47,aqua,Langgam , Pelalawan , Riau 
+-0.131983,101.635506,2015-09-18,06:43:00,75,aqua,Langgam , Pelalawan , Riau 
+-0.133253,101.62661,2015-09-18,06:43:00,24,aqua,Langgam , Pelalawan , Riau 
+-0.119226,101.660896,2015-09-18,06:43:00,76,aqua,Langgam , Pelalawan , Riau 
+-0.121765,101.643112,2015-09-18,06:43:00,90,aqua,Langgam , Pelalawan , Riau 
+-0.123036,101.634224,2015-09-18,06:43:00,100,aqua,Langgam , Pelalawan , Riau 
+-0.124306,101.625328,2015-09-18,06:43:00,100,aqua,Langgam , Pelalawan , Riau 
+-0.125575,101.61644,2015-09-18,06:43:00,82,aqua,Langgam , Pelalawan , Riau 
+-0.109008,101.668503,2015-09-18,06:43:00,69,aqua,Langgam , Pelalawan , Riau 
+-0.110278,101.659607,2015-09-18,06:43:00,82,aqua,Langgam , Pelalawan , Riau 
+-0.112818,101.64183,2015-09-18,06:43:00,78,aqua,Langgam , Pelalawan , Riau 
+-0.114088,101.632935,2015-09-18,06:43:00,100,aqua,Langgam , Pelalawan , Riau 
+-0.115358,101.624046,2015-09-18,06:43:00,100,aqua,Langgam , Pelalawan , Riau 
+-0.116628,101.61515,2015-09-18,06:43:00,85,aqua,Langgam , Pelalawan , Riau 
+-0.119168,101.597374,2015-09-18,06:43:00,68,aqua,Langgam , Pelalawan , Riau 
+-0.10641,101.622757,2015-09-18,06:43:00,89,aqua,Langgam , Pelalawan , Riau 
+-0.10768,101.613869,2015-09-18,06:43:00,100,aqua,Langgam , Pelalawan , Riau 
+-0.108951,101.60498,2015-09-18,06:43:00,91,aqua,Langgam , Pelalawan , Riau 
+-0.097463,101.621475,2015-09-18,06:43:00,95,aqua,Langgam , Pelalawan , Riau 
+-0.105084,101.56813,2015-09-18,06:43:00,100,aqua,Langgam , Pelalawan , Riau 
+-0.106355,101.559242,2015-09-18,06:43:00,80,aqua,Langgam , Pelalawan , Riau 
+-0.110165,101.532578,2015-09-18,06:43:00,62,aqua,Langgam , Pelalawan , Riau 
+-0.07072,101.74472,2015-09-18,06:43:00,71,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.093597,101.584633,2015-09-18,06:43:00,54,aqua,Langgam , Pelalawan , Riau 
+-0.096138,101.566849,2015-09-18,06:43:00,100,aqua,Langgam , Pelalawan , Riau 
+-0.097408,101.557961,2015-09-18,06:43:00,87,aqua,Langgam , Pelalawan , Riau 
+0.18688,103.412186,2015-09-18,06:43:00,57,aqua,Mandah , Indragiri Hilir , Riau 
+-0.040074,101.83123,2015-09-18,06:43:00,95,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.041349,101.822311,2015-09-18,06:43:00,92,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.076973,101.573174,2015-09-18,06:43:00,23,aqua,Langgam , Pelalawan , Riau 
+-0.078188,101.500771,2015-09-18,06:43:00,35,aqua,Kampar Kiri Hilir , Kampar , Riau 
+-0.031759,101.697151,2015-09-18,06:43:00,60,aqua,Langgam , Pelalawan , Riau 
+-0.033029,101.688248,2015-09-18,06:43:00,72,aqua,Langgam , Pelalawan , Riau 
+-0.03799,101.525589,2015-09-18,06:43:00,38,aqua,Langgam , Pelalawan , Riau 
+-0.044343,101.481125,2015-09-18,06:43:00,94,aqua,Kampar Kiri Hilir , Kampar , Riau 
+-0.045614,101.472237,2015-09-18,06:43:00,100,aqua,Kampar Kiri Hilir , Kampar , Riau 
+-0.046885,101.463341,2015-09-18,06:43:00,52,aqua,Kampar Kiri Hilir , Kampar , Riau 
+-0.029044,101.5243,2015-09-18,06:43:00,71,aqua,Langgam , Pelalawan , Riau 
+-0.035396,101.479843,2015-09-18,06:43:00,93,aqua,Kampar Kiri Hilir , Kampar , Riau 
+-0.036667,101.470947,2015-09-18,06:43:00,100,aqua,Kampar Kiri Hilir , Kampar , Riau 
+-0.037937,101.462059,2015-09-18,06:43:00,80,aqua,Kampar Kiri Hilir , Kampar , Riau 
+-0.026449,101.478554,2015-09-18,06:43:00,56,aqua,Kampar Kiri Hilir , Kampar , Riau 
+-0.027719,101.469666,2015-09-18,06:43:00,90,aqua,Kampar Kiri Hilir , Kampar , Riau 
+-0.02899,101.46077,2015-09-18,06:43:00,51,aqua,Kampar Kiri Hilir , Kampar , Riau 
+-0.017501,101.477272,2015-09-18,06:43:00,95,aqua,Kampar Kiri Hilir , Kampar , Riau 
+-0.018771,101.468384,2015-09-18,06:43:00,99,aqua,Kampar Kiri Hilir , Kampar , Riau 
+0.10012,101.908035,2015-09-18,06:43:00,94,aqua,Pangkalan Kuras , Pelalawan , Riau 
+0.115594,101.760185,2015-09-18,06:43:00,66,aqua,Langgam , Pelalawan , Riau 
+0.186555,101.617203,2015-09-18,06:43:00,71,aqua,Langgam , Pelalawan , Riau 
+0.163687,101.457123,2015-09-18,06:43:00,99,aqua,Kampar Kiri Hilir , Kampar , Riau 
+0.162417,101.448227,2015-09-18,06:43:00,78,aqua,Kampar Kiri Hilir , Kampar , Riau 
+0.195504,101.615921,2015-09-18,06:43:00,45,aqua,Langgam , Pelalawan , Riau 
+0.172635,101.455841,2015-09-18,06:43:00,93,aqua,Kampar Kiri Hilir , Kampar , Riau 
+0.171365,101.446945,2015-09-18,06:43:00,75,aqua,Kampar Kiri Hilir , Kampar , Riau 
+0.327465,101.826729,2015-09-18,06:43:00,100,aqua,Langgam , Pelalawan , Riau 
+0.324913,101.808884,2015-09-18,06:43:00,65,aqua,Langgam , Pelalawan , Riau 
+0.356353,101.517059,2015-09-18,06:43:00,68,aqua,Siak Hulu , Kampar , Riau 
+0.355083,101.508171,2015-09-18,06:43:00,82,aqua,Siak Hulu , Kampar , Riau 
+0.411883,101.321007,2015-09-18,06:43:00,62,aqua,Tambang , Kampar , Riau 
+0.943101,101.887566,2015-09-18,06:43:00,19,aqua,Siak , Siak , Riau 
+0,101.845161,2015-09-18,19:09:00,65,aqua,Pangkalan Kuras , Pelalawan , Riau 
+0.331901,101.829308,2015-09-18,19:09:00,90,aqua,Langgam , Pelalawan , Riau 
+-0.406943,102.570137,2015-09-18,19:09:00,55,aqua,Rengat , Indragiri Hulur , Riau 
+-0.405041,102.565079,2015-09-18,19:09:00,27,aqua,Rengat , Indragiri Hulur , Riau 
+0.840305,101.842,2015-09-18,18:55:00,78,snpp,Siak Sri Indrapura , Siak , Riau 
+0.832872,101.84,2015-09-18,18:55:00,87,snpp,Siak Sri Indrapura , Siak , Riau 
+0.316034,103.331,2015-09-18,18:55:00,76,snpp,Mandah , Indragiri Hilir , Riau 
+0.317241,103.332,2015-09-18,18:55:00,73,snpp,Mandah , Indragiri Hilir , Riau 
+0.249339,102.267,2015-09-18,18:55:00,18,snpp,Bunut , Pelalawan , Riau 
+0.241652,102.265,2015-09-18,18:55:00,65,snpp,Bunut , Pelalawan , Riau 
+0.251531,101.759,2015-09-18,18:55:00,61,snpp,Langgam , Pelalawan , Riau 
+0.114022,101.896,2015-09-18,18:55:00,48,snpp,Langgam , Pelalawan , Riau 
+0.0969226,101.905,2015-09-18,18:55:00,49,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.0129164,102.31,2015-09-18,18:55:00,53,snpp,Kuala Kampar , Pelalawan , Riau 
+-0.0340883,101.469,2015-09-18,18:55:00,89,snpp,Kampar Kiri Hilir , Kampar , Riau 
+-0.0428335,101.477,2015-09-18,18:55:00,6,snpp,Kampar Kiri Hilir , Kampar , Riau 
+-0.0369633,101.471,2015-09-18,18:55:00,92,snpp,Kampar Kiri Hilir , Kampar , Riau 
+-0.0657734,101.511,2015-09-18,18:55:00,37,snpp,Kampar Kiri Hilir , Kampar , Riau 
+-0.106269,101.576,2015-09-18,18:55:00,41,snpp,Langgam , Pelalawan , Riau 
+-0.114535,101.629,2015-09-18,18:55:00,44,snpp,Langgam , Pelalawan , Riau 
+-0.115914,101.638,2015-09-18,18:55:00,14,snpp,Langgam , Pelalawan , Riau 
+-0.122485,101.582,2015-09-18,18:55:00,96,snpp,Langgam , Pelalawan , Riau 
+-0.30087,102.512,2015-09-18,18:55:00,91,snpp,Rengat , Indragiri Hulur , Riau 
+0,102.271,2015-09-18,18:56:00,53,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.389254,102.734886,2015-09-19,15:11:00,70,terra,Tempuling , Indragiri Hilir , Riau 
+-0.391501,102.719276,2015-09-19,15:11:00,87,terra,Tempuling , Indragiri Hilir , Riau 
+-0.303998,102.522858,2015-09-19,15:11:00,65,terra,Rengat , Indragiri Hulur , Riau 
+0.064331,103.589699,2015-09-19,15:11:00,51,terra,Enok , Indragiri Hilir , Riau 
+-0.022247,102.31337,2015-09-19,15:11:00,97,terra,Kuala Kampar , Pelalawan , Riau 
+-0.014648,102.32354,2015-09-19,15:11:00,83,terra,Kuala Kampar , Pelalawan , Riau 
+-0.017074,102.307022,2015-09-19,15:11:00,100,terra,Kuala Kampar , Pelalawan , Riau 
+-0.005127,102.305237,2015-09-19,15:11:00,47,terra,Kuala Kampar , Pelalawan , Riau 
+-0.007541,102.288689,2015-09-19,15:11:00,46,terra,Kuala Kampar , Pelalawan , Riau 
+-0.098328,101.577827,2015-09-19,15:11:00,29,terra,Langgam , Pelalawan , Riau 
+0.102782,101.897728,2015-09-19,15:11:00,76,terra,Langgam , Pelalawan , Riau 
+0.105321,101.891884,2015-09-19,15:11:00,80,terra,Langgam , Pelalawan , Riau 
+0.240369,102.268448,2015-09-19,15:11:00,53,terra,Bunut , Pelalawan , Riau 
+0.25302,101.754051,2015-09-19,15:11:00,26,terra,Langgam , Pelalawan , Riau 
+0.31489,101.813072,2015-09-19,15:11:00,35,terra,Langgam , Pelalawan , Riau 
+0.329832,101.829193,2015-09-19,15:11:00,91,terra,Langgam , Pelalawan , Riau 
+0.327266,101.811302,2015-09-19,15:11:00,100,terra,Langgam , Pelalawan , Riau 
+0.34218,101.827354,2015-09-19,15:11:00,74,terra,Langgam , Pelalawan , Riau 
+0.339627,101.809433,2015-09-19,15:11:00,26,terra,Langgam , Pelalawan , Riau 
+0.344625,101.820412,2015-09-19,15:11:00,52,terra,Langgam , Pelalawan , Riau 
+0.667835,102.097069,2015-09-19,15:11:00,100,terra,Siak Sri Indrapura , Siak , Riau 
+0.663168,102.109428,2015-09-19,15:11:00,69,terra,Siak Sri Indrapura , Siak , Riau 
+0.660645,102.092628,2015-09-19,15:11:00,100,terra,Siak Sri Indrapura , Siak , Riau 
+0.826196,101.834625,2015-09-19,15:11:00,100,terra,Siak Sri Indrapura , Siak , Riau 
+0.832068,101.846085,2015-09-19,15:11:00,100,terra,Siak Sri Indrapura , Siak , Riau 
+0.829475,101.828629,2015-09-19,15:11:00,100,terra,Siak Sri Indrapura , Siak , Riau 
+1.003141,101.060188,2015-09-19,15:11:00,50,terra,Pinggir , Bengkalis , Riau 
+0.981589,101.994,2015-09-19,18:36:00,79,snpp,Sungai Apit , Siak , Riau 
+1.01145,101.064,2015-09-19,18:36:00,100,snpp,Pinggir , Bengkalis , Riau 
+1.0103,101.072,2015-09-19,18:36:00,100,snpp,Pinggir , Bengkalis , Riau 
+0.836776,101.842,2015-09-19,18:36:00,100,snpp,Siak Sri Indrapura , Siak , Riau 
+0.831189,101.834,2015-09-19,18:36:00,100,snpp,Siak Sri Indrapura , Siak , Riau 
+0.830076,101.841,2015-09-19,18:36:00,100,snpp,Siak Sri Indrapura , Siak , Riau 
+0.666758,102.102,2015-09-19,18:36:00,83,snpp,Siak Sri Indrapura , Siak , Riau 
+0.661191,102.094,2015-09-19,18:36:00,100,snpp,Siak Sri Indrapura , Siak , Riau 
+0.310989,103.335,2015-09-19,18:36:00,50,snpp,Mandah , Indragiri Hilir , Riau 
+0.195408,103.423,2015-09-19,18:36:00,64,snpp,Mandah , Indragiri Hilir , Riau 
+0.343727,101.831,2015-09-19,18:36:00,46,snpp,Langgam , Pelalawan , Riau 
+0.338144,101.823,2015-09-19,18:36:00,100,snpp,Langgam , Pelalawan , Riau 
+0.0603794,103.595,2015-09-19,18:36:00,74,snpp,Enok , Indragiri Hilir , Riau 
+0.332548,101.815,2015-09-19,18:36:00,100,snpp,Langgam , Pelalawan , Riau 
+0.331456,101.822,2015-09-19,18:36:00,100,snpp,Langgam , Pelalawan , Riau 
+0.324764,101.821,2015-09-19,18:36:00,100,snpp,Langgam , Pelalawan , Riau 
+0.312493,101.812,2015-09-19,18:36:00,78,snpp,Langgam , Pelalawan , Riau 
+0.132673,102.572,2015-09-19,18:36:00,47,snpp,Kuala Kampar , Pelalawan , Riau 
+0.11038,101.895,2015-09-19,18:36:00,100,snpp,Langgam , Pelalawan , Riau 
+0.173139,101.449,2015-09-19,18:36:00,79,snpp,Kampar Kiri Hilir , Kampar , Riau 
+0.103708,101.894,2015-09-19,18:36:00,95,snpp,Langgam , Pelalawan , Riau 
+0.102614,101.901,2015-09-19,18:36:00,38,snpp,Langgam , Pelalawan , Riau 
+0.0959468,101.9,2015-09-19,18:36:00,62,snpp,Pangkalan Kuras , Pelalawan , Riau 
+0.0744856,101.868,2015-09-19,18:36:00,76,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.0154414,102.309,2015-09-19,18:36:00,58,snpp,Kuala Kampar , Pelalawan , Riau 
+-0.0165262,102.316,2015-09-19,18:36:00,5,snpp,Kuala Kampar , Pelalawan , Riau 
+0.0395168,101.611,2015-09-19,18:36:00,32,snpp,Langgam , Pelalawan , Riau 
+-0.0594831,101.509,2015-09-19,18:36:00,50,snpp,Kampar Kiri Hilir , Kampar , Riau 
+-0.066198,101.508,2015-09-19,18:36:00,65,snpp,Kampar Kiri Hilir , Kampar , Riau 
+-0.0850393,101.584,2015-09-19,18:36:00,62,snpp,Langgam , Pelalawan , Riau 
+-0.0917513,101.583,2015-09-19,18:36:00,24,snpp,Langgam , Pelalawan , Riau 
+-0.103813,101.582,2015-09-19,18:36:00,41,snpp,Langgam , Pelalawan , Riau 
+-0.10941,101.574,2015-09-19,18:36:00,61,snpp,Langgam , Pelalawan , Riau 
+-0.297949,102.513,2015-09-19,18:36:00,69,snpp,Rengat , Indragiri Hulur , Riau 
+-0.299029,102.52,2015-09-19,18:36:00,98,snpp,Rengat , Indragiri Hulur , Riau 
+-0.30566,102.519,2015-09-19,18:36:00,60,snpp,Rengat , Indragiri Hulur , Riau 
+-0.390429,102.717,2015-09-19,18:36:00,68,snpp,Tempuling , Indragiri Hilir , Riau 
+-0.397059,102.716,2015-09-19,18:36:00,53,snpp,Tempuling , Indragiri Hilir , Riau 
+-0.4131,102.558,2015-09-19,18:36:00,78,snpp,Rengat , Indragiri Hulur , Riau 
+-0.763586,101.902,2015-09-19,18:37:00,26,snpp,Peranap , Indragiri Hulu , Riau 
+-0.764679,101.909,2015-09-19,18:37:00,34,snpp,Peranap , Indragiri Hulu , Riau 
+-0.771328,101.908,2015-09-19,18:37:00,45,snpp,Peranap , Indragiri Hulu , Riau 
+1.808252,101.136665,2015-09-20,03:36:00,27,terra,Tanah Putih , Rokan Hilir , Riau 
+1.35648,102.4478,2015-09-20,03:36:00,35,terra,Bengkalis , Bengkalis , Riau 
+1.433566,100.792953,2015-09-20,03:36:00,72,terra,Tanah Putih , Rokan Hilir , Riau 
+1.012529,101.717667,2015-09-20,03:36:00,36,terra,Siak , Siak , Riau 
+0.973035,101.548149,2015-09-20,03:36:00,28,terra,Siak , Siak , Riau 
+0.836974,101.846222,2015-09-20,03:36:00,85,terra,Siak Sri Indrapura , Siak , Riau 
+0.827969,101.844948,2015-09-20,03:36:00,84,terra,Siak Sri Indrapura , Siak , Riau 
+0.860619,101.497665,2015-09-20,03:36:00,50,terra,Siak , Siak , Riau 
+0.543185,103.211113,2015-09-20,03:36:00,58,terra,Kuala Kampar , Pelalawan , Riau 
+0.566516,102.306053,2015-09-20,03:36:00,34,terra,Bunut , Pelalawan , Riau 
+0.68258,101.209099,2015-09-20,03:36:00,51,terra,Tapung , Kampar , Riau 
+0.530761,101.985619,2015-09-20,03:36:00,40,terra,Bunut , Pelalawan , Riau 
+0.313313,103.332397,2015-09-20,03:36:00,79,terra,Mandah , Indragiri Hilir , Riau 
+0.390357,101.998787,2015-09-20,03:36:00,70,terra,Bunut , Pelalawan , Riau 
+0.471516,101.326988,2015-09-20,03:36:00,75,terra,Tapung , Kampar , Riau 
+0.342296,101.827454,2015-09-20,03:36:00,88,terra,Langgam , Pelalawan , Riau 
+0.340975,101.836433,2015-09-20,03:36:00,49,terra,Langgam , Pelalawan , Riau 
+0.334622,101.8172,2015-09-20,03:36:00,91,terra,Langgam , Pelalawan , Riau 
+0.333303,101.82618,2015-09-20,03:36:00,89,terra,Langgam , Pelalawan , Riau 
+0.325024,101.818436,2015-09-20,03:36:00,87,terra,Langgam , Pelalawan , Riau 
+0.323694,101.827408,2015-09-20,03:36:00,48,terra,Langgam , Pelalawan , Riau 
+0.317362,101.808182,2015-09-20,03:36:00,48,terra,Langgam , Pelalawan , Riau 
+0.316032,101.817154,2015-09-20,03:36:00,74,terra,Langgam , Pelalawan , Riau 
+0.283276,101.665512,2015-09-20,03:36:00,18,terra,Siak Hulu , Kampar , Riau 
+0.250689,101.762032,2015-09-20,03:36:00,78,terra,Langgam , Pelalawan , Riau 
+0.144098,101.85997,2015-09-20,03:36:00,54,terra,Langgam , Pelalawan , Riau 
+0.176552,101.452812,2015-09-20,03:36:00,84,terra,Kampar Kiri Hilir , Kampar , Riau 
+0.077857,101.87146,2015-09-20,03:36:00,30,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.016041,102.321815,2015-09-20,03:36:00,94,terra,Kuala Kampar , Pelalawan , Riau 
+-0.017353,102.330696,2015-09-20,03:36:00,79,terra,Kuala Kampar , Pelalawan , Riau 
+0.031709,101.931892,2015-09-20,03:36:00,62,terra,Pangkalan Kuras , Pelalawan , Riau 
+0.043558,101.603775,2015-09-20,03:36:00,76,terra,Langgam , Pelalawan , Riau 
+0.042225,101.612793,2015-09-20,03:36:00,96,terra,Langgam , Pelalawan , Riau 
+-0.190285,102.811829,2015-09-20,03:36:00,53,terra,Gaunganakserka , Indragiri Hilir , Riau 
+-0.287251,102.409943,2015-09-20,03:36:00,76,terra,Rengat , Indragiri Hulur , Riau 
+-0.303023,102.516655,2015-09-20,03:36:00,84,terra,Rengat , Indragiri Hulur , Riau 
+-0.304338,102.525551,2015-09-20,03:36:00,72,terra,Rengat , Indragiri Hulur , Riau 
+-0.390628,102.734329,2015-09-20,03:36:00,33,terra,Tempuling , Indragiri Hilir , Riau 
+-0.9199,102.581711,2015-09-20,06:29:00,66,aqua,Keritang , Indragiri Hilir , Riau 
+-0.890241,102.721054,2015-09-20,06:29:00,42,aqua,Keritang , Indragiri Hilir , Riau 
+-0.819604,102.222084,2015-09-20,06:29:00,36,aqua,Seberida , Indragiri Hulu , Riau 
+-0.688979,102.126488,2015-09-20,06:29:00,81,aqua,Pasir Penyu , Indragiri Hulu , Riau 
+-0.690497,102.11586,2015-09-20,06:29:00,51,aqua,Pasir Penyu , Indragiri Hulu , Riau 
+-0.592282,102.436974,2015-09-20,06:29:00,69,aqua,Seberida , Indragiri Hulu , Riau 
+-0.303387,102.521919,2015-09-20,06:29:00,63,aqua,Rengat , Indragiri Hulur , Riau 
+-0.272467,102.330551,2015-09-20,06:29:00,84,aqua,Rengat , Indragiri Hulur , Riau 
+0.06393,103.661995,2015-09-20,06:29:00,61,aqua,Enok , Indragiri Hilir , Riau 
+0.061206,103.578453,2015-09-20,06:29:00,51,aqua,Enok , Indragiri Hilir , Riau 
+-0.167355,101.916626,2015-09-20,06:29:00,64,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.134889,101.717102,2015-09-20,06:29:00,77,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.016935,102.328377,2015-09-20,06:29:00,82,aqua,Kuala Kampar , Pelalawan , Riau 
+-0.019862,102.307938,2015-09-20,06:29:00,88,aqua,Kuala Kampar , Pelalawan , Riau 
+-0.106724,101.701775,2015-09-20,06:29:00,59,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.108313,101.690689,2015-09-20,06:29:00,94,aqua,Langgam , Pelalawan , Riau 
+-0.109913,101.679527,2015-09-20,06:29:00,96,aqua,Langgam , Pelalawan , Riau 
+-0.099973,101.678108,2015-09-20,06:29:00,82,aqua,Langgam , Pelalawan , Riau 
+-0.017083,101.959435,2015-09-20,06:29:00,29,aqua,Pangkalan Kuras , Pelalawan , Riau 
+0.28016,103.628067,2015-09-20,06:29:00,67,aqua,Mandah , Indragiri Hilir , Riau 
+0.129199,102.568024,2015-09-20,06:29:00,72,aqua,Kuala Kampar , Pelalawan , Riau 
+0.039925,101.940292,2015-09-20,06:29:00,70,aqua,Pangkalan Kuras , Pelalawan , Riau 
+0.006451,101.633347,2015-09-20,06:29:00,64,aqua,Langgam , Pelalawan , Riau 
+0.277465,103.479042,2015-09-20,06:29:00,33,aqua,Mandah , Indragiri Hilir , Riau 
+0.044808,101.757278,2015-09-20,06:29:00,68,aqua,Langgam , Pelalawan , Riau 
+0.070469,101.864479,2015-09-20,06:29:00,75,aqua,Pangkalan Kuras , Pelalawan , Riau 
+0.033778,101.612236,2015-09-20,06:29:00,79,aqua,Langgam , Pelalawan , Riau 
+0.032159,101.601105,2015-09-20,06:29:00,76,aqua,Langgam , Pelalawan , Riau 
+0.04213,101.599693,2015-09-20,06:29:00,79,aqua,Langgam , Pelalawan , Riau 
+0.324717,103.494492,2015-09-20,06:29:00,88,aqua,Mandah , Indragiri Hilir , Riau 
+0.1045,101.892525,2015-09-20,06:29:00,51,aqua,Langgam , Pelalawan , Riau 
+0.230772,102.263588,2015-09-20,06:29:00,91,aqua,Bunut , Pelalawan , Riau 
+0.241806,102.272453,2015-09-20,06:29:00,87,aqua,Bunut , Pelalawan , Riau 
+0.238858,102.251976,2015-09-20,06:29:00,94,aqua,Bunut , Pelalawan , Riau 
+0.155665,101.461601,2015-09-20,06:29:00,41,aqua,Kampar Kiri Hilir , Kampar , Riau 
+0.165709,101.460152,2015-09-20,06:29:00,79,aqua,Kampar Kiri Hilir , Kampar , Riau 
+0.164098,101.448776,2015-09-20,06:29:00,82,aqua,Kampar Kiri Hilir , Kampar , Riau 
+0.282331,102.214264,2015-09-20,06:29:00,67,aqua,Bunut , Pelalawan , Riau 
+0.174101,101.453255,2015-09-20,06:29:00,80,aqua,Kampar Kiri Hilir , Kampar , Riau 
+0.172426,101.441879,2015-09-20,06:29:00,80,aqua,Kampar Kiri Hilir , Kampar , Riau 
+0.249376,101.760178,2015-09-20,06:29:00,81,aqua,Langgam , Pelalawan , Riau 
+0.247797,101.749283,2015-09-20,06:29:00,65,aqua,Langgam , Pelalawan , Riau 
+0.306258,101.807289,2015-09-20,06:29:00,85,aqua,Langgam , Pelalawan , Riau 
+0.256062,101.453049,2015-09-20,06:29:00,68,aqua,Kampar Kiri Hilir , Kampar , Riau 
+0.320629,101.838219,2015-09-20,06:29:00,87,aqua,Langgam , Pelalawan , Riau 
+0.319109,101.827446,2015-09-20,06:29:00,85,aqua,Langgam , Pelalawan , Riau 
+0.317587,101.816666,2015-09-20,06:29:00,87,aqua,Langgam , Pelalawan , Riau 
+0.323884,101.842323,2015-09-20,06:29:00,52,aqua,Langgam , Pelalawan , Riau 
+0.320726,101.820808,2015-09-20,06:29:00,92,aqua,Langgam , Pelalawan , Riau 
+0.332096,101.830185,2015-09-20,06:29:00,65,aqua,Langgam , Pelalawan , Riau 
+0.330524,101.819427,2015-09-20,06:29:00,99,aqua,Langgam , Pelalawan , Riau 
+0.328943,101.808624,2015-09-20,06:29:00,68,aqua,Langgam , Pelalawan , Riau 
+0.343446,101.839508,2015-09-20,06:29:00,94,aqua,Langgam , Pelalawan , Riau 
+0.34188,101.828758,2015-09-20,06:29:00,100,aqua,Langgam , Pelalawan , Riau 
+0.338739,101.807182,2015-09-20,06:29:00,78,aqua,Langgam , Pelalawan , Riau 
+0.353221,101.838066,2015-09-20,06:29:00,80,aqua,Langgam , Pelalawan , Riau 
+0.351662,101.827316,2015-09-20,06:29:00,54,aqua,Langgam , Pelalawan , Riau 
+0.285768,101.302025,2015-09-20,06:29:00,40,aqua,Tambang , Kampar , Riau 
+0.586397,103.25943,2015-09-20,06:29:00,77,aqua,Kuala Kampar , Pelalawan , Riau 
+0.356984,101.512711,2015-09-20,06:29:00,74,aqua,Siak Hulu , Kampar , Riau 
+0.528871,101.984825,2015-09-20,06:29:00,30,aqua,Bunut , Pelalawan , Riau 
+0.556909,101.905449,2015-09-20,06:29:00,69,aqua,Siak Sri Indrapura , Siak , Riau 
+0.658183,102.109261,2015-09-20,06:29:00,75,aqua,Siak Sri Indrapura , Siak , Riau 
+0.642454,101.29657,2015-09-20,06:29:00,62,aqua,Tapung , Kampar , Riau 
+0.640788,101.285133,2015-09-20,06:29:00,75,aqua,Tapung , Kampar , Riau 
+0.716025,101.245354,2015-09-20,06:29:00,39,aqua,Tapung Hilir , Kampar , Riau 
+0.833828,101.847839,2015-09-20,06:29:00,36,aqua,Siak Sri Indrapura , Siak , Riau 
+0.832302,101.837242,2015-09-20,06:29:00,94,aqua,Siak Sri Indrapura , Siak , Riau 
+0.883531,101.757858,2015-09-20,06:29:00,75,aqua,Siak , Siak , Riau 
+1.007753,101.065651,2015-09-20,06:29:00,82,aqua,Pinggir , Bengkalis , Riau 
+1.155006,101.524147,2015-09-20,06:29:00,48,aqua,Pinggir , Bengkalis , Riau 
+1.008097,100.204071,2015-09-20,06:29:00,38,aqua,Tembusan , Rokan Hulu , Riau 
+1.345538,100.66806,2015-09-20,06:29:00,69,aqua,Tanah Putih , Rokan Hilir , Riau 
+1.415504,100.855774,2015-09-20,06:29:00,85,aqua,Tanah Putih , Rokan Hilir , Riau 
+-0.54468,102.687653,2015-09-20,15:57:00,87,terra,Rengat , Indragiri Hulur , Riau 
+-0.547181,102.670471,2015-09-20,15:57:00,82,terra,Rengat , Indragiri Hulur , Riau 
+-0.012282,102.315514,2015-09-20,15:57:00,67,terra,Kuala Kampar , Pelalawan , Riau 
+-0.014707,102.299088,2015-09-20,15:57:00,82,terra,Kuala Kampar , Pelalawan , Riau 
+-0.103895,101.693916,2015-09-20,15:57:00,55,terra,Langgam , Pelalawan , Riau 
+-0.106045,101.679298,2015-09-20,15:57:00,63,terra,Langgam , Pelalawan , Riau 
+-0.108195,101.664688,2015-09-20,15:57:00,20,terra,Langgam , Pelalawan , Riau 
+-0.110349,101.650047,2015-09-20,15:57:00,74,terra,Langgam , Pelalawan , Riau 
+-0.002804,102.297424,2015-09-20,15:57:00,90,terra,Kuala Kampar , Pelalawan , Riau 
+-0.005241,102.281021,2015-09-20,15:57:00,32,terra,Kuala Kampar , Pelalawan , Riau 
+-0.0186,102.309677,2015-09-20,15:57:00,50,terra,Kuala Kampar , Pelalawan , Riau 
+-0.105361,101.6875,2015-09-20,15:57:00,17,terra,Langgam , Pelalawan , Riau 
+-0.109454,101.658173,2015-09-20,15:57:00,27,terra,Langgam , Pelalawan , Riau 
+-0.006687,102.307976,2015-09-20,15:57:00,34,terra,Kuala Kampar , Pelalawan , Riau 
+-0.008998,102.291512,2015-09-20,15:57:00,98,terra,Kuala Kampar , Pelalawan , Riau 
+0.109515,101.896606,2015-09-20,15:57:00,84,terra,Langgam , Pelalawan , Riau 
+0.106231,101.890594,2015-09-20,15:57:00,77,terra,Langgam , Pelalawan , Riau 
+0.24503,102.276115,2015-09-20,15:57:00,25,terra,Bunut , Pelalawan , Riau 
+0.242627,102.259674,2015-09-20,15:57:00,100,terra,Bunut , Pelalawan , Riau 
+0.240228,102.243256,2015-09-20,15:57:00,79,terra,Bunut , Pelalawan , Riau 
+0.248146,102.253326,2015-09-20,15:57:00,82,terra,Bunut , Pelalawan , Riau 
+0.249001,101.755676,2015-09-20,15:57:00,65,terra,Langgam , Pelalawan , Riau 
+0.314481,101.81694,2015-09-20,15:57:00,100,terra,Langgam , Pelalawan , Riau 
+0.312322,101.801712,2015-09-20,15:57:00,63,terra,Langgam , Pelalawan , Riau 
+0.291016,101.651497,2015-09-20,15:57:00,35,terra,Siak Hulu , Kampar , Riau 
+0.325986,101.815224,2015-09-20,15:57:00,100,terra,Langgam , Pelalawan , Riau 
+0.323826,101.800102,2015-09-20,15:57:00,100,terra,Langgam , Pelalawan , Riau 
+0.339693,101.828842,2015-09-20,15:57:00,100,terra,Langgam , Pelalawan , Riau 
+0.337499,101.813576,2015-09-20,15:57:00,23,terra,Langgam , Pelalawan , Riau 
+0.351229,101.82724,2015-09-20,15:57:00,36,terra,Langgam , Pelalawan , Riau 
+0.34902,101.811974,2015-09-20,15:57:00,60,terra,Langgam , Pelalawan , Riau 
+0.41428,101.875298,2015-09-20,15:57:00,52,terra,Bunut , Pelalawan , Riau 
+0.611964,103.178368,2015-09-20,15:57:00,54,terra,Kuala Kampar , Pelalawan , Riau 
+0.834939,101.837585,2015-09-20,15:57:00,100,terra,Siak Sri Indrapura , Siak , Riau 
+0.833047,101.84713,2015-09-20,15:57:00,77,terra,Siak Sri Indrapura , Siak , Riau 
+0.83089,101.831505,2015-09-20,15:57:00,100,terra,Siak Sri Indrapura , Siak , Riau 
+1.008699,101.062462,2015-09-20,15:57:00,100,terra,Pinggir , Bengkalis , Riau 
+1.011845,101.070244,2015-09-20,15:57:00,100,terra,Pinggir , Bengkalis , Riau 
+1.009931,101.056473,2015-09-20,15:57:00,79,terra,Pinggir , Bengkalis , Riau 
+1.159218,101.625,2015-09-20,15:57:00,100,terra,Pinggir , Bengkalis , Riau 
+1.157037,101.609886,2015-09-20,15:57:00,100,terra,Pinggir , Bengkalis , Riau 
+1.907762,101.407791,2015-09-20,18:56:00,77,aqua,Rupat , Bengkalis , Riau 
+1.90175,101.401306,2015-09-20,18:56:00,75,aqua,Rupat , Bengkalis , Riau 
+1.158087,101.622993,2015-09-20,18:56:00,92,aqua,Pinggir , Bengkalis , Riau 
+1.011452,101.064285,2015-09-20,18:56:00,100,aqua,Pinggir , Bengkalis , Riau 
+1.010053,101.073845,2015-09-20,18:56:00,100,aqua,Pinggir , Bengkalis , Riau 
+0.839073,101.840515,2015-09-20,18:56:00,89,aqua,Siak Sri Indrapura , Siak , Riau 
+0.829442,101.839134,2015-09-20,18:56:00,48,aqua,Siak Sri Indrapura , Siak , Riau 
+0.611475,103.1828,2015-09-20,18:56:00,87,aqua,Kuala Kampar , Pelalawan , Riau 
+0.4121,101.887032,2015-09-20,18:56:00,13,aqua,Bunut , Pelalawan , Riau 
+0.34777,101.829178,2015-09-20,18:56:00,57,aqua,Langgam , Pelalawan , Riau 
+0.346246,101.839661,2015-09-20,18:56:00,47,aqua,Langgam , Pelalawan , Riau 
+0.344716,101.850182,2015-09-20,18:56:00,28,aqua,Langgam , Pelalawan , Riau 
+0.329941,101.81588,2015-09-20,18:56:00,29,aqua,Langgam , Pelalawan , Riau 
+0.328403,101.826378,2015-09-20,18:56:00,49,aqua,Langgam , Pelalawan , Riau 
+0.321796,101.804077,2015-09-20,18:56:00,17,aqua,Langgam , Pelalawan , Riau 
+0.320258,101.814529,2015-09-20,18:56:00,80,aqua,Langgam , Pelalawan , Riau 
+0.318714,101.82502,2015-09-20,18:56:00,55,aqua,Langgam , Pelalawan , Riau 
+0.310578,101.813148,2015-09-20,18:56:00,57,aqua,Langgam , Pelalawan , Riau 
+0.245244,102.255394,2015-09-20,18:56:00,99,aqua,Bunut , Pelalawan , Riau 
+0.243601,102.266518,2015-09-20,18:56:00,100,aqua,Bunut , Pelalawan , Riau 
+0.241955,102.277664,2015-09-20,18:56:00,100,aqua,Bunut , Pelalawan , Riau 
+0.11498,101.891411,2015-09-20,18:56:00,56,aqua,Langgam , Pelalawan , Riau 
+0.113408,101.902061,2015-09-20,18:56:00,93,aqua,Langgam , Pelalawan , Riau 
+0.103652,101.900688,2015-09-20,18:56:00,80,aqua,Langgam , Pelalawan , Riau 
+0.076673,101.86834,2015-09-20,18:56:00,52,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.004893,102.292038,2015-09-20,18:56:00,34,aqua,Kuala Kampar , Pelalawan , Riau 
+-0.006534,102.303329,2015-09-20,18:56:00,100,aqua,Kuala Kampar , Pelalawan , Riau 
+-0.008176,102.314613,2015-09-20,18:56:00,50,aqua,Kuala Kampar , Pelalawan , Riau 
+-0.543298,102.685616,2015-09-20,18:56:00,100,aqua,Rengat , Indragiri Hulur , Riau 
+1.907762,101.407784,2015-09-20,18:55:00,77,aqua,Rupat , Bengkalis , Riau 
+1.901749,101.401314,2015-09-20,18:55:00,75,aqua,Rupat , Bengkalis , Riau 
+1.158086,101.622993,2015-09-20,18:55:00,92,aqua,Pinggir , Bengkalis , Riau 
+1.011453,101.064278,2015-09-20,18:55:00,100,aqua,Pinggir , Bengkalis , Riau 
+1.010053,101.073845,2015-09-20,18:55:00,100,aqua,Pinggir , Bengkalis , Riau 
+0.839073,101.840508,2015-09-20,18:55:00,89,aqua,Siak Sri Indrapura , Siak , Riau 
+0.829442,101.839127,2015-09-20,18:55:00,48,aqua,Siak Sri Indrapura , Siak , Riau 
+0.611475,103.182808,2015-09-20,18:55:00,87,aqua,Kuala Kampar , Pelalawan , Riau 
+0.4121,101.887032,2015-09-20,18:55:00,13,aqua,Bunut , Pelalawan , Riau 
+0.34777,101.829178,2015-09-20,18:55:00,57,aqua,Langgam , Pelalawan , Riau 
+0.346245,101.839661,2015-09-20,18:55:00,47,aqua,Langgam , Pelalawan , Riau 
+0.344716,101.850189,2015-09-20,18:55:00,28,aqua,Langgam , Pelalawan , Riau 
+0.329941,101.815887,2015-09-20,18:55:00,29,aqua,Langgam , Pelalawan , Riau 
+0.328403,101.826385,2015-09-20,18:55:00,49,aqua,Langgam , Pelalawan , Riau 
+0.321795,101.804077,2015-09-20,18:55:00,17,aqua,Langgam , Pelalawan , Riau 
+0.320257,101.814529,2015-09-20,18:55:00,80,aqua,Langgam , Pelalawan , Riau 
+0.318713,101.825027,2015-09-20,18:55:00,55,aqua,Langgam , Pelalawan , Riau 
+0.310577,101.813156,2015-09-20,18:55:00,57,aqua,Langgam , Pelalawan , Riau 
+0.245243,102.255402,2015-09-20,18:55:00,99,aqua,Bunut , Pelalawan , Riau 
+0.243601,102.266518,2015-09-20,18:55:00,100,aqua,Bunut , Pelalawan , Riau 
+0.241954,102.277664,2015-09-20,18:55:00,100,aqua,Bunut , Pelalawan , Riau 
+0.114979,101.891418,2015-09-20,18:55:00,56,aqua,Langgam , Pelalawan , Riau 
+0.113407,101.902069,2015-09-20,18:55:00,93,aqua,Langgam , Pelalawan , Riau 
+0.103651,101.900688,2015-09-20,18:55:00,80,aqua,Langgam , Pelalawan , Riau 
+0.076673,101.868332,2015-09-20,18:55:00,52,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.004892,102.292038,2015-09-20,18:55:00,34,aqua,Kuala Kampar , Pelalawan , Riau 
+-0.006534,102.303329,2015-09-20,18:55:00,100,aqua,Kuala Kampar , Pelalawan , Riau 
+-0.008175,102.314613,2015-09-20,18:55:00,50,aqua,Kuala Kampar , Pelalawan , Riau 
+-0.543297,102.685616,2015-09-20,18:55:00,100,aqua,Rengat , Indragiri Hulur , Riau 
+-0.0944639,101.622,2015-09-21,06:58:00,69,snpp,Langgam , Pelalawan , Riau 
+0.167679,101.458,2015-09-21,06:58:00,99,snpp,Kampar Kiri Hilir , Kampar , Riau 
+1,101.546,2015-09-21,06:59:00,68,snpp,Pinggir , Bengkalis , Riau 
+1.789367,101.486015,2015-09-22,03:23:00,26,terra,Rupat , Bengkalis , Riau 
+1.496065,101.29879,2015-09-22,03:23:00,32,terra,Tanah Putih , Rokan Hilir , Riau 
+1.487972,101.196747,2015-09-22,03:23:00,58,terra,Tanah Putih , Rokan Hilir , Riau 
+1.013556,101.062653,2015-09-22,03:23:00,50,terra,Pinggir , Bengkalis , Riau 
+0.338864,101.824265,2015-09-22,03:23:00,48,terra,Langgam , Pelalawan , Riau 
+0.151438,101.520592,2015-09-22,03:23:00,56,terra,Kampar Kiri Hilir , Kampar , Riau 
+-0.787373,102.795052,2015-09-22,03:23:00,42,terra,Keritang , Indragiri Hilir , Riau 
+0.224505,101.599144,2015-09-22,06:17:00,75,aqua,Langgam , Pelalawan , Riau 
+1.111868,101.051888,2015-09-22,06:17:00,67,aqua,Pinggir , Bengkalis , Riau 
+1.342511,100.664757,2015-09-22,06:17:00,62,aqua,Tanah Putih , Rokan Hilir , Riau 
+1.986506,100.506569,2015-09-22,06:17:00,74,aqua,Bagan Sinembah , Rokan Hilir , Riau 
+-0.818519,102.906,2015-09-22,06:39:00,61,snpp,Keritang , Indragiri Hilir , Riau 
+-0.811842,102.905,2015-09-22,06:39:00,84,snpp,Keritang , Indragiri Hilir , Riau 
+-0.890261,102.116,2015-09-22,06:39:00,51,snpp,Seberida , Indragiri Hulu , Riau 
+-0.780974,102.794,2015-09-22,06:39:00,78,snpp,Keritang , Indragiri Hilir , Riau 
+-0.839337,102.009,2015-09-22,06:39:00,62,snpp,Peranap , Indragiri Hulu , Riau 
+-0.292852,101.868,2015-09-22,06:39:00,68,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.272911,101.865,2015-09-22,06:39:00,23,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.0808999,101.53,2015-09-22,06:39:00,79,snpp,Langgam , Pelalawan , Riau 
+-0.0675882,101.528,2015-09-22,06:39:00,84,snpp,Langgam , Pelalawan , Riau 
+-0.060933,101.527,2015-09-22,06:39:00,84,snpp,Langgam , Pelalawan , Riau 
+-0.0175892,101.634,2015-09-22,06:39:00,74,snpp,Langgam , Pelalawan , Riau 
+-0.031841,101.495,2015-09-22,06:39:00,35,snpp,Kampar Kiri Hilir , Kampar , Riau 
+0.142709,101.488,2015-09-22,06:39:00,31,snpp,Kampar Kiri Hilir , Kampar , Riau 
+0.133271,101.426,2015-09-22,06:39:00,72,snpp,Kampar Kiri Hilir , Kampar , Riau 
+0.195855,101.615,2015-09-22,06:39:00,73,snpp,Langgam , Pelalawan , Riau 
+0.201461,101.607,2015-09-22,06:39:00,100,snpp,Langgam , Pelalawan , Riau 
+0.228061,101.603,2015-09-22,06:39:00,18,snpp,Langgam , Pelalawan , Riau 
+0.234711,101.602,2015-09-22,06:39:00,92,snpp,Langgam , Pelalawan , Riau 
+0.259825,101.456,2015-09-22,06:39:00,73,snpp,Kampar Kiri Hilir , Kampar , Riau 
+1,101.07,2015-09-22,06:40:00,81,snpp,Siak , Siak , Riau 
+1.01131,101.063,2015-09-22,06:40:00,68,snpp,Pinggir , Bengkalis , Riau 
+1.25279,100.739,2015-09-22,06:40:00,59,snpp,Tanah Putih , Rokan Hilir , Riau 
+1.23914,100.167,2015-09-22,06:40:00,89,snpp,Tembusan , Rokan Hulu , Riau 
+1.35292,100.688,2015-09-22,06:40:00,95,snpp,Tanah Putih , Rokan Hilir , Riau 
+1.34972,100.667,2015-09-22,06:40:00,79,snpp,Tanah Putih , Rokan Hilir , Riau 
+1.49232,101.293,2015-09-22,06:40:00,100,snpp,Tanah Putih , Rokan Hilir , Riau 
+1.76737,100.838,2015-09-22,06:40:00,100,snpp,Bangko , Rokan Hilir , Riau 
+1.97079,101.777,2015-09-22,06:40:00,53,snpp,Rupat , Bengkalis , Riau 
+1.8859,100.991,2015-09-22,06:40:00,84,snpp,Bangko , Rokan Hilir , Riau 
+2.08378,101.229,2015-09-22,06:40:00,33,snpp,Dumai Barat , Kota Dumai , Riau 
+2.08273,101.222,2015-09-22,06:40:00,57,snpp,Dumai Barat , Kota Dumai , Riau 
+1.98948,100.517,2015-09-22,06:40:00,36,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+1.99618,100.516,2015-09-22,06:40:00,79,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+1.99511,100.509,2015-09-22,06:40:00,77,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+-0.782893,102.801437,2015-09-22,15:43:00,95,terra,Keritang , Indragiri Hilir , Riau 
+-0.784402,102.79081,2015-09-22,15:43:00,98,terra,Keritang , Indragiri Hilir , Riau 
+0.246501,102.281242,2015-09-22,15:43:00,40,terra,Bunut , Pelalawan , Riau 
+0.245055,102.270996,2015-09-22,15:43:00,100,terra,Bunut , Pelalawan , Riau 
+0.243612,102.260788,2015-09-22,15:43:00,100,terra,Bunut , Pelalawan , Riau 
+0.254616,102.269623,2015-09-22,15:43:00,53,terra,Bunut , Pelalawan , Riau 
+-0.407941,102.93441,2015-09-22,18:42:00,69,aqua,Tempuling , Indragiri Hilir , Riau 
+-0.744532,103.158127,2015-09-22,18:42:00,23,aqua,Reteh , Indragiri Hilir , Riau 
+-0.94724,101.848,2015-09-23,06:20:00,50,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.939064,101.848,2015-09-23,06:20:00,83,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.945751,101.726364,2015-09-24,15:30:00,28,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.551477,102.685394,2015-09-24,15:30:00,100,terra,Rengat , Indragiri Hulur , Riau 
+-0.552759,102.676407,2015-09-24,15:30:00,96,terra,Rengat , Indragiri Hulur , Riau 
+-0.410834,102.705132,2015-09-24,15:30:00,51,terra,Tempuling , Indragiri Hilir , Riau 
+-0.412108,102.696167,2015-09-24,15:30:00,77,terra,Tempuling , Indragiri Hilir , Riau 
+-0.231534,102.412743,2015-09-24,15:30:00,18,terra,Rengat , Indragiri Hulur , Riau 
+0.070553,101.887253,2015-09-24,15:30:00,62,terra,Pangkalan Kuras , Pelalawan , Riau 
+0.069223,101.877968,2015-09-24,15:30:00,100,terra,Pangkalan Kuras , Pelalawan , Riau 
+0.205509,101.86203,2015-09-24,15:30:00,100,terra,Langgam , Pelalawan , Riau 
+0.190862,101.692703,2015-09-24,15:30:00,38,terra,Langgam , Pelalawan , Riau 
+0.2463,101.764313,2015-09-24,15:30:00,100,terra,Langgam , Pelalawan , Riau 
+0.244964,101.754982,2015-09-24,15:30:00,55,terra,Langgam , Pelalawan , Riau 
+0.255456,101.762985,2015-09-24,15:30:00,84,terra,Langgam , Pelalawan , Riau 
+0.66411,102.111839,2015-09-24,15:30:00,69,terra,Siak Sri Indrapura , Siak , Riau 
+0,102.279747,2015-09-24,18:28:00,84,aqua,Pangkalan Kuras , Pelalawan , Riau 
+0.253671,102.2733,2015-09-24,18:28:00,69,aqua,Bunut , Pelalawan , Riau 
+-0.412959,102.703659,2015-09-24,18:28:00,24,aqua,Tempuling , Indragiri Hilir , Riau 
+-0.541985,102.679436,2015-09-24,18:28:00,49,aqua,Rengat , Indragiri Hulur , Riau 
+-0.543524,102.690063,2015-09-24,18:28:00,92,aqua,Rengat , Indragiri Hulur , Riau 
+-0.544327,102.683357,2015-09-24,18:28:00,100,aqua,Rengat , Indragiri Hulur , Riau 
+-0.54592,102.693962,2015-09-24,18:28:00,76,aqua,Rengat , Indragiri Hulur , Riau 
+-0.945752,101.726357,2015-09-24,15:29:00,28,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.551477,102.685394,2015-09-24,15:29:00,100,terra,Rengat , Indragiri Hulur , Riau 
+-0.552759,102.676407,2015-09-24,15:29:00,96,terra,Rengat , Indragiri Hulur , Riau 
+-0.410834,102.705139,2015-09-24,15:29:00,51,terra,Tempuling , Indragiri Hilir , Riau 
+-0.412108,102.696167,2015-09-24,15:29:00,77,terra,Tempuling , Indragiri Hilir , Riau 
+-0.231534,102.412743,2015-09-24,15:29:00,18,terra,Rengat , Indragiri Hulur , Riau 
+0.070553,101.887245,2015-09-24,15:29:00,62,terra,Pangkalan Kuras , Pelalawan , Riau 
+0.069223,101.877968,2015-09-24,15:29:00,100,terra,Pangkalan Kuras , Pelalawan , Riau 
+0.205509,101.86203,2015-09-24,15:29:00,100,terra,Langgam , Pelalawan , Riau 
+0.190862,101.692703,2015-09-24,15:29:00,38,terra,Langgam , Pelalawan , Riau 
+0.246301,101.764313,2015-09-24,15:29:00,100,terra,Langgam , Pelalawan , Riau 
+0.244964,101.754982,2015-09-24,15:29:00,55,terra,Langgam , Pelalawan , Riau 
+0.255456,101.762985,2015-09-24,15:29:00,84,terra,Langgam , Pelalawan , Riau 
+0.66411,102.111839,2015-09-24,15:29:00,69,terra,Siak Sri Indrapura , Siak , Riau 
+0.244023,101.765,2015-09-25,18:23:00,40,snpp,Langgam , Pelalawan , Riau 
+0.044187,101.91938,2015-09-26,15:18:00,39,terra,Pangkalan Kuras , Pelalawan , Riau 
+0.23859,102.249771,2015-09-26,15:18:00,4,terra,Bunut , Pelalawan , Riau 
+0.236767,102.236908,2015-09-26,15:18:00,6,terra,Bunut , Pelalawan , Riau 
+0.648603,102.134331,2015-09-26,15:18:00,100,terra,Siak Sri Indrapura , Siak , Riau 
+0.646736,102.121437,2015-09-26,15:18:00,100,terra,Siak Sri Indrapura , Siak , Riau 
+0.044191,101.919418,2015-09-26,15:17:00,39,terra,Pangkalan Kuras , Pelalawan , Riau 
+0.238587,102.249748,2015-09-26,15:17:00,4,terra,Bunut , Pelalawan , Riau 
+0.236764,102.236893,2015-09-26,15:17:00,6,terra,Bunut , Pelalawan , Riau 
+0.648601,102.134308,2015-09-26,15:17:00,100,terra,Siak Sri Indrapura , Siak , Riau 
+0.646733,102.121414,2015-09-26,15:17:00,100,terra,Siak Sri Indrapura , Siak , Riau 
+0.655472,102.129234,2015-09-26,18:16:00,100,aqua,Siak Sri Indrapura , Siak , Riau 
+0.652548,102.149361,2015-09-26,18:16:00,90,aqua,Siak Sri Indrapura , Siak , Riau 
+0.655472,102.129234,2015-09-26,18:18:00,100,aqua,Siak Sri Indrapura , Siak , Riau 
+0.652548,102.149361,2015-09-26,18:18:00,90,aqua,Siak Sri Indrapura , Siak , Riau 
+0.655519,102.129,2015-09-26,18:04:00,100,snpp,Siak Sri Indrapura , Siak , Riau 
+0.65454,102.136,2015-09-26,18:04:00,22,snpp,Siak Sri Indrapura , Siak , Riau 
+0.645106,102.128,2015-09-26,18:04:00,100,snpp,Siak Sri Indrapura , Siak , Riau 
+0.644142,102.134,2015-09-26,18:04:00,65,snpp,Siak Sri Indrapura , Siak , Riau 

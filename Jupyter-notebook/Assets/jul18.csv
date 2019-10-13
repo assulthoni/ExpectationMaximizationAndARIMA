@@ -1,0 +1,357 @@
+Lintang (deg), Bujur (deg), Tanggal (dd/mm/yyy), Waktu Akuisisi (UTC), Tingkat Kepercayaan (%), Satelit, Kecamatan, Kabupaten, Provinsi
+1.53312,101.297,2018-07-02,06:24:22,32,snpp,Tanah Putih , Rokan Hilir , Riau 
+-0.860371947289,102.22958374,2018-07-03,06:24:00,73,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+0.154312,102.736687,2018-07-04,04:15:00,62,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+-0.868745,102.042717,2018-07-04,04:15:00,69,terra,Seberida , Kab. Indragiri Hulu , Riau 
+-0.874907,102.033714,2018-07-04,04:15:00,62,terra,Seberida , Kab. Indragiri Hulu , Riau 
+0.502961,103.051193,2018-07-05,03:20:00,65,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.609846,102.094124,2018-07-05,03:20:00,54,terra,Siak Sri Indrapura , Kab. Siak , Riau 
+0.571199,102.281746,2018-07-05,03:20:00,23,terra,Bunut , Kab. Pelalawan , Riau 
+0.097429,102.685921,2018-07-05,03:20:00,37,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+-0.191814,101.622581,2018-07-05,03:20:00,65,terra,Langgam , Kab. Pelalawan , Riau 
+-0.877133905888,102.037025452,2018-07-05,06:11:00,43,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+0.67296820879,102.874702454,2018-07-06,06:53:00,32,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.312977,100.544,2018-07-07,06:30:46,94,snpp,Xiii Koto Kampar , Kampar , Riau 
+0.988521,101.903,2018-07-07,06:30:46,57,snpp,Siak Kecil , Bengkalis , Riau 
+0.987424,101.896,2018-07-07,06:30:46,70,snpp,Siak Kecil , Bengkalis , Riau 
+0.986322,101.888,2018-07-07,06:30:46,69,snpp,Siak Kecil , Bengkalis , Riau 
+1.489267,101.869621,2018-07-08,03:49:00,48,terra,Bukit Batu , Kab. Bengkalis , Riau 
+1.487709,101.880127,2018-07-08,03:49:00,40,terra,Bukit Batu , Kab. Bengkalis , Riau 
+-0.210442,101.820702,2018-07-08,03:49:00,80,terra,Pangkalan Kuras , Kab. Pelalawan , Riau 
+-0.212077,101.831596,2018-07-08,03:49:00,68,terra,Pangkalan Kuras , Kab. Pelalawan , Riau 
+-0.846809506416,102.93548584,2018-07-08,06:41:00,57,aqua,Keritang , Kab. Indragiri Hilir , Riau 
+-0.217584475875,101.867637634,2018-07-08,06:41:00,33,aqua,Pangkalan Kuras , Kab. Pelalawan , Riau 
+0.275944,100.614738,2018-07-08,06:41:00,72,aqua,Tiga Belas Koto Kampar , Kab. Kampar , Riau 
+-0.774655,102.206,2018-07-08,06:11:51,53,snpp,Batang Cenaku , Indragiri Hulu , Riau 
+0.183501973748,102.700202942,2018-07-12,06:17:00,44,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.777082622051,102.282592773,2018-07-12,06:17:00,47,aqua,Sungai Apit , Kab. Siak , Riau 
+0.788869440556,102.280883789,2018-07-12,06:17:00,20,aqua,Sungai Apit , Kab. Siak , Riau 
+0.875632822514,101.793128967,2018-07-12,06:17:00,65,aqua,Siak Sri Indrapura , Kab. Siak , Riau 
+0.81805,101.617538,2018-07-13,06:59:00,45,aqua,Siak , Kab. Siak , Riau 
+0.855831,101.799751,2018-07-13,06:59:00,46,aqua,Siak Sri Indrapura , Kab. Siak , Riau 
+2.106829,100.346375,2018-07-13,06:59:00,72,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+-0.396461993456,102.889816284,2018-07-14,06:05:00,37,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+0.0895053893328,102.674415588,2018-07-14,06:05:00,29,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.104310646653,102.672294617,2018-07-14,06:05:00,47,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.156484022737,102.719459534,2018-07-14,06:05:00,30,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.682324707508,100.353317261,2018-07-14,15:32:00,16,terra,Rokan Empat Koto , Kab. Rokan Hulu , Riau 
+1.12017726898,101.041976929,2018-07-14,15:32:00,51,terra,Pinggir , Kab. Bengkalis , Riau 
+2.1146543026,100.347724915,2018-07-14,15:32:00,39,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.14518928528,100.877548218,2018-07-15,03:59:00,55,terra,Bangko , Kab. Rokan Hilir , Riau 
+2.11019802094,100.346160889,2018-07-15,03:59:00,84,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.10867547989,100.356513977,2018-07-15,03:59:00,90,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+0.877474248409,101.954475403,2018-07-15,03:59:00,37,terra,Siak Sri Indrapura , Kab. Siak , Riau 
+0.432158410549,100.653739929,2018-07-15,06:49:00,92,aqua,Tiga Belas Koto Kampar , Kab. Kampar , Riau 
+0.61604475975,100.458885193,2018-07-15,06:49:00,78,aqua,Rokan Empat Koto , Kab. Rokan Hulu , Riau 
+0.818695485592,101.613708496,2018-07-15,06:49:00,38,aqua,Siak , Kab. Siak , Riau 
+0.843453288078,101.614128113,2018-07-15,06:49:00,31,aqua,Siak , Kab. Siak , Riau 
+0.683053433895,100.352020264,2018-07-15,06:49:00,68,aqua,Rokan Empat Koto , Kab. Rokan Hulu , Riau 
+0.67799115181,100.252418518,2018-07-15,06:49:00,60,aqua,Rokan Empat Koto , Kab. Rokan Hulu , Riau 
+0.933899521828,101.913520813,2018-07-15,06:49:00,71,aqua,Siak Sri Indrapura , Kab. Siak , Riau 
+1.13101840019,102.856277466,2018-07-15,06:49:00,37,aqua,Rangsang Barat , Kab. Kepulauan Meranti , Riau 
+1.12941110134,102.844902039,2018-07-15,06:49:00,62,aqua,Rangsang Barat , Kab. Kepulauan Meranti , Riau 
+0.880988717079,100.448799133,2018-07-15,06:49:00,78,aqua,Rambah , Kab. Rokan Hulu , Riau 
+0.967073559761,100.466598511,2018-07-15,06:49:00,81,aqua,Rambah , Kab. Rokan Hulu , Riau 
+1.65715968609,101.372924805,2018-07-15,06:49:00,85,aqua,Dumai Timur , Kota Dumai , Riau 
+1.6785056591,101.389610291,2018-07-15,06:49:00,82,aqua,Dumai Timur , Kota Dumai , Riau 
+2.10117006302,100.350318909,2018-07-15,06:49:00,76,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.11018633842,100.34903717,2018-07-15,06:49:00,87,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.13843417168,100.357650757,2018-07-15,06:49:00,80,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+0.442166,100.657,2018-07-15,18:21:24,86,snpp,Xiii Koto Kampar , Kampar , Riau 
+0.438023,100.654457,2018-07-15,16:14:00,53,terra,Tiga Belas Koto Kampar , Kab. Kampar , Riau 
+0.916022598743,103.066513062,2018-07-16,15:19:00,50,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.11462938786,101.040588379,2018-07-16,15:19:00,75,terra,Pinggir , Kab. Bengkalis , Riau 
+1.13415813446,101.096755981,2018-07-16,15:19:00,75,terra,Pinggir , Kab. Bengkalis , Riau 
+1.12587749958,101.038925171,2018-07-16,15:19:00,100,terra,Pinggir , Kab. Bengkalis , Riau 
+1.12379443645,101.024375916,2018-07-16,15:19:00,100,terra,Pinggir , Kab. Bengkalis , Riau 
+1.61643218994,101.489189148,2018-07-16,15:19:00,56,terra,Bukit Kapur , Kota Dumai , Riau 
+1.61450219154,101.475982666,2018-07-16,15:19:00,75,terra,Bukit Kapur , Kota Dumai , Riau 
+1.62721288204,101.487640381,2018-07-16,15:19:00,22,terra,Bukit Kapur , Kota Dumai , Riau 
+1.62528264523,101.474357605,2018-07-16,15:19:00,80,terra,Bukit Kapur , Kota Dumai , Riau 
+1.70690774918,101.249481201,2018-07-16,15:19:00,100,terra,Dumai Barat , Kota Dumai , Riau 
+1.70493268967,101.235740662,2018-07-16,15:19:00,100,terra,Dumai Barat , Kota Dumai , Riau 
+1.70295250416,101.221969604,2018-07-16,15:19:00,73,terra,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.717867136,101.247871399,2018-07-16,15:19:00,100,terra,Dumai Barat , Kota Dumai , Riau 
+1.715903759,101.234130859,2018-07-16,15:19:00,100,terra,Dumai Barat , Kota Dumai , Riau 
+1.71393573284,101.220359802,2018-07-16,15:19:00,70,terra,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.87360215187,100.815681458,2018-07-16,15:19:00,77,terra,Bangko , Kab. Rokan Hilir , Riau 
+1.88490724564,100.814041138,2018-07-16,15:19:00,97,terra,Bangko , Kab. Rokan Hilir , Riau 
+1.88275051117,100.799385071,2018-07-16,15:19:00,32,terra,Bangko , Kab. Rokan Hilir , Riau 
+2.08175396919,100.362754822,2018-07-16,15:19:00,59,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+1.88730680943,100.818397522,2018-07-16,18:18:00,84,aqua,Bangko , Kab. Rokan Hilir , Riau 
+1.88519179821,100.837478638,2018-07-16,18:18:00,28,aqua,Bangko , Kab. Rokan Hilir , Riau 
+1.72155046463,101.228096008,2018-07-16,18:18:00,64,aqua,Dumai Barat , Kota Dumai , Riau 
+1.7180198431,101.252639771,2018-07-16,18:18:00,98,aqua,Dumai Barat , Kota Dumai , Riau 
+1.70727443695,101.226112366,2018-07-16,18:18:00,31,aqua,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.70377016068,101.250679016,2018-07-16,18:18:00,89,aqua,Dumai Barat , Kota Dumai , Riau 
+1.12935090065,101.030555725,2018-07-16,18:18:00,78,aqua,Pinggir , Kab. Bengkalis , Riau 
+1.12588477135,101.055473328,2018-07-16,18:18:00,65,aqua,Pinggir , Kab. Bengkalis , Riau 
+1.88198,100.81,2018-07-16,18:01:03,98,snpp,Bangko Pusako , Rokan Hilir , Riau 
+1.72033,101.236,2018-07-16,18:01:03,89,snpp,Sungai Sembilan , Dumai , Riau 
+1.71914,101.244,2018-07-16,18:01:03,91,snpp,Sungai Sembilan , Dumai , Riau 
+1.71023,101.227,2018-07-16,18:01:03,6,snpp,Tanah Putih Tanjung Melawan , Rokan Hilir , Riau 
+1.70905,101.235,2018-07-16,18:01:03,100,snpp,Sungai Sembilan , Dumai , Riau 
+1.70788,101.242,2018-07-16,18:01:03,100,snpp,Sungai Sembilan , Dumai , Riau 
+1.7067,101.25,2018-07-16,18:01:03,100,snpp,Sungai Sembilan , Dumai , Riau 
+1.12639,101.031,2018-07-16,18:01:03,85,snpp,Kandis , Siak , Riau 
+2.14062142372,100.883247375,2018-07-17,03:47:00,77,terra,Bangko , Kab. Rokan Hilir , Riau 
+2.00408387184,101.184211731,2018-07-17,03:47:00,17,terra,Dumai Barat , Kota Dumai , Riau 
+2.10852813721,100.352012634,2018-07-17,03:47:00,85,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.08212018013,100.531494141,2018-07-17,03:47:00,100,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.08080267906,100.54044342,2018-07-17,03:47:00,100,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.0731408596,100.530220032,2018-07-17,03:47:00,96,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.07182431221,100.539169312,2018-07-17,03:47:00,97,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.08787870407,100.367462158,2018-07-17,03:47:00,83,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.08655881882,100.376457214,2018-07-17,03:47:00,87,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.06416153908,100.528945923,2018-07-17,03:47:00,51,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.06284618378,100.537895203,2018-07-17,03:47:00,84,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.07887721062,100.366188049,2018-07-17,03:47:00,89,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.07755875587,100.375183105,2018-07-17,03:47:00,92,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+1.71888411045,101.243293762,2018-07-17,03:47:00,95,terra,Dumai Barat , Kota Dumai , Riau 
+1.71123921871,101.233100891,2018-07-17,03:47:00,81,terra,Dumai Barat , Kota Dumai , Riau 
+1.70992088318,101.242019653,2018-07-17,03:47:00,100,terra,Dumai Barat , Kota Dumai , Riau 
+1.70860207081,101.250930786,2018-07-17,03:47:00,56,terra,Dumai Barat , Kota Dumai , Riau 
+1.12344026566,101.032684326,2018-07-17,03:47:00,69,terra,Pinggir , Kab. Bengkalis , Riau 
+0.481109559536,100.643486023,2018-07-17,03:47:00,72,terra,Tapungkiri , Kab. Rokan Hulu , Riau 
+0.152725666761,102.755371094,2018-07-17,03:47:00,36,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+-0.201666176319,102.027862549,2018-07-17,03:47:00,68,terra,Pangkalan Kuras , Kab. Pelalawan , Riau 
+-0.20887,101.830391,2018-07-17,06:35:00,78,aqua,Pangkalan Kuras , Kab. Pelalawan , Riau 
+-0.19975,101.829048,2018-07-17,06:35:00,59,aqua,Pangkalan Kuras , Kab. Pelalawan , Riau 
+-0.180138,101.901741,2018-07-17,06:35:00,63,aqua,Pangkalan Kuras , Kab. Pelalawan , Riau 
+-0.181447,101.892509,2018-07-17,06:35:00,27,aqua,Pangkalan Kuras , Kab. Pelalawan , Riau 
+0.447036,100.254959,2018-07-17,06:35:00,87,aqua,Rokan Empat Koto , Kab. Rokan Hulu , Riau 
+0.917207,103.06913,2018-07-17,06:35:00,74,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.114371,101.050148,2018-07-17,06:35:00,68,aqua,Pinggir , Kab. Bengkalis , Riau 
+1.111579,101.030838,2018-07-17,06:35:00,81,aqua,Pinggir , Kab. Bengkalis , Riau 
+1.130607,101.09697,2018-07-17,06:35:00,66,aqua,Pinggir , Kab. Bengkalis , Riau 
+1.122273,101.039154,2018-07-17,06:35:00,75,aqua,Pinggir , Kab. Bengkalis , Riau 
+1.12088,101.029488,2018-07-17,06:35:00,94,aqua,Pinggir , Kab. Bengkalis , Riau 
+1.119485,101.019814,2018-07-17,06:35:00,82,aqua,Pinggir , Kab. Bengkalis , Riau 
+1.13018,101.028137,2018-07-17,06:35:00,94,aqua,Pinggir , Kab. Bengkalis , Riau 
+1.12879,101.018463,2018-07-17,06:35:00,56,aqua,Pinggir , Kab. Bengkalis , Riau 
+1.057028,100.153549,2018-07-17,06:35:00,20,aqua,Tembusan , Kab. Rokan Hulu , Riau 
+1.618297,101.47641,2018-07-17,06:35:00,83,aqua,Bukit Kapur , Kota Dumai , Riau 
+1.695707,101.250244,2018-07-17,06:35:00,100,aqua,Dumai Barat , Kota Dumai , Riau 
+1.694349,101.240845,2018-07-17,06:35:00,90,aqua,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.707584,101.267677,2018-07-17,06:35:00,13,aqua,Dumai Barat , Kota Dumai , Riau 
+1.706233,101.258301,2018-07-17,06:35:00,100,aqua,Dumai Barat , Kota Dumai , Riau 
+1.70488,101.248917,2018-07-17,06:35:00,100,aqua,Dumai Barat , Kota Dumai , Riau 
+1.703526,101.239517,2018-07-17,06:35:00,100,aqua,Dumai Barat , Kota Dumai , Riau 
+1.715402,101.256966,2018-07-17,06:35:00,100,aqua,Dumai Barat , Kota Dumai , Riau 
+1.714053,101.247589,2018-07-17,06:35:00,100,aqua,Dumai Barat , Kota Dumai , Riau 
+1.712703,101.238197,2018-07-17,06:35:00,100,aqua,Dumai Barat , Kota Dumai , Riau 
+1.711351,101.22879,2018-07-17,06:35:00,96,aqua,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.723227,101.246262,2018-07-17,06:35:00,99,aqua,Dumai Barat , Kota Dumai , Riau 
+1.82135,101.349571,2018-07-17,06:35:00,43,aqua,Dumai Barat , Kota Dumai , Riau 
+1.873565,100.812355,2018-07-17,06:35:00,89,aqua,Bangko , Kab. Rokan Hilir , Riau 
+1.965504,100.940414,2018-07-17,06:35:00,72,aqua,Bangko , Kab. Rokan Hilir , Riau 
+2.064019,100.545174,2018-07-17,06:35:00,88,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.062576,100.535225,2018-07-17,06:35:00,93,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.061131,100.525253,2018-07-17,06:35:00,55,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.073439,100.543793,2018-07-17,06:35:00,99,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.072001,100.533844,2018-07-17,06:35:00,100,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.070561,100.52388,2018-07-17,06:35:00,82,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.084291,100.552345,2018-07-17,06:35:00,100,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.08286,100.542412,2018-07-17,06:35:00,100,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.081427,100.532463,2018-07-17,06:35:00,100,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.079991,100.522499,2018-07-17,06:35:00,88,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.141374,100.883186,2018-07-17,06:35:00,33,aqua,Bangko , Kab. Rokan Hilir , Riau 
+2.090853,100.53109,2018-07-17,06:35:00,95,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.089422,100.521126,2018-07-17,06:35:00,48,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.078728,100.379097,2018-07-17,06:35:00,98,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.077278,100.368965,2018-07-17,06:35:00,100,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.155375,100.806465,2018-07-17,06:35:00,54,aqua,Bangko , Kab. Rokan Hilir , Riau 
+2.10752,100.34848,2018-07-17,06:35:00,78,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.173277,100.400879,2018-07-17,06:35:00,60,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+-0.198327,101.697,2018-07-17,06:43:32,76,snpp,Pangkalan Kuras , Pelalawan , Riau 
+1.12141,101.037,2018-07-17,06:43:32,99,snpp,Kandis , Siak , Riau 
+1.12036,101.03,2018-07-17,06:43:32,100,snpp,Kandis , Siak , Riau 
+1.12704,101.029,2018-07-17,06:43:32,100,snpp,Kandis , Siak , Riau 
+1.13372,101.028,2018-07-17,06:43:32,100,snpp,Kandis , Siak , Riau 
+1.70891,101.257,2018-07-17,06:43:32,100,snpp,Sungai Sembilan , Dumai , Riau 
+1.70676,101.243,2018-07-17,06:43:32,100,snpp,Sungai Sembilan , Dumai , Riau 
+1.71349,101.242,2018-07-17,06:43:32,100,snpp,Sungai Sembilan , Dumai , Riau 
+1.83264,101.636,2018-07-17,06:43:32,53,snpp,Rupat , Bengkalis , Riau 
+1.87828,100.813,2018-07-17,06:43:32,100,snpp,Bangko Pusako , Rokan Hilir , Riau 
+2.06584,100.534,2018-07-17,06:43:32,94,snpp,Kubu , Rokan Hilir , Riau 
+2.07356,100.54,2018-07-17,06:43:32,100,snpp,Kubu , Rokan Hilir , Riau 
+2.08127,100.546,2018-07-17,06:43:32,100,snpp,Kubu , Rokan Hilir , Riau 
+2.07915,100.532,2018-07-17,06:43:32,100,snpp,Kubu , Rokan Hilir , Riau 
+2.08833,100.551,2018-07-17,06:43:32,100,snpp,Kubu , Rokan Hilir , Riau 
+2.08624,100.537,2018-07-17,06:43:32,100,snpp,Kubu , Rokan Hilir , Riau 
+2.08215,100.375,2018-07-17,06:43:32,96,snpp,Pasir Limau Kapas , Rokan Hilir , Riau 
+2.17493,100.41,2018-07-17,06:43:32,74,snpp,Pasir Limau Kapas , Rokan Hilir , Riau 
+2.17392,100.403,2018-07-17,06:43:32,62,snpp,Pasir Limau Kapas , Rokan Hilir , Riau 
+2.136341,100.883141,2018-07-17,16:01:00,36,terra,Bangko , Kab. Rokan Hilir , Riau 
+-0.21973,101.756,2018-07-18,06:24:36,56,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.195493,101.717,2018-07-18,06:24:36,78,snpp,Pangkalan Kuras , Pelalawan , Riau 
+1.72812569141,101.252853394,2018-07-19,03:33:00,59,terra,Dumai Barat , Kota Dumai , Riau 
+1.71985542774,101.240661621,2018-07-19,03:33:00,95,terra,Dumai Barat , Kota Dumai , Riau 
+1.71829688549,101.251495361,2018-07-19,03:33:00,99,terra,Dumai Barat , Kota Dumai , Riau 
+1.71674239635,101.262298584,2018-07-19,03:33:00,63,terra,Dumai Barat , Kota Dumai , Riau 
+1.71157681942,101.228424072,2018-07-19,03:33:00,39,terra,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.70847129822,101.250114441,2018-07-19,03:33:00,86,terra,Dumai Barat , Kota Dumai , Riau 
+1.69616448879,101.253318787,2018-07-19,03:33:00,55,terra,Dumai Barat , Kota Dumai , Riau 
+1.1456733942,101.037902832,2018-07-19,03:33:00,83,terra,Mandau , Kab. Bengkalis , Riau 
+1.13579177856,101.036514282,2018-07-19,03:33:00,94,terra,Mandau , Kab. Bengkalis , Riau 
+1.13419139385,101.047462463,2018-07-19,03:33:00,65,terra,Pinggir , Kab. Bengkalis , Riau 
+1.12750613689,101.024162292,2018-07-19,03:33:00,84,terra,Pinggir , Kab. Bengkalis , Riau 
+1.12590956688,101.035133362,2018-07-19,03:33:00,91,terra,Pinggir , Kab. Bengkalis , Riau 
+1.12431657314,101.046073914,2018-07-19,03:33:00,62,terra,Pinggir , Kab. Bengkalis , Riau 
+1.11761701107,101.022781372,2018-07-19,03:33:00,57,terra,Pinggir , Kab. Bengkalis , Riau 
+1.11602723598,101.033752441,2018-07-19,03:33:00,82,terra,Pinggir , Kab. Bengkalis , Riau 
+1.11444187164,101.044685364,2018-07-19,03:33:00,71,terra,Pinggir , Kab. Bengkalis , Riau 
+1.0998390913,101.076065063,2018-07-19,03:33:00,44,terra,Pinggir , Kab. Bengkalis , Riau 
+1.53060936928,101.289863586,2018-07-19,06:24:00,38,aqua,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.69560515881,101.239219666,2018-07-19,06:24:00,39,aqua,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.70872080326,101.251663208,2018-07-19,06:24:00,38,aqua,Dumai Barat , Kota Dumai , Riau 
+1.70669662952,101.237579346,2018-07-19,06:24:00,55,aqua,Dumai Barat , Kota Dumai , Riau 
+2.06644225121,100.545539856,2018-07-19,06:24:00,51,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.0967438221,100.535766602,2018-07-19,06:24:00,73,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+1.327326,102.009514,2018-07-20,04:15:00,27,terra,Bukit Batu , Kab. Bengkalis , Riau 
+1.233165,100.584969,2018-07-20,07:06:00,65,aqua,Tembusan , Kab. Rokan Hulu , Riau 
+2.08088445663,100.528762817,2018-07-21,15:39:00,43,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.07960820198,100.519836426,2018-07-21,15:39:00,83,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.08984780312,100.52746582,2018-07-21,15:39:00,87,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.08857250214,100.518539429,2018-07-21,15:39:00,80,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.0988111496,100.526176453,2018-07-21,15:39:00,83,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.26856303215,100.361747742,2018-07-21,15:39:00,85,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.07537794113,100.532363892,2018-07-23,03:07:00,70,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+0.154255613685,102.704147339,2018-07-23,05:59:00,52,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+-0.0604105,103.108,2018-07-23,06:31:00,52,snpp,Gaung , Indragiri Hilir , Riau 
+-0.0678317,103.06,2018-07-23,06:31:00,64,snpp,Gaung , Indragiri Hilir , Riau 
+0.0543337,103.239,2018-07-23,06:31:00,43,snpp,Mandah , Indragiri Hilir , Riau 
+0.116905,103.427,2018-07-23,06:31:00,68,snpp,Mandah , Indragiri Hilir , Riau 
+0.920853,103.068,2018-07-23,06:31:00,94,snpp,Rangsang , Kepulauan Meranti , Riau 
+1.10804,101.045,2018-07-23,06:31:00,43,snpp,Kandis , Siak , Riau 
+1.10689,101.037,2018-07-23,06:31:00,55,snpp,Kandis , Siak , Riau 
+-0.930095,102.49,2018-07-23,06:29:34,100,snpp,Batang Gansal , Indragiri Hulu , Riau 
+-0.577979028225,102.629470825,2018-07-23,15:26:00,88,terra,Seberida , Kab. Indragiri Hulu , Riau 
+-0.66988414526,101.848472595,2018-07-23,15:26:00,66,terra,Peranap , Kab. Indragiri Hulu , Riau 
+-0.671422541142,101.837654114,2018-07-23,15:26:00,68,terra,Peranap , Kab. Indragiri Hulu , Riau 
+-0.481991171837,103.037757874,2018-07-23,15:26:00,62,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.04563389346,103.069137573,2018-07-23,15:26:00,50,terra,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+0.0519697740674,103.23891449,2018-07-23,15:26:00,48,terra,Enok , Kab. Indragiri Hilir , Riau 
+0.189561411738,103.362792969,2018-07-23,15:26:00,70,terra,Mandah , Kab. Indragiri Hilir , Riau 
+0.188257142901,103.353637695,2018-07-23,15:26:00,86,terra,Mandah , Kab. Indragiri Hilir , Riau 
+0.224556222558,103.348403931,2018-07-23,15:26:00,52,terra,Mandah , Kab. Indragiri Hilir , Riau 
+0.920884013176,103.068107605,2018-07-23,15:26:00,81,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.919576764107,103.058876038,2018-07-23,15:26:00,64,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+2.26396346092,100.368911743,2018-07-23,15:26:00,38,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.27258205414,100.366378784,2018-07-23,18:25:00,57,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.26660680771,100.358161926,2018-07-23,18:25:00,32,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.08181285858,100.525291443,2018-07-23,18:25:00,49,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.08477926254,100.539863586,2018-07-23,18:25:00,27,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+0.186679720879,103.361946106,2018-07-23,18:25:00,84,aqua,Mandah , Kab. Indragiri Hilir , Riau 
+-0.576322734356,102.629425049,2018-07-23,18:25:00,46,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+2.44643163681,100.307144165,2018-07-24,03:52:00,81,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.26341581345,100.360870361,2018-07-24,03:52:00,73,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.26207065582,100.369949341,2018-07-24,03:52:00,27,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+0.931473612785,103.062484741,2018-07-24,03:52:00,18,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.920913755894,103.060966492,2018-07-24,03:52:00,49,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.507941961288,102.267524719,2018-07-24,03:52:00,45,terra,Bunut , Kab. Pelalawan , Riau 
+0.441426545382,101.88973999,2018-07-24,03:52:00,61,terra,Bunut , Kab. Pelalawan , Riau 
+0.185167387128,103.361846924,2018-07-24,03:52:00,77,terra,Mandah , Kab. Indragiri Hilir , Riau 
+0.10940027982,102.692207336,2018-07-24,03:52:00,59,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+-0.57781624794,102.627098083,2018-07-24,03:52:00,55,terra,Seberida , Kab. Indragiri Hulu , Riau 
+-0.579653918743,102.639526367,2018-07-24,03:52:00,27,terra,Seberida , Kab. Indragiri Hulu , Riau 
+-1.04154551029,102.567344666,2018-07-24,06:44:00,63,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+-0.0542049594223,103.095375061,2018-07-24,06:44:00,78,aqua,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+0.382498085499,102.03729248,2018-07-24,06:44:00,51,aqua,Bunut , Kab. Pelalawan , Riau 
+0.48652869463,102.181777954,2018-07-24,06:44:00,54,aqua,Bunut , Kab. Pelalawan , Riau 
+0.485243231058,102.172714233,2018-07-24,06:44:00,66,aqua,Bunut , Kab. Pelalawan , Riau 
+0.611407160759,102.093437195,2018-07-24,06:44:00,36,aqua,Siak Sri Indrapura , Kab. Siak , Riau 
+0.610117077827,102.084403992,2018-07-24,06:44:00,29,aqua,Siak Sri Indrapura , Kab. Siak , Riau 
+0.91525375843,103.066116333,2018-07-24,06:44:00,75,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.92458319664,103.064781189,2018-07-24,06:44:00,90,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.923200726509,103.05506134,2018-07-24,06:44:00,80,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.773109316826,100.322685242,2018-07-24,06:44:00,43,aqua,Rambah , Kab. Rokan Hulu , Riau 
+2.06832051277,100.364112854,2018-07-24,06:44:00,87,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.06702566147,100.355133057,2018-07-24,06:44:00,96,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.07730460167,100.362823486,2018-07-24,06:44:00,48,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.0760114193,100.35383606,2018-07-24,06:44:00,83,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.26117897034,100.36076355,2018-07-24,06:44:00,89,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.27015757561,100.359466553,2018-07-24,06:44:00,49,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+0.188967,103.361267,2018-07-24,19:07:00,49,aqua,Mandah , Kab. Indragiri Hilir , Riau 
+-0.575481,102.629234,2018-07-24,19:07:00,64,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+-0.578519940376,102.637702942,2018-07-25,15:13:00,50,terra,Seberida , Kab. Indragiri Hulu , Riau 
+-0.58070987463,102.6223526,2018-07-25,15:13:00,43,terra,Seberida , Kab. Indragiri Hulu , Riau 
+2.0070297718,100.512634277,2018-07-25,15:13:00,53,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.07786178589,100.369346619,2018-07-25,15:13:00,26,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.07484841347,100.348419189,2018-07-25,15:13:00,71,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.09588980675,100.508255005,2018-07-25,15:13:00,62,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.00163650513,101.184867859,2018-07-26,03:39:00,37,terra,Dumai Barat , Kota Dumai , Riau 
+2.0928030014,100.500076294,2018-07-26,03:39:00,42,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.0753235817,100.354324341,2018-07-26,03:39:00,71,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.07386612892,100.36441803,2018-07-26,03:39:00,84,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.06581401825,100.352973938,2018-07-26,03:39:00,50,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.06436061859,100.363075256,2018-07-26,03:39:00,81,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.00074481964,100.500785828,2018-07-26,03:39:00,75,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+1.99928772449,100.510719299,2018-07-26,03:39:00,83,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+1.52882158756,101.829872131,2018-07-26,03:39:00,63,terra,Bukit Batu , Kab. Bengkalis , Riau 
+0.669188201427,101.599258423,2018-07-26,03:39:00,37,terra,Siak Sri Indrapura , Kab. Siak , Riau 
+-0.885081112385,102.0884552,2018-07-26,06:31:00,72,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+-0.865665793419,102.085533142,2018-07-26,06:31:00,95,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+-0.854463398457,102.094680786,2018-07-26,06:31:00,73,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+-0.328242838383,103.149177551,2018-07-26,06:31:00,50,aqua,Tembilahan , Kab. Indragiri Hilir , Riau 
+0.502340972424,103.045349121,2018-07-26,06:31:00,66,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.52577996254,103.013336182,2018-07-26,06:31:00,65,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.521326720715,102.338676453,2018-07-26,06:31:00,39,aqua,Bunut , Kab. Pelalawan , Riau 
+0.565101563931,102.275802612,2018-07-26,06:31:00,68,aqua,Bunut , Kab. Pelalawan , Riau 
+2.00012373924,101.183738708,2018-07-26,06:31:00,50,aqua,Dumai Barat , Kota Dumai , Riau 
+2.00245499611,100.505981445,2018-07-26,06:31:00,82,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.06364130974,100.365386963,2018-07-26,06:31:00,71,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.06181049347,100.352996826,2018-07-26,06:31:00,83,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.22539973259,100.429862976,2018-07-26,06:31:00,53,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+2.008717,100.512047,2018-07-26,03:39:00,75,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+1.751621,101.196968,2018-07-26,03:39:00,40,terra,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.66794,101.448692,2018-07-26,03:39:00,64,terra,Dumai Timur , Kota Dumai , Riau 
+1.486246,101.869621,2018-07-26,03:39:00,28,terra,Bukit Batu , Kab. Bengkalis , Riau 
+2.07109,100.361,2018-07-26,18:13:51,23,snpp,Pasir Limau Kapas , Rokan Hilir , Riau 
+0.01291,102.769508,2018-07-27,07:12:00,59,aqua,Enok , Kab. Indragiri Hilir , Riau 
+0.157356,102.736076,2018-07-27,07:12:00,33,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.528292,102.337097,2018-07-27,07:12:00,43,aqua,Bunut , Kab. Pelalawan , Riau 
+1.488839,101.852615,2018-07-27,07:12:00,18,aqua,Bukit Batu , Kab. Bengkalis , Riau 
+-0.57986,102.654,2018-07-27,06:54:52,71,snpp,Batang Gansal , Indragiri Hulu , Riau 
+2.07230329514,100.362075806,2018-07-28,03:27:00,67,terra,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+0.685646533966,102.903388977,2018-07-28,03:27:00,57,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+-0.443811178207,103.132026672,2018-07-28,03:27:00,58,terra,Enok , Kab. Indragiri Hilir , Riau 
+-0.574966609478,102.646537781,2018-07-28,03:27:00,29,terra,Seberida , Kab. Indragiri Hulu , Riau 
+-0.576510906219,102.656913757,2018-07-28,03:27:00,54,terra,Seberida , Kab. Indragiri Hulu , Riau 
+-0.920587897301,102.225784302,2018-07-28,03:27:00,54,terra,Seberida , Kab. Indragiri Hulu , Riau 
+-0.925550222397,102.22379303,2018-07-28,06:22:00,70,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+-0.877098917961,102.042480469,2018-07-28,06:22:00,72,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+0.363177955151,102.791900635,2018-07-28,06:22:00,60,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.303178,102.477,2018-07-28,06:37:22,43,snpp,Teluk Meranti , Pelalawan , Riau 
+0.505225,103.049,2018-07-28,06:37:22,71,snpp,Kuala Kampar , Pelalawan , Riau 
+0.682701,102.883,2018-07-28,06:37:22,41,snpp,Teluk Meranti , Pelalawan , Riau 
+1.86211,101.166,2018-07-28,06:37:22,74,snpp,Sungai Sembilan , Dumai , Riau 
+1.86106,101.159,2018-07-28,06:37:22,63,snpp,Sungai Sembilan , Dumai , Riau 
+1.8474,101.069,2018-07-28,06:37:22,47,snpp,Rimba Melintang , Rokan Hilir , Riau 
+2.07353,100.376,2018-07-28,06:37:22,59,snpp,Pasir Limau Kapas , Rokan Hilir , Riau 
+2.07139,100.362,2018-07-28,06:37:22,73,snpp,Pasir Limau Kapas , Rokan Hilir , Riau 
+-0.917979,102.222,2018-07-28,06:35:56,82,snpp,Batang Cenaku , Indragiri Hulu , Riau 
+-0.872002,102.038,2018-07-28,06:35:56,95,snpp,Peranap , Indragiri Hulu , Riau 
+-0.582164,102.658,2018-07-28,06:35:56,79,snpp,Batang Gansal , Indragiri Hulu , Riau 
+-0.476164,103.042,2018-07-28,06:35:56,74,snpp,Enok , Indragiri Hilir , Riau 
+-0.580460727215,102.653366089,2018-07-28,18:46:00,90,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+0.333885,101.0205,2018-07-01,00:00:00,69,aqua,Tapungkiri , Kab. Rokan Hulu , Riau 
+0.920299,101.908257,2018-07-05,00:00:00,57,terra,Siak Sri Indrapura , Kab. Siak , Riau 
+1.406924,100.818741,2018-07-31,00:00:00,66,aqua,Tanah Putih , Kab. Rokan Hilir , Riau 
+0.666221,101.59375,2018-07-27,00:00:00,44,aqua,Siak Sri Indrapura , Kab. Siak , Riau 
+1.379917,102.259262,2018-07-15,00:00:00,54,terra,Merbau , Kab. Kepulauan Meranti , Riau 
+0.92696,101.890312,2018-07-15,00:00:00,48,terra,Siak , Kab. Siak , Riau 
+0.922329,101.922569,2018-07-15,00:00:00,56,terra,Siak Sri Indrapura , Kab. Siak , Riau 
+0.286024,102.517387,2018-07-15,00:00:00,38,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.125024,102.819023,2018-07-15,00:00:00,33,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.666221,101.59375,2018-07-21,00:00:00,44,aqua,Siak Sri Indrapura , Kab. Siak , Riau 
+0.149044,102.898315,2018-07-11,00:00:00,66,aqua,Enok , Kab. Indragiri Hilir , Riau 
+0.28969,102.453453,2018-07-11,00:00:00,29,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.920299,101.908257,2018-07-16,00:00:00,57,aqua,Siak Sri Indrapura , Kab. Siak , Riau 
+0.044058,103.000587,2018-07-15,00:00:00,45,terra,Enok , Kab. Indragiri Hilir , Riau 
+0.170055,102.679031,2018-07-15,00:00:00,60,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.547606,102.204445,2018-07-15,00:00:00,25,terra,Bunut , Kab. Pelalawan , Riau 
+0.998652,102.705681,2018-07-15,00:00:00,46,terra,Tebingtinggi Barat , Kab. Kepulauan Meranti , Riau 
+0.283583,102.519402,2018-07-15,00:00:00,46,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.015616,101.910034,2018-07-15,00:00:00,54,aqua,Pangkalan Kuras , Kab. Pelalawan , Riau 
+-0.32274,103.161407,2018-07-14,00:00:00,59,terra,Tembilahan , Kab. Indragiri Hilir , Riau 

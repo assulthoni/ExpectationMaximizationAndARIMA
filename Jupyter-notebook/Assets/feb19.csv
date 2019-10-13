@@ -1,0 +1,782 @@
+Lintang (deg), Bujur (deg), Tanggal (dd/mm/yyy), Waktu Akuisisi (UTC), Tingkat Kepercayaan (%), Satelit, Kecamatan, Kabupaten, Provinsi
+1.8334363699,101.69127655,2019-02-01,03:48:00,48,terra,Rupat , Kab. Bengkalis , Riau 
+1.67178809643,101.476272583,2019-02-01,03:48:00,32,terra,Bukit Kapur , Kota Dumai , Riau 
+1.64962244034,101.388465881,2019-02-01,03:48:00,77,terra,Dumai Timur , Kota Dumai , Riau 
+0.38407433033,101.85874939,2019-02-01,03:48:00,51,terra,Langgam , Kab. Pelalawan , Riau 
+0.725334107876,102.864334106,2019-02-01,06:43:00,32,aqua,Sungai Apit , Kab. Siak , Riau 
+0.723984241486,102.854896545,2019-02-01,06:43:00,75,aqua,Sungai Apit , Kab. Siak , Riau 
+1.29089891911,101.543136597,2019-02-01,06:43:00,63,aqua,Pinggir , Kab. Bengkalis , Riau 
+1.61501538754,101.42641449,2019-02-01,06:43:00,35,aqua,Dumai Timur , Kota Dumai , Riau 
+1.66747021675,101.473472595,2019-02-01,06:43:00,42,aqua,Bukit Kapur , Kota Dumai , Riau 
+1.65924584866,100.579063416,2019-02-01,06:43:00,24,aqua,Bagan Sinembah , Kab. Rokan Hilir , Riau 
+1.82807505131,101.693626404,2019-02-01,06:43:00,78,aqua,Rupat , Kab. Bengkalis , Riau 
+1.83706045151,101.692337036,2019-02-01,06:43:00,55,aqua,Rupat , Kab. Bengkalis , Riau 
+1.83577942848,101.683364868,2019-02-01,06:43:00,63,aqua,Rupat , Kab. Bengkalis , Riau 
+1.85631477833,101.698730469,2019-02-01,06:43:00,82,aqua,Rupat , Kab. Bengkalis , Riau 
+1.906556,101.465828,2019-02-01,06:41:00,72,aqua,Rupat , Kab. Bengkalis , Riau 
+1.15548,102.288,2019-02-01,06:12:00,48,snpp,Merbau , Kab. Kepulauan Meranti , Riau 
+1.6295,101.429,2019-02-01,06:12:00,33,snpp,Dumai Timur , Kota Dumai , Riau 
+1.67272,101.475,2019-02-01,06:12:00,59,snpp,Bukit Kapur , Kota Dumai , Riau 
+1.83262,101.693,2019-02-01,06:12:00,55,snpp,Rupat , Kab. Bengkalis , Riau 
+1.8551722765,101.698387146,2019-02-02,15:12:00,18,terra,Rupat , Kab. Bengkalis , Riau 
+1.859943,101.705673,2019-02-03,03:37:00,87,terra,Rupat , Kab. Bengkalis , Riau 
+1.834004,101.692604,2019-02-03,03:37:00,42,terra,Rupat , Kab. Bengkalis , Riau 
+1.672181,101.477394,2019-02-03,03:37:00,43,terra,Bukit Kapur , Kota Dumai , Riau 
+1.618283,101.526733,2019-02-03,03:37:00,50,terra,Bukit Kapur , Kota Dumai , Riau 
+0.623985,103.209549,2019-02-03,03:37:00,51,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+-0.150635,102.77784,2019-02-03,03:37:00,40,terra,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+-0.40815615654,102.712081909,2019-02-03,06:28:00,52,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+0.432158708572,102.991004944,2019-02-03,06:28:00,31,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.441390693188,102.989677429,2019-02-03,06:28:00,68,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.62168854475,103.217102051,2019-02-03,06:28:00,96,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.620362401009,103.20778656,2019-02-03,06:28:00,82,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.747165441513,102.425437927,2019-02-03,06:28:00,39,aqua,Sungai Apit , Kab. Siak , Riau 
+0.692041039467,101.619285583,2019-02-03,06:28:00,37,aqua,Siak Sri Indrapura , Kab. Siak , Riau 
+0.795220434666,102.259315491,2019-02-03,06:28:00,27,aqua,Sungai Apit , Kab. Siak , Riau 
+0.968236088753,103.066390991,2019-02-03,06:28:00,28,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.32683360577,101.915740967,2019-02-03,06:28:00,19,aqua,Bukit Batu , Kab. Bengkalis , Riau 
+1.61819338799,101.524223328,2019-02-03,06:28:00,48,aqua,Bukit Kapur , Kota Dumai , Riau 
+1.82627093792,101.68901062,2019-02-03,06:28:00,84,aqua,Rupat , Kab. Bengkalis , Riau 
+1.85837137699,101.705818176,2019-02-03,06:28:00,91,aqua,Rupat , Kab. Bengkalis , Riau 
+1.85685706139,101.695297241,2019-02-03,06:28:00,75,aqua,Rupat , Kab. Bengkalis , Riau 
+1.67128229141,101.466499329,2019-02-05,06:17:00,19,aqua,Bukit Kapur , Kota Dumai , Riau 
+1.671304,101.475754,2019-02-05,18:45:00,64,aqua,Bukit Kapur , Kota Dumai , Riau 
+1.30411839485,102.031036377,2019-02-06,04:07:00,54,terra,Bukit Batu , Kab. Bengkalis , Riau 
+0.137000977993,102.815742493,2019-02-06,04:07:00,24,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.122214339674,102.813621521,2019-02-06,04:07:00,26,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+-0.397928506136,102.730117798,2019-02-06,04:07:00,56,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+1.380971,102.260582,2019-02-07,03:11:00,48,terra,Merbau , Kab. Kepulauan Meranti , Riau 
+0.721804499626,102.851898193,2019-02-07,06:05:00,49,aqua,Sungai Apit , Kab. Siak , Riau 
+0.729464,102.862,2019-02-07,05:59:28,27,snpp,Sungai Apit , Kab. Siak , Riau 
+0.585636854172,103.198410034,2019-02-07,15:31:00,59,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+1.63897,101.261,2019-02-07,18:39:06,42,snpp,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.7936450243,101.496810913,2019-02-08,03:57:00,66,terra,Rupat , Kab. Bengkalis , Riau 
+1.38134026527,102.257041931,2019-02-08,03:57:00,70,terra,Merbau , Kab. Kepulauan Meranti , Riau 
+0.928536653519,101.888519287,2019-02-08,03:57:00,47,terra,Siak , Kab. Siak , Riau 
+0.926646649837,101.901290894,2019-02-08,03:57:00,64,terra,Siak Sri Indrapura , Kab. Siak , Riau 
+0.924753367901,101.914093018,2019-02-08,03:57:00,44,terra,Siak Sri Indrapura , Kab. Siak , Riau 
+0.791879713535,102.266677856,2019-02-08,03:57:00,51,terra,Sungai Apit , Kab. Siak , Riau 
+0.691362261772,101.631439209,2019-02-08,03:57:00,46,terra,Siak Sri Indrapura , Kab. Siak , Riau 
+0.481006503105,102.203193665,2019-02-08,03:54:00,25,terra,Bunut , Kab. Pelalawan , Riau 
+0.111038066447,103.443847656,2019-02-08,03:54:00,64,terra,Enok , Kab. Indragiri Hilir , Riau 
+0.108464971185,103.460998535,2019-02-08,03:54:00,61,terra,Enok , Kab. Indragiri Hilir , Riau 
+-0.179313659668,102.790840149,2019-02-08,03:54:00,38,terra,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+0.622716784477,103.204986572,2019-02-09,15:17:00,61,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+1.6445016861,101.258415222,2019-02-09,15:17:00,52,terra,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.70194077492,101.337997437,2019-02-09,15:17:00,60,terra,Dumai Barat , Kota Dumai , Riau 
+1.70079863071,101.339729309,2019-02-10,03:45:00,68,terra,Dumai Barat , Kota Dumai , Riau 
+0.86935955286,102.228912354,2019-02-10,03:45:00,45,terra,Sungai Apit , Kab. Siak , Riau 
+0.690468072891,101.628463745,2019-02-10,03:45:00,54,terra,Siak Sri Indrapura , Kab. Siak , Riau 
+0.173316270113,102.689147949,2019-02-10,03:45:00,46,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+1.61684,101.527,2019-02-10,06:43:42,76,snpp,Bukit Kapur , Kota Dumai , Riau 
+1.85957,101.702,2019-02-10,06:43:42,70,snpp,Rupat , Kab. Bengkalis , Riau 
+-0.0937779992819,103.054290771,2019-02-10,06:35:00,48,aqua,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+-0.0409523621202,103.031112671,2019-02-10,06:35:00,60,aqua,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+0.160757943988,102.899055481,2019-02-10,06:35:00,15,aqua,Enok , Kab. Indragiri Hilir , Riau 
+0.154431641102,102.727264404,2019-02-10,06:35:00,26,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.364826261997,103.102424622,2019-02-10,06:35:00,41,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.496948421001,103.323059082,2019-02-10,06:35:00,70,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.560020804405,103.180099487,2019-02-10,06:35:00,94,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.581748664379,103.204231262,2019-02-10,06:35:00,27,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.611160159111,103.218170166,2019-02-10,06:35:00,39,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.619336128235,103.21131897,2019-02-10,06:35:00,80,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.618063807487,103.202415466,2019-02-10,06:35:00,87,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.865365684032,102.231971741,2019-02-10,06:35:00,29,aqua,Sungai Apit , Kab. Siak , Riau 
+1.03282546997,101.665084839,2019-02-10,06:35:00,58,aqua,Siak , Kab. Siak , Riau 
+1.32778441906,101.922119141,2019-02-10,06:35:00,35,aqua,Bukit Batu , Kab. Bengkalis , Riau 
+1.45872354507,101.420707703,2019-02-10,06:35:00,24,aqua,Mandau , Kab. Bengkalis , Riau 
+1.85838127136,101.706413269,2019-02-10,06:35:00,43,aqua,Rupat , Kab. Bengkalis , Riau 
+1.85707259178,101.697273254,2019-02-10,06:35:00,73,aqua,Rupat , Kab. Bengkalis , Riau 
+0.56293,103.18,2019-02-11,06:24:46,98,snpp,Kuala Kampar , Kab. Pelalawan , Riau 
+0.700867,102.895,2019-02-11,06:24:46,71,snpp,Kuala Kampar , Kab. Pelalawan , Riau 
+1.12926,102.868,2019-02-11,06:24:46,59,snpp,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.13498,102.86,2019-02-11,06:24:46,80,snpp,Rangsang Barat , Kab. Kepulauan Meranti , Riau 
+1.83654,101.699,2019-02-11,06:24:46,53,snpp,Rupat , Kab. Bengkalis , Riau 
+1.84368,101.698,2019-02-11,06:24:46,86,snpp,Rupat , Kab. Bengkalis , Riau 
+1.85082,101.697,2019-02-11,06:24:46,100,snpp,Rupat , Kab. Bengkalis , Riau 
+1.85919,101.704,2019-02-11,06:24:46,100,snpp,Rupat , Kab. Bengkalis , Riau 
+1.85796,101.696,2019-02-11,06:24:46,100,snpp,Rupat , Kab. Bengkalis , Riau 
+1.86633,101.703,2019-02-11,06:24:46,94,snpp,Rupat , Kab. Bengkalis , Riau 
+1.99199,101.544,2019-02-11,06:24:46,88,snpp,Rupat Utara , Kab. Bengkalis , Riau 
+1.50699281693,101.792442322,2019-02-11,07:18:00,28,aqua,Bukit Batu , Kab. Bengkalis , Riau 
+1.82878744602,101.700973511,2019-02-12,03:31:00,82,terra,Rupat , Kab. Bengkalis , Riau 
+1.81902825832,101.69960022,2019-02-12,03:31:00,97,terra,Rupat , Kab. Bengkalis , Riau 
+1.68884134293,101.265808105,2019-02-12,03:31:00,78,terra,Dumai Barat , Kota Dumai , Riau 
+1.13111615181,102.857749939,2019-02-12,03:31:00,48,terra,Rangsang Barat , Kab. Kepulauan Meranti , Riau 
+0.910522639751,102.797813416,2019-02-12,03:31:00,74,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+-0.0675053596497,103.057182312,2019-02-12,03:31:00,68,terra,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+-0.325186252594,102.992630005,2019-02-12,03:31:00,64,terra,Batang Tuaka , Kab. Indragiri Hilir , Riau 
+0.0273504,102.818,2019-02-12,06:05:52,33,snpp,Enok , Kab. Indragiri Hilir , Riau 
+0.91188,102.794,2019-02-12,06:05:52,56,snpp,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.68147,101.272,2019-02-12,06:05:52,75,snpp,Dumai Barat , Kota Dumai , Riau 
+1.68476,101.263,2019-02-12,06:05:52,64,snpp,Dumai Barat , Kota Dumai , Riau 
+1.82533,101.701,2019-02-12,06:05:52,100,snpp,Rupat , Kab. Bengkalis , Riau 
+1.835,101.7,2019-02-12,06:05:52,72,snpp,Rupat , Kab. Bengkalis , Riau 
+1.83169,101.679,2019-02-12,06:05:52,100,snpp,Rupat , Kab. Bengkalis , Riau 
+1.83003,101.668,2019-02-12,06:05:52,70,snpp,Rupat , Kab. Bengkalis , Riau 
+1.84302,101.688,2019-02-12,06:05:52,50,snpp,Rupat , Kab. Bengkalis , Riau 
+1.86328,101.698,2019-02-12,06:05:52,74,snpp,Rupat , Kab. Bengkalis , Riau 
+1.68429839611,101.274688721,2019-02-12,15:48:00,73,terra,Dumai Barat , Kota Dumai , Riau 
+1.68267786503,101.263366699,2019-02-12,15:48:00,96,terra,Dumai Barat , Kota Dumai , Riau 
+1.82672488689,101.701438904,2019-02-12,15:48:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.84053134918,101.724212646,2019-02-12,15:48:00,7,terra,Rupat , Kab. Bengkalis , Riau 
+1.83879268169,101.71206665,2019-02-12,15:48:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.8370616436,101.699966431,2019-02-12,15:48:00,71,terra,Rupat , Kab. Bengkalis , Riau 
+1.83360803127,101.675842285,2019-02-12,15:48:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.83188509941,101.663803101,2019-02-12,15:48:00,84,terra,Rupat , Kab. Bengkalis , Riau 
+1.84565973282,101.686416626,2019-02-12,15:48:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.84392404556,101.674354553,2019-02-12,15:48:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.85948479176,101.709121704,2019-02-12,15:48:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.86591017246,101.701751709,2019-02-12,15:48:00,72,terra,Rupat , Kab. Bengkalis , Riau 
+1.86099672318,101.711425781,2019-02-12,18:51:00,100,aqua,Rupat , Kab. Bengkalis , Riau 
+1.85967183113,101.720397949,2019-02-12,18:51:00,99,aqua,Rupat , Kab. Bengkalis , Riau 
+1.85068070889,101.719108582,2019-02-12,18:51:00,93,aqua,Rupat , Kab. Bengkalis , Riau 
+1.84699559212,101.681968689,2019-02-12,18:51:00,100,aqua,Rupat , Kab. Bengkalis , Riau 
+1.84566986561,101.690925598,2019-02-12,18:51:00,85,aqua,Rupat , Kab. Bengkalis , Riau 
+1.84169018269,101.717819214,2019-02-12,18:51:00,100,aqua,Rupat , Kab. Bengkalis , Riau 
+1.84036231041,101.726783752,2019-02-12,18:51:00,93,aqua,Rupat , Kab. Bengkalis , Riau 
+1.8393355608,101.671722412,2019-02-12,18:51:00,72,aqua,Rupat , Kab. Bengkalis , Riau 
+1.83800876141,101.680679321,2019-02-12,18:51:00,100,aqua,Rupat , Kab. Bengkalis , Riau 
+1.83402764797,101.707557678,2019-02-12,18:51:00,100,aqua,Rupat , Kab. Bengkalis , Riau 
+1.83269953728,101.716522217,2019-02-12,18:51:00,85,aqua,Rupat , Kab. Bengkalis , Riau 
+1.83034980297,101.670433044,2019-02-12,18:51:00,52,aqua,Rupat , Kab. Bengkalis , Riau 
+1.82902216911,101.679389954,2019-02-12,18:51:00,100,aqua,Rupat , Kab. Bengkalis , Riau 
+1.82636630535,101.697311401,2019-02-12,18:51:00,76,aqua,Rupat , Kab. Bengkalis , Riau 
+1.82503783703,101.706268311,2019-02-12,18:51:00,100,aqua,Rupat , Kab. Bengkalis , Riau 
+1.82370865345,101.715232849,2019-02-12,18:51:00,58,aqua,Rupat , Kab. Bengkalis , Riau 
+1.68623042107,101.267150879,2019-02-12,18:51:00,95,aqua,Dumai Barat , Kota Dumai , Riau 
+1.68491923809,101.276054382,2019-02-12,18:51:00,96,aqua,Dumai Barat , Kota Dumai , Riau 
+1.84615,101.68,2019-02-12,18:45:28,100,snpp,Rupat , Kab. Bengkalis , Riau 
+1.83932,101.679,2019-02-12,18:45:28,100,snpp,Rupat , Kab. Bengkalis , Riau 
+1.82781,101.707,2019-02-12,18:45:28,47,snpp,Rupat , Kab. Bengkalis , Riau 
+1.82096,101.706,2019-02-12,18:45:28,40,snpp,Rupat , Kab. Bengkalis , Riau 
+1.68762,101.269,2019-02-12,18:45:28,57,snpp,Dumai Barat , Kota Dumai , Riau 
+1.68087,101.268,2019-02-12,18:45:28,100,snpp,Dumai Barat , Kota Dumai , Riau 
+1.01299,103.03,2019-02-12,18:45:28,55,snpp,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.01165,103.039,2019-02-12,18:45:28,71,snpp,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.840395,101.690865,2019-02-13,04:13:00,84,terra,Rupat , Kab. Bengkalis , Riau 
+1.85169,101.714973,2019-02-13,04:13:00,35,terra,Rupat , Kab. Bengkalis , Riau 
+1.836833,101.712677,2019-02-13,04:13:00,62,terra,Rupat , Kab. Bengkalis , Riau 
+1.826044,101.683296,2019-02-13,04:13:00,53,terra,Rupat , Kab. Bengkalis , Riau 
+1.821969,101.710442,2019-02-13,04:13:00,81,terra,Rupat , Kab. Bengkalis , Riau 
+1.329747,101.951187,2019-02-13,04:13:00,38,terra,Bukit Batu , Kab. Bengkalis , Riau 
+1.002261,103.041977,2019-02-13,04:13:00,19,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.912161,102.808258,2019-02-13,04:13:00,69,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.87107,102.259193,2019-02-13,04:13:00,40,terra,Sungai Apit , Kab. Siak , Riau 
+0.835454,101.790054,2019-02-13,04:13:00,35,terra,Siak Sri Indrapura , Kab. Siak , Riau 
+0.56122,103.215454,2019-02-13,04:13:00,63,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.604452,102.108009,2019-02-13,04:13:00,57,terra,Siak Sri Indrapura , Kab. Siak , Riau 
+0.900922,102.798,2019-02-13,05:46:57,73,snpp,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.913428,102.796,2019-02-13,05:46:57,50,snpp,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.00798,103.039,2019-02-13,05:46:57,50,snpp,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.02025,103.037,2019-02-13,05:46:57,26,snpp,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.8357,101.683,2019-02-13,05:46:57,70,snpp,Rupat , Kab. Bengkalis , Riau 
+1.84891,101.681,2019-02-13,05:46:57,81,snpp,Rupat , Kab. Bengkalis , Riau 
+0.903790712357,102.81476593,2019-02-13,07:05:00,76,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.900226056576,102.790206909,2019-02-13,07:05:00,88,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.999330997467,102.713447571,2019-02-13,07:05:00,43,aqua,Tebingtinggi Barat , Kab. Kepulauan Meranti , Riau 
+1.37035393715,102.250297546,2019-02-13,07:05:00,37,aqua,Merbau , Kab. Kepulauan Meranti , Riau 
+1.74044322968,101.635223389,2019-02-13,07:05:00,67,aqua,Rupat , Kab. Bengkalis , Riau 
+1.73748421669,101.614570618,2019-02-13,07:05:00,89,aqua,Rupat , Kab. Bengkalis , Riau 
+1.74636042118,101.608177185,2019-02-13,07:05:00,77,aqua,Rupat , Kab. Bengkalis , Riau 
+1.82687306404,101.702682495,2019-02-13,07:05:00,37,aqua,Rupat , Kab. Bengkalis , Riau 
+1.83715963364,101.679924011,2019-02-13,07:05:00,92,aqua,Rupat , Kab. Bengkalis , Riau 
+1.00699174404,103.033172607,2019-02-14,03:18:00,38,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.903287529945,102.795280457,2019-02-14,03:18:00,81,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+-0.265657126904,102.866325378,2019-02-14,06:10:00,18,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+0.556600511074,103.204811096,2019-02-14,06:10:00,66,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.553922891617,103.18662262,2019-02-14,06:10:00,73,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.569096088409,102.936424255,2019-02-14,06:10:00,43,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.621458530426,103.213905334,2019-02-14,06:10:00,54,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.667466342449,102.890670776,2019-02-14,06:10:00,39,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.715670287609,102.863967896,2019-02-14,06:10:00,78,aqua,Sungai Apit , Kab. Siak , Riau 
+0.903242528439,102.804702759,2019-02-14,06:10:00,92,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.900428235531,102.785255432,2019-02-14,06:10:00,80,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.916030228138,102.80280304,2019-02-14,06:10:00,74,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.00208377838,103.035682678,2019-02-14,06:10:00,69,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.999373912811,103.017250061,2019-02-14,06:10:00,72,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.01459920406,103.033752441,2019-02-14,06:10:00,62,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.01191556454,103.015365601,2019-02-14,06:10:00,83,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.72282159328,101.625244141,2019-02-14,06:10:00,80,aqua,Rupat , Kab. Bengkalis , Riau 
+1.7193672657,101.601966858,2019-02-14,06:10:00,87,aqua,Rupat , Kab. Bengkalis , Riau 
+1.73669397831,101.62323761,2019-02-14,06:10:00,100,aqua,Rupat , Kab. Bengkalis , Riau 
+1.73326933384,101.599975586,2019-02-14,06:10:00,100,aqua,Rupat , Kab. Bengkalis , Riau 
+1.75055849552,101.621177673,2019-02-14,06:10:00,100,aqua,Rupat , Kab. Bengkalis , Riau 
+1.74715781212,101.597892761,2019-02-14,06:10:00,100,aqua,Rupat , Kab. Bengkalis , Riau 
+1.72870099545,101.61769104,2019-02-14,06:10:00,95,aqua,Rupat , Kab. Bengkalis , Riau 
+1.72507953644,101.594421387,2019-02-14,06:10:00,85,aqua,Rupat , Kab. Bengkalis , Riau 
+1.74613535404,101.63874054,2019-02-14,06:10:00,64,aqua,Rupat , Kab. Bengkalis , Riau 
+1.74257385731,101.61567688,2019-02-14,06:10:00,100,aqua,Rupat , Kab. Bengkalis , Riau 
+1.73898231983,101.592430115,2019-02-14,06:10:00,93,aqua,Rupat , Kab. Bengkalis , Riau 
+1.75643622875,101.613601685,2019-02-14,06:10:00,100,aqua,Rupat , Kab. Bengkalis , Riau 
+1.7528719902,101.59034729,2019-02-14,06:10:00,85,aqua,Rupat , Kab. Bengkalis , Riau 
+1.8255443573,101.697227478,2019-02-14,06:10:00,36,aqua,Rupat , Kab. Bengkalis , Riau 
+1.83593523502,101.672325134,2019-02-14,06:10:00,57,aqua,Rupat , Kab. Bengkalis , Riau 
+0.605834,103.184799,2019-02-14,15:37:00,29,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.910761,102.807022,2019-02-14,15:37:00,100,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.007106,103.03756,2019-02-14,15:37:00,85,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.005765,103.028,2019-02-14,15:37:00,100,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.004425,103.018448,2019-02-14,15:37:00,98,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.016367,103.03624,2019-02-14,15:37:00,100,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.015021,103.02668,2019-02-14,15:37:00,100,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.013677,103.01712,2019-02-14,15:37:00,97,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.71575,101.60862,2019-02-14,15:37:00,26,terra,Rupat , Kab. Bengkalis , Riau 
+1.728221,101.627869,2019-02-14,15:37:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.726954,101.618935,2019-02-14,15:37:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.725687,101.610001,2019-02-14,15:37:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.724421,101.601074,2019-02-14,15:37:00,95,terra,Rupat , Kab. Bengkalis , Riau 
+1.738456,101.635513,2019-02-14,15:37:00,75,terra,Rupat , Kab. Bengkalis , Riau 
+1.737188,101.626572,2019-02-14,15:37:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.735921,101.617638,2019-02-14,15:37:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.734653,101.608704,2019-02-14,15:37:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.733385,101.599777,2019-02-14,15:37:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.732118,101.590851,2019-02-14,15:37:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.746155,101.625282,2019-02-14,15:37:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.744887,101.616348,2019-02-14,15:37:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.743618,101.607414,2019-02-14,15:37:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.74235,101.598488,2019-02-14,15:37:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.741082,101.589554,2019-02-14,15:37:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.755122,101.623985,2019-02-14,15:37:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.753853,101.615059,2019-02-14,15:37:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.752584,101.606125,2019-02-14,15:37:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.751315,101.597191,2019-02-14,15:37:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.762819,101.613762,2019-02-14,15:37:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.761549,101.604828,2019-02-14,15:37:00,91,terra,Rupat , Kab. Bengkalis , Riau 
+1.760279,101.595901,2019-02-14,15:37:00,80,terra,Rupat , Kab. Bengkalis , Riau 
+1.813982,101.715919,2019-02-14,15:37:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.812705,101.706963,2019-02-14,15:37:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.824237,101.723579,2019-02-14,15:37:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.822959,101.714622,2019-02-14,15:37:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.821681,101.705673,2019-02-14,15:37:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.83273,101.716446,2019-02-14,15:37:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.836631,101.679344,2019-02-14,15:37:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.835362,101.670387,2019-02-14,15:37:00,94,terra,Rupat , Kab. Bengkalis , Riau 
+1.846875,101.686996,2019-02-14,15:37:00,44,terra,Rupat , Kab. Bengkalis , Riau 
+1.845604,101.678047,2019-02-14,15:37:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.844335,101.669098,2019-02-14,15:37:00,79,terra,Rupat , Kab. Bengkalis , Riau 
+1.859664,101.71257,2019-02-14,15:37:00,25,terra,Rupat , Kab. Bengkalis , Riau 
+1.00970458984,103.032081604,2019-02-14,18:37:00,100,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.01758,103.028,2019-02-14,18:07:37,94,snpp,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.00883,103.026,2019-02-14,18:07:37,100,snpp,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.73994112015,101.627105713,2019-02-15,04:00:00,56,terra,Rupat , Kab. Bengkalis , Riau 
+1.01062631607,103.020698547,2019-02-15,06:53:00,68,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.17576766014,102.189964294,2019-02-15,06:53:00,38,aqua,Sungai Apit , Kab. Siak , Riau 
+1.72889959812,101.633850098,2019-02-15,06:53:00,42,aqua,Rupat , Kab. Bengkalis , Riau 
+1.72715973854,101.621757507,2019-02-15,06:53:00,88,aqua,Rupat , Kab. Bengkalis , Riau 
+1.72542750835,101.609725952,2019-02-15,06:53:00,97,aqua,Rupat , Kab. Bengkalis , Riau 
+1.73922538757,101.632362366,2019-02-15,06:53:00,69,aqua,Rupat , Kab. Bengkalis , Riau 
+1.73747587204,101.620269775,2019-02-15,06:53:00,98,aqua,Rupat , Kab. Bengkalis , Riau 
+1.74955356121,101.630889893,2019-02-15,06:53:00,65,aqua,Rupat , Kab. Bengkalis , Riau 
+1.74779522419,101.618804932,2019-02-15,06:53:00,100,aqua,Rupat , Kab. Bengkalis , Riau 
+1.8105558157,101.715919495,2019-02-15,06:53:00,95,aqua,Rupat , Kab. Bengkalis , Riau 
+1.82271552086,101.726730347,2019-02-15,06:53:00,22,aqua,Rupat , Kab. Bengkalis , Riau 
+1.82095861435,101.714439392,2019-02-15,06:53:00,97,aqua,Rupat , Kab. Bengkalis , Riau 
+1.01145,103.043,2019-02-15,06:50:06,24,snpp,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.0099,103.032,2019-02-15,06:50:06,83,snpp,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.75642,101.595,2019-02-15,17:48:43,90,snpp,Rupat , Kab. Bengkalis , Riau 
+1.75468,101.606,2019-02-15,17:48:43,100,snpp,Rupat , Kab. Bengkalis , Riau 
+1.75293,101.618,2019-02-15,17:48:43,100,snpp,Rupat , Kab. Bengkalis , Riau 
+1.74657,101.569,2019-02-15,17:48:43,100,snpp,Rupat , Kab. Bengkalis , Riau 
+1.74484,101.581,2019-02-15,17:48:43,100,snpp,Rupat , Kab. Bengkalis , Riau 
+1.74311,101.593,2019-02-15,17:48:43,100,snpp,Rupat , Kab. Bengkalis , Riau 
+1.74137,101.604,2019-02-15,17:48:43,98,snpp,Rupat , Kab. Bengkalis , Riau 
+1.73965,101.616,2019-02-15,17:48:43,79,snpp,Rupat , Kab. Bengkalis , Riau 
+1.73325,101.567,2019-02-15,17:48:43,44,snpp,Rupat , Kab. Bengkalis , Riau 
+1.73153,101.579,2019-02-15,17:48:43,68,snpp,Rupat , Kab. Bengkalis , Riau 
+1.72982,101.59,2019-02-15,17:48:43,67,snpp,Rupat , Kab. Bengkalis , Riau 
+1.72809,101.602,2019-02-15,17:48:43,100,snpp,Rupat , Kab. Bengkalis , Riau 
+1.82192111015,101.724189758,2019-02-16,03:05:00,46,terra,Rupat , Kab. Bengkalis , Riau 
+1.75655639172,101.620544434,2019-02-16,03:05:00,76,terra,Rupat , Kab. Bengkalis , Riau 
+1.74077498913,101.618339539,2019-02-16,03:05:00,57,terra,Rupat , Kab. Bengkalis , Riau 
+1.74748563766,101.611816406,2019-02-16,03:05:00,78,terra,Rupat , Kab. Bengkalis , Riau 
+1.73169493675,101.609664917,2019-02-16,03:05:00,58,terra,Rupat , Kab. Bengkalis , Riau 
+0.904516518116,102.798530579,2019-02-16,03:05:00,60,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.66434943676,102.899101257,2019-02-16,03:05:00,39,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+1.01432585716,103.033851624,2019-02-16,05:59:00,39,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.545513,103.2,2019-02-16,06:31:10,38,snpp,Kuala Kampar , Kab. Pelalawan , Riau 
+0.559845,103.205,2019-02-16,06:31:10,97,snpp,Kuala Kampar , Kab. Pelalawan , Riau 
+0.58888,103.172,2019-02-16,06:31:10,61,snpp,Kuala Kampar , Kab. Pelalawan , Riau 
+0.902459,102.791,2019-02-16,06:31:10,41,snpp,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.63379,101.257,2019-02-16,06:31:10,55,snpp,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.70184,101.336,2019-02-16,06:31:10,74,snpp,Dumai Barat , Kota Dumai , Riau 
+1.70867,101.335,2019-02-16,06:31:10,48,snpp,Dumai Barat , Kota Dumai , Riau 
+1.81997,101.717,2019-02-16,06:31:10,44,snpp,Rupat , Kab. Bengkalis , Riau 
+1.82781,101.723,2019-02-16,06:31:10,57,snpp,Rupat , Kab. Bengkalis , Riau 
+1.141737,101.945549,2019-02-16,15:24:00,59,terra,Siak Kecil , Kab. Bengkalis , Riau 
+1.394918,102.427826,2019-02-16,15:24:00,100,terra,Bintan , Kab. Bengkalis , Riau 
+1.393497,102.417923,2019-02-16,15:24:00,100,terra,Bengkalis , Kab. Bengkalis , Riau 
+1.404332,102.426445,2019-02-16,15:24:00,100,terra,Bintan , Kab. Bengkalis , Riau 
+1.402917,102.416542,2019-02-16,15:24:00,59,terra,Bintan , Kab. Bengkalis , Riau 
+1.622381,101.521324,2019-02-16,15:24:00,45,terra,Bukit Kapur , Kota Dumai , Riau 
+1.635386,101.257339,2019-02-16,15:24:00,56,terra,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.727358,101.61145,2019-02-16,15:24:00,36,terra,Rupat , Kab. Bengkalis , Riau 
+1.725791,101.600632,2019-02-16,15:24:00,97,terra,Rupat , Kab. Bengkalis , Riau 
+1.734043,101.588379,2019-02-16,15:24:00,55,terra,Rupat , Kab. Bengkalis , Riau 
+1.732481,101.577553,2019-02-16,15:24:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.748524,101.619408,2019-02-16,15:24:00,30,terra,Rupat , Kab. Bengkalis , Riau 
+1.745419,101.597786,2019-02-16,15:24:00,32,terra,Rupat , Kab. Bengkalis , Riau 
+1.743865,101.586967,2019-02-16,15:24:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.742308,101.576118,2019-02-16,15:24:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.740748,101.565262,2019-02-16,15:24:00,96,terra,Rupat , Kab. Bengkalis , Riau 
+1.70742,101.333282,2019-02-16,15:24:00,100,terra,Dumai Barat , Kota Dumai , Riau 
+1.705806,101.32206,2019-02-16,15:24:00,96,terra,Dumai Barat , Kota Dumai , Riau 
+1.758323,101.617981,2019-02-16,15:24:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.756777,101.60717,2019-02-16,15:24:00,31,terra,Rupat , Kab. Bengkalis , Riau 
+1.755231,101.596352,2019-02-16,15:24:00,69,terra,Rupat , Kab. Bengkalis , Riau 
+1.753682,101.585518,2019-02-16,15:24:00,28,terra,Rupat , Kab. Bengkalis , Riau 
+1.752132,101.574677,2019-02-16,15:24:00,64,terra,Rupat , Kab. Bengkalis , Riau 
+1.825491,101.722176,2019-02-16,15:24:00,77,terra,Rupat , Kab. Bengkalis , Riau 
+1.823947,101.711548,2019-02-16,15:24:00,55,terra,Rupat , Kab. Bengkalis , Riau 
+1.838803,101.67672,2019-02-16,15:24:00,31,terra,Rupat , Kab. Bengkalis , Riau 
+1.921612,101.403595,2019-02-16,15:24:00,76,terra,Rupat , Kab. Bengkalis , Riau 
+1.931521,101.402153,2019-02-16,15:24:00,19,terra,Rupat , Kab. Bengkalis , Riau 
+0.895691812038,102.796112061,2019-02-16,15:24:00,45,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.13204908371,101.94695282,2019-02-16,15:24:00,32,terra,Siak Kecil , Kab. Bengkalis , Riau 
+1.74500465393,101.574562073,2019-02-17,03:48:00,90,terra,Rupat , Kab. Bengkalis , Riau 
+1.74355232716,101.584320068,2019-02-17,03:48:00,45,terra,Rupat , Kab. Bengkalis , Riau 
+1.73565304279,101.573219299,2019-02-17,03:48:00,81,terra,Rupat , Kab. Bengkalis , Riau 
+1.7341953516,101.582984924,2019-02-17,03:48:00,56,terra,Rupat , Kab. Bengkalis , Riau 
+1.41036975384,102.430427551,2019-02-17,06:43:00,47,aqua,Bintan , Kab. Bengkalis , Riau 
+1.58589088917,101.793365479,2019-02-17,06:43:00,56,aqua,Bukit Kapur , Kota Dumai , Riau 
+1.81329846382,101.711837769,2019-02-17,06:43:00,62,aqua,Rupat , Kab. Bengkalis , Riau 
+1.82356035709,101.719512939,2019-02-17,06:43:00,48,aqua,Rupat , Kab. Bengkalis , Riau 
+1.82227373123,101.710548401,2019-02-17,06:43:00,50,aqua,Rupat , Kab. Bengkalis , Riau 
+1.82846,101.722,2019-02-17,06:12:14,47,snpp,Rupat , Kab. Bengkalis , Riau 
+1.39223146439,102.42603302,2019-02-18,15:12:00,26,terra,Bintan , Kab. Bengkalis , Riau 
+1.39243888855,102.418693542,2019-02-18,18:11:00,83,aqua,Bengkalis , Kab. Bengkalis , Riau 
+1.38869953156,102.444717407,2019-02-18,18:11:00,88,aqua,Bintan , Kab. Bengkalis , Riau 
+1.38606,102.422,2019-02-18,18:32:56,100,snpp,Bengkalis , Kab. Bengkalis , Riau 
+1.389672,102.422401,2019-02-19,03:37:00,89,terra,Bintan , Kab. Bengkalis , Riau 
+1.388357,102.431313,2019-02-19,03:37:00,86,terra,Bintan , Kab. Bengkalis , Riau 
+1.38071,102.421127,2019-02-19,03:37:00,93,terra,Bengkalis , Kab. Bengkalis , Riau 
+1.324871,101.924667,2019-02-19,03:37:00,48,terra,Bukit Batu , Kab. Bengkalis , Riau 
+1.012893,103.040253,2019-02-19,03:37:00,33,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.901672,102.793625,2019-02-19,03:37:00,58,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.805818,102.195244,2019-02-19,03:37:00,39,terra,Siak Sri Indrapura , Kab. Siak , Riau 
+0.701977,102.898209,2019-02-19,03:37:00,31,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.657419,102.828209,2019-02-19,03:37:00,67,terra,Sungai Apit , Kab. Siak , Riau 
+0.439388,102.994019,2019-02-19,03:37:00,54,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.430758,102.98687,2019-02-19,03:37:00,64,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.26675,103.039268,2019-02-19,03:37:00,42,terra,Mandah , Kab. Indragiri Hilir , Riau 
+0.196861,103.262352,2019-02-19,03:37:00,35,terra,Mandah , Kab. Indragiri Hilir , Riau 
+0.288303,102.517677,2019-02-19,03:37:00,48,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.122917,103.325806,2019-02-19,03:37:00,47,terra,Mandah , Kab. Indragiri Hilir , Riau 
+-0.005,102.75666,2019-02-19,03:37:00,54,terra,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+-0.134767,102.887253,2019-02-19,03:37:00,26,terra,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+-0.176739,102.799171,2019-02-19,03:37:00,73,terra,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+-0.186515,102.800323,2019-02-19,03:37:00,62,terra,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+-0.181453570724,102.791763306,2019-02-19,06:30:00,39,aqua,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+0.627709209919,102.730026245,2019-02-19,06:30:00,26,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+1.02501583099,101.51348114,2019-02-19,06:30:00,34,aqua,Pinggir , Kab. Bengkalis , Riau 
+1.37474131584,102.427436829,2019-02-19,06:30:00,63,aqua,Bengkalis , Kab. Bengkalis , Riau 
+1.38410663605,102.426086426,2019-02-19,06:30:00,100,aqua,Bengkalis , Kab. Bengkalis , Riau 
+1.38268017769,102.416275024,2019-02-19,06:30:00,66,aqua,Bengkalis , Kab. Bengkalis , Riau 
+1.39488756657,102.434524536,2019-02-19,06:30:00,27,aqua,Bintan , Kab. Bengkalis , Riau 
+1.39347064495,102.424736023,2019-02-19,06:30:00,80,aqua,Bintan , Kab. Bengkalis , Riau 
+1.40283203125,102.423370361,2019-02-19,06:30:00,50,aqua,Bintan , Kab. Bengkalis , Riau 
+1.74441,101.568,2019-02-19,18:14:01,46,snpp,Rupat , Kab. Bengkalis , Riau 
+1.38784,102.424,2019-02-19,18:14:01,11,snpp,Bengkalis , Kab. Bengkalis , Riau 
+1.38671,102.431,2019-02-19,18:14:01,42,snpp,Bintan , Kab. Bengkalis , Riau 
+1.37963,102.423,2019-02-19,18:14:01,58,snpp,Bengkalis , Kab. Bengkalis , Riau 
+1.38011217117,102.418434143,2019-02-20,07:12:00,65,aqua,Bengkalis , Kab. Bengkalis , Riau 
+1.74918806553,101.591323853,2019-02-20,07:12:00,38,aqua,Rupat , Kab. Bengkalis , Riau 
+0.513901,103.364,2019-02-20,17:56:30,47,snpp,Mandah , Kab. Indragiri Hilir , Riau 
+1.75146460533,101.595626831,2019-02-19,18:54:00,56,aqua,Rupat , Kab. Bengkalis , Riau 
+1.74501872063,101.574539185,2019-02-19,18:54:00,26,aqua,Rupat , Kab. Bengkalis , Riau 
+1.73817133904,101.586952209,2019-02-19,18:54:00,34,aqua,Rupat , Kab. Bengkalis , Riau 
+1.39156186581,102.426437378,2019-02-19,18:54:00,81,aqua,Bintan , Kab. Bengkalis , Riau 
+1.38993287086,102.437454224,2019-02-19,18:54:00,77,aqua,Bintan , Kab. Bengkalis , Riau 
+1.38166201115,102.42502594,2019-02-19,18:54:00,79,aqua,Bengkalis , Kab. Bengkalis , Riau 
+1.38002896309,102.436019897,2019-02-19,18:54:00,38,aqua,Bintan , Kab. Bengkalis , Riau 
+1.74521183968,101.586662292,2019-02-21,03:25:00,33,terra,Rupat , Kab. Bengkalis , Riau 
+1.73624992371,101.571487427,2019-02-21,03:25:00,84,terra,Rupat , Kab. Bengkalis , Riau 
+1.37724435329,102.432571411,2019-02-21,03:25:00,85,terra,Bengkalis , Kab. Bengkalis , Riau 
+0.91300547123,102.806800842,2019-02-21,03:25:00,54,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.903096556664,102.805412292,2019-02-21,03:25:00,68,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.250375568867,102.933692932,2019-02-21,03:25:00,53,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.19384406507,103.318000793,2019-02-21,03:25:00,59,terra,Mandah , Kab. Indragiri Hilir , Riau 
+0.192351073027,103.328147888,2019-02-21,03:25:00,79,terra,Mandah , Kab. Indragiri Hilir , Riau 
+-0.396281629801,102.714706421,2019-02-21,06:16:00,28,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+0.433198034763,102.985847473,2019-02-21,06:16:00,69,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.501129567623,103.375015259,2019-02-21,06:16:00,91,aqua,Mandah , Kab. Indragiri Hilir , Riau 
+0.499172002077,103.36151886,2019-02-21,06:16:00,97,aqua,Mandah , Kab. Indragiri Hilir , Riau 
+0.512001395226,103.373435974,2019-02-21,06:16:00,72,aqua,Mandah , Kab. Indragiri Hilir , Riau 
+0.510054945946,103.359939575,2019-02-21,06:16:00,83,aqua,Mandah , Kab. Indragiri Hilir , Riau 
+0.7240280509,102.850570679,2019-02-21,06:16:00,60,aqua,Sungai Apit , Kab. Siak , Riau 
+0.900038003922,102.797859192,2019-02-21,06:16:00,71,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.37420988083,102.431686401,2019-02-21,06:16:00,94,aqua,Bengkalis , Kab. Bengkalis , Riau 
+1.38574457169,102.430023193,2019-02-21,06:16:00,88,aqua,Bintan , Kab. Bengkalis , Riau 
+1.63322484493,101.257484436,2019-02-21,06:16:00,38,aqua,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.64584112167,101.255607605,2019-02-21,06:16:00,56,aqua,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.73151707649,101.577339172,2019-02-21,06:16:00,83,aqua,Rupat , Kab. Bengkalis , Riau 
+1.72893536091,101.559654236,2019-02-21,06:16:00,58,aqua,Rupat , Kab. Bengkalis , Riau 
+1.74634408951,101.59312439,2019-02-21,06:16:00,99,aqua,Rupat , Kab. Bengkalis , Riau 
+1.7437915802,101.575515747,2019-02-21,06:16:00,97,aqua,Rupat , Kab. Bengkalis , Riau 
+1.74122977257,101.557846069,2019-02-21,06:16:00,18,aqua,Rupat , Kab. Bengkalis , Riau 
+1.7525241375,101.603240967,2019-02-21,06:16:00,31,aqua,Rupat , Kab. Bengkalis , Riau 
+0.507465,103.366,2019-02-21,06:37:34,100,snpp,Mandah , Kab. Indragiri Hilir , Riau 
+0.602335,103.188,2019-02-21,06:37:34,73,snpp,Kuala Kampar , Kab. Pelalawan , Riau 
+1.38751,102.435,2019-02-21,06:37:34,100,snpp,Bintan , Kab. Bengkalis , Riau 
+1.32716,101.103,2019-02-21,06:37:34,65,snpp,Mandau , Kab. Bengkalis , Riau 
+1.61438,101.525,2019-02-21,06:37:34,76,snpp,Bukit Kapur , Kota Dumai , Riau 
+1.6421,101.26,2019-02-21,06:37:34,90,snpp,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.72608,101.593,2019-02-21,06:37:34,94,snpp,Rupat , Kab. Bengkalis , Riau 
+1.73168,101.585,2019-02-21,06:37:34,56,snpp,Rupat , Kab. Bengkalis , Riau 
+1.73064,101.578,2019-02-21,06:37:34,100,snpp,Rupat , Kab. Bengkalis , Riau 
+1.68251,101.26,2019-02-21,06:37:34,85,snpp,Dumai Barat , Kota Dumai , Riau 
+1.73624,101.57,2019-02-21,06:37:34,100,snpp,Rupat , Kab. Bengkalis , Riau 
+1.74392,101.576,2019-02-21,06:37:34,82,snpp,Rupat , Kab. Bengkalis , Riau 
+1.70732,101.334,2019-02-21,06:37:34,83,snpp,Dumai Barat , Kota Dumai , Riau 
+1.75684,101.616,2019-02-21,06:37:34,70,snpp,Rupat , Kab. Bengkalis , Riau 
+1.83691,101.696,2019-02-21,06:37:34,52,snpp,Rupat , Kab. Bengkalis , Riau 
+-0.172192,102.798,2019-02-21,06:36:08,20,snpp,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+1.73828,101.577965,2019-02-21,18:45:00,74,aqua,Rupat , Kab. Bengkalis , Riau 
+1.729165,101.57666,2019-02-21,18:45:00,100,aqua,Rupat , Kab. Bengkalis , Riau 
+1.727813,101.585869,2019-02-21,18:45:00,100,aqua,Rupat , Kab. Bengkalis , Riau 
+1.72646,101.595085,2019-02-21,18:45:00,100,aqua,Rupat , Kab. Bengkalis , Riau 
+1.725108,101.604294,2019-02-21,18:45:00,100,aqua,Rupat , Kab. Bengkalis , Riau 
+1.682918,101.259796,2019-02-21,18:45:00,97,aqua,Dumai Barat , Kota Dumai , Riau 
+1.681538,101.269211,2019-02-21,18:45:00,65,aqua,Dumai Barat , Kota Dumai , Riau 
+1.673711,101.258476,2019-02-21,18:45:00,100,aqua,Dumai Barat , Kota Dumai , Riau 
+1.64609,101.254547,2019-02-21,18:45:00,96,aqua,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.644722,101.263962,2019-02-21,18:45:00,96,aqua,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.381871,102.436569,2019-02-21,18:45:00,29,aqua,Bintan , Kab. Bengkalis , Riau 
+0.517607,103.360916,2019-02-21,18:45:00,15,aqua,Mandah , Kab. Indragiri Hilir , Riau 
+0.50719,103.368729,2019-02-21,18:45:00,91,aqua,Mandah , Kab. Indragiri Hilir , Riau 
+0.191281,103.326736,2019-02-21,18:45:00,98,aqua,Mandah , Kab. Indragiri Hilir , Riau 
+1.76017510891,101.61870575,2019-02-21,18:45:00,83,aqua,Rupat , Kab. Bengkalis , Riau 
+1.75881552696,101.62789917,2019-02-21,18:45:00,81,aqua,Rupat , Kab. Bengkalis , Riau 
+1.7551497221,101.589775085,2019-02-21,18:45:00,69,aqua,Rupat , Kab. Bengkalis , Riau 
+1.7537894249,101.598991394,2019-02-21,18:45:00,100,aqua,Rupat , Kab. Bengkalis , Riau 
+1.7409940958,101.559509277,2019-02-21,18:45:00,100,aqua,Rupat , Kab. Bengkalis , Riau 
+1.73963665962,101.568740845,2019-02-21,18:45:00,100,aqua,Rupat , Kab. Bengkalis , Riau 
+1.67723894119,101.262481689,2019-02-22,04:07:00,71,terra,Dumai Barat , Kota Dumai , Riau 
+1.63909947872,101.251235962,2019-02-22,04:07:00,55,terra,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.63626682758,101.270301819,2019-02-22,04:07:00,58,terra,Dumai Barat , Kota Dumai , Riau 
+1.32903087139,101.920593262,2019-02-22,04:07:00,40,terra,Bukit Batu , Kab. Bengkalis , Riau 
+1.31248605251,102.030426025,2019-02-22,04:07:00,58,terra,Bukit Batu , Kab. Bengkalis , Riau 
+0.923737466335,101.904045105,2019-02-22,04:07:00,44,terra,Siak Sri Indrapura , Kab. Siak , Riau 
+0.660580694675,102.919563293,2019-02-22,04:07:00,34,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.502244651318,103.376747131,2019-02-22,04:07:00,62,terra,Mandah , Kab. Indragiri Hilir , Riau 
+0.288058131933,102.470703125,2019-02-22,04:07:00,65,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.284233421087,102.495811462,2019-02-22,04:07:00,45,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.164689928293,102.681365967,2019-02-22,04:07:00,60,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.159859120846,102.702079773,2019-02-22,04:07:00,36,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.12970392406,102.80620575,2019-02-22,04:07:00,74,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+-0.258708506823,102.864738464,2019-02-22,04:07:00,48,terra,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+-0.390541493893,102.727912903,2019-02-22,04:07:00,53,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.173082947731,102.380447388,2019-02-22,06:59:00,30,aqua,Rengat , Kab. Indragiri Hulu , Riau 
+0.0458702780306,103.006980896,2019-02-22,06:59:00,24,aqua,Enok , Kab. Indragiri Hilir , Riau 
+0.0772442668676,102.68132019,2019-02-22,06:59:00,26,aqua,Rengat , Kab. Indragiri Hulu , Riau 
+0.0895409137011,102.679550171,2019-02-22,06:59:00,25,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.169518187642,102.679031372,2019-02-22,06:59:00,26,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.50449603796,103.374328613,2019-02-22,06:59:00,59,aqua,Mandah , Kab. Indragiri Hilir , Riau 
+0.581846356392,103.19367981,2019-02-22,06:59:00,80,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.597700119019,103.211616516,2019-02-22,06:59:00,36,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.594787180424,103.191902161,2019-02-22,06:59:00,87,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.717322289944,102.867454529,2019-02-22,06:59:00,63,aqua,Sungai Apit , Kab. Siak , Riau 
+1.3761537075,102.444015503,2019-02-22,06:59:00,65,aqua,Bintan , Kab. Bengkalis , Riau 
+1.37360072136,102.426269531,2019-02-22,06:59:00,65,aqua,Bengkalis , Kab. Bengkalis , Riau 
+1.38848769665,102.442268372,2019-02-22,06:59:00,82,aqua,Bintan , Kab. Bengkalis , Riau 
+1.38590812683,102.424468994,2019-02-22,06:59:00,87,aqua,Bengkalis , Kab. Bengkalis , Riau 
+1.72634363174,101.600646973,2019-02-22,06:59:00,76,aqua,Rupat , Kab. Bengkalis , Riau 
+1.72411501408,101.585197449,2019-02-22,06:59:00,73,aqua,Rupat , Kab. Bengkalis , Riau 
+1.6764537096,101.254844666,2019-02-22,06:59:00,89,aqua,Dumai Barat , Kota Dumai , Riau 
+-0.445076,102.803,2019-02-22,06:17:13,64,snpp,Tempuling , Kab. Indragiri Hilir , Riau 
+0.0280063,102.821,2019-02-22,06:18:38,48,snpp,Enok , Kab. Indragiri Hilir , Riau 
+0.189343,103.32,2019-02-22,06:18:38,80,snpp,Mandah , Kab. Indragiri Hilir , Riau 
+0.254948,102.943,2019-02-22,06:18:38,57,snpp,Kuala Kampar , Kab. Pelalawan , Riau 
+0.253614,102.935,2019-02-22,06:18:38,72,snpp,Kuala Kampar , Kab. Pelalawan , Riau 
+0.506374,103.369,2019-02-22,06:18:38,80,snpp,Mandah , Kab. Indragiri Hilir , Riau 
+0.566803,103.181,2019-02-22,06:18:38,64,snpp,Kuala Kampar , Kab. Pelalawan , Riau 
+0.581343,103.205,2019-02-22,06:18:38,95,snpp,Kuala Kampar , Kab. Pelalawan , Riau 
+0.589922,103.212,2019-02-22,06:18:38,45,snpp,Kuala Kampar , Kab. Pelalawan , Riau 
+0.58862,103.204,2019-02-22,06:18:38,100,snpp,Kuala Kampar , Kab. Pelalawan , Riau 
+0.5959,103.203,2019-02-22,06:18:38,100,snpp,Kuala Kampar , Kab. Pelalawan , Riau 
+0.903574,102.8,2019-02-22,06:18:38,54,snpp,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.91232,102.808,2019-02-22,06:18:38,53,snpp,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.3797,102.435,2019-02-22,06:18:38,85,snpp,Bintan , Kab. Bengkalis , Riau 
+1.38722,102.434,2019-02-22,06:18:38,100,snpp,Bintan , Kab. Bengkalis , Riau 
+1.40978,102.43,2019-02-22,06:18:38,52,snpp,Bintan , Kab. Bengkalis , Riau 
+1.63917,101.263,2019-02-22,06:18:38,82,snpp,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.72547,101.614,2019-02-22,06:18:38,75,snpp,Rupat , Kab. Bengkalis , Riau 
+1.72396,101.604,2019-02-22,06:18:38,100,snpp,Rupat , Kab. Bengkalis , Riau 
+1.72243,101.594,2019-02-22,06:18:38,100,snpp,Rupat , Kab. Bengkalis , Riau 
+1.67246,101.265,2019-02-22,06:18:38,54,snpp,Dumai Barat , Kota Dumai , Riau 
+1.6714,101.258,2019-02-22,06:18:38,100,snpp,Dumai Barat , Kota Dumai , Riau 
+1.68027,101.256,2019-02-22,06:18:38,79,snpp,Dumai Barat , Kota Dumai , Riau 
+1.75441,101.623,2019-02-22,06:18:38,48,snpp,Rupat , Kab. Bengkalis , Riau 
+1.70947,101.337,2019-02-22,06:18:38,75,snpp,Dumai Barat , Kota Dumai , Riau 
+1.70839,101.33,2019-02-22,06:18:38,72,snpp,Dumai Barat , Kota Dumai , Riau 
+1.76226,101.621,2019-02-22,06:18:38,91,snpp,Rupat , Kab. Bengkalis , Riau 
+1.84010851383,101.695899963,2019-02-23,03:11:00,27,terra,Rupat , Kab. Bengkalis , Riau 
+1.83678722382,101.719154358,2019-02-23,03:11:00,51,terra,Rupat , Kab. Bengkalis , Riau 
+1.72895348072,101.59563446,2019-02-23,03:11:00,52,terra,Rupat , Kab. Bengkalis , Riau 
+1.38055145741,102.441764832,2019-02-23,03:11:00,54,terra,Bintan , Kab. Bengkalis , Riau 
+0.720463514328,102.852767944,2019-02-23,03:11:00,68,terra,Sungai Apit , Kab. Siak , Riau 
+0.715623855591,102.864646912,2019-02-23,03:11:00,76,terra,Sungai Apit , Kab. Siak , Riau 
+0.499909639359,103.369216919,2019-02-23,03:11:00,72,terra,Mandah , Kab. Indragiri Hilir , Riau 
+0.411904543638,103.186019897,2019-02-23,06:05:00,45,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.499432593584,103.363952637,2019-02-23,06:05:00,61,aqua,Mandah , Kab. Indragiri Hilir , Riau 
+0.716297566891,102.862922668,2019-02-23,06:05:00,75,aqua,Sungai Apit , Kab. Siak , Riau 
+0.712610840797,102.83732605,2019-02-23,06:05:00,78,aqua,Sungai Apit , Kab. Siak , Riau 
+1.3826431036,102.421699524,2019-02-23,06:05:00,50,aqua,Bengkalis , Kab. Bengkalis , Riau 
+1.83544266224,101.70124054,2019-02-23,06:05:00,31,aqua,Rupat , Kab. Bengkalis , Riau 
+0.416271,103.195,2019-02-23,05:59:42,89,snpp,Kuala Kampar , Kab. Pelalawan , Riau 
+0.500227,103.368,2019-02-23,05:59:42,66,snpp,Mandah , Kab. Indragiri Hilir , Riau 
+0.71794,102.863,2019-02-23,05:59:42,100,snpp,Sungai Apit , Kab. Siak , Riau 
+0.716138,102.851,2019-02-23,05:59:42,92,snpp,Sungai Apit , Kab. Siak , Riau 
+1.39164,102.441,2019-02-23,05:59:42,18,snpp,Bintan , Kab. Bengkalis , Riau 
+1.72857,101.6,2019-02-23,05:59:42,61,snpp,Rupat , Kab. Bengkalis , Riau 
+1.72744,101.593,2019-02-23,05:59:42,73,snpp,Rupat , Kab. Bengkalis , Riau 
+1.73384,101.564,2019-02-23,05:59:42,68,snpp,Rupat , Kab. Bengkalis , Riau 
+1.75479,101.624,2019-02-23,05:59:42,85,snpp,Rupat , Kab. Bengkalis , Riau 
+1.84396,101.722,2019-02-23,05:59:42,67,snpp,Rupat , Kab. Bengkalis , Riau 
+0.41178393364,103.195625305,2019-02-23,15:31:00,97,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.500792562962,103.367919922,2019-02-23,15:31:00,48,terra,Mandah , Kab. Indragiri Hilir , Riau 
+0.499525904655,103.35899353,2019-02-23,15:31:00,85,terra,Mandah , Kab. Indragiri Hilir , Riau 
+0.714318573475,102.864311218,2019-02-23,15:31:00,57,terra,Sungai Apit , Kab. Siak , Riau 
+0.711779415607,102.846496582,2019-02-23,15:31:00,100,terra,Sungai Apit , Kab. Siak , Riau 
+0.723274290562,102.863021851,2019-02-23,15:31:00,90,terra,Sungai Apit , Kab. Siak , Riau 
+0.722005188465,102.854110718,2019-02-23,15:31:00,99,terra,Sungai Apit , Kab. Siak , Riau 
+0.719466626644,102.836303711,2019-02-23,15:31:00,82,terra,Sungai Apit , Kab. Siak , Riau 
+0.844531834126,102.35887146,2019-02-23,15:31:00,100,terra,Sungai Apit , Kab. Siak , Riau 
+1.38957929611,102.436256409,2019-02-23,15:31:00,52,terra,Bintan , Kab. Bengkalis , Riau 
+1.72189176083,101.607048035,2019-02-23,15:31:00,15,terra,Rupat , Kab. Bengkalis , Riau 
+1.72055327892,101.59778595,2019-02-23,15:31:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.71921145916,101.588500977,2019-02-23,15:31:00,52,terra,Rupat , Kab. Bengkalis , Riau 
+1.72967863083,101.596466064,2019-02-23,15:31:00,24,terra,Rupat , Kab. Bengkalis , Riau 
+1.72834050655,101.587188721,2019-02-23,15:31:00,98,terra,Rupat , Kab. Bengkalis , Riau 
+1.73479795456,101.567329407,2019-02-23,15:31:00,89,terra,Rupat , Kab. Bengkalis , Riau 
+1.73346042633,101.558036804,2019-02-23,15:31:00,37,terra,Rupat , Kab. Bengkalis , Riau 
+1.75191819668,101.621620178,2019-02-23,15:31:00,58,terra,Rupat , Kab. Bengkalis , Riau 
+1.74392998219,101.566001892,2019-02-23,15:31:00,20,terra,Rupat , Kab. Bengkalis , Riau 
+1.76235854626,101.629547119,2019-02-23,15:31:00,26,terra,Rupat , Kab. Bengkalis , Riau 
+1.76103425026,101.620307922,2019-02-23,15:31:00,100,terra,Rupat , Kab. Bengkalis , Riau 
+1.76226806641,101.623161316,2019-02-23,18:31:00,81,aqua,Rupat , Kab. Bengkalis , Riau 
+1.76032948494,101.636474609,2019-02-23,18:31:00,45,aqua,Rupat , Kab. Bengkalis , Riau 
+1.73742222786,101.564804077,2019-02-23,18:31:00,27,aqua,Rupat , Kab. Bengkalis , Riau 
+1.72080481052,101.603546143,2019-02-23,18:31:00,31,aqua,Rupat , Kab. Bengkalis , Riau 
+0.846915602684,102.361968994,2019-02-23,18:31:00,92,aqua,Sungai Apit , Kab. Siak , Riau 
+0.724945127964,102.846099854,2019-02-23,18:31:00,47,aqua,Sungai Apit , Kab. Siak , Riau 
+0.723376691341,102.856903076,2019-02-23,18:31:00,91,aqua,Sungai Apit , Kab. Siak , Riau 
+0.721811115742,102.867675781,2019-02-23,18:31:00,93,aqua,Sungai Apit , Kab. Siak , Riau 
+0.715125620365,102.844718933,2019-02-23,18:31:00,93,aqua,Sungai Apit , Kab. Siak , Riau 
+0.713565766811,102.855499268,2019-02-23,18:31:00,89,aqua,Sungai Apit , Kab. Siak , Riau 
+1.75854,101.622,2019-02-23,18:39:20,100,snpp,Rupat , Kab. Bengkalis , Riau 
+1.74069,101.563,2019-02-23,18:39:20,80,snpp,Rupat , Kab. Bengkalis , Riau 
+1.73297,101.569,2019-02-23,18:39:20,38,snpp,Rupat , Kab. Bengkalis , Riau 
+1.72972,101.59,2019-02-23,18:39:20,16,snpp,Rupat , Kab. Bengkalis , Riau 
+1.72266,101.595,2019-02-23,18:39:20,100,snpp,Rupat , Kab. Bengkalis , Riau 
+1.72158,101.602,2019-02-23,18:39:20,72,snpp,Rupat , Kab. Bengkalis , Riau 
+0.845075,102.356,2019-02-23,18:39:20,77,snpp,Sungai Apit , Kab. Siak , Riau 
+0.843968,102.364,2019-02-23,18:39:20,63,snpp,Sungai Apit , Kab. Siak , Riau 
+0.718147,102.857,2019-02-23,18:39:20,50,snpp,Sungai Apit , Kab. Siak , Riau 
+0.713636,102.842,2019-02-23,18:39:20,54,snpp,Sungai Apit , Kab. Siak , Riau 
+0.712492,102.849,2019-02-23,18:39:20,33,snpp,Sungai Apit , Kab. Siak , Riau 
+0.413094,103.195,2019-02-23,18:39:20,38,snpp,Kuala Kampar , Kab. Pelalawan , Riau 
+0.312936,103.013,2019-02-23,18:39:20,97,snpp,Kuala Kampar , Kab. Pelalawan , Riau 
+1.75771760941,101.619926453,2019-02-24,03:54:00,78,terra,Rupat , Kab. Bengkalis , Riau 
+1.61760878563,101.466964722,2019-02-24,03:54:00,70,terra,Bukit Kapur , Kota Dumai , Riau 
+1.6158490181,101.478691101,2019-02-24,03:54:00,65,terra,Bukit Kapur , Kota Dumai , Riau 
+1.39136075974,102.434715271,2019-02-24,03:54:00,56,terra,Bintan , Kab. Bengkalis , Riau 
+1.38040030003,102.433113098,2019-02-24,03:54:00,28,terra,Bintan , Kab. Bengkalis , Riau 
+0.850729167461,102.361953735,2019-02-24,03:54:00,48,terra,Sungai Apit , Kab. Siak , Riau 
+0.839728951454,102.360359192,2019-02-24,03:54:00,72,terra,Sungai Apit , Kab. Siak , Riau 
+0.890942394733,101.945350647,2019-02-24,03:54:00,40,terra,Siak Sri Indrapura , Kab. Siak , Riau 
+0.721151411533,102.852844238,2019-02-24,03:54:00,78,terra,Sungai Apit , Kab. Siak , Riau 
+0.718946874142,102.867973328,2019-02-24,03:54:00,63,terra,Sungai Apit , Kab. Siak , Riau 
+0.711906969547,102.836097717,2019-02-24,03:54:00,27,terra,Sungai Apit , Kab. Siak , Riau 
+0.709691762924,102.851196289,2019-02-24,03:54:00,84,terra,Sungai Apit , Kab. Siak , Riau 
+0.831723928452,101.800086975,2019-02-24,03:54:00,43,terra,Siak Sri Indrapura , Kab. Siak , Riau 
+0.505468726158,103.366836548,2019-02-24,03:54:00,61,terra,Mandah , Kab. Indragiri Hilir , Riau 
+0.726303,102.862,2019-02-24,05:40:47,57,snpp,Sungai Apit , Kab. Siak , Riau 
+0.842087,102.362,2019-02-24,05:40:47,55,snpp,Sungai Apit , Kab. Siak , Riau 
+-0.175253003836,102.791549683,2019-02-24,06:48:00,42,aqua,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+-0.230392739177,102.339187622,2019-02-24,06:48:00,41,aqua,Rengat , Kab. Indragiri Hulu , Riau 
+0.358782351017,103.463638306,2019-02-24,06:48:00,55,aqua,Mandah , Kab. Indragiri Hilir , Riau 
+0.306010127068,103.01865387,2019-02-24,06:48:00,68,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.304400324821,103.007339478,2019-02-24,06:48:00,84,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.401717752218,103.185142517,2019-02-24,06:48:00,35,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.500126361847,103.363189697,2019-02-24,06:48:00,59,aqua,Mandah , Kab. Indragiri Hilir , Riau 
+0.837702870369,102.365203857,2019-02-24,06:48:00,56,aqua,Sungai Apit , Kab. Siak , Riau 
+0.836224019527,102.354705811,2019-02-24,06:48:00,62,aqua,Sungai Apit , Kab. Siak , Riau 
+0.847383916378,102.363838196,2019-02-24,06:48:00,74,aqua,Sungai Apit , Kab. Siak , Riau 
+0.845895588398,102.353309631,2019-02-24,06:48:00,89,aqua,Sungai Apit , Kab. Siak , Riau 
+1.13129687309,102.855651855,2019-02-24,06:48:00,36,aqua,Rangsang Barat , Kab. Kepulauan Meranti , Riau 
+1.37727940083,102.442276001,2019-02-24,06:48:00,67,aqua,Bintan , Kab. Bengkalis , Riau 
+1.37572240829,102.431510925,2019-02-24,06:48:00,70,aqua,Bengkalis , Kab. Bengkalis , Riau 
+1.38550114632,102.430099487,2019-02-24,06:48:00,77,aqua,Bintan , Kab. Bengkalis , Riau 
+1.61431002617,101.468505859,2019-02-24,06:48:00,95,aqua,Bukit Kapur , Kota Dumai , Riau 
+1.55873191357,101.023277283,2019-02-24,06:48:00,56,aqua,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.70340287685,101.335037231,2019-02-24,06:48:00,81,aqua,Dumai Barat , Kota Dumai , Riau 
+1.83125603199,101.696144104,2019-02-24,06:48:00,38,aqua,Rupat , Kab. Bengkalis , Riau 
+1.87921535969,101.652290344,2019-02-24,06:48:00,68,aqua,Rupat , Kab. Bengkalis , Riau 
+1.73505,101.567,2019-02-24,18:20:24,19,snpp,Rupat , Kab. Bengkalis , Riau 
+1.72245,101.596,2019-02-24,18:20:24,100,snpp,Rupat , Kab. Bengkalis , Riau 
+1.72088,101.606,2019-02-24,18:20:24,52,snpp,Rupat , Kab. Bengkalis , Riau 
+1.47441,101.544,2019-02-24,18:20:24,84,snpp,Bukit Batu , Kab. Bengkalis , Riau 
+0.845361,102.359,2019-02-24,18:20:24,100,snpp,Sungai Apit , Kab. Siak , Riau 
+0.72097,102.864,2019-02-24,18:20:24,16,snpp,Sungai Apit , Kab. Siak , Riau 
+0.716328,102.846,2019-02-24,18:20:24,80,snpp,Sungai Apit , Kab. Siak , Riau 
+0.402972,103.19,2019-02-24,18:20:24,55,snpp,Kuala Kampar , Kab. Pelalawan , Riau 
+1.72370898724,101.588699341,2019-02-24,19:12:00,57,aqua,Rupat , Kab. Bengkalis , Riau 
+1.72061288357,101.6092453,2019-02-24,19:12:00,77,aqua,Rupat , Kab. Bengkalis , Riau 
+0.845397353172,102.370201111,2019-02-24,19:12:00,57,aqua,Sungai Apit , Kab. Siak , Riau 
+0.724314570427,102.869537354,2019-02-24,19:12:00,65,aqua,Sungai Apit , Kab. Siak , Riau 
+0.848259866238,102.355285645,2019-02-25,02:59:00,49,terra,Sungai Apit , Kab. Siak , Riau 
+0.65416187048,102.889625549,2019-02-25,02:59:00,15,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+-0.137889564037,102.883117676,2019-02-25,02:59:00,52,terra,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+0.212351992726,102.321304321,2019-02-25,15:18:00,84,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.210542738438,102.308540344,2019-02-25,15:18:00,100,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.208729296923,102.29573822,2019-02-25,15:18:00,100,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.221156343818,102.306930542,2019-02-25,15:18:00,80,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.396718144417,103.189498901,2019-02-25,15:18:00,19,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.406681865454,103.188064575,2019-02-25,15:18:00,40,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.491613328457,103.34954834,2019-02-25,15:18:00,52,terra,Mandah , Kab. Indragiri Hilir , Riau 
+0.717463493347,102.863586426,2019-02-25,15:18:00,90,terra,Sungai Apit , Kab. Siak , Riau 
+0.715790390968,102.851989746,2019-02-25,15:18:00,93,terra,Sungai Apit , Kab. Siak , Riau 
+0.714115440845,102.840385437,2019-02-25,15:18:00,94,terra,Sungai Apit , Kab. Siak , Riau 
+0.725928783417,102.850509644,2019-02-25,15:18:00,62,terra,Sungai Apit , Kab. Siak , Riau 
+0.724261522293,102.838897705,2019-02-25,15:18:00,61,terra,Sungai Apit , Kab. Siak , Riau 
+0.849086999893,102.35459137,2019-02-25,15:18:00,67,terra,Sungai Apit , Kab. Siak , Riau 
+1.47845625877,101.543861389,2019-02-25,15:18:00,90,terra,Bukit Batu , Kab. Bengkalis , Riau 
+1.4764444828,101.529838562,2019-02-25,15:18:00,77,terra,Bukit Batu , Kab. Bengkalis , Riau 
+1.58958148956,101.52104187,2019-02-25,15:18:00,62,terra,Bukit Kapur , Kota Dumai , Riau 
+1.58760499954,101.507095337,2019-02-25,15:18:00,54,terra,Bukit Batu , Kab. Bengkalis , Riau 
+1.57939112186,101.516792297,2019-02-25,15:18:00,49,terra,Bukit Batu , Kab. Bengkalis , Riau 
+1.71777510643,101.602676392,2019-02-25,15:18:00,89,terra,Rupat , Kab. Bengkalis , Riau 
+1.71576011181,101.588996887,2019-02-25,15:18:00,44,terra,Rupat , Kab. Bengkalis , Riau 
+1.72670519352,101.587440491,2019-02-25,15:18:00,29,terra,Rupat , Kab. Bengkalis , Riau 
+1.48069107533,101.551605225,2019-02-25,18:18:00,64,aqua,Bukit Batu , Kab. Bengkalis , Riau 
+0.72171151638,102.852645874,2019-02-25,18:18:00,19,aqua,Sungai Apit , Kab. Siak , Riau 
+0.717900514603,102.863128662,2019-02-25,18:18:00,74,aqua,Sungai Apit , Kab. Siak , Riau 
+0.225644648075,102.302200317,2019-02-25,18:18:00,64,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.222829475999,102.321258545,2019-02-25,18:18:00,88,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.212833166122,102.300422668,2019-02-25,18:18:00,86,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.210022628307,102.319595337,2019-02-25,18:18:00,100,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+2.16086983681,100.807556152,2019-02-26,03:45:00,40,terra,Bangko , Kab. Rokan Hilir , Riau 
+1.70511364937,101.336280823,2019-02-26,03:45:00,70,terra,Dumai Barat , Kota Dumai , Riau 
+1.68112504482,101.251182556,2019-02-26,03:45:00,67,terra,Dumai Barat , Kota Dumai , Riau 
+1.64164566994,101.266349792,2019-02-26,03:45:00,57,terra,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.58563709259,101.52180481,2019-02-26,03:45:00,66,terra,Bukit Kapur , Kota Dumai , Riau 
+1.38721644878,102.43069458,2019-02-26,03:45:00,34,terra,Bintan , Kab. Bengkalis , Riau 
+1.48198711872,101.537414551,2019-02-26,03:45:00,69,terra,Bukit Batu , Kab. Bengkalis , Riau 
+1.48067009449,101.546325684,2019-02-26,03:45:00,78,terra,Bukit Batu , Kab. Bengkalis , Riau 
+1.47302150726,101.536148071,2019-02-26,03:45:00,49,terra,Bukit Batu , Kab. Bengkalis , Riau 
+1.47170424461,101.545059204,2019-02-26,03:45:00,86,terra,Bukit Batu , Kab. Bengkalis , Riau 
+0.907830893993,102.80040741,2019-02-26,03:45:00,52,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.906400322914,102.810035706,2019-02-26,03:45:00,44,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.17923343182,100.90625,2019-02-26,03:45:00,47,terra,Kunto Darussalam , Kab. Rokan Hulu , Riau 
+1.17792105675,100.915153503,2019-02-26,03:45:00,60,terra,Kunto Darussalam , Kab. Rokan Hulu , Riau 
+0.898532867432,102.799087524,2019-02-26,03:45:00,49,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.716945052147,102.037559509,2019-02-26,03:45:00,61,terra,Siak Sri Indrapura , Kab. Siak , Riau 
+0.215152338147,102.31275177,2019-02-26,03:45:00,95,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+-0.775214374065,102.953392029,2019-02-26,06:35:00,63,aqua,Keritang , Kab. Indragiri Hilir , Riau 
+-0.388925015926,101.984817505,2019-02-26,06:35:00,57,aqua,Pangkalan Kuras , Kab. Pelalawan , Riau 
+-0.379821628332,101.98349762,2019-02-26,06:35:00,22,aqua,Pangkalan Kuras , Kab. Pelalawan , Riau 
+0.209815323353,102.308654785,2019-02-26,06:35:00,100,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.208523005247,102.299636841,2019-02-26,06:35:00,96,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.2188167274,102.307350159,2019-02-26,06:35:00,55,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.400673478842,103.184944153,2019-02-26,06:35:00,30,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.713432431221,102.03313446,2019-02-26,06:35:00,44,aqua,Siak Sri Indrapura , Kab. Siak , Riau 
+0.84354442358,102.357704163,2019-02-26,06:35:00,84,aqua,Sungai Apit , Kab. Siak , Riau 
+1.20850467682,102.078651428,2019-02-26,06:35:00,85,aqua,Siak Kecil , Kab. Bengkalis , Riau 
+1.20721268654,102.069625854,2019-02-26,06:35:00,80,aqua,Siak Kecil , Kab. Bengkalis , Riau 
+1.47172164917,101.540596008,2019-02-26,06:35:00,85,aqua,Bukit Batu , Kab. Bengkalis , Riau 
+1.48083865643,101.539291382,2019-02-26,06:35:00,41,aqua,Bukit Batu , Kab. Bengkalis , Riau 
+1.62275564671,101.440109253,2019-02-26,06:35:00,61,aqua,Bukit Kapur , Kota Dumai , Riau 
+1.59925985336,101.21346283,2019-02-26,06:35:00,55,aqua,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.63505077362,101.266181946,2019-02-26,06:35:00,50,aqua,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.63369381428,101.256744385,2019-02-26,06:35:00,72,aqua,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.66955077648,101.376159668,2019-02-26,06:35:00,67,aqua,Dumai Timur , Kota Dumai , Riau 
+1.68003773689,101.384178162,2019-02-26,06:35:00,61,aqua,Dumai Timur , Kota Dumai , Riau 
+1.6787031889,101.374832153,2019-02-26,06:35:00,78,aqua,Dumai Timur , Kota Dumai , Riau 
+1.67790734768,101.254364014,2019-02-26,06:35:00,79,aqua,Dumai Barat , Kota Dumai , Riau 
+1.69937300682,101.33757782,2019-02-26,06:35:00,69,aqua,Dumai Barat , Kota Dumai , Riau 
+1.69801545143,101.328216553,2019-02-26,06:35:00,69,aqua,Dumai Barat , Kota Dumai , Riau 
+1.68572747707,101.243598938,2019-02-26,06:35:00,68,aqua,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.70853364468,101.336242676,2019-02-26,06:35:00,84,aqua,Dumai Barat , Kota Dumai , Riau 
+1.70717728138,101.326873779,2019-02-26,06:35:00,69,aqua,Dumai Barat , Kota Dumai , Riau 
+0.718711,102.854,2019-02-26,06:43:56,47,snpp,Sungai Apit , Kab. Siak , Riau 
+0.717496,102.846,2019-02-26,06:43:56,80,snpp,Sungai Apit , Kab. Siak , Riau 
+1.63868,101.26,2019-02-26,06:43:56,96,snpp,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.67743,101.38,2019-02-26,06:43:56,100,snpp,Dumai Timur , Kota Dumai , Riau 
+1.67924,101.254,2019-02-26,06:43:56,100,snpp,Dumai Barat , Kota Dumai , Riau 
+1.6849,101.246,2019-02-26,06:43:56,100,snpp,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.70586,101.339,2019-02-26,06:43:56,93,snpp,Dumai Barat , Kota Dumai , Riau 
+1.70477,101.331,2019-02-26,06:43:56,85,snpp,Dumai Barat , Kota Dumai , Riau 
+0.219830617309,102.308982849,2019-02-26,19:00:00,100,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.217763826251,102.323272705,2019-02-26,19:00:00,69,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.208677634597,102.307289124,2019-02-26,19:00:00,64,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.599246144295,102.094650269,2019-02-27,07:18:00,40,aqua,Siak Sri Indrapura , Kab. Siak , Riau 
+1.49768531322,101.788581848,2019-02-27,07:18:00,20,aqua,Bukit Batu , Kab. Bengkalis , Riau 
+1.74261868,101.585472107,2019-02-27,07:18:00,25,aqua,Rupat , Kab. Bengkalis , Riau 
+0.486158,102.011,2019-02-27,06:25:02,56,snpp,Bunut , Kab. Pelalawan , Riau 
+0.707646,102.094,2019-02-27,06:25:02,40,snpp,Siak Sri Indrapura , Kab. Siak , Riau 
+1.44999,101.813,2019-02-27,06:25:02,62,snpp,Bukit Batu , Kab. Bengkalis , Riau 
+1.46523,101.543,2019-02-27,06:25:02,53,snpp,Bukit Batu , Kab. Bengkalis , Riau 
+1.47246,101.542,2019-02-27,06:25:02,98,snpp,Bukit Batu , Kab. Bengkalis , Riau 
+1.4797,101.541,2019-02-27,06:25:02,52,snpp,Bukit Batu , Kab. Bengkalis , Riau 
+1.61406,101.521,2019-02-27,06:25:02,73,snpp,Bukit Kapur , Kota Dumai , Riau 
+1.64268,101.465,2019-02-27,06:25:02,86,snpp,Bukit Kapur , Kota Dumai , Riau 
+1.67895,101.384,2019-02-27,06:25:02,80,snpp,Dumai Timur , Kota Dumai , Riau 
+1.68131,101.253,2019-02-27,06:25:02,83,snpp,Dumai Barat , Kota Dumai , Riau 
+1.70892,101.336,2019-02-27,06:25:02,79,snpp,Dumai Barat , Kota Dumai , Riau 
+1.83674,101.707,2019-02-27,06:25:02,31,snpp,Rupat , Kab. Bengkalis , Riau 
+0.908185422421,102.450202942,2019-02-27,15:05:00,65,terra,Tebingtinggi Barat , Kab. Kepulauan Meranti , Riau 
+1.47302758694,101.546043396,2019-02-27,15:05:00,69,terra,Bukit Batu , Kab. Bengkalis , Riau 
+1.46953117847,101.521621704,2019-02-27,15:05:00,50,terra,Bukit Batu , Kab. Bengkalis , Riau 
+1.462657094,101.540840149,2019-02-27,15:05:00,53,terra,Bukit Batu , Kab. Bengkalis , Riau 
+1.60730838776,101.209388733,2019-02-27,15:05:00,54,terra,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.59442722797,101.20476532,2019-02-27,15:05:00,46,terra,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.47249603271,101.548225403,2019-02-28,03:29:00,42,terra,Bukit Batu , Kab. Bengkalis , Riau 
+1.03257286549,102.902030945,2019-02-28,03:29:00,79,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.363084763288,103.466819763,2019-02-28,06:22:00,68,aqua,Mandah , Kab. Indragiri Hilir , Riau 
+0.547905743122,102.199607849,2019-02-28,06:22:00,18,aqua,Bunut , Kab. Pelalawan , Riau 
+1.01705229282,102.899215698,2019-02-28,06:22:00,48,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.02703976631,102.897735596,2019-02-28,06:22:00,83,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.59848666191,101.20866394,2019-02-28,06:22:00,73,aqua,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.85530483723,101.706481934,2019-02-28,06:22:00,21,aqua,Rupat , Kab. Bengkalis , Riau 
+0.218698605895,102.308013916,2019-02-28,15:48:00,58,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.902981936932,102.442642212,2019-02-28,15:48:00,88,terra,Tebingtinggi Barat , Kab. Kepulauan Meranti , Riau 
+1.01511311531,102.896820068,2019-02-28,15:48:00,42,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.01309120655,102.882545471,2019-02-28,15:48:00,100,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.02628779411,102.895248413,2019-02-28,15:48:00,37,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.02425146103,102.880966187,2019-02-28,15:48:00,90,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.84960842133,101.655509949,2019-02-28,15:48:00,76,terra,Rupat , Kab. Bengkalis , Riau 
+1.86849033833,101.714569092,2019-02-28,15:48:00,88,terra,Rupat , Kab. Bengkalis , Riau 
+1.86676943302,101.702407837,2019-02-28,15:48:00,75,terra,Rupat , Kab. Bengkalis , Riau 
+1.03761935234,102.896125793,2019-02-28,18:51:00,74,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.03616952896,102.905891418,2019-02-28,18:51:00,100,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.03471517563,102.91569519,2019-02-28,18:51:00,42,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.02969884872,102.884994507,2019-02-28,18:51:00,100,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.02824378014,102.894767761,2019-02-28,18:51:00,100,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.02678847313,102.904548645,2019-02-28,18:51:00,100,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.02178883553,102.873855591,2019-02-28,18:51:00,100,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.02033007145,102.883628845,2019-02-28,18:51:00,100,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.01886928082,102.893409729,2019-02-28,18:51:00,100,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.01740801334,102.903198242,2019-02-28,18:51:00,94,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.01241993904,102.872512817,2019-02-28,18:51:00,100,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.0109577179,102.882278442,2019-02-28,18:51:00,100,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.00949323177,102.892059326,2019-02-28,18:51:00,100,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.920315504074,102.445266724,2019-02-28,18:51:00,46,aqua,Tebingtinggi Barat , Kab. Kepulauan Meranti , Riau 
+0.91110175848,102.443939209,2019-02-28,18:51:00,100,aqua,Tebingtinggi Barat , Kab. Kepulauan Meranti , Riau 
+0.901887595654,102.442619324,2019-02-28,18:51:00,62,aqua,Tebingtinggi Barat , Kab. Kepulauan Meranti , Riau 
+1.03714,102.902,2019-02-28,18:45:42,84,snpp,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.03123,102.892,2019-02-28,18:45:42,88,snpp,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.02989,102.9,2019-02-28,18:45:42,100,snpp,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.02855,102.909,2019-02-28,18:45:42,59,snpp,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.02533,102.883,2019-02-28,18:45:42,94,snpp,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.02399,102.891,2019-02-28,18:45:42,100,snpp,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.02265,102.899,2019-02-28,18:45:42,72,snpp,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.02197,102.875,2019-02-28,18:45:42,79,snpp,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.01473,102.874,2019-02-28,18:45:42,100,snpp,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.01343,102.882,2019-02-28,18:45:42,100,snpp,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.01213,102.891,2019-02-28,18:45:42,100,snpp,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.00749,102.873,2019-02-28,18:45:42,100,snpp,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.00619,102.881,2019-02-28,18:45:42,100,snpp,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.908868,102.441,2019-02-28,18:45:42,100,snpp,Tebingtinggi Barat , Kab. Kepulauan Meranti , Riau 
+0.909701824188,102.453369141,2019-02-28,18:47:00,85,aqua,Tebingtinggi Barat , Kab. Kepulauan Meranti , Riau 
+0.214032173157,102.304145813,2019-02-28,18:47:00,57,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.212638914585,102.313591003,2019-02-28,18:47:00,62,aqua,Kuala Kampar , Kab. Pelalawan , Riau 

@@ -1,0 +1,1374 @@
+Lintang (deg), Bujur (deg), Tanggal (dd/mm/yyy), Waktu Akuisisi (UTC), Tingkat Kepercayaan (%), Satelit, Kecamatan, Kabupaten, Provinsi
+-2.702824,112.634056,2016-06-01,02:54:00,69,terra,Seruyan Hilir , Seruyan , Kalimantan Tengah 
+-4.684259,105.304314,2016-06-01,02:54:00,67,terra,Nunyai , Lampung Tengah , Lampung 
+-7.389378,112.752365,2016-06-01,02:54:00,43,terra,Gedangan , Sidoarjo , Jawa Timur 
+-7.562116,112.610275,2016-06-01,02:54:00,69,terra,Ngoro , Mojokerto , Jawa Timur 
+-7.563476,112.619606,2016-06-01,02:54:00,32,terra,Ngoro , Mojokerto , Jawa Timur 
+-8.123203,112.931824,2016-06-01,02:54:00,54,terra,Pronojiwo , Lumajang , Jawa Timur 
+4,97,2016-06-01,04:33:00,64,terra,Terangon , Gayo Lues , Aceh 
+4.70217,97.126801,2016-06-01,04:33:00,61,terra,Bandar , Bener Meriah , Aceh 
+3.17889,98.022896,2016-06-01,04:33:00,34,terra,Mardinding , Karo , Sumatera Utara 
+-9.398907,119.409683,2016-06-01,05:46:00,49,aqua,                                         , Kab. Sumba Barat , Nusa Tenggara Timur 
+-8.121908,112.908745,2016-06-01,05:46:00,45,aqua,Ampel Gading , Malang , Jawa Timur 
+-3.4135,140.776,2016-06-01,04:10:43,58,snpp,Senggi , Keerom , Papua 
+-9,119,2016-06-01,05:49:00,50,aqua,Senggi , Keerom , Papua 
+-8.31198,113.322,2016-06-01,05:51:43,32,snpp,Kencong , Jember , Jawa Timur 
+-8.11644,112.923,2016-06-01,05:51:43,17,snpp,Pronojiwo , Lumajang , Jawa Timur 
+-8.10951,112.923,2016-06-01,05:51:43,61,snpp,Ampel Gading , Malang , Jawa Timur 
+-7.79047,112.016,2016-06-01,05:51:43,67,snpp,Gampengrejo , Kediri , Jawa Timur 
+-2.70243,112.634,2016-06-01,05:53:08,66,snpp,Seruyan Hilir , Seruyan , Kalimantan Tengah 
+-2.17591,115.574,2016-06-01,05:53:08,70,snpp,Juai , Balangan , Kalimantan Selatan 
+-3.15078,104.092,2016-06-01,05:53:08,88,snpp,Abab , Penukal Abab Lematang Ilir , Sumatera Selatan 
+-4,105,2016-06-01,18:11:00,62,aqua,Lempung , Ogan Komering Ilir , Sumatera Selatan 
+-4.551957,105.366722,2016-06-01,18:11:00,53,aqua,Nunyai , Lampung Tengah , Lampung 
+-4.549879,105.353928,2016-06-01,18:10:00,75,aqua,Nunyai , Lampung Tengah , Lampung 
+-4.551765,105.366364,2016-06-01,18:10:00,71,aqua,Nunyai , Lampung Tengah , Lampung 
+3.701959,98.584717,2016-06-02,03:38:00,57,terra,Hamparan Perak , Deliserdang , Sumatera Utara 
+1.699839,101.162651,2016-06-02,03:38:00,55,terra,Tanah Putih , Rokan Hilir , Riau 
+1.265555,102.04213,2016-06-02,03:38:00,34,terra,Bukit Batu , Bengkalis , Riau 
+0.99153,103.024391,2016-06-02,03:38:00,50,terra,Tebing Tinggi , Kepulauan Meranti , Riau 
+0.990528,102.96936,2016-06-02,03:38:00,48,terra,Tebing Tinggi , Kepulauan Meranti , Riau 
+1.0334,101.742798,2016-06-02,03:38:00,42,terra,Siak , Siak , Riau 
+0.610218,102.050613,2016-06-02,03:38:00,34,terra,Siak Sri Indrapura , Siak , Riau 
+0.471081,102.05468,2016-06-02,03:38:00,56,terra,Bunut , Pelalawan , Riau 
+0.206749,102.847404,2016-06-02,03:38:00,36,terra,Kuala Kampar , Pelalawan , Riau 
+-4.489733,105.387352,2016-06-02,03:38:00,60,terra,Gedung Meneng , Tulang Bawang , Lampung 
+0.990528,102.96936,2016-06-02,03:36:00,51,terra,Tebing Tinggi , Kepulauan Meranti , Riau 
+1.0334,101.742798,2016-06-02,03:36:00,43,terra,Siak , Siak , Riau 
+0.610218,102.050613,2016-06-02,03:36:00,36,terra,Siak Sri Indrapura , Siak , Riau 
+-7,108,2016-06-02,06:30:00,57,aqua,Selaawi , Garut , Jawa Barat 
+-6.138343,106.287506,2016-06-02,06:30:00,59,aqua,Kragilan , Serang , Banten 
+-3.396297,104.227135,2016-06-02,06:30:00,54,aqua,Prabu Mulih Barat , Kota Prabumulih , Sumatera Selatan 
+-3.41007,103.937691,2016-06-02,06:30:00,66,aqua,Gunung Megang , Muara Enim , Sumatera Selatan 
+-3.259323,104.157661,2016-06-02,06:30:00,80,aqua,Abab , Penukal Abab Lematang Ilir , Sumatera Selatan 
+-3.260633,104.148422,2016-06-02,06:30:00,89,aqua,Abab , Penukal Abab Lematang Ilir , Sumatera Selatan 
+-3.337424,103.224014,2016-06-02,06:30:00,41,aqua,Jayaloka , Musi Rawas , Sumatera Selatan 
+-2.721633,103.032829,2016-06-02,06:30:00,68,aqua,Karang Dapo , Musi Rawas Utara , Sumatera Selatan 
+-2.481395,103.868233,2016-06-02,06:30:00,71,aqua,Keluang , Musi Banyuasin , Sumatera Selatan 
+-2.429381,102.733353,2016-06-02,06:30:00,66,aqua,Sarolangun , Sarolangun , Jambi 
+-1.952503,102.273972,2016-06-02,06:30:00,83,aqua,Rantau Panjang , Merangin , Jambi 
+-1.127992,101.60659,2016-06-02,06:30:00,75,aqua,Koto Baru , Dharmasraya , Sumatera Barat 
+-1.129624,101.595078,2016-06-02,06:30:00,63,aqua,Koto Baru , Dharmasraya , Sumatera Barat 
+-0.397475,102.731415,2016-06-02,06:30:00,37,aqua,Tempuling , Indragiri Hilir , Riau 
+0.090906,102.869949,2016-06-02,06:30:00,32,aqua,Enok , Indragiri Hilir , Riau 
+0.089543,102.860306,2016-06-02,06:30:00,53,aqua,Enok , Indragiri Hilir , Riau 
+0.084362,102.775551,2016-06-02,06:30:00,41,aqua,Enok , Indragiri Hilir , Riau 
+0.109085,102.880486,2016-06-02,06:30:00,60,aqua,Enok , Indragiri Hilir , Riau 
+0.576161,102.294601,2016-06-02,06:30:00,27,aqua,Bunut , Pelalawan , Riau 
+0.574691,102.2845,2016-06-02,06:30:00,49,aqua,Bunut , Pelalawan , Riau 
+1.013491,102.441055,2016-06-02,06:30:00,77,aqua,Merbau , Kepulauan Meranti , Riau 
+1.270613,99.683578,2016-06-02,06:30:00,43,aqua,Aek Nabara Barumun , Padang Lawas , Sumatera Utara 
+2.623648,100.224823,2016-06-02,06:30:00,70,aqua,Panei Hilir , Labuhanbatu , Sumatera Utara 
+2.559352,98.085884,2016-06-02,06:30:00,62,aqua,Sitelu Tali Urang Jehe , Pakpak Bhara , Sumatera Utara 
+2.931137,97.949081,2016-06-02,06:30:00,30,aqua,Tanah Pinem , Dairi , Sumatera Utara 
+3.698044,98.572601,2016-06-02,06:30:00,68,aqua,Hamparan Perak , Deliserdang , Sumatera Utara 
+-2.52808,114.802,2016-06-02,05:34:13,49,snpp,Jenamas , Barito Selatan , Kalimantan Tengah 
+-0.946317,117.031,2016-06-02,05:34:13,26,snpp,Semboja , Kutai Kartanegara , Kalimantan Timur 
+-2.578945,121.38652,2016-06-02,14:16:00,69,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.580217,121.377533,2016-06-02,14:16:00,77,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+3.16661,98.385,2016-06-02,18:15:14,41,snpp,Simpang Empat , Karo , Sumatera Utara 
+-8.10999,112.924,2016-06-02,18:18:05,83,snpp,Ampel Gading , Malang , Jawa Timur 
+-2.582447,121.389572,2016-06-03,02:42:00,59,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.572957,121.384544,2016-06-03,02:42:00,70,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-8.122574,114.05336,2016-06-03,02:42:00,57,terra,Tlogosari , Bondowoso , Jawa Timur 
+5,96,2016-06-03,04:20:00,58,terra,Tangse , Pidie , Aceh 
+-8.361598,120.765411,2016-06-03,05:34:00,61,aqua,Sambirampas , Kab. Manggarai Timur , Nusa Tenggara Timur 
+-3.124651,120.200035,2016-06-03,05:34:00,86,aqua,Bupon , Luwu , Sulawesi Selatan 
+-2.606607,120.935516,2016-06-03,05:34:00,71,aqua,Angkona , Luwu Timur , Sulawesi Selatan 
+-2.783176,116.340996,2016-06-03,05:34:00,71,aqua,Kelumpang Utara , Kotabaru , Kalimantan Selatan 
+-3.014583,114.385422,2016-06-03,05:34:00,49,aqua,Selat , Kapuas , Kalimantan Tengah 
+-2.591754,115.37899,2016-06-03,05:34:00,56,aqua,Barabai , Hulu Sungai Tengah , Kalimantan Selatan 
+-0.991807,114.345772,2016-06-03,05:34:00,68,aqua,Kapuas Tengah , Kapuas , Kalimantan Tengah 
+-0.421768,116.977829,2016-06-03,05:34:00,31,aqua,Tenggarong , Kutai Kartanegara , Kalimantan Timur 
+0.650997,117.456238,2016-06-03,05:34:00,24,aqua,Rantaupulung , Kutai Timur , Kalimantan Timur 
+3.507992,116.522415,2016-06-03,05:34:00,64,aqua,Mentarang , Malinau , Kalimantan Utara 
+-9.72289,120.366,2016-06-03,05:12:26,77,snpp,Pandawai , Kab. Sumba Timur , Nusa Tenggara Timur 
+-9.39578,119.384,2016-06-03,05:12:26,55,snpp,                                         , Kab. Sumba Barat Daya , Nusa Tenggara Timur 
+-3.11912,120.206,2016-06-03,05:15:17,98,snpp,Bupon , Luwu , Sulawesi Selatan 
+-3.1203,120.198,2016-06-03,05:15:17,96,snpp,Bupon , Luwu , Sulawesi Selatan 
+-2.57567,121.384,2016-06-03,05:15:17,100,snpp,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.60673,120.94,2016-06-03,05:15:17,51,snpp,Angkona , Luwu Timur , Sulawesi Selatan 
+-2.60471,120.939,2016-06-03,05:15:17,52,snpp,Angkona , Luwu Timur , Sulawesi Selatan 
+-2.55427,121.086,2016-06-03,05:15:17,62,snpp,Malili , Luwu Timur , Sulawesi Selatan 
+-0.315461,117.085,2016-06-03,05:15:17,53,snpp,Tenggarong Seberang , Kutai Kartanegara , Kalimantan Timur 
+0,102,2016-06-03,07:12:00,52,aqua,Pangkalan Kuras , Pelalawan , Riau 
+0.479256,102.033745,2016-06-03,07:12:00,62,aqua,Bunut , Pelalawan , Riau 
+0.709763,102.07045,2016-06-03,07:12:00,39,aqua,Siak Sri Indrapura , Siak , Riau 
+0.0924509,102.873,2016-06-03,06:56:17,32,snpp,Enok , Indragiri Hilir , Riau 
+-8,112,2016-06-03,18:04:00,79,aqua,Udanawu , Blitar , Jawa Timur 
+-8,112,2016-06-03,18:04:00,79,aqua,Udanawu , Blitar , Jawa Timur 
+-8,112,2016-06-03,17:57:00,70,aqua,Udanawu , Blitar , Jawa Timur 
+-7.18658,111.688,2016-06-03,17:59:11,39,snpp,Ngasem , Bojonegoro , Jawa Timur 
+-1.358373,103.660263,2016-06-04,03:25:00,56,terra,Muara Sabak , Tanjung Jabung Timur , Jambi 
+-1.359761,103.669624,2016-06-04,03:25:00,55,terra,Muara Sabak , Tanjung Jabung Timur , Jambi 
+-1.418461,103.081993,2016-06-04,03:25:00,47,terra,Pemayung , Batanghari , Jambi 
+-4.69301,105.403206,2016-06-04,03:25:00,61,terra,Nunyai , Lampung Tengah , Lampung 
+-4.70292,105.348808,2016-06-04,03:25:00,58,terra,Nunyai , Lampung Tengah , Lampung 
+-6.135594,106.290527,2016-06-04,03:25:00,51,terra,Kragilan , Serang , Banten 
+-6.21999,106.469063,2016-06-04,03:25:00,50,terra,Tigaraksa , Tangerang , Banten 
+-7.051956,107.750038,2016-06-04,03:25:00,36,terra,Majalaya , Bandung , Jawa Barat 
+-2.929211,132.29509,2016-06-04,04:40:00,30,aqua,Fakfak Kota , Fak-fak , Papua Barat 
+-6.741435,111.158707,2016-06-04,06:17:00,59,aqua,Juwana , Pati , Jawa Tengah 
+-6.74289,111.148705,2016-06-04,06:17:00,46,aqua,Juwana , Pati , Jawa Tengah 
+-4.509767,104.892616,2016-06-04,06:17:00,71,aqua,Negeri Besar , Way Kanan , Lampung 
+-4.511543,104.880089,2016-06-04,06:17:00,86,aqua,Negeri Besar , Way Kanan , Lampung 
+-4.317493,104.802521,2016-06-04,06:17:00,30,aqua,Pakuan Ratu , Way Kanan , Lampung 
+-4.319266,104.789894,2016-06-04,06:17:00,53,aqua,Pakuan Ratu , Way Kanan , Lampung 
+-4.289412,104.850021,2016-06-04,06:17:00,59,aqua,Pakuan Ratu , Way Kanan , Lampung 
+-3.192291,104.169533,2016-06-04,06:17:00,69,aqua,Abab , Penukal Abab Lematang Ilir , Sumatera Selatan 
+-3.189319,104.030739,2016-06-04,06:17:00,82,aqua,Penukal , Penukal Abab Lematang Ilir , Sumatera Selatan 
+-3.169253,104.013901,2016-06-04,06:17:00,78,aqua,Penukal , Penukal Abab Lematang Ilir , Sumatera Selatan 
+-3.171126,104.000145,2016-06-04,06:17:00,78,aqua,Penukal , Penukal Abab Lematang Ilir , Sumatera Selatan 
+-3.178577,104.008438,2016-06-04,06:17:00,69,aqua,Penukal , Penukal Abab Lematang Ilir , Sumatera Selatan 
+-3.167594,104.006897,2016-06-04,06:17:00,82,aqua,Penukal , Penukal Abab Lematang Ilir , Sumatera Selatan 
+-3.070687,103.889091,2016-06-04,06:17:00,76,aqua,Sungai Keruh , Musi Banyuasin , Sumatera Selatan 
+-3.072665,103.875122,2016-06-04,06:17:00,74,aqua,Sungai Keruh , Musi Banyuasin , Sumatera Selatan 
+-2.923875,102.718887,2016-06-04,06:17:00,80,aqua,Karang Jaya , Musi Rawas Utara , Sumatera Selatan 
+-2.698946,103.682983,2016-06-04,06:17:00,76,aqua,Babattoman , Musi Banyuasin , Sumatera Selatan 
+-2.689748,103.667107,2016-06-04,06:17:00,42,aqua,Babattoman , Musi Banyuasin , Sumatera Selatan 
+-1.978378,104.316399,2016-06-04,06:17:00,51,aqua,Muara Telang , Banyuasin , Sumatera Selatan 
+-1.491446,102.11203,2016-06-04,06:17:00,48,aqua,Muara Bungo , Bungo , Jambi 
+-8.46382,121.976,2016-06-04,04:53:31,89,snpp,Maurole , Kab. Ende , Nusa Tenggara Timur 
+-8.46518,121.965,2016-06-04,04:53:31,100,snpp,Maurole , Kab. Ende , Nusa Tenggara Timur 
+-8.46257,121.967,2016-06-04,04:54:56,92,snpp,Maurole , Kab. Ende , Nusa Tenggara Timur 
+-4.5015,104.882,2016-06-04,06:35:56,41,snpp,Negeri Besar , Way Kanan , Lampung 
+-3.333,104.04,2016-06-04,06:37:22,69,snpp,Rambang Dangku , Muara Enim , Sumatera Selatan 
+-3.2428,104.085,2016-06-04,06:37:22,30,snpp,Penukal , Penukal Abab Lematang Ilir , Sumatera Selatan 
+-3.19158,104.033,2016-06-04,06:37:22,96,snpp,Penukal , Penukal Abab Lematang Ilir , Sumatera Selatan 
+-3.01225,104.92,2016-06-04,06:37:22,69,snpp,Banyuasin I , Banyuasin , Sumatera Selatan 
+-3.06171,103.244,2016-06-04,06:37:22,66,snpp,Muara Kelingi , Musi Rawas , Sumatera Selatan 
+-2.96946,103.757,2016-06-04,06:37:22,100,snpp,Sungai Keruh , Musi Banyuasin , Sumatera Selatan 
+-2.31617,101.023,2016-06-04,06:37:22,78,snpp,Pancung Soal , Pesisir Selatan , Sumatera Barat 
+-0.0304019,99.786,2016-06-04,06:37:22,73,snpp,Pasaman , Pasaman Barat , Sumatera Barat 
+0.407796,100.496,2016-06-04,06:37:22,81,snpp,Tiga Belas Koto Kampar , Kampar , Riau 
+0.414534,100.495,2016-06-04,06:37:22,94,snpp,Tiga Belas Koto Kampar , Kampar , Riau 
+1.35393,100.365,2016-06-04,06:38:47,53,snpp,Tembusan , Rokan Hulu , Riau 
+1.32113,99.5296,2016-06-04,06:38:47,100,snpp,Batang Onan , Padang Lawas Utara , Sumatera Utara 
+2.15364,100.872,2016-06-04,06:38:47,51,snpp,Bangko , Rokan Hilir , Riau 
+2.20518,98.7571,2016-06-04,06:38:47,64,snpp,Dolok Sanggul , Humbang Hasundutan , Sumatera Utara 
+2.20043,98.726,2016-06-04,06:38:47,58,snpp,Sijamapolang , Humbang Hasundutan , Sumatera Utara 
+2.56087,98.8723,2016-06-04,06:38:47,85,snpp,Simanindo , Samosir , Sumatera Utara 
+2.56196,98.8721,2016-06-04,06:38:47,96,snpp,Simanindo , Samosir , Sumatera Utara 
+2.53145,97.8478,2016-06-04,06:38:47,72,snpp,Rundeng , Kota Sulubussalam , Aceh 
+2.5301,97.8391,2016-06-04,06:38:47,62,snpp,Rundeng , Kota Sulubussalam , Aceh 
+2.79229,97.7479,2016-06-04,06:38:47,64,snpp,Trumon Timur , Aceh Selatan , Aceh 
+2.93346,98.4794,2016-06-04,06:38:47,55,snpp,Tigapanah , Karo , Sumatera Utara 
+2.93311,98.4798,2016-06-04,06:38:47,58,snpp,Tigapanah , Karo , Sumatera Utara 
+2.97988,98.2649,2016-06-04,06:38:47,56,snpp,Juhar , Karo , Sumatera Utara 
+3.05292,98.3705,2016-06-04,06:38:47,59,snpp,Munte , Karo , Sumatera Utara 
+-2.573088,121.38385,2016-06-04,14:07:00,100,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.57478,121.371513,2016-06-04,14:07:00,88,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.576832,121.391113,2016-06-04,14:07:00,81,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.578594,121.378883,2016-06-04,14:07:00,100,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+1,100,2016-06-04,15:44:00,64,terra,Huta Raja Tinggi , Padang Lawas , Sumatera Utara 
+3.173257,98.389297,2016-06-04,15:44:00,80,terra,Simpang Empat , Karo , Sumatera Utara 
+1,100,2016-06-04,15:42:00,73,terra,Huta Raja Tinggi , Padang Lawas , Sumatera Utara 
+3.174599,98.398087,2016-06-04,15:42:00,51,terra,Simpang Empat , Karo , Sumatera Utara 
+3.173323,98.389183,2016-06-04,15:42:00,85,terra,Simpang Empat , Karo , Sumatera Utara 
+-8,122,2016-06-04,17:06:00,66,aqua,Simpang Empat , Karo , Sumatera Utara 
+-8.1151,112.927,2016-06-04,17:40:15,62,snpp,Pronojiwo , Lumajang , Jawa Timur 
+-2,140,2016-06-05,00:55:00,33,terra,Pronojiwo , Lumajang , Jawa Timur 
+-2.575495,121.384071,2016-06-05,02:31:00,85,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.576842,121.377861,2016-06-05,02:31:00,82,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.578403,121.38884,2016-06-05,02:31:00,82,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-5.467144,122.612297,2016-06-05,02:31:00,32,terra,Wolio , Kota Baubau , Sulawesi Tenggara 
+-8.114502,112.925323,2016-06-05,02:31:00,61,terra,Pronojiwo , Lumajang , Jawa Timur 
+5.270457,95.448799,2016-06-05,04:07:00,53,terra,Kotaluecot Glie , Aceh Besar , Aceh 
+5.270457,95.448799,2016-06-05,04:07:00,53,terra,Kotaluecot Glie , Aceh Besar , Aceh 
+3.172233,98.403015,2016-06-05,04:07:00,65,terra,Simpang Empat , Karo , Sumatera Utara 
+3.172233,98.403015,2016-06-05,04:07:00,65,terra,Simpang Empat , Karo , Sumatera Utara 
+2.935587,97.455132,2016-06-05,04:07:00,47,terra,Bakongan , Aceh Selatan , Aceh 
+2.935587,97.455132,2016-06-05,04:07:00,47,terra,Bakongan , Aceh Selatan , Aceh 
+2.831491,97.66758,2016-06-05,04:07:00,85,terra,Trumon , Aceh Selatan , Aceh 
+2.831491,97.66758,2016-06-05,04:07:00,85,terra,Trumon , Aceh Selatan , Aceh 
+2.82993,97.678108,2016-06-05,04:07:00,59,terra,Trumon , Aceh Selatan , Aceh 
+2.82993,97.678108,2016-06-05,04:07:00,59,terra,Trumon , Aceh Selatan , Aceh 
+-8.241451,123.233597,2016-06-05,05:22:00,69,aqua,Adonara Timur , Kab. Flores Timur , Nusa Tenggara Timur 
+-8.147044,118.127426,2016-06-05,05:22:00,45,aqua,Tambora , Bima , Nusa Tenggara Barat 
+-2.579834,121.384529,2016-06-05,05:22:00,97,aqua,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.581123,121.375519,2016-06-05,05:22:00,87,aqua,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.550346,121.006645,2016-06-05,05:22:00,64,aqua,Malili , Luwu Timur , Sulawesi Selatan 
+-2.550346,121.006645,2016-06-05,05:22:00,64,aqua,Malili , Luwu Timur , Sulawesi Selatan 
+-2.046304,121.387924,2016-06-05,05:22:00,61,aqua,Petasia Timur , Morowali Utara , Sulawesi Tengah 
+-2.046304,121.387924,2016-06-05,05:22:00,61,aqua,Petasia Timur , Morowali Utara , Sulawesi Tengah 
+-2.047585,121.378906,2016-06-05,05:22:00,80,aqua,Petasia Timur , Morowali Utara , Sulawesi Tengah 
+-2.047585,121.378906,2016-06-05,05:22:00,80,aqua,Petasia Timur , Morowali Utara , Sulawesi Tengah 
+-4,105,2016-06-05,07:02:00,62,aqua,Lempung , Ogan Komering Ilir , Sumatera Selatan 
+0.209684,102.829857,2016-06-05,07:02:00,62,aqua,Kuala Kampar , Pelalawan , Riau 
+-4,105,2016-06-05,07:03:00,51,aqua,Lempung , Ogan Komering Ilir , Sumatera Selatan 
+-0.294776,102.499847,2016-06-05,06:59:00,70,aqua,Rengat , Indragiri Hulur , Riau 
+-0.118773,102.8274,2016-06-05,06:59:00,54,aqua,Gaunganakserka , Indragiri Hilir , Riau 
+-0.221315,101.90036,2016-06-05,06:59:00,75,aqua,Pangkalan Kuras , Pelalawan , Riau 
+1.554613,99.666077,2016-06-05,06:59:00,90,aqua,Padang Bolak , Padang Lawas Utara , Sumatera Utara 
+1.554246,99.672043,2016-06-05,06:59:00,77,aqua,Padang Bolak , Padang Lawas Utara , Sumatera Utara 
+2.302422,98.817917,2016-06-05,06:59:00,79,aqua,Lintong Nihuta , Humbang Hasundutan , Sumatera Utara 
+2.378354,98.778969,2016-06-05,06:59:00,78,aqua,Pollung , Humbang Hasundutan , Sumatera Utara 
+2.560042,98.105415,2016-06-05,06:59:00,73,aqua,Sitelu Tali Urang Jehe , Pakpak Bhara , Sumatera Utara 
+2.820894,97.670929,2016-06-05,06:59:00,65,aqua,Trumon , Aceh Selatan , Aceh 
+2.830082,97.669632,2016-06-05,06:59:00,85,aqua,Trumon , Aceh Selatan , Aceh 
+4.181108,96.237091,2016-06-05,06:59:00,75,aqua,Meurebo , Aceh Barat , Aceh 
+4.317993,97.1325,2016-06-05,06:59:00,71,aqua,Linge , Aceh Tengah , Aceh 
+4.465538,97.20356,2016-06-05,06:59:00,77,aqua,Bintang , Aceh Tengah , Aceh 
+4.706798,97.0942,2016-06-05,06:59:00,51,aqua,Bandar , Bener Meriah , Aceh 
+4.546776,95.835297,2016-06-05,06:59:00,65,aqua,Teunom , Aceh Jaya , Aceh 
+4.741847,97.078857,2016-06-05,06:59:00,20,aqua,Permata , Bener Meriah , Aceh 
+4.740522,97.069504,2016-06-05,06:59:00,32,aqua,Permata , Bener Meriah , Aceh 
+4.972785,97.085686,2016-06-05,06:59:00,72,aqua,Meurah Muliya , Aceh Utara , Aceh 
+-4.79344,105.623,2016-06-05,06:17:00,58,snpp,Seputih Surabaya , Lampung Tengah , Lampung 
+-2.53642,111.635,2016-06-05,06:18:26,71,snpp,Arut Selatan , Kota Waringin Barat , Kalimantan Tengah 
+-2.61315,110.806,2016-06-05,06:18:26,74,snpp,Manisamata , Ketapang , Kalimantan Barat 
+-3.1739,104.119,2016-06-05,06:18:26,76,snpp,Abab , Penukal Abab Lematang Ilir , Sumatera Selatan 
+-3.15798,104.177,2016-06-05,06:18:26,87,snpp,Abab , Penukal Abab Lematang Ilir , Sumatera Selatan 
+-2.47868,104.776,2016-06-05,06:18:26,54,snpp,Muara Telang , Banyuasin , Sumatera Selatan 
+-1.31388,101.851,2016-06-05,06:18:26,64,snpp,Tanah Tumbuh , Bungo , Jambi 
+-0.995404,101.876,2016-06-05,06:18:26,41,snpp,Tebo Ulu , Tebo , Jambi 
+-0.905761,101.702,2016-06-05,06:18:26,80,snpp,Pulau Punjung , Dharmasraya , Sumatera Barat 
+-0.906839,101.695,2016-06-05,06:18:26,62,snpp,Pulau Punjung , Dharmasraya , Sumatera Barat 
+-0.316312,102.823,2016-06-05,06:18:26,65,snpp,Tempuling , Indragiri Hilir , Riau 
+-0.218453,101.909,2016-06-05,06:18:26,30,snpp,Pangkalan Kuras , Pelalawan , Riau 
+0.5069,103.009,2016-06-05,06:18:26,68,snpp,Kuala Kampar , Pelalawan , Riau 
+1.10867,104.067,2016-06-05,06:19:51,38,snpp,Batam Kota , Batam , Kepulauan Riau 
+1.34546,99.5778,2016-06-05,06:19:51,56,snpp,Portibi , Padang Lawas Utara , Sumatera Utara 
+2.08785,101.216,2016-06-05,06:19:51,92,snpp,Dumai Barat , Kota Dumai , Riau 
+2.57496,99.0163,2016-06-05,06:19:51,49,snpp,Lumban Julu , Toba Samosir , Sumatera Utara 
+2.58282,98.8868,2016-06-05,06:19:51,67,snpp,Simanindo , Samosir , Sumatera Utara 
+2.79784,97.9588,2016-06-05,06:19:51,58,snpp,Sultan Daulat , Kota Sulubussalam , Aceh 
+2.82873,97.6753,2016-06-05,06:19:51,87,snpp,Trumon , Aceh Selatan , Aceh 
+2.82778,97.6694,2016-06-05,06:19:51,90,snpp,Trumon , Aceh Selatan , Aceh 
+3.01566,98.7836,2016-06-05,06:19:51,59,snpp,Raya , Serdang Bedagai , Sumatera Utara 
+3.11748,98.8656,2016-06-05,06:19:51,95,snpp,Raya Kahean , Serdang Bedagai , Sumatera Utara 
+2.93268,97.4564,2016-06-05,06:19:51,44,snpp,Bakongan , Aceh Selatan , Aceh 
+3.16882,98.3959,2016-06-05,06:19:51,88,snpp,Simpang Empat , Karo , Sumatera Utara 
+4.6008,96.7023,2016-06-05,06:19:51,47,snpp,Silihnara , Aceh Tengah , Aceh 
+5.53667,95.7575,2016-06-05,06:21:17,49,snpp,Muaratiga , Pidie , Aceh 
+-2,121,2016-06-05,14:48:00,25,terra,Moris Atas , Morowali Utara , Sulawesi Tengah 
+-2.174563,115.575157,2016-06-05,14:48:00,56,terra,Juai , Balangan , Kalimantan Selatan 
+-3.225397,105.801537,2016-06-05,14:48:00,49,terra,Tulung Selapan , Ogan Komering Ilir , Sumatera Selatan 
+2.142992,117.492462,2016-06-06,03:12:00,65,terra,Tanjungredeb , Berau , Kalimantan Timur 
+1.339505,102.45401,2016-06-06,03:12:00,32,terra,Bengkalis , Bengkalis , Riau 
+0.974155,102.177719,2016-06-06,03:12:00,36,terra,Sungai Apit , Siak , Riau 
+-0.323117,102.824142,2016-06-06,03:12:00,30,terra,Tempuling , Indragiri Hilir , Riau 
+-0.990743,102.999954,2016-06-06,03:12:00,62,terra,Tungkalulu , Tanjung Jabung Barat , Jambi 
+-2.898143,108.130028,2016-06-06,03:12:00,58,terra,Manggar , Belitung Timur , Kepulauan Bangka Belitung 
+-2.74535,105.609924,2016-06-06,03:12:00,35,terra,Pampangan , Ogan Komering Ilir , Sumatera Selatan 
+-3.968888,104.221481,2016-06-06,03:12:00,54,terra,Lubuk Batang , Ogan Komering Ulu , Sumatera Selatan 
+-4.386163,105.432381,2016-06-06,03:12:00,94,terra,Gedung Meneng , Tulang Bawang , Lampung 
+-5.494721,104.62394,2016-06-06,03:12:00,50,terra,Kota Agung , Tanggamus , Lampung 
+-6.13564,106.291695,2016-06-06,03:12:00,57,terra,Kragilan , Serang , Banten 
+-7.563381,112.615021,2016-06-06,03:12:00,51,terra,Ngoro , Mojokerto , Jawa Timur 
+-7.566236,112.608932,2016-06-06,03:12:00,54,terra,Ngoro , Mojokerto , Jawa Timur 
+-6.956004,107.792191,2016-06-06,03:12:00,36,terra,Cikeruh , Sumedang , Jawa Barat 
+-7.01304,107.805672,2016-06-06,03:12:00,61,terra,Cikancung , Bandung , Jawa Barat 
+-7.842343,139.154572,2016-06-06,04:29:00,59,aqua,Tubang , Merauke , Papua 
+-7.842343,139.154572,2016-06-06,04:29:00,59,aqua,Tubang , Merauke , Papua 
+-7,112,2016-06-06,06:06:00,36,aqua,Rengel , Tuban , Jawa Timur 
+-7.22409,110.42791,2016-06-06,06:06:00,61,aqua,Bawen , Semarang , Jawa Tengah 
+-3.018542,114.38752,2016-06-06,06:06:00,50,aqua,Selat , Kapuas , Kalimantan Tengah 
+-3.276916,103.891365,2016-06-06,06:06:00,60,aqua,Talang Ubi , Penukal Abab Lematang Ilir , Sumatera Selatan 
+-0.375863,116.130669,2016-06-06,06:06:00,52,aqua,Muarapahu , Kutai Barat , Kalimantan Timur 
+-0.025968,116.86348,2016-06-06,06:06:00,63,aqua,Muarakaman , Kutai Kartanegara , Kalimantan Timur 
+-1.043749,109.718132,2016-06-06,06:06:00,75,aqua,Pulaumaya Karimata , Kayong Utara , Kalimantan Barat 
+0.077679,109.906349,2016-06-06,06:06:00,61,aqua,Tayan Hilir , Sanggau , Kalimantan Barat 
+0.282488,109.727989,2016-06-06,06:06:00,80,aqua,Pahuman , Landak , Kalimantan Barat 
+0.40146,110.364357,2016-06-06,06:06:00,78,aqua,Sosok , Sanggau , Kalimantan Barat 
+1.073704,111.335159,2016-06-06,06:06:00,50,aqua,Sosok , Sanggau , Kalimantan Barat 
+0.343636,102.853851,2016-06-06,06:06:00,37,aqua,Kuala Kampar , Pelalawan , Riau 
+0.971237,102.160721,2016-06-06,06:06:00,58,aqua,Sungai Apit , Siak , Riau 
+1.414213,101.572327,2016-06-06,06:06:00,40,aqua,Mandau , Bengkalis , Riau 
+-3.018542,114.38752,2016-06-06,06:04:00,49,aqua,Selat , Kapuas , Kalimantan Tengah 
+-3.0672,137.554,2016-06-06,04:17:06,60,snpp,Distrik Waropen Atas , Memberamo Raya , Papua 
+-7.18632,111.69,2016-06-06,05:58:05,66,snpp,Ngasem , Bojonegoro , Jawa Timur 
+-0.21067,109.564,2016-06-06,05:59:30,82,snpp,Sungairaya , Kubu Raya , Kalimantan Barat 
+-0.211794,109.556,2016-06-06,05:59:30,54,snpp,Sungairaya , Kubu Raya , Kalimantan Barat 
+0.00745662,110.735,2016-06-06,05:59:30,34,snpp,Sedukul , Sanggau , Kalimantan Barat 
+2.10796,117.465,2016-06-06,05:59:30,41,snpp,Sambaliung , Berau , Kalimantan Timur 
+1.41589,102.411,2016-06-06,06:00:56,37,snpp,Bintan , Bengkalis , Riau 
+1.41492,102.405,2016-06-06,06:00:56,53,snpp,Bintan , Bengkalis , Riau 
+-6,105,2016-06-06,15:31:00,77,terra,Bintan , Bengkalis , Riau 
+-4.541915,105.55883,2016-06-06,15:31:00,25,terra,Bandar Mataram , Lampung Tengah , Lampung 
+-4.53312,105.489182,2016-06-06,15:31:00,100,terra,Bandar Mataram , Lampung Tengah , Lampung 
+-4.534506,105.479645,2016-06-06,15:31:00,100,terra,Bandar Mataram , Lampung Tengah , Lampung 
+-3.970612,104.222191,2016-06-06,15:31:00,77,terra,Lubuk Batang , Ogan Komering Ulu , Sumatera Selatan 
+1.021197,101.022537,2016-06-06,15:31:00,63,terra,Pinggir , Bengkalis , Riau 
+3.16631,98.391518,2016-06-06,15:31:00,66,terra,Simpang Empat , Karo , Sumatera Utara 
+-3.32811,104.363533,2016-06-06,18:30:00,48,aqua,Lembak , Muara Enim , Sumatera Selatan 
+-3.32811,104.363533,2016-06-06,18:30:00,48,aqua,Lembak , Muara Enim , Sumatera Selatan 
+-3.961886,104.222725,2016-06-06,18:30:00,78,aqua,Lubuk Batang , Ogan Komering Ulu , Sumatera Selatan 
+-3.961886,104.222725,2016-06-06,18:30:00,78,aqua,Lubuk Batang , Ogan Komering Ulu , Sumatera Selatan 
+-6.376711,108.4077,2016-06-06,18:30:00,56,aqua,Lubuk Batang , Ogan Komering Ulu , Sumatera Selatan 
+-6.376711,108.4077,2016-06-06,18:30:00,56,aqua,Lubuk Batang , Ogan Komering Ulu , Sumatera Selatan 
+-3,104,2016-06-06,18:29:00,68,aqua,Lais , Musi Banyuasin , Sumatera Selatan 
+-2.57286,121.387,2016-06-06,17:00:59,33,snpp,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.58064,121.386,2016-06-06,17:00:59,57,snpp,Nuha , Luwu Timur , Sulawesi Selatan 
+-0.851067,101.707,2016-06-06,18:40:33,100,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-3.96693,104.223,2016-06-06,18:41:59,70,snpp,Lubuk Batang , Ogan Komering Ulu , Sumatera Selatan 
+1.03807,120.820656,2016-06-07,02:17:00,44,terra,Baolan , Tolitoli , Sulawesi Tengah 
+-2.572026,121.376312,2016-06-07,02:17:00,13,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.573347,121.385216,2016-06-07,02:17:00,55,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-8.111743,118.019531,2016-06-07,02:17:00,32,terra,Tambora , Bima , Nusa Tenggara Barat 
+-9.809759,120.426163,2016-06-07,02:17:00,70,terra,Pandawai , Kab. Sumba Timur , Nusa Tenggara Timur 
+3.744236,98.494408,2016-06-07,03:57:00,72,terra,Stabat , Langkat , Sumatera Utara 
+1.332895,102.451462,2016-06-07,03:57:00,54,terra,Bengkalis , Bengkalis , Riau 
+1.00013,102.98262,2016-06-07,03:57:00,41,terra,Tebing Tinggi , Kepulauan Meranti , Riau 
+0.990815,102.965134,2016-06-07,03:57:00,33,terra,Tebing Tinggi , Kepulauan Meranti , Riau 
+0.966997,101.905365,2016-06-07,03:57:00,14,terra,Siak , Siak , Riau 
+0.872272,102.147675,2016-06-07,03:57:00,46,terra,Siak Sri Indrapura , Siak , Riau 
+0.863335,102.132332,2016-06-07,03:57:00,63,terra,Siak Sri Indrapura , Siak , Riau 
+0.861285,102.146111,2016-06-07,03:57:00,50,terra,Siak Sri Indrapura , Siak , Riau 
+0.882806,101.527527,2016-06-07,03:57:00,54,terra,Siak , Siak , Riau 
+0.61129,102.831802,2016-06-07,03:57:00,66,terra,Kuala Kampar , Pelalawan , Riau 
+0.609006,102.847481,2016-06-07,03:57:00,63,terra,Kuala Kampar , Pelalawan , Riau 
+0.547845,102.006119,2016-06-07,03:57:00,43,terra,Bunut , Pelalawan , Riau 
+0.545856,102.019768,2016-06-07,03:57:00,42,terra,Bunut , Pelalawan , Riau 
+0.857414,99.566383,2016-06-07,03:57:00,62,terra,Panyabungan Kota , Mandailing Natal , Sumatera Utara 
+0.476079,102.037758,2016-06-07,03:57:00,35,terra,Bunut , Pelalawan , Riau 
+0.208552,102.829887,2016-06-07,03:57:00,55,terra,Kuala Kampar , Pelalawan , Riau 
+0.334009,101.022789,2016-06-07,03:57:00,46,terra,Tapungkiri , Kampar , Riau 
+0.108887,102.580574,2016-06-07,03:57:00,24,terra,Kuala Kampar , Pelalawan , Riau 
+0.040346,101.805695,2016-06-07,03:57:00,52,terra,Langgam , Pelalawan , Riau 
+0.052632,101.327629,2016-06-07,03:57:00,33,terra,Gunung Sahilan , Kampar , Riau 
+-0.323817,103.161369,2016-06-07,03:57:00,62,terra,Tembilahan , Indragiri Hilir , Riau 
+-0.083798,101.481438,2016-06-07,03:57:00,52,terra,Kampar Kiri Hilir , Kampar , Riau 
+-0.327827,103.155167,2016-06-07,03:57:00,34,terra,Tembilahan , Indragiri Hilir , Riau 
+0.125349,99.663261,2016-06-07,03:57:00,64,terra,Lembah Melintang , Pasaman Barat , Sumatera Barat 
+-0.800346,101.804825,2016-06-07,03:57:00,30,terra,Kuatan Mudik , Kuantan Singingi , Riau 
+-1.348877,100.582436,2016-06-07,03:57:00,47,terra,Iv Jurai , Pesisir Selatan , Sumatera Barat 
+0.966997,101.905365,2016-06-07,03:55:00,13,terra,Siak , Siak , Riau 
+0.108887,102.580574,2016-06-07,03:55:00,26,terra,Kuala Kampar , Pelalawan , Riau 
+-0.327827,103.155159,2016-06-07,03:55:00,35,terra,Tembilahan , Indragiri Hilir , Riau 
+-9.82174,120.413521,2016-06-07,05:10:00,80,aqua,Pandawai , Kab. Sumba Timur , Nusa Tenggara Timur 
+-9.808899,120.411766,2016-06-07,05:10:00,58,aqua,Pandawai , Kab. Sumba Timur , Nusa Tenggara Timur 
+-3.365792,126.039299,2016-06-07,05:10:00,65,aqua,Kepalamadan , Kab. Buru , Maluku 
+-2.611907,121.627472,2016-06-07,05:10:00,56,aqua,Towuti , Luwu Timur , Sulawesi Selatan 
+-2.575777,121.389038,2016-06-07,05:10:00,73,aqua,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.577542,121.376633,2016-06-07,05:10:00,86,aqua,Nuha , Luwu Timur , Sulawesi Selatan 
+-1.279774,121.810432,2016-06-07,05:10:00,69,aqua,Ulubongka , Tojounauna , Sulawesi Tengah 
+0.036102,116.667419,2016-06-07,05:10:00,51,aqua,Muarakaman , Kutai Kartanegara , Kalimantan Timur 
+0.03982,116.689125,2016-06-07,05:10:00,42,aqua,Muarakaman , Kutai Kartanegara , Kalimantan Timur 
+0.256322,117.140541,2016-06-07,05:10:00,36,aqua,Muarakaman , Kutai Kartanegara , Kalimantan Timur 
+-4,105,2016-06-07,06:49:00,69,aqua,Lempung , Ogan Komering Ilir , Sumatera Selatan 
+-3.02428,104.011108,2016-06-07,06:49:00,47,aqua,Lais , Musi Banyuasin , Sumatera Selatan 
+-3.121652,103.21389,2016-06-07,06:49:00,87,aqua,Muara Kelingi , Musi Rawas , Sumatera Selatan 
+-3.123215,103.2033,2016-06-07,06:49:00,80,aqua,Muara Kelingi , Musi Rawas , Sumatera Selatan 
+-1.641336,102.979523,2016-06-07,06:49:00,89,aqua,Mersam , Batanghari , Jambi 
+-1.18669,102.235367,2016-06-07,06:49:00,62,aqua,Tebo Ulu , Tebo , Jambi 
+-1.055313,102.31234,2016-06-07,06:49:00,87,aqua,Tebo Ilir , Tebo , Jambi 
+-0.923902,103.077202,2016-06-07,06:49:00,45,aqua,Tungkalulu , Tanjung Jabung Barat , Jambi 
+-0.868363,102.023094,2016-06-07,06:49:00,47,aqua,Seberida , Indragiri Hulu , Riau 
+-0.856785,101.706825,2016-06-07,06:49:00,63,aqua,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.730478,101.948318,2016-06-07,06:49:00,60,aqua,Peranap , Indragiri Hulu , Riau 
+-0.978625,98.740433,2016-06-07,06:49:00,44,aqua,Siberut Barat , Kepulauan Mentawai , Sumatera Barat 
+-0.329742,103.153641,2016-06-07,06:49:00,63,aqua,Tembilahan , Indragiri Hilir , Riau 
+-0.181356,101.86219,2016-06-07,06:49:00,51,aqua,Pangkalan Kuras , Pelalawan , Riau 
+-0.174381,101.86451,2016-06-07,06:49:00,68,aqua,Pangkalan Kuras , Pelalawan , Riau 
+0.020066,103.101685,2016-06-07,06:49:00,34,aqua,Gaunganakserka , Indragiri Hilir , Riau 
+0.018453,103.090286,2016-06-07,06:49:00,53,aqua,Gaunganakserka , Indragiri Hilir , Riau 
+0.074247,102.769485,2016-06-07,06:49:00,35,aqua,Enok , Indragiri Hilir , Riau 
+0.098489,102.589752,2016-06-07,06:49:00,31,aqua,Kuala Kampar , Pelalawan , Riau 
+0.164555,102.896172,2016-06-07,06:49:00,50,aqua,Enok , Indragiri Hilir , Riau 
+0.207942,102.844658,2016-06-07,06:49:00,36,aqua,Kuala Kampar , Pelalawan , Riau 
+-2.935618,106.873238,2016-06-07,06:47:00,41,aqua,Lepar Pongok , Bangka Selatan , Kepulauan Bangka Belitung 
+-3.024281,104.011108,2016-06-07,06:47:00,48,aqua,Lais , Musi Banyuasin , Sumatera Selatan 
+-0.329741,103.153641,2016-06-07,06:47:00,61,aqua,Tembilahan , Indragiri Hilir , Riau 
+0.020066,103.101685,2016-06-07,06:47:00,29,aqua,Gaunganakserka , Indragiri Hilir , Riau 
+0.018453,103.090286,2016-06-07,06:47:00,50,aqua,Gaunganakserka , Indragiri Hilir , Riau 
+0.106991,102.787125,2016-06-07,06:47:00,48,aqua,Kuala Kampar , Pelalawan , Riau 
+0.164555,102.896172,2016-06-07,06:47:00,41,aqua,Enok , Indragiri Hilir , Riau 
+0.606307,102.04892,2016-06-07,06:47:00,43,aqua,Siak Sri Indrapura , Siak , Riau 
+0.817347,101.59549,2016-06-07,06:47:00,38,aqua,Siak , Siak , Riau 
+1.007238,101.706024,2016-06-07,06:47:00,24,aqua,Siak , Siak , Riau 
+1.073876,99.388878,2016-06-07,06:47:00,66,aqua,Batang Angkola , Tapanuli Selatan , Sumatera Utara 
+1.464253,101.479385,2016-06-07,06:47:00,71,aqua,Bukit Batu , Bengkalis , Riau 
+3.530784,98.808456,2016-06-07,06:47:00,35,aqua,Tanjung Morawa , Deliserdang , Sumatera Utara 
+-3.89246,115.013,2016-06-07,05:39:11,58,snpp,Jorong , Tanah Laut , Kalimantan Selatan 
+-3.89049,115.012,2016-06-07,05:39:11,67,snpp,Jorong , Tanah Laut , Kalimantan Selatan 
+-1.87356,110.685,2016-06-07,05:40:36,73,snpp,Tumbang Titi , Ketapang , Kalimantan Barat 
+-0.430529,114.835,2016-06-07,05:40:36,35,snpp,Barito Tuhup Raya , Murung Raya , Kalimantan Tengah 
+-2,116,2016-06-07,14:35:00,20,terra,Pasirbalengkong , Paser , Kalimantan Timur 
+-2.608146,116.372307,2016-06-07,14:36:00,60,terra,Pamukan Selatan , Kotabaru , Kalimantan Selatan 
+-2.179084,115.572395,2016-06-07,14:36:00,56,terra,Juai , Balangan , Kalimantan Selatan 
+0.655923,117.454498,2016-06-07,14:36:00,40,terra,Rantaupulung , Kutai Timur , Kalimantan Timur 
+-2,121,2016-06-07,17:36:00,85,aqua,Moris Atas , Morowali Utara , Sulawesi Tengah 
+-2.570318,121.388275,2016-06-07,17:36:00,100,aqua,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.580083,121.38707,2016-06-07,17:36:00,52,aqua,Nuha , Luwu Timur , Sulawesi Selatan 
+0.657231,117.463356,2016-06-07,17:35:00,58,aqua,Sangatta Utara , Kutai Timur , Kalimantan Timur 
+-2.568531,121.377457,2016-06-07,17:35:00,89,aqua,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.570092,121.388191,2016-06-07,17:35:00,100,aqua,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.579855,121.386986,2016-06-07,17:35:00,70,aqua,Nuha , Luwu Timur , Sulawesi Selatan 
+3.17304,98.3908,2016-06-07,18:21:38,100,snpp,Simpang Empat , Karo , Sumatera Utara 
+3.17195,98.398,2016-06-07,18:21:38,100,snpp,Simpang Empat , Karo , Sumatera Utara 
+-3.96649,104.223,2016-06-07,18:23:03,90,snpp,Lubuk Batang , Ogan Komering Ulu , Sumatera Selatan 
+-4.52688,105.599,2016-06-07,18:23:03,72,snpp,Bandar Mataram , Lampung Tengah , Lampung 
+-1,136,2016-06-08,01:23:00,34,terra,Biak Utara , Biak Numfor , Papua 
+2.351419,117.544281,2016-06-08,03:00:00,31,terra,Gunungtabur , Berau , Kalimantan Timur 
+2.149415,117.502876,2016-06-08,03:00:00,42,terra,Tanjungredeb , Berau , Kalimantan Timur 
+0.088305,117.345016,2016-06-08,03:00:00,48,terra,Telukpandan , Kutai Timur , Kalimantan Timur 
+-0.562451,115.977829,2016-06-08,03:00:00,53,terra,Siliqngurai , Kutai Barat , Kalimantan Timur 
+-4.016456,114.744522,2016-06-08,05:53:00,60,aqua,Panyipatan , Tanah Laut , Kalimantan Selatan 
+-2.585375,121.381004,2016-06-08,05:53:00,87,aqua,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.573891,121.394196,2016-06-08,05:53:00,70,aqua,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.577197,121.371407,2016-06-08,05:53:00,79,aqua,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.359727,113.392494,2016-06-08,05:53:00,72,aqua,Kampiang , Katingan , Kalimantan Tengah 
+0.170036,109.419617,2016-06-08,05:53:00,68,aqua,Kuala Mandor B , Kubu Raya , Kalimantan Barat 
+-9.29114,124.581,2016-06-08,05:18:50,79,snpp,                                         , Kab. Timor Tengah Utara , Nusa Tenggara Timur 
+-8.38786,124.354,2016-06-08,05:18:50,61,snpp,Alor Barat Laut , Kab. Alor , Nusa Tenggara Timur 
+-7.99595,125.737,2016-06-08,05:18:50,56,snpp,Pulau Terselatan , Kab. Maluku Tenggara Barat , Maluku 
+-8.2519,123.221,2016-06-08,05:18:50,41,snpp,Adonara Timur , Kab. Flores Timur , Nusa Tenggara Timur 
+-2.57757,121.382,2016-06-08,05:21:41,100,snpp,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.53396,121.58,2016-06-08,05:21:41,61,snpp,Towuti , Luwu Timur , Sulawesi Selatan 
+-2.46777,120.99,2016-06-08,05:21:41,84,snpp,Angkona , Luwu Timur , Sulawesi Selatan 
+-2.46111,120.989,2016-06-08,05:21:41,100,snpp,Wasuponda , Luwu Timur , Sulawesi Selatan 
+-0.79314,123.168,2016-06-08,05:21:41,40,snpp,Masama , Banggai , Sulawesi Tengah 
+0.0418022,116.683,2016-06-08,05:21:41,47,snpp,Muarakaman , Kutai Kartanegara , Kalimantan Timur 
+0.087937,116.677,2016-06-08,05:21:41,40,snpp,Muaraancalong , Kutai Timur , Kalimantan Timur 
+2.08307,117.447,2016-06-08,05:23:06,45,snpp,Sambaliung , Berau , Kalimantan Timur 
+0.232131,102.299,2016-06-08,18:02:42,53,snpp,Kuala Kampar , Pelalawan , Riau 
+0.23121,102.305,2016-06-08,18:02:42,74,snpp,Kuala Kampar , Pelalawan , Riau 
+-2.576772,121.373466,2016-06-09,02:05:00,81,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.578544,121.385109,2016-06-09,02:05:00,100,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.691537,121.385849,2016-06-09,02:05:00,53,terra,Towuti , Luwu Timur , Sulawesi Selatan 
+-3.620628,126.532364,2016-06-09,02:05:00,54,terra,Leksula , Buru Selatan , Maluku 
+-2,121,2016-06-09,02:07:00,81,terra,Moris Atas , Morowali Utara , Sulawesi Tengah 
+1.857191,101.200546,2016-06-09,03:44:00,64,terra,Dumai Barat , Kota Dumai , Riau 
+1.730386,101.558746,2016-06-09,03:44:00,39,terra,Rupat , Bengkalis , Riau 
+1.363049,102.239609,2016-06-09,03:44:00,54,terra,Merbau , Kepulauan Meranti , Riau 
+1.315886,101.870461,2016-06-09,03:44:00,49,terra,Bukit Batu , Bengkalis , Riau 
+0.504992,103.004654,2016-06-09,03:44:00,72,terra,Kuala Kampar , Pelalawan , Riau 
+0.517025,102.292534,2016-06-09,03:44:00,44,terra,Bunut , Pelalawan , Riau 
+0.471288,102.040543,2016-06-09,03:44:00,55,terra,Bunut , Pelalawan , Riau 
+0.138451,103.556244,2016-06-09,03:44:00,55,terra,Mandah , Indragiri Hilir , Riau 
+0.111702,102.780098,2016-06-09,03:44:00,34,terra,Kuala Kampar , Pelalawan , Riau 
+-1.409701,101.733826,2016-06-09,03:44:00,58,terra,Tanah Tumbuh , Bungo , Jambi 
+2.700102,98.605965,2016-06-09,03:45:00,41,terra,                                         , Samosir , Sumatera Utara 
+2.16427,100.809349,2016-06-09,03:45:00,44,terra,Bangko , Rokan Hilir , Riau 
+1.753599,101.531593,2016-06-09,03:45:00,59,terra,Rupat , Bengkalis , Riau 
+1.333117,102.445778,2016-06-09,03:45:00,48,terra,Bengkalis , Bengkalis , Riau 
+1.316187,101.870644,2016-06-09,03:45:00,47,terra,Bukit Batu , Bengkalis , Riau 
+1.314847,101.879745,2016-06-09,03:45:00,20,terra,Bukit Batu , Bengkalis , Riau 
+0.726621,102.428177,2016-06-09,03:45:00,36,terra,Sungai Apit , Siak , Riau 
+1.85719,101.200554,2016-06-09,03:42:00,65,terra,Dumai Barat , Kota Dumai , Riau 
+1.730387,101.558739,2016-06-09,03:42:00,40,terra,Rupat , Bengkalis , Riau 
+1.314546,101.879555,2016-06-09,03:42:00,18,terra,Bukit Batu , Bengkalis , Riau 
+0.688702,101.625969,2016-06-09,03:42:00,32,terra,Siak Sri Indrapura , Siak , Riau 
+0.517026,102.292526,2016-06-09,03:42:00,43,terra,Bunut , Pelalawan , Riau 
+0.463143,102.275185,2016-06-09,03:42:00,48,terra,Bunut , Pelalawan , Riau 
+0.1117,102.780106,2016-06-09,03:42:00,31,terra,Kuala Kampar , Pelalawan , Riau 
+-1.409702,101.733833,2016-06-09,03:42:00,56,terra,Tanah Tumbuh , Bungo , Jambi 
+-3,102,2016-06-09,06:34:00,64,aqua,Ketahun , Bengkulu Utara , Bengkulu 
+-3.046036,102.795425,2016-06-09,06:34:00,81,aqua,Batukuning/lakitan Ulu , Musi Rawas , Sumatera Selatan 
+-2.647624,103.330376,2016-06-09,06:34:00,33,aqua,Rawas Ilir , Musi Rawas Utara , Sumatera Selatan 
+-2.495504,103.946167,2016-06-09,06:34:00,66,aqua,Keluang , Musi Banyuasin , Sumatera Selatan 
+-2.787503,101.514847,2016-06-09,06:34:00,87,aqua,Muko Muko Selatan , Muko-muko , Bengkulu 
+-2.788931,101.504807,2016-06-09,06:34:00,66,aqua,Muko Muko Selatan , Muko-muko , Bengkulu 
+-2.118825,104.391998,2016-06-09,06:34:00,29,aqua,Muara Telang , Banyuasin , Sumatera Selatan 
+-2.253373,103.449501,2016-06-09,06:34:00,83,aqua,Bajubang , Batanghari , Jambi 
+-2.550456,101.169922,2016-06-09,06:34:00,65,aqua,Muko Muko Utara , Muko-muko , Bengkulu 
+-2.308244,102.678238,2016-06-09,06:34:00,69,aqua,Sarolangun , Sarolangun , Jambi 
+-2.348418,101.948395,2016-06-09,06:34:00,61,aqua,Muara Siau , Merangin , Jambi 
+-1.939447,102.039001,2016-06-09,06:34:00,52,aqua,Rantau Panjang , Merangin , Jambi 
+-1.593116,103.630836,2016-06-09,06:34:00,61,aqua,Jambi Timur , Kota Jambi , Jambi 
+-1.359431,103.65786,2016-06-09,06:34:00,56,aqua,Muara Sabak , Tanjung Jabung Timur , Jambi 
+-1.477559,101.868744,2016-06-09,06:34:00,64,aqua,Tanah Tumbuh , Bungo , Jambi 
+-1.245929,103.4198,2016-06-09,06:34:00,63,aqua,Muara Sabak , Tanjung Jabung Timur , Jambi 
+-0.992555,103.000832,2016-06-09,06:34:00,30,aqua,Tungkalulu , Tanjung Jabung Barat , Jambi 
+-0.839291,101.627701,2016-06-09,06:34:00,84,aqua,Pulau Punjung , Dharmasraya , Sumatera Barat 
+-0.064098,102.030121,2016-06-09,06:34:00,35,aqua,Pangkalan Kuras , Pelalawan , Riau 
+0.356741,101.945267,2016-06-09,06:34:00,44,aqua,Bunut , Pelalawan , Riau 
+0.608765,102.040337,2016-06-09,06:34:00,22,aqua,Siak Sri Indrapura , Siak , Riau 
+0.729518,102.692444,2016-06-09,06:34:00,38,aqua,Sungai Apit , Siak , Riau 
+0.719487,102.423149,2016-06-09,06:34:00,43,aqua,Sungai Apit , Siak , Riau 
+0.528061,100.967415,2016-06-09,06:34:00,33,aqua,Tapung , Kampar , Riau 
+0.275024,99.230904,2016-06-09,06:34:00,59,aqua,Sungai Beremas , Pasaman Barat , Sumatera Barat 
+0.881172,100.458893,2016-06-09,06:34:00,63,aqua,Rambah , Rokan Hulu , Riau 
+1.244368,100.764603,2016-06-09,06:34:00,70,aqua,Tanah Putih , Rokan Hilir , Riau 
+0.789818,97.658852,2016-06-09,06:34:00,50,aqua,Lolowau , Nias Selatan , Sumatera Utara 
+1.424513,101.571762,2016-06-09,06:34:00,26,aqua,Mandau , Bengkalis , Riau 
+1.239824,99.965477,2016-06-09,06:34:00,67,aqua,Huta Raja Tinggi , Padang Lawas , Sumatera Utara 
+1.731281,101.14946,2016-06-09,06:34:00,57,aqua,Tanah Putih , Rokan Hilir , Riau 
+2.242631,100.803688,2016-06-09,06:34:00,89,aqua,Bangko , Rokan Hilir , Riau 
+2.241217,100.793999,2016-06-09,06:34:00,52,aqua,Bangko , Rokan Hilir , Riau 
+2.260479,98.688637,2016-06-09,06:34:00,70,aqua,Dolok Sanggul , Humbang Hasundutan , Sumatera Utara 
+2.613523,100.190651,2016-06-09,06:34:00,34,aqua,Panei Hilir , Labuhanbatu , Sumatera Utara 
+2.697278,100.204185,2016-06-09,06:34:00,69,aqua,Panei Hilir , Labuhanbatu , Sumatera Utara 
+2.67792,98.081467,2016-06-09,06:34:00,67,aqua,Penanggalan , Kota Sulubussalam , Aceh 
+2.675753,98.06707,2016-06-09,06:34:00,71,aqua,Simpang Kiri , Kota Sulubussalam , Aceh 
+3.315519,98.214012,2016-06-09,06:34:00,57,aqua,Bohorok , Langkat , Sumatera Utara 
+4.403951,96.792198,2016-06-09,06:34:00,43,aqua,Atu Lintang , Aceh Tengah , Aceh 
+4.428748,95.895493,2016-06-09,06:34:00,58,aqua,Teunom , Aceh Jaya , Aceh 
+4.794891,95.555603,2016-06-09,06:34:00,53,aqua,Setialuebakti , Aceh Jaya , Aceh 
+-8.21688,130.941,2016-06-09,04:59:54,62,snpp,Tanimbar Selatan , Kab. Maluku Tenggara , Maluku 
+-8.19094,118.141,2016-06-09,05:01:20,57,snpp,Tambora , Bima , Nusa Tenggara Barat 
+-2.57766,121.384,2016-06-09,05:02:45,100,snpp,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.57161,121.032,2016-06-09,05:02:45,70,snpp,Malili , Luwu Timur , Sulawesi Selatan 
+-2.05508,121.224,2016-06-09,05:02:45,78,snpp,Petasia , Morowali Utara , Sulawesi Tengah 
+-4.20464,102.721,2016-06-09,06:42:20,29,snpp,Talo , Seluma , Bengkulu 
+-3.61623,102.807,2016-06-09,06:43:45,34,snpp,Ulumusi , Empat Lawang , Sumatera Selatan 
+-2.3616,104.939,2016-06-09,06:43:45,66,snpp,Banyuasin Ii , Banyuasin , Sumatera Selatan 
+-2.18519,100.944,2016-06-09,06:43:45,74,snpp,Pancung Soal , Pesisir Selatan , Sumatera Barat 
+-1.35644,103.666,2016-06-09,06:43:45,61,snpp,Muara Sabak , Tanjung Jabung Timur , Jambi 
+-0.878062,101.626,2016-06-09,06:43:45,78,snpp,Pulau Punjung , Dharmasraya , Sumatera Barat 
+-0.205532,102.378,2016-06-09,06:43:45,38,snpp,Rengat , Indragiri Hulur , Riau 
+-0.206665,102.371,2016-06-09,06:43:45,64,snpp,Rengat , Indragiri Hulur , Riau 
+0.522074,102.048,2016-06-09,06:43:45,62,snpp,Bunut , Pelalawan , Riau 
+1.39576,99.5092,2016-06-09,06:45:11,60,snpp,Padang Bolak Julu , Padang Lawas Utara , Sumatera Utara 
+1.44806,97.325,2016-06-09,06:45:11,52,snpp,Lotu , Nias Utara , Sumatera Utara 
+1.9295,99.1997,2016-06-09,06:45:11,38,snpp,Pangribuan , Tapanuli Utara , Sumatera Utara 
+2.42868,100.31,2016-06-09,06:45:11,74,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.70412,100.21,2016-06-09,06:45:11,73,snpp,Panei Hilir , Labuhanbatu , Sumatera Utara 
+2.83101,97.9311,2016-06-09,06:45:11,44,snpp,Sultan Daulat , Kota Sulubussalam , Aceh 
+3.771,96.5989,2016-06-09,06:45:11,75,snpp,Darulmakmur , Naganraya , Aceh 
+-2.573029,121.386452,2016-06-09,14:24:00,100,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+5.28897,95.440224,2016-06-09,19:00:00,62,aqua,Kotaluecot Glie , Aceh Besar , Aceh 
+5.28897,95.440224,2016-06-09,19:00:00,62,aqua,Kotaluecot Glie , Aceh Besar , Aceh 
+3.172817,98.392525,2016-06-09,19:00:00,45,aqua,Simpang Empat , Karo , Sumatera Utara 
+3.172817,98.392525,2016-06-09,19:00:00,45,aqua,Simpang Empat , Karo , Sumatera Utara 
+3.171512,98.401421,2016-06-09,19:00:00,39,aqua,Simpang Empat , Karo , Sumatera Utara 
+3.171512,98.401421,2016-06-09,19:00:00,39,aqua,Simpang Empat , Karo , Sumatera Utara 
+-8.11511,112.926,2016-06-09,17:46:37,92,snpp,Pronojiwo , Lumajang , Jawa Timur 
+-2,140,2016-06-10,01:12:00,36,terra,Pronojiwo , Lumajang , Jawa Timur 
+2.076932,117.445602,2016-06-10,02:48:00,52,terra,Sambaliung , Berau , Kalimantan Timur 
+1.848023,117.257866,2016-06-10,02:48:00,38,terra,Sambaliung , Berau , Kalimantan Timur 
+1.035606,120.822945,2016-06-10,02:48:00,26,terra,Baolan , Toli-toli , Sulawesi Tengah 
+0.827231,117.598068,2016-06-10,02:48:00,39,terra,Bengalon , Kutai Timur , Kalimantan Timur 
+0.071715,116.683945,2016-06-10,02:48:00,27,terra,Muaraancalong , Kutai Timur , Kalimantan Timur 
+3.290409,117.597313,2016-06-10,02:47:00,45,terra,Tarakan Tengah , Kota Tarakan , Kalimantan Utara 
+2.076653,117.44548,2016-06-10,02:47:00,63,terra,Sambaliung , Berau , Kalimantan Timur 
+1.847748,117.257698,2016-06-10,02:47:00,56,terra,Sambaliung , Berau , Kalimantan Timur 
+1.035471,120.822662,2016-06-10,02:47:00,46,terra,Baolan , Toli-toli , Sulawesi Tengah 
+0.82698,117.59787,2016-06-10,02:47:00,44,terra,Bengalon , Kutai Timur , Kalimantan Timur 
+0.071442,116.683769,2016-06-10,02:47:00,31,terra,Muaraancalong , Kutai Timur , Kalimantan Timur 
+-3,138,2016-06-10,04:07:00,77,aqua,Rofaer , Mamberamo Raya , Papua 
+-3.607406,138.972763,2016-06-10,04:07:00,59,aqua,Kobakma , Mamberamo Tengah , Papua 
+-3.607406,138.972763,2016-06-10,04:07:00,59,aqua,Kobakma , Mamberamo Tengah , Papua 
+4.20471,96.411453,2016-06-10,04:27:00,72,terra,Beutong , Nagan Raya , Nanggroe Aceh Darussalam 
+4.192574,96.40966,2016-06-10,04:27:00,47,terra,Beutong , Nagan Raya , Nanggroe Aceh Darussalam 
+4.200898,96.404427,2016-06-10,04:27:00,64,terra,Beutong , Nagan Raya , Nanggroe Aceh Darussalam 
+-9.828843,120.363914,2016-06-10,05:40:00,58,aqua,Pandawai , Sumba Timur , Nusa Tenggara Timur 
+-9.828843,120.363914,2016-06-10,05:40:00,58,aqua,Pandawai , Sumba Timur , Nusa Tenggara Timur 
+-3.514309,115.761162,2016-06-10,05:40:00,72,aqua,Kusan Hulu , Tanah Bumbu , Kalimantan Selatan 
+-2.229772,114.948151,2016-06-10,05:40:00,27,aqua,Paju Epat , Barito Timur , Kalimantan Tengah 
+-2.713372,110.279144,2016-06-10,05:40:00,55,aqua,Kendawangan , Ketapang , Kalimantan Barat 
+-0.790926,116.225601,2016-06-10,05:40:00,74,aqua,Bongan , Kutai Barat , Kalimantan Timur 
+-0.203598,116.537468,2016-06-10,05:40:00,68,aqua,Kotabangun , Kutai Kartanegara , Kalimantan Timur 
+0.161177,116.64296,2016-06-10,05:40:00,49,aqua,Muaraancalong , Kutai Timur , Kalimantan Timur 
+0.07158,109.901619,2016-06-10,05:40:00,60,aqua,Tayan Hilir , Sanggau , Kalimantan Barat 
+3.266624,117.259239,2016-06-10,05:40:00,62,aqua,Sekatak , Bulungan , Kalimantan Utara 
+3.265333,117.250084,2016-06-10,05:40:00,91,aqua,Sekatak , Bulungan , Kalimantan Utara 
+4.058145,117.062241,2016-06-10,05:40:00,63,aqua,Tulinonsoi , Nunukan , Kalimantan Utara 
+-2.895705,121.178932,2016-06-10,05:39:00,22,aqua,Tolala , Kolaka Utara , Sulawesi Tenggara 
+-2.229772,114.948151,2016-06-10,05:39:00,26,aqua,Paju Epat , Barito Timur , Kalimantan Tengah 
+0.161177,116.64296,2016-06-10,05:39:00,48,aqua,Muaraancalong , Kutai Timur , Kalimantan Timur 
+4.058145,117.062241,2016-06-10,05:39:00,62,aqua,Tulinonsoi , Nunukan , Kalimantan Utara 
+0,99,2016-06-10,07:18:00,69,aqua,Tulinonsoi , Nunukan , Kalimantan Utara 
+0.289105,99.263222,2016-06-10,07:18:00,49,aqua,Sungai Beremas , Pasaman Barat , Sumatera Barat 
+4.00422,97.421425,2016-06-10,07:18:00,47,aqua,Dabun Gelang , Gayo Lues , Nanggroe Aceh Darussalam 
+4.414438,95.908531,2016-06-10,07:18:00,61,aqua,Teunom , Aceh Jaya , Nanggroe Aceh Darussalam 
+4.41249,95.894127,2016-06-10,07:18:00,80,aqua,Teunom , Aceh Jaya , Nanggroe Aceh Darussalam 
+4.539711,96.74884,2016-06-10,07:18:00,71,aqua,Celala , Aceh Tengah , Nanggroe Aceh Darussalam 
+4.524747,95.871895,2016-06-10,07:18:00,54,aqua,Teunom , Aceh Jaya , Nanggroe Aceh Darussalam 
+5.316782,95.721214,2016-06-10,07:18:00,74,aqua,Lembah Seulawah , Aceh Besar , Nanggroe Aceh Darussalam 
+-8,112,2016-06-10,15:06:00,92,terra,Udanawu , Blitar , Jawa Timur 
+-3.309605,104.653603,2016-06-10,15:05:00,56,terra,Indralaya Selatan , Ogan Ilir , Sumatera Selatan 
+-2.177859,115.580475,2016-06-10,18:04:00,55,aqua,Upau , Tabalong , Kalimantan Selatan 
+-2.57558,121.378,2016-06-10,17:24:53,100,snpp,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.57672,121.385,2016-06-10,17:24:53,100,snpp,Nuha , Luwu Timur , Sulawesi Selatan 
+-9.35301,119.598,2016-06-11,06:03:03,63,snpp,                                         , Kab. Sumba Tengah , Nusa Tenggara Timur 
+-8.18756,118.14,2016-06-11,06:03:03,21,snpp,Tambora , Bima , Nusa Tenggara Barat 
+-8.11292,112.927,2016-06-11,06:03:03,96,snpp,Pronojiwo , Lumajang , Jawa Timur 
+-7.86381,112.172,2016-06-11,06:04:28,64,snpp,Plosoklaten , Kediri , Jawa Timur 
+-2.57991,121.388,2016-06-11,06:04:28,48,snpp,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.57346,121.386,2016-06-11,06:04:28,84,snpp,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.57501,121.376,2016-06-11,06:04:28,62,snpp,Nuha , Luwu Timur , Sulawesi Selatan 
+-3.10107,115.106,2016-06-11,06:04:28,24,snpp,Binuang , Tapin , Kalimantan Selatan 
+-2.59484,114.157,2016-06-11,06:05:54,51,snpp,Jabiren , Pulang Pisau , Kalimantan Tengah 
+-1.94711,115.857,2016-06-11,06:05:54,21,snpp,Muara Samu , Paser , Kalimantan Timur 
+2.15534,117.498,2016-06-11,06:05:54,18,snpp,Tanjungredeb , Berau , Kalimantan Timur 
+1.49592,127.638,2016-06-11,17:04:31,56,snpp,Ibu Utara ,                                          , Maluku Utara 
+-2.57656,121.377,2016-06-11,17:05:57,59,snpp,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.57783,121.385,2016-06-11,17:05:57,100,snpp,Nuha , Luwu Timur , Sulawesi Selatan 
+-9.748302,120.385704,2016-06-12,05:27:00,80,aqua,Pandawai , Sumba Timur , Nusa Tenggara Timur 
+-9.377909,119.873436,2016-06-12,05:27:00,74,aqua,Umbu Ratu Nggay , Sumba Tengah , Nusa Tenggara Timur 
+-1.897748,121.081154,2016-06-12,05:27:00,70,aqua,Mori Utara , Morowali , Sulawesi Tengah 
+-0.544256,116.923798,2016-06-12,05:27:00,34,aqua,Loakulu , Kutai Kartanegara , Kalimantan Timur 
+0.398912,123.231667,2016-06-12,05:27:00,60,aqua,Bone Pantai , Bone Bolango , Gorontalo 
+0.359618,116.529663,2016-06-12,05:27:00,32,aqua,Muaraancalong , Kutai Timur , Kalimantan Timur 
+4.1364,116.915497,2016-06-12,05:27:00,76,aqua,Sebuku , Nunukan , Kalimantan Utara 
+4.134893,116.905296,2016-06-12,05:27:00,85,aqua,Sebuku , Nunukan , Kalimantan Utara 
+1.447634,125.196663,2016-06-11,01:52:00,34,terra,Aertembaga , Bitung , Sulawesi Utara 
+-8.52976,125.647667,2016-06-11,01:52:00,52,terra,Aertembaga , Bitung , Sulawesi Utara 
+1,125,2016-06-11,01:55:00,34,terra,Aertembaga , Bitung , Sulawesi Utara 
+-2.608933,101.257202,2016-06-11,03:31:00,56,terra,Teras Terunjam , Mukomuko , Bengkulu 
+3,117,2016-06-12,02:36:00,43,terra,Tanjungpalas Utara , Bulungan , Kalimantan Utara 
+1.045384,120.819557,2016-06-12,02:36:00,51,terra,Baolan , Toli-toli , Sulawesi Tengah 
+1.035471,120.818138,2016-06-12,02:36:00,29,terra,Baolan , Toli-toli , Sulawesi Tengah 
+0.640796,117.437447,2016-06-12,02:36:00,37,terra,Rantaupulung , Kutai Timur , Kalimantan Timur 
+-0.94809,117.032104,2016-06-12,02:36:00,71,terra,Semboja , Kutai Kartanegara , Kalimantan Timur 
+-2.572959,121.38488,2016-06-12,02:36:00,90,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.583894,121.383636,2016-06-12,02:36:00,51,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.178852,115.574089,2016-06-12,02:36:00,35,terra,Upau , Tabalong , Kalimantan Selatan 
+-8.383202,118.260094,2016-06-12,02:36:00,82,terra,Sanggar , Bima , Nusa Tenggara Barat 
+-8.384706,118.270607,2016-06-12,02:36:00,79,terra,Sanggar , Bima , Nusa Tenggara Barat 
+-8.114593,112.928764,2016-06-12,02:36:00,56,terra,Pronojiwo , Lumajang , Jawa Timur 
+0.135448,102.718071,2016-06-12,04:14:00,25,terra,Teluk Meranti , Pelalawan , Riau 
+-2,101,2016-06-12,07:05:00,62,aqua,Pancung Soal , Pesisir Selatan , Sumatera Barat 
+0.470378,102.028168,2016-06-12,07:05:00,26,aqua,Pelalawan , Pelalawan , Riau 
+3.737814,98.512688,2016-06-12,07:05:00,60,aqua,Hamparan Perak , Deli Serdang , Sumatera Utara 
+-6,113,2016-06-12,17:51:00,69,aqua,Hamparan Perak , Deli Serdang , Sumatera Utara 
+-8.112422,112.927353,2016-06-12,17:51:00,100,aqua,Pronojiwo , Lumajang , Jawa Timur 
+-8.111315,112.923927,2016-06-12,14:53:00,94,terra,Ampelgading , Malang , Jawa Timur 
+-2.177536,115.573418,2016-06-12,14:53:00,43,terra,Upau , Tabalong , Kalimantan Selatan 
+-0.811757,134.042587,2016-06-13,01:41:00,58,terra,Manokwari Barat , Manokwari , Papua Barat 
+-0.813354,134.053391,2016-06-13,01:41:00,50,terra,Manokwari Barat , Manokwari , Papua Barat 
+-1.816411,136.756744,2016-06-13,01:41:00,49,terra,Yapen Timur , Kepulauan Yapen , Papua 
+-1.491256,134.145508,2016-06-13,01:41:00,71,terra,Ransiki , Manokwari , Papua Barat 
+-3.53146,126.855164,2016-06-13,01:41:00,69,terra,Waisama , Buru Selatan , Maluku 
+-3.533397,126.868095,2016-06-13,01:41:00,68,terra,Waisama , Buru Selatan , Maluku 
+-2.071989,111.404968,2016-06-13,03:18:00,79,terra,Bulik , Lamandau , Kalimantan Tengah 
+-4.676007,105.372238,2016-06-13,03:18:00,69,terra,Bandar Mataram , Lampung Tengah , Lampung 
+-6.866822,107.497673,2016-06-13,03:18:00,42,terra,Padalarang , Bandung Barat , Jawa Barat 
+-7.008602,107.746964,2016-06-13,03:18:00,52,terra,Solokan Jeruk , Bandung , Jawa Barat 
+-0.897125,134.021881,2016-06-13,04:34:00,18,aqua,Manokwari Selatan , Manokwari , Papua Barat 
+-0.830432,133.006729,2016-06-13,04:34:00,64,aqua,Senopi , Manokwari , Papua Barat 
+1.49814,127.636,2016-06-12,16:47:01,25,snpp,Ibu Utara ,                                          , Maluku Utara 
+1.49114,127.635,2016-06-12,16:47:01,26,snpp,Ibu Utara ,                                          , Maluku Utara 
+-8.113207,112.922333,2016-06-13,06:10:00,64,aqua,Ampelgading , Malang , Jawa Timur 
+-6.556454,108.189224,2016-06-13,06:10:00,63,aqua,Cikedung , Indramayu , Jawa Barat 
+-4.257028,105.205147,2016-06-13,06:10:00,67,aqua,Banjar Margo , Tulangbawang , Lampung 
+-2.069106,111.398994,2016-06-13,06:10:00,82,aqua,Bulik , Lamandau , Kalimantan Tengah 
+-1.590679,104.446548,2016-06-13,06:10:00,47,aqua,Sadu , Tanjung Jabung T , Jambi 
+-1.414727,103.624626,2016-06-13,06:10:00,42,aqua,Maro Sebo , Muaro Jambi , Jambi 
+-8.38374,118.281,2016-06-13,05:25:14,57,snpp,Sanggar , Bima , Nusa Tenggara Barat 
+-2.578468,121.383278,2016-06-13,14:01:00,100,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.580688,121.367378,2016-06-13,14:01:00,72,terra,Towuti , Luwu Timur , Sulawesi Selatan 
+-1.24791,122.595116,2016-06-13,14:01:00,79,terra,Batui , Banggai , Sulawesi Tengah 
+-1.249719,122.582573,2016-06-13,14:01:00,66,terra,Batui , Banggai , Sulawesi Tengah 
+-2.578465,121.383301,2016-06-13,13:59:00,100,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.580684,121.367401,2016-06-13,13:59:00,72,terra,Towuti , Luwu Timur , Sulawesi Selatan 
+-1.249723,122.58255,2016-06-13,13:59:00,66,terra,Batui , Banggai , Sulawesi Tengah 
+-4.571821,105.373032,2016-06-13,15:38:00,76,terra,Bandar Mataram , Lampung Tengah , Lampung 
+-4.552658,105.501839,2016-06-13,15:38:00,63,terra,Bandar Mataram , Lampung Tengah , Lampung 
+-4.570552,105.377808,2016-06-13,15:38:00,60,terra,Bandar Mataram , Lampung Tengah , Lampung 
+1,127,2016-06-13,16:56:00,58,aqua,Bandar Mataram , Lampung Tengah , Lampung 
+1.500052,127.641159,2016-06-13,16:56:00,33,aqua,Ibu Utara , Halmahera Barat , Maluku Utara 
+-1.242114,122.582504,2016-06-13,16:56:00,56,aqua,Batui , Banggai , Sulawesi Tengah 
+-1.244585,122.599464,2016-06-13,16:56:00,94,aqua,Batui , Banggai , Sulawesi Tengah 
+-1.23685,122.595467,2016-06-13,16:56:00,34,aqua,Batui , Banggai , Sulawesi Tengah 
+-1.248951,122.592995,2016-06-13,16:56:00,91,aqua,Batui , Banggai , Sulawesi Tengah 
+-2.569495,121.375786,2016-06-13,16:56:00,86,aqua,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.572524,121.395584,2016-06-13,16:56:00,99,aqua,Nuha , Luwu Timur , Sulawesi Selatan 
+-1,122,2016-06-13,17:00:00,56,aqua,Nuhon , Banggai , Sulawesi Tengah 
+-2.57812,121.374,2016-06-13,16:29:31,100,snpp,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.57984,121.384,2016-06-13,16:29:31,100,snpp,Nuha , Luwu Timur , Sulawesi Selatan 
+-0.935365,101.68,2016-06-13,18:09:06,91,snpp,Pulau Punjung , Dharmasraya , Sumatera Barat 
+1.444816,125.188835,2016-06-14,02:23:00,27,terra,Maesa , Bitung , Sulawesi Utara 
+2.151627,117.504242,2016-06-14,02:23:00,42,terra,Tanjungredeb , Berau , Kalimantan Timur 
+1.038081,120.822624,2016-06-14,02:23:00,34,terra,Baolan , Toli-toli , Sulawesi Tengah 
+-2.832761,122.162697,2016-06-14,02:23:00,66,terra,Bahodopi , Morowali , Sulawesi Tengah 
+-5.185837,119.423187,2016-06-14,02:23:00,48,terra,Tamalate , Makassar , Sulawesi Selatan 
+-3.151306,120.163994,2016-06-14,05:17:00,27,aqua,Bua , Luwu , Sulawesi Selatan 
+-2.829754,122.158112,2016-06-14,05:17:00,69,aqua,Bahodopi , Morowali , Sulawesi Tengah 
+-1.819636,121.090851,2016-06-14,05:17:00,65,aqua,Mori Utara , Morowali , Sulawesi Tengah 
+1.446983,125.198814,2016-06-14,05:17:00,40,aqua,Aertembaga , Bitung , Sulawesi Utara 
+0.953887,117.960365,2016-06-14,05:17:00,33,aqua,Sangkulirang , Kutai Timur , Kalimantan Timur 
+0.950248,117.955826,2016-06-14,05:17:00,59,aqua,Sangkulirang , Kutai Timur , Kalimantan Timur 
+1.991397,117.39267,2016-06-14,05:17:00,41,aqua,Sambaliung , Berau , Kalimantan Timur 
+1.988952,117.376343,2016-06-14,05:17:00,67,aqua,Sambaliung , Berau , Kalimantan Timur 
+3.9683,116.947449,2016-06-14,05:17:00,71,aqua,Sebuku , Nunukan , Kalimantan Utara 
+-3,104,2016-06-14,06:53:00,40,aqua,Lais , Musi Banyuasin , Sumatera Selatan 
+-1.929702,104.196571,2016-06-14,06:53:00,64,aqua,Bayung Lencir , Musi Banyuasin , Sumatera Selatan 
+-1.792692,102.926437,2016-06-14,06:53:00,58,aqua,Batin Xxiv , Batang Hari , Jambi 
+-1.794642,102.913185,2016-06-14,06:53:00,59,aqua,Batin Xxiv , Batang Hari , Jambi 
+2.149572,100.076553,2016-06-14,06:53:00,19,aqua,Pangkatan , Labuhanbatu , Sumatera Utara 
+4.400354,98.229126,2016-06-14,06:53:00,71,aqua,Bendahara , Aceh Tamiang , Nanggroe Aceh Darussalam 
+1.446983,125.198814,2016-06-14,05:16:00,39,aqua,Aertembaga , Bitung , Sulawesi Utara 
+0.953887,117.960365,2016-06-14,05:16:00,36,aqua,Sangkulirang , Kutai Timur , Kalimantan Timur 
+0.950248,117.955826,2016-06-14,05:16:00,65,aqua,Sangkulirang , Kutai Timur , Kalimantan Timur 
+1.991397,117.39267,2016-06-14,05:16:00,36,aqua,Sambaliung , Berau , Kalimantan Timur 
+1.988952,117.376343,2016-06-14,05:16:00,61,aqua,Sambaliung , Berau , Kalimantan Timur 
+0.953887,117.960365,2016-06-14,05:15:00,35,aqua,Sangkulirang , Kutai Timur , Kalimantan Timur 
+1.991398,117.39267,2016-06-14,05:15:00,35,aqua,Sambaliung , Berau , Kalimantan Timur 
+-2.066525,101.394173,2016-06-14,06:56:00,63,aqua,Sungai Penuh , Sungai Penuh , Jambi 
+2.149571,100.076553,2016-06-14,06:55:00,20,aqua,Pangkatan , Labuhanbatu , Sumatera Utara 
+-2.57851,121.385,2016-06-14,05:07:43,92,snpp,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.5712,121.384,2016-06-14,05:07:43,82,snpp,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.57459,121.385,2016-06-14,05:07:43,92,snpp,Nuha , Luwu Timur , Sulawesi Selatan 
+-1.37911,122.479,2016-06-14,05:09:09,60,snpp,Batui Selatan , Banggai , Sulawesi Tengah 
+2.77493,125.411,2016-06-14,05:09:09,24,snpp,Siau Timur , Siau Tagulandang Biaro , Sulawesi Utara 
+-0.205701,102.376,2016-06-14,06:50:07,40,snpp,Rengat Barat , Indragiri Hulu , Riau 
+0.65084,102.132,2016-06-14,06:50:07,58,snpp,Dayun , Siak , Riau 
+0.652858,102.132,2016-06-14,06:50:07,48,snpp,Dayun , Siak , Riau 
+-2,115,2016-06-14,14:41:00,55,terra,Pematang Karau , Barito Timur , Kalimantan Tengah 
+-2.18132,115.572,2016-06-14,17:50:10,55,snpp,Upau , Tabalong , Kalimantan Selatan 
+-0.244107,102.867493,2016-06-15,03:06:00,40,terra,Gaung Anak Serka , Indragiri Hilir , Riau 
+-6.952415,109.138466,2016-06-15,03:06:00,34,terra,Adiwerna , Tegal , Jawa Tengah 
+-7.5849,138.713806,2016-06-15,04:23:00,69,aqua,Tabonji , Merauke , Papua 
+-7.586186,138.704819,2016-06-15,04:23:00,67,aqua,Tabonji , Merauke , Papua 
+0.982033,128.520355,2016-06-15,04:23:00,36,aqua,Maba Tengah , Halmahera Timur , Maluku Utara 
+-3.343596,114.254715,2016-06-15,05:58:00,69,aqua,Kapuas Kuala , Kapuas , Kalimantan Tengah 
+-3.34494,114.245422,2016-06-15,05:58:00,59,aqua,Kapuas Kuala , Kapuas , Kalimantan Tengah 
+-2.728472,103.700027,2016-06-15,05:58:00,49,aqua,Babat Toman , Musi Banyuasin , Sumatera Selatan 
+1.398197,109.800095,2016-06-15,05:58:00,59,aqua,Jagoi Babang , Bengkayang , Kalimantan Barat 
+1.90233,109.40596,2016-06-15,05:58:00,26,aqua,Paloh , Sambas , Kalimantan Barat 
+-9.39641,119.327,2016-06-15,04:47:22,37,snpp,Loura , Sumba Barat Daya , Nusa Tenggara Timur 
+-0.477996,128.058,2016-06-15,04:50:13,78,snpp,Gane Timur Tengah , Halmahera Selatan , Maluku Utara 
+0.985142,128.526,2016-06-15,04:50:13,65,snpp,Maba Tengah , Halmahera Timur , Maluku Utara 
+-4.28477,104.665,2016-06-15,06:29:48,60,snpp,Bahuga , Way Kanan , Lampung 
+-3.80544,103.817,2016-06-15,06:29:48,73,snpp,Lawang Kidul , Muara Enim , Sumatera Selatan 
+-3.23065,104.122,2016-06-15,06:31:13,92,snpp,Abab , Muara Enim , Sumatera Selatan 
+-3.20916,103.416,2016-06-15,06:31:13,45,snpp,Bulan Tengah Suku Ulu , Musi Rawas , Sumatera Selatan 
+-3.23665,103.097,2016-06-15,06:31:13,65,snpp,Muara Beliti , Musi Rawas , Sumatera Selatan 
+-2.41699,102.995,2016-06-15,06:31:13,27,snpp,Nibung , Musi Rawas , Sumatera Selatan 
+-0.380305,102.965,2016-06-15,06:31:13,31,snpp,Tempuling , Indragiri Hilir , Riau 
+-2.575868,121.398575,2016-06-15,13:47:00,69,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.579503,121.371353,2016-06-15,13:47:00,100,terra,Towuti , Luwu Timur , Sulawesi Selatan 
+-2.578576,121.392342,2016-06-15,13:47:00,95,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.58242,121.365082,2016-06-15,13:47:00,91,terra,Towuti , Luwu Timur , Sulawesi Selatan 
+1.49297,127.632591,2016-06-15,13:47:00,71,terra,Ibu , Halmahera Barat , Maluku Utara 
+1,127,2016-06-15,16:46:00,37,aqua,Ibu , Halmahera Barat , Maluku Utara 
+-2.574601,121.40596,2016-06-15,16:46:00,50,aqua,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.580714,121.40052,2016-06-15,16:46:00,53,aqua,Nuha , Luwu Timur , Sulawesi Selatan 
+1.540375,124.900459,2016-06-16,02:11:00,56,terra,Mapanget , Manado , Sulawesi Utara 
+-2.571473,121.377075,2016-06-16,02:11:00,83,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.572926,121.386795,2016-06-16,02:11:00,93,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.580839,121.375679,2016-06-16,02:11:00,81,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.582279,121.385338,2016-06-16,02:11:00,91,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-8.390594,124.372177,2016-06-16,02:11:00,18,terra,Alor Barat Laut , Alor , Nusa Tenggara Timur 
+-8.400138,124.370659,2016-06-16,02:11:00,69,terra,Alor Barat Laut , Alor , Nusa Tenggara Timur 
+1.540379,124.900436,2016-06-16,02:12:00,56,terra,Mapanget , Manado , Sulawesi Utara 
+-2.571469,121.377052,2016-06-16,02:12:00,83,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.572922,121.386772,2016-06-16,02:12:00,93,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.580835,121.375648,2016-06-16,02:12:00,81,terra,Towuti , Luwu Timur , Sulawesi Selatan 
+-2.582275,121.385307,2016-06-16,02:12:00,91,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+1.640634,99.68705,2016-06-16,03:49:00,62,terra,Halongonan , Padang Lawas Utara , Sumatera Utara 
+1.639318,99.695953,2016-06-16,03:49:00,76,terra,Halongonan , Padang Lawas Utara , Sumatera Utara 
+1.482793,100.317818,2016-06-16,03:49:00,42,terra,Simangambat , Padang Lawas Utara , Sumatera Utara 
+0.469053,103.031876,2016-06-16,03:49:00,62,terra,Teluk Meranti , Pelalawan , Riau 
+0.261462,102.645958,2016-06-16,03:49:00,55,terra,Teluk Meranti , Pelalawan , Riau 
+-2.580163,121.370789,2016-06-16,05:06:00,33,aqua,Towuti , Luwu Timur , Sulawesi Selatan 
+1.980278,117.370247,2016-06-16,05:06:00,56,aqua,Sambaliung , Berau , Kalimantan Timur 
+-4,104,2016-06-16,06:40:00,73,aqua,Semidang Aji , Ogan Komering Ulu , Sumatera Selatan 
+-3.195778,104.056824,2016-06-16,06:40:00,93,aqua,Penukal , Muara Enim , Sumatera Selatan 
+-3.197201,104.047043,2016-06-16,06:40:00,62,aqua,Penukal , Muara Enim , Sumatera Selatan 
+-3.354453,102.895927,2016-06-16,06:40:00,69,aqua,Lubuk Linggau Selatan I , Lubuklinggau , Sumatera Selatan 
+-3.244203,102.830811,2016-06-16,06:40:00,69,aqua,Lubuk Linggau Utara I , Lubuklinggau , Sumatera Selatan 
+-3.245491,102.821785,2016-06-16,06:40:00,84,aqua,Lubuk Linggau Utara I , Lubuklinggau , Sumatera Selatan 
+-3.041186,102.899948,2016-06-16,06:40:00,65,aqua,Suku Tengah Lakitan Ulu , Musi Rawas , Sumatera Selatan 
+-2.591759,103.080154,2016-06-16,06:40:00,66,aqua,Rawas Ilir , Musi Rawas , Sumatera Selatan 
+-1.889429,102.845543,2016-06-16,06:40:00,57,aqua,Batin Xxiv , Batang Hari , Jambi 
+-0.92488,103.08873,2016-06-16,06:40:00,56,aqua,Senyerang , Tanjung Jabung B , Jambi 
+-0.246142,102.884453,2016-06-16,06:40:00,32,aqua,Gaung Anak Serka , Indragiri Hilir , Riau 
+-0.187353,102.985115,2016-06-16,06:40:00,48,aqua,Gaung Anak Serka , Indragiri Hilir , Riau 
+0.261879,102.641899,2016-06-16,06:40:00,15,aqua,Teluk Meranti , Pelalawan , Riau 
+0.260559,102.632645,2016-06-16,06:40:00,26,aqua,Teluk Meranti , Pelalawan , Riau 
+0.611133,102.831131,2016-06-16,06:40:00,35,aqua,Teluk Meranti , Pelalawan , Riau 
+0.570729,102.291977,2016-06-16,06:40:00,38,aqua,Pelalawan , Pelalawan , Riau 
+0.578487,102.28157,2016-06-16,06:40:00,31,aqua,Pelalawan , Pelalawan , Riau 
+1.422814,101.813057,2016-06-16,06:40:00,32,aqua,Bukit Batu , Bengkalis , Riau 
+1.484121,100.314873,2016-06-16,06:40:00,42,aqua,Simangambat , Padang Lawas Utara , Sumatera Utara 
+1.663531,101.440651,2016-06-16,06:40:00,21,aqua,Dumai Barat , Dumai , Riau 
+2.008698,100.56778,2016-06-16,06:40:00,88,aqua,Kubu , Rokan Hilir , Riau 
+2.483996,100.223488,2016-06-16,06:40:00,63,aqua,Panai Tengah , Labuhanbatu , Sumatera Utara 
+2.545668,99.505745,2016-06-16,06:40:00,61,aqua,Kualuh Hulu , Labuhanbatu Utara , Sumatera Utara 
+3.738288,117.126465,2016-06-16,05:04:00,62,aqua,Sesayap Hilir , Tana Tidung , Kalimantan Utara 
+1.36394,125.044,2016-06-16,04:31:17,49,snpp,Kema , Minahasa Utara , Sulawesi Utara 
+-0.246142,102.884453,2016-06-16,06:43:00,28,aqua,Gaung Anak Serka , Indragiri Hilir , Riau 
+-0.193214,102.99176,2016-06-16,06:43:00,47,aqua,Gaung Anak Serka , Indragiri Hilir , Riau 
+-0.187353,102.985115,2016-06-16,06:43:00,51,aqua,Gaung Anak Serka , Indragiri Hilir , Riau 
+0.611133,102.831131,2016-06-16,06:43:00,34,aqua,Teluk Meranti , Pelalawan , Riau 
+1.484121,100.314873,2016-06-16,06:43:00,37,aqua,Simangambat , Padang Lawas Utara , Sumatera Utara 
+1.663531,101.440651,2016-06-16,06:43:00,20,aqua,Dumai Barat , Dumai , Riau 
+-6.96859,107.614,2016-06-16,06:10:52,58,snpp,Dayeuhkolot , Bandung , Jawa Barat 
+-0.687256,117.501,2016-06-16,06:12:18,72,snpp,Palaran , Kutai Kartanegara , Kalimantan Timur 
+-2.58837,103.296,2016-06-16,06:12:18,92,snpp,Rawas Ilir , Musi Rawas , Sumatera Selatan 
+-1.89397,102.848,2016-06-16,06:12:18,83,snpp,Batin Xxiv , Batang Hari , Jambi 
+-1.89514,102.84,2016-06-16,06:12:18,59,snpp,Batin Xxiv , Batang Hari , Jambi 
+-1.00864,103.01,2016-06-16,06:12:18,55,snpp,Batang Asam , Tanjung Jabung B , Jambi 
+-0.183563,102.826,2016-06-16,06:12:18,40,snpp,Gaung , Indragiri Hilir , Riau 
+-0.243824,102.375,2016-06-16,06:12:18,25,snpp,Rengat Barat , Indragiri Hulu , Riau 
+0.00814543,102.387,2016-06-16,06:12:18,26,snpp,Kerumutan , Pelalawan , Riau 
+-0.688151,117.496498,2016-06-16,14:29:00,100,terra,Palaran , Kutai Kartanegara , Kalimantan Timur 
+-0.344778,116.872337,2016-06-16,14:29:00,50,terra,Sebilu , Kutai Kartanegara , Kalimantan Timur 
+-0.691822,117.504105,2016-06-16,17:29:00,87,aqua,Sebilu , Kutai Kartanegara , Kalimantan Timur 
+3.115515,116.449074,2016-06-17,02:54:00,45,terra,Melinau Selatan , Malinau , Kalimantan Utara 
+2.052116,117.591965,2016-06-17,02:54:00,56,terra,Sambaliung , Berau , Kalimantan Timur 
+1.117004,117.770538,2016-06-17,02:54:00,51,terra,Kaubun , Kutai Timur , Kalimantan Timur 
+0.832314,117.590988,2016-06-17,02:54:00,21,terra,Bengalon , Kutai Timur , Kalimantan Timur 
+0.818376,117.5327,2016-06-17,02:54:00,44,terra,Bengalon , Kutai Timur , Kalimantan Timur 
+-0.215172,116.550262,2016-06-17,02:54:00,37,terra,Kotabangun , Kutai Kartanegara , Kalimantan Timur 
+-0.216997,116.562378,2016-06-17,02:54:00,84,terra,Kotabangun , Kutai Kartanegara , Kalimantan Timur 
+-0.212874,116.556503,2016-06-17,02:54:00,78,terra,Kotabangun , Kutai Kartanegara , Kalimantan Timur 
+-0.214619,116.568657,2016-06-17,02:54:00,56,terra,Kotabangun , Kutai Kartanegara , Kalimantan Timur 
+-1.722158,114.835098,2016-06-17,02:54:00,58,terra,Dusun Selatan , Barito Selatan , Kalimantan Tengah 
+-1.917801,116.198135,2016-06-17,02:54:00,30,terra,Tanahgrogot , Paser , Kalimantan Timur 
+-7.565962,112.608307,2016-06-17,02:54:00,43,terra,Ngoro , Mojokerto , Jawa Timur 
+-2.584697,121.388107,2016-06-17,05:46:00,62,aqua,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.587234,121.371094,2016-06-17,05:46:00,46,aqua,Towuti , Luwu Timur , Sulawesi Selatan 
+-2.572854,121.385757,2016-06-17,05:46:00,29,aqua,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.362111,113.392654,2016-06-17,05:46:00,49,aqua,Kamipang , Katingan , Kalimantan Tengah 
+-2.211676,113.086098,2016-06-17,05:46:00,52,aqua,Cempaga , Kotawaringin Timur , Kalimantan Tengah 
+-0.764965,115.633133,2016-06-17,05:46:00,55,aqua,Damai , Kutai Barat , Kalimantan Timur 
+-0.56874,115.975098,2016-06-17,05:46:00,63,aqua,Siliqngurai , Kutai Barat , Kalimantan Timur 
+0.794627,117.088387,2016-06-17,05:46:00,82,aqua,Rantaupulung , Kutai Timur , Kalimantan Timur 
+-2.57745,121.379,2016-06-17,05:51:56,32,snpp,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.58043,121.382,2016-06-17,05:51:56,73,snpp,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.18101,115.572,2016-06-17,05:53:22,76,snpp,Upau , Tabalong , Kalimantan Selatan 
+0.629188,116.975,2016-06-17,05:53:22,75,snpp,Batuampar , Kutai Timur , Kalimantan Timur 
+-1,136,2016-06-17,16:33:00,24,aqua,Biak Utara , Biak Numfor , Papua 
+1.49188,127.633,2016-06-17,16:51:59,33,snpp,Ibu , Halmahera Barat , Maluku Utara 
+2,125,2016-06-18,01:58:00,62,terra,Ibu , Halmahera Barat , Maluku Utara 
+1.498928,127.637657,2016-06-18,01:58:00,36,terra,Ibu Utara , Halmahera Barat , Maluku Utara 
+1.445504,125.189407,2016-06-18,01:58:00,25,terra,Maesa , Bitung , Sulawesi Utara 
+-2.585226,121.381287,2016-06-18,04:52:00,76,aqua,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.588948,121.376991,2016-06-18,04:52:00,72,aqua,Nuha , Luwu Timur , Sulawesi Selatan 
+-9.67161,119.59,2016-06-18,05:31:35,86,snpp,Katikutana Selatan , Sumba Tengah , Nusa Tenggara Timur 
+-9.46264,119.944,2016-06-18,05:31:35,78,snpp,Haharu , Sumba Timur , Nusa Tenggara Timur 
+-9.43491,119.502,2016-06-18,05:31:35,91,snpp,Mamboro , Sumba Tengah , Nusa Tenggara Timur 
+-9.42825,119.501,2016-06-18,05:31:35,75,snpp,Mamboro , Sumba Tengah , Nusa Tenggara Timur 
+-9.37717,119.306,2016-06-18,05:31:35,90,snpp,Loura , Sumba Barat Daya , Nusa Tenggara Timur 
+-2.57959,121.382,2016-06-18,05:33:01,89,snpp,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.57238,121.381,2016-06-18,05:33:01,84,snpp,Nuha , Luwu Timur , Sulawesi Selatan 
+3,117,2016-06-19,02:42:00,73,terra,Tanjungpalas Utara , Bulungan , Kalimantan Utara 
+5.468715,95.773399,2016-06-19,04:21:00,100,terra,Muara Tiga , Pidie , Nanggroe Aceh Darussalam 
+5.202017,96.702682,2016-06-19,04:21:00,65,terra,Kota Juang , Bireuen , Nanggroe Aceh Darussalam 
+3.164334,98.40696,2016-06-19,04:21:00,46,terra,Naman Teran , Karo , Sumatera Utara 
+-10.065566,120.687157,2016-06-19,05:34:00,69,aqua,Pahungalodu , Sumba Timur , Nusa Tenggara Timur 
+-8.622278,122.382042,2016-06-19,05:34:00,79,aqua,Waigete , Sikka , Nusa Tenggara Timur 
+3.964896,117.269684,2016-06-19,05:34:00,62,aqua,Sebuku , Nunukan , Kalimantan Utara 
+3.973866,117.268387,2016-06-19,05:34:00,100,aqua,Sebuku , Nunukan , Kalimantan Utara 
+3.972579,117.25943,2016-06-19,05:34:00,73,aqua,Sebuku , Nunukan , Kalimantan Utara 
+4.028963,117.333519,2016-06-19,05:34:00,82,aqua,Nunukan , Nunukan , Kalimantan Utara 
+4.027683,117.324577,2016-06-19,05:34:00,80,aqua,Sebuku , Nunukan , Kalimantan Utara 
+5,95,2016-06-19,07:12:00,83,aqua,Sebuku , Nunukan , Kalimantan Utara 
+5.582695,95.635391,2016-06-19,07:12:00,80,aqua,Seulimeum , Aceh Besar , Nanggroe Aceh Darussalam 
+-8.93511,125.204,2016-06-19,05:12:40,73,snpp,Seulimeum , Aceh Besar , Nanggroe Aceh Darussalam 
+-8.51809,125.803,2016-06-19,05:12:40,94,snpp,Seulimeum , Aceh Besar , Nanggroe Aceh Darussalam 
+4.02797,117.33,2016-06-19,05:16:56,78,snpp,Nunukan , Nunukan , Kalimantan Utara 
+0,102,2016-06-20,03:25:00,46,terra,Pangkalan Kuras , Pelalawan , Riau 
+0.468367,103.03714,2016-06-20,03:25:00,37,terra,Kuala Kampar , Pelalawan , Riau 
+0.420675,103.002747,2016-06-20,03:25:00,23,terra,Teluk Meranti , Pelalawan , Riau 
+0.351628,102.848785,2016-06-20,03:25:00,51,terra,Teluk Meranti , Pelalawan , Riau 
+0.020069,103.087502,2016-06-20,03:25:00,25,terra,Gaung , Indragiri Hilir , Riau 
+-4.658751,105.067497,2016-06-20,03:25:00,42,terra,Tumi Jajar , Tulang Bawang Barat , Lampung 
+-3.255149,126.837715,2016-06-20,04:40:00,60,aqua,Waplau , Buru , Maluku 
+-7,112,2016-06-20,06:16:00,67,aqua,Grabagan , Tuban , Jawa Timur 
+-2.824747,106.220177,2016-06-20,06:16:00,50,aqua,Pulau Besar , Bangka Selatan , Kepulauan Bangka Belitung 
+0.415311,102.995834,2016-06-20,06:16:00,50,aqua,Teluk Meranti , Pelalawan , Riau 
+0.466261,103.032333,2016-06-20,06:16:00,59,aqua,Teluk Meranti , Pelalawan , Riau 
+-8,112,2016-06-21,02:30:00,39,terra,Udanawu , Blitar , Jawa Timur 
+-9.809814,120.400108,2016-06-21,02:30:00,65,terra,Pandawai , Sumba Timur , Nusa Tenggara Timur 
+-9.819956,120.398689,2016-06-21,02:30:00,57,terra,Pandawai , Sumba Timur , Nusa Tenggara Timur 
+1.345764,102.451294,2016-06-21,04:08:00,64,terra,Bantan , Bengkalis , Riau 
+1.33145,102.449181,2016-06-21,04:08:00,44,terra,Bengkalis , Bengkalis , Riau 
+0.923899,101.683052,2016-06-21,04:08:00,33,terra,Sungai Mandau , Siak , Riau 
+1.01288,100.186882,2016-06-21,04:08:00,58,terra,Tambusai , Rokan Hulu , Riau 
+0.580065,102.290421,2016-06-21,04:08:00,67,terra,Pelalawan , Pelalawan , Riau 
+0.577356,102.284637,2016-06-21,04:08:00,63,terra,Pelalawan , Pelalawan , Riau 
+0.482217,102.046638,2016-06-21,04:08:00,46,terra,Pelalawan , Pelalawan , Riau 
+0.478101,102.03923,2016-06-21,04:08:00,76,terra,Pelalawan , Pelalawan , Riau 
+0.208102,102.83905,2016-06-21,04:08:00,44,terra,Teluk Meranti , Pelalawan , Riau 
+-10.021492,120.701462,2016-06-21,05:22:00,77,aqua,Rindi , Sumba Timur , Nusa Tenggara Timur 
+-8.41938,124.456917,2016-06-21,05:22:00,52,aqua,Alor Barat Laut , Alor , Nusa Tenggara Timur 
+-3,101,2016-06-21,07:02:00,44,aqua,Alor Barat Laut , Alor , Nusa Tenggara Timur 
+-3.113666,101.940102,2016-06-21,07:02:00,60,aqua,Napal Putih , Bengkulu Utara , Bengkulu 
+0.00499,102.000366,2016-06-21,07:02:00,49,aqua,Pangkalan Kuras , Pelalawan , Riau 
+0.043055,101.800049,2016-06-21,07:02:00,69,aqua,Langgam , Pelalawan , Riau 
+3.16721,98.3961,2016-06-20,06:39:01,95,snpp,Naman Teran , Karo , Sumatera Utara 
+3.16679,98.3965,2016-06-20,06:39:01,94,snpp,Naman Teran , Karo , Sumatera Utara 
+-8.11482,112.923,2016-06-20,17:40:29,78,snpp,Ampelgading , Malang , Jawa Timur 
+-8.73479,117.931,2016-06-21,06:15:50,59,snpp,Tarano , Sumbawa , Nusa Tenggara Barat 
+-6.00572,105.985,2016-06-21,06:17:16,73,snpp,Citangkil , Cilegon , Banten 
+-5.08536,105.152,2016-06-21,06:17:16,48,snpp,Bekri , Lampung Tengah , Lampung 
+-3.39439,102.199,2016-06-21,06:18:39,79,snpp,Arga Makmur , Bengkulu Utara , Bengkulu 
+-2.28725,106.148,2016-06-21,06:18:39,62,snpp,Simpang Katis , Bangka Tengah , Kepulauan Bangka Belitung 
+-2.91476,101.592,2016-06-21,06:18:39,46,snpp,Malin Deman , Mukomuko , Bengkulu 
+-2.91593,101.584,2016-06-21,06:18:39,79,snpp,Malin Deman , Mukomuko , Bengkulu 
+-2.90864,101.575,2016-06-21,06:18:39,22,snpp,Malin Deman , Mukomuko , Bengkulu 
+-2.8408,101.566,2016-06-21,06:18:39,68,snpp,Sungai Rumbai , Mukomuko , Bengkulu 
+-2.83689,101.565,2016-06-21,06:18:39,71,snpp,Sungai Rumbai , Mukomuko , Bengkulu 
+-2.332,101.058,2016-06-21,06:18:39,55,snpp,Lunang Silaut , Pesisir Selatan , Sumatera Barat 
+-0.787342,101.476,2016-06-21,06:18:39,72,snpp,Kamang Baru , Sijunjung , Sumatera Barat 
+0.291816,100.565,2016-06-21,06:18:39,45,snpp,Kapur Ix , Lima Puluh Kota , Sumatera Barat 
+1.35902,102.238,2016-06-21,06:18:39,45,snpp,Merbau , Kepulauan Meranti , Riau 
+1.39015,102.245,2016-06-21,06:18:39,41,snpp,Merbau , Kepulauan Meranti , Riau 
+-2.57739,121.384,2016-06-21,17:18:42,92,snpp,Nuha , Luwu Timur , Sulawesi Selatan 
+-0.525558,109.616486,2016-06-22,03:12:00,69,terra,Kubu , Kubu Raya , Kalimantan Barat 
+-2.201784,110.174545,2016-06-22,03:12:00,50,terra,Matan Hilir Selatan , Ketapang , Kalimantan Barat 
+-4.292579,104.665413,2016-06-22,03:12:00,58,terra,Bahuga , Way Kanan , Lampung 
+-6.610378,108.200249,2016-06-22,06:04:00,69,aqua,Jatitujuh , Majalengka , Jawa Barat 
+-2.818686,112.85997,2016-06-22,06:04:00,60,aqua,Mentaya Hilir Selata , Kotawaringin Timur , Kalimantan Tengah 
+-3.088423,107.945702,2016-06-22,06:04:00,76,aqua,Simpang Pesak , Belitung Timur , Kepulauan Bangka Belitung 
+-3.090141,107.933662,2016-06-22,06:04:00,87,aqua,Simpang Pesak , Belitung Timur , Kepulauan Bangka Belitung 
+-3.17234,102.022514,2016-06-22,06:04:00,57,aqua,Napal Putih , Bengkulu Utara , Bengkulu 
+-1.435887,113.939102,2016-06-22,06:04:00,75,aqua,Sepang , Gunung Mas , Kalimantan Tengah 
+-0.348083,112.456398,2016-06-22,06:04:00,61,aqua,Serawai , Sintang , Kalimantan Barat 
+-2.81698,112.861,2016-06-22,05:58:20,74,snpp,Mentaya Hilir Selata , Kotawaringin Timur , Kalimantan Tengah 
+-2.62116,112.817,2016-06-22,05:58:20,50,snpp,Mentaya Hilir Utara , Kotawaringin Timur , Kalimantan Tengah 
+-2.62222,112.81,2016-06-22,05:58:20,41,snpp,Mentaya Hilir Utara , Kotawaringin Timur , Kalimantan Tengah 
+-2.77196,110.391,2016-06-22,05:58:20,41,snpp,Kendawangan , Ketapang , Kalimantan Barat 
+-3.09373,107.937,2016-06-22,05:58:20,64,snpp,Simpang Pesak , Belitung Timur , Kepulauan Bangka Belitung 
+-1.57521,113.251,2016-06-22,05:59:46,55,snpp,Pulau Malan , Katingan , Kalimantan Tengah 
+-0.690571,117.505,2016-06-22,05:59:46,60,snpp,Palaran , Kutai Kartanegara , Kalimantan Timur 
+-2.74571,103.831,2016-06-22,05:59:46,82,snpp,Sekayu , Musi Banyuasin , Sumatera Selatan 
+-0.223557,111.958,2016-06-22,05:59:46,47,snpp,Pinoh Utara , Melawi , Kalimantan Barat 
+2.504888,99.234169,2016-06-23,03:55:00,75,terra,Parmaksian , Toba Samosir , Sumatera Utara 
+1.315408,101.872566,2016-06-23,03:55:00,40,terra,Bukit Batu , Bengkalis , Riau 
+0.568946,102.882088,2016-06-23,03:55:00,43,terra,Teluk Meranti , Pelalawan , Riau 
+0.611913,102.054985,2016-06-23,03:55:00,47,terra,Dayun , Siak , Riau 
+0.576567,102.292946,2016-06-23,03:55:00,70,terra,Pelalawan , Pelalawan , Riau 
+0.647856,100.085037,2016-06-23,03:55:00,62,terra,Rao Utara , Pasaman , Sumatera Barat 
+0.208287,102.83828,2016-06-23,03:55:00,57,terra,Teluk Meranti , Pelalawan , Riau 
+0.205913,102.85421,2016-06-23,03:55:00,46,terra,Teluk Meranti , Pelalawan , Riau 
+0.168914,102.891464,2016-06-23,03:55:00,46,terra,Mandah , Indragiri Hilir , Riau 
+0.109897,102.882973,2016-06-23,03:55:00,44,terra,Mandah , Indragiri Hilir , Riau 
+0.098095,102.881264,2016-06-23,03:55:00,19,terra,Gaung , Indragiri Hilir , Riau 
+0.091566,102.874535,2016-06-23,03:55:00,51,terra,Gaung , Indragiri Hilir , Riau 
+-0.001408,102.396645,2016-06-23,03:55:00,26,terra,Kerumutan , Pelalawan , Riau 
+0.038893,101.805313,2016-06-23,03:55:00,67,terra,Pangkalan Kuras , Pelalawan , Riau 
+-0.18147,102.990265,2016-06-23,03:55:00,42,terra,Gaung Anak Serka , Indragiri Hilir , Riau 
+-0.193442,102.988579,2016-06-23,03:55:00,50,terra,Gaung Anak Serka , Indragiri Hilir , Riau 
+-0.241373,102.85775,2016-06-23,03:55:00,45,terra,Gaung Anak Serka , Indragiri Hilir , Riau 
+-0.243768,102.874008,2016-06-23,03:55:00,55,terra,Gaung Anak Serka , Indragiri Hilir , Riau 
+-0.293152,102.506264,2016-06-23,03:55:00,62,terra,Rengat , Indragiri Hulu , Riau 
+-0.357283,102.004845,2016-06-23,03:55:00,75,terra,Ukui , Pelalawan , Riau 
+-0.876734,101.709816,2016-06-23,03:55:00,69,terra,Timpeh , Dharmasraya , Sumatera Barat 
+-9.39433,119.332047,2016-06-23,05:11:00,59,aqua,Loura , Sumba Barat Daya , Nusa Tenggara Timur 
+-4,105,2016-06-23,06:47:00,63,aqua,Mesuji , Ogan Komering Ilir , Sumatera Selatan 
+-4.477252,104.919914,2016-06-23,06:47:00,38,aqua,Negeri Besar , Way Kanan , Lampung 
+-4.606445,103.209366,2016-06-23,06:47:00,63,aqua,Tanjung Kemuning , Kaur , Bengkulu 
+-4.607933,103.199203,2016-06-23,06:47:00,64,aqua,Tanjung Kemuning , Kaur , Bengkulu 
+-4.30259,104.711449,2016-06-23,06:47:00,61,aqua,Pakuan Ratu , Way Kanan , Lampung 
+-4.292056,104.709824,2016-06-23,06:47:00,57,aqua,Pakuan Ratu , Way Kanan , Lampung 
+-4.510114,103.167694,2016-06-23,06:47:00,76,aqua,Padang Guci Hilir , Kaur , Bengkulu 
+-4.383755,102.971779,2016-06-23,06:47:00,77,aqua,Pino , Bengkulu Selatan , Bengkulu 
+-4.178594,102.787277,2016-06-23,06:47:00,71,aqua,Semidang Alas , Seluma , Bengkulu 
+-4.180035,102.777481,2016-06-23,06:47:00,73,aqua,Semidang Alas , Seluma , Bengkulu 
+-4.15952,102.619247,2016-06-23,06:47:00,71,aqua,Talo , Seluma , Bengkulu 
+-3.84343,104.084984,2016-06-23,06:47:00,80,aqua,Lubai , Muara Enim , Sumatera Selatan 
+-4.01221,102.496506,2016-06-23,06:47:00,91,aqua,Lubuk Sandi , Seluma , Bengkulu 
+-4.013587,102.486908,2016-06-23,06:47:00,67,aqua,Lubuk Sandi , Seluma , Bengkulu 
+-3.9737,102.50045,2016-06-23,06:47:00,62,aqua,Lubuk Sandi , Seluma , Bengkulu 
+-3.792986,103.532928,2016-06-23,06:47:00,34,aqua,Lahat , Lahat , Sumatera Selatan 
+-3.373913,104.485115,2016-06-23,06:47:00,82,aqua,Kelekar , Muara Enim , Sumatera Selatan 
+-3.367949,104.491539,2016-06-23,06:47:00,69,aqua,Kelekar , Muara Enim , Sumatera Selatan 
+-3.36976,104.478935,2016-06-23,06:47:00,79,aqua,Kelekar , Muara Enim , Sumatera Selatan 
+-3.382947,104.167725,2016-06-23,06:47:00,95,aqua,Prabumulih Barat , Prabumulih , Sumatera Selatan 
+-3.384693,104.155746,2016-06-23,06:47:00,84,aqua,Prabumulih Barat , Prabumulih , Sumatera Selatan 
+-3.099949,105.388405,2016-06-23,06:47:00,45,aqua,Tulung Selapan , Ogan Komering Ilir , Sumatera Selatan 
+-3.288169,104.110252,2016-06-23,06:47:00,62,aqua,Tanah Abang , Muara Enim , Sumatera Selatan 
+-3.289913,104.098351,2016-06-23,06:47:00,74,aqua,Tanah Abang , Muara Enim , Sumatera Selatan 
+-3.491226,102.149971,2016-06-23,06:47:00,73,aqua,Air Besi , Bengkulu Utara , Bengkulu 
+-3.492581,102.140556,2016-06-23,06:47:00,69,aqua,Air Besi , Bengkulu Utara , Bengkulu 
+-3.466009,102.194405,2016-06-23,06:47:00,75,aqua,Arga Makmur , Bengkulu Utara , Bengkulu 
+-3.35447,102.522148,2016-06-23,06:47:00,50,aqua,Bermani Ulu Raya , Rejang Lebong , Bengkulu 
+-3.326259,102.388664,2016-06-23,06:47:00,66,aqua,Rimbo Pengadang , Lebong , Bengkulu 
+-3.329625,102.190674,2016-06-23,06:47:00,72,aqua,Arga Makmur , Bengkulu Utara , Bengkulu 
+-3.294628,102.369148,2016-06-23,06:47:00,84,aqua,Lebong Selatan , Lebong , Bengkulu 
+-3.278861,102.347,2016-06-23,06:47:00,57,aqua,Lebong Selatan , Lebong , Bengkulu 
+-3.216324,102.137825,2016-06-23,06:47:00,59,aqua,Giri Mulya , Bengkulu Utara , Bengkulu 
+-3.165961,102.048698,2016-06-23,06:47:00,60,aqua,Napal Putih , Bengkulu Utara , Bengkulu 
+-2.767617,103.757545,2016-06-23,06:47:00,68,aqua,Babat Toman , Musi Banyuasin , Sumatera Selatan 
+-2.742462,103.718735,2016-06-23,06:47:00,66,aqua,Babat Toman , Musi Banyuasin , Sumatera Selatan 
+-2.743015,103.724937,2016-06-23,06:47:00,87,aqua,Babat Toman , Musi Banyuasin , Sumatera Selatan 
+-2.90799,101.529442,2016-06-23,06:47:00,31,aqua,Sungai Rumbai , Mukomuko , Bengkulu 
+-2.883253,101.572533,2016-06-23,06:47:00,75,aqua,Malin Deman , Mukomuko , Bengkulu 
+-2.884575,101.563385,2016-06-23,06:47:00,68,aqua,Sungai Rumbai , Mukomuko , Bengkulu 
+-2.615717,101.25853,2016-06-23,06:47:00,44,aqua,Air Dikit , Mukomuko , Bengkulu 
+-2.515311,101.700089,2016-06-23,06:47:00,53,aqua,Jangkat , Merangin , Jambi 
+-2.523074,101.396698,2016-06-23,06:47:00,82,aqua,Selagan Raya , Mukomuko , Bengkulu 
+-2.524367,101.387642,2016-06-23,06:47:00,77,aqua,Selagan Raya , Mukomuko , Bengkulu 
+-2.401,101.279839,2016-06-23,06:47:00,58,aqua,V Koto , Mukomuko , Bengkulu 
+-2.080706,102.094978,2016-06-23,06:47:00,80,aqua,Renah Pembarap , Merangin , Jambi 
+-2.07142,102.093636,2016-06-23,06:47:00,39,aqua,Nalo Tantan , Merangin , Jambi 
+-1.54873,101.259338,2016-06-23,06:47:00,16,aqua,Sangir , Solok Selatan , Sumatera Barat 
+-1.030628,102.296021,2016-06-23,06:47:00,85,aqua,Sumay , Tebo , Jambi 
+-1.032072,102.286079,2016-06-23,06:47:00,81,aqua,Sumay , Tebo , Jambi 
+-0.875471,101.717804,2016-06-23,06:47:00,72,aqua,Kuantan Mudik , Kuantan Singingi , Riau 
+-0.876834,101.708282,2016-06-23,06:47:00,79,aqua,Timpeh , Dharmasraya , Sumatera Barat 
+-0.804269,100.864944,2016-06-23,06:47:00,64,aqua,Payung Sekaki , Solok , Sumatera Barat 
+-0.083092,103.042786,2016-06-23,06:47:00,47,aqua,Gaung , Indragiri Hilir , Riau 
+-0.084577,103.03746,2016-06-23,06:47:00,78,aqua,Gaung , Indragiri Hilir , Riau 
+-0.1898,101.881447,2016-06-23,06:47:00,26,aqua,Ukui , Pelalawan , Riau 
+0.857663,103.06205,2016-06-23,06:47:00,65,aqua,Rangsang , Kepulauan Meranti , Riau 
+1.068159,99.995087,2016-06-23,06:47:00,55,aqua,Huta Raja Tinggi , Padang Lawas , Sumatera Utara 
+1.11743,99.827728,2016-06-23,06:47:00,28,aqua,Sosa , Padang Lawas , Sumatera Utara 
+1.14811,99.850586,2016-06-23,06:47:00,90,aqua,Sosa , Padang Lawas , Sumatera Utara 
+1.237563,100.092598,2016-06-23,06:47:00,65,aqua,Huta Raja Tinggi , Padang Lawas , Sumatera Utara 
+1.30825,99.93911,2016-06-23,06:47:00,51,aqua,Huristak , Padang Lawas , Sumatera Utara 
+1.354856,99.881424,2016-06-23,06:47:00,85,aqua,Huristak , Padang Lawas , Sumatera Utara 
+1.353585,99.872513,2016-06-23,06:47:00,100,aqua,Huristak , Padang Lawas , Sumatera Utara 
+1.645685,99.660652,2016-06-23,06:47:00,33,aqua,Halongonan , Padang Lawas Utara , Sumatera Utara 
+1.654639,99.659363,2016-06-23,06:47:00,44,aqua,Halongonan , Padang Lawas Utara , Sumatera Utara 
+-3.792986,103.532928,2016-06-23,06:49:00,35,aqua,Lahat , Lahat , Sumatera Selatan 
+1.11743,99.827728,2016-06-23,06:49:00,36,aqua,Sosa , Padang Lawas , Sumatera Utara 
+1.321557,99.904366,2016-06-23,06:49:00,58,aqua,Huristak , Padang Lawas , Sumatera Utara 
+1.645685,99.660652,2016-06-23,06:49:00,35,aqua,Halongonan , Padang Lawas Utara , Sumatera Utara 
+1.65464,99.659363,2016-06-23,06:49:00,45,aqua,Halongonan , Padang Lawas Utara , Sumatera Utara 
+-7.69286,108.994,2016-06-23,18:23:17,45,snpp,Cilacap Tengah , Cilacap , Jawa Tengah 
+-2.344562,114.378899,2016-06-24,03:00:00,49,terra,Mantangai , Kapuas , Kalimantan Tengah 
+-3.470987,102.540085,2016-06-24,03:00:00,47,terra,Curup Tengah , Rejang Lebong , Bengkulu 
+-3.469975,102.534035,2016-06-24,03:00:00,40,terra,Curup Tengah , Rejang Lebong , Bengkulu 
+-4.472478,105.649193,2016-06-24,03:00:00,69,terra,Gedung Meneng , Tulangbawang , Lampung 
+-6.757032,111.167694,2016-06-24,03:00:00,64,terra,Jakenan , Pati , Jawa Tengah 
+-7.33694,111.038361,2016-06-24,03:00:00,62,terra,Tangen , Sragen , Jawa Tengah 
+-7.564158,112.607941,2016-06-24,03:00:00,67,terra,Ngoro , Mojokerto , Jawa Timur 
+-8.109253,112.924294,2016-06-24,03:00:00,52,terra,Ampelgading , Malang , Jawa Timur 
+-7.57981,107.967117,2016-06-24,03:00:00,70,terra,Bojonggambir , Tasikmalaya , Jawa Barat 
+-9.442868,119.817467,2016-06-24,03:00:00,53,terra,Umbu Ratu Nggay , Sumba Tengah , Nusa Tenggara Timur 
+-10.078304,120.69445,2016-06-24,05:52:00,61,aqua,Pahungalodu , Sumba Timur , Nusa Tenggara Timur 
+-9.73329,120.408607,2016-06-24,05:52:00,22,aqua,Pandawai , Sumba Timur , Nusa Tenggara Timur 
+-9.74203,120.418655,2016-06-24,05:52:00,67,aqua,Pandawai , Sumba Timur , Nusa Tenggara Timur 
+-9.668947,119.548943,2016-06-24,05:52:00,59,aqua,Katikutana Selatan , Sumba Tengah , Nusa Tenggara Timur 
+-8.238195,113.046852,2016-06-24,05:52:00,27,aqua,Candipuro , Lumajang , Jawa Timur 
+-2.588213,121.376808,2016-06-24,05:52:00,29,aqua,Nuha , Luwu Timur , Sulawesi Selatan 
+-10.0806,120.625,2016-06-24,05:19:03,31,snpp,Pahungalodu , Sumba Timur , Nusa Tenggara Timur 
+-9.72794,120.428,2016-06-24,05:19:03,73,snpp,Pandawai , Sumba Timur , Nusa Tenggara Timur 
+-9.73022,120.412,2016-06-24,05:19:03,93,snpp,Pandawai , Sumba Timur , Nusa Tenggara Timur 
+-9.72313,120.411,2016-06-24,05:19:03,100,snpp,Pandawai , Sumba Timur , Nusa Tenggara Timur 
+-9.72352,120.411,2016-06-24,05:19:03,100,snpp,Pandawai , Sumba Timur , Nusa Tenggara Timur 
+-9.42066,119.866,2016-06-24,05:19:03,74,snpp,Umbu Ratu Nggay , Sumba Tengah , Nusa Tenggara Timur 
+-6,105,2016-06-24,18:17:00,85,aqua,Umbu Ratu Nggay , Sumba Tengah , Nusa Tenggara Timur 
+-9,119,2016-06-25,02:05:00,69,terra,Umbu Ratu Nggay , Sumba Tengah , Nusa Tenggara Timur 
+5.202793,96.699654,2016-06-25,03:44:00,62,terra,Kota Juang , Bireuen , Nanggroe Aceh Darussalam 
+5.129022,95.989754,2016-06-25,03:44:00,75,terra,Tiro/trusep , Pidie , Nanggroe Aceh Darussalam 
+3.73782,98.494545,2016-06-25,03:44:00,50,terra,Stabat , Langkat , Sumatera Utara 
+1.402441,101.76886,2016-06-25,03:44:00,30,terra,Bukit Batu , Bengkalis , Riau 
+1.499111,99.552345,2016-06-25,03:44:00,78,terra,Padang Bolak , Padang Lawas Utara , Sumatera Utara 
+1.42584,99.487587,2016-06-25,03:44:00,65,terra,Padang Bolak Julu , Padang Lawas Utara , Sumatera Utara 
+0.717313,99.984367,2016-06-25,03:44:00,66,terra,Rao Utara , Pasaman , Sumatera Barat 
+-0.013824,100.882004,2016-06-25,03:44:00,67,terra,Kampar Kiri Hulu , Kampar , Riau 
+-3.781519,103.836044,2016-06-25,03:44:00,49,terra,Lawang Kidul , Muara Enim , Sumatera Selatan 
+-4.369482,105.432922,2016-06-25,03:44:00,41,terra,Gedung Meneng , Tulangbawang , Lampung 
+-8.380169,124.383171,2016-06-25,04:57:00,56,aqua,Alor Barat Laut , Alor , Nusa Tenggara Timur 
+-2.902013,128.713409,2016-06-25,04:57:00,70,aqua,Taniwel , Seram Bagian Barat , Maluku 
+-2.583089,121.37709,2016-06-25,04:57:00,76,aqua,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.575178,121.369514,2016-06-25,04:57:00,45,aqua,Nuha , Luwu Timur , Sulawesi Selatan 
+-5,105,2016-06-25,06:34:00,72,aqua,Anak Tuha , Lampung Tengah , Lampung 
+-3.008737,101.762199,2016-06-25,06:34:00,97,aqua,Hutan , Bengkulu Utara , Bengkulu 
+-1.435567,101.388382,2016-06-25,06:34:00,60,aqua,Sangir Jujuan , Solok Selatan , Sumatera Barat 
+-1.436981,101.378448,2016-06-25,06:34:00,68,aqua,Sangir Jujuan , Solok Selatan , Sumatera Barat 
+-1.073869,101.412537,2016-06-25,06:34:00,83,aqua,Sangir Batang Hari , Solok Selatan , Sumatera Barat 
+-0.873459,101.971161,2016-06-25,06:34:00,69,aqua,Peranap , Indragiri Hulu , Riau 
+-0.831294,101.309395,2016-06-25,06:34:00,60,aqua,Kamang Baru , Sijunjung , Sumatera Barat 
+-0.832667,101.299835,2016-06-25,06:34:00,84,aqua,Kamang Baru , Sijunjung , Sumatera Barat 
+-0.627825,100.972488,2016-06-25,06:34:00,82,aqua,Sijunjung , Sijunjung , Sumatera Barat 
+0.34682,100.345345,2016-06-25,06:34:00,70,aqua,Kapur Ix , Lima Puluh Kota , Sumatera Barat 
+0.345342,100.335052,2016-06-25,06:34:00,76,aqua,Kapur Ix , Lima Puluh Kota , Sumatera Barat 
+0.408691,100.70842,2016-06-25,06:34:00,50,aqua,Kabun , Rokan Hulu , Riau 
+0.699486,100.170647,2016-06-25,06:34:00,25,aqua,Mapat Tunggul , Pasaman , Sumatera Barat 
+1.231728,103.76329,2016-06-25,06:34:00,35,aqua,Mapat Tunggul , Pasaman , Sumatera Barat 
+1.115156,99.868111,2016-06-25,06:34:00,78,aqua,Sosa , Padang Lawas , Sumatera Utara 
+1.150182,99.82254,2016-06-25,06:34:00,63,aqua,Lubuk Barumun , Padang Lawas , Sumatera Utara 
+1.116865,99.596451,2016-06-25,06:34:00,79,aqua,Sosopan , Padang Lawas , Sumatera Utara 
+1.320837,99.949768,2016-06-25,06:34:00,46,aqua,Huristak , Padang Lawas , Sumatera Utara 
+1.837515,99.493446,2016-06-25,06:34:00,65,aqua,Saipar Dolok Hole , Tapanuli Selatan , Sumatera Utara 
+2.193283,100.969643,2016-06-25,06:34:00,55,aqua,Sinaboi , Rokan Hilir , Riau 
+2.251483,100.796959,2016-06-25,06:34:00,92,aqua,Bangko , Rokan Hilir , Riau 
+2.25008,100.787239,2016-06-25,06:34:00,85,aqua,Bangko , Rokan Hilir , Riau 
+2.517308,98.68351,2016-06-25,06:34:00,33,aqua,Harian , Samosir , Sumatera Utara 
+3.189502,98.740471,2016-06-25,06:34:00,83,aqua,Dolok Silau , Simalungun , Sumatera Utara 
+3.187214,98.746719,2016-06-25,06:34:00,67,aqua,Dolok Silau , Simalungun , Sumatera Utara 
+3.18539,98.73465,2016-06-25,06:34:00,63,aqua,Dolok Silau , Simalungun , Sumatera Utara 
+3.238071,98.874298,2016-06-25,06:34:00,71,aqua,Silau Kahean , Simalungun , Sumatera Utara 
+-2.57258,121.384,2016-06-25,05:01:33,100,snpp,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.57358,121.378,2016-06-25,05:01:33,50,snpp,Nuha , Luwu Timur , Sulawesi Selatan 
+-5.08938,105.149,2016-06-25,06:42:33,37,snpp,Bekri , Lampung Tengah , Lampung 
+-4.68748,105.201,2016-06-25,06:42:33,82,snpp,Terusan Nunyai , Lampung Tengah , Lampung 
+-4.68894,105.192,2016-06-25,06:42:33,92,snpp,Terusan Nunyai , Lampung Tengah , Lampung 
+-4.68888,105.194,2016-06-25,06:42:33,96,snpp,Terusan Nunyai , Lampung Tengah , Lampung 
+-3.77969,104.211,2016-06-25,06:42:33,94,snpp,Lubai , Muara Enim , Sumatera Selatan 
+-2.8894,101.584,2016-06-25,06:42:33,65,snpp,Malin Deman , Mukomuko , Bengkulu 
+-1.43295,101.385,2016-06-25,06:43:59,78,snpp,Sangir Jujuan , Solok Selatan , Sumatera Barat 
+0.348432,100.341,2016-06-25,06:43:59,100,snpp,Kapur Ix , Lima Puluh Kota , Sumatera Barat 
+1.04738,100.049,2016-06-25,06:43:59,59,snpp,Huta Raja Tinggi , Padang Lawas , Sumatera Utara 
+1.11488,99.869,2016-06-25,06:43:59,97,snpp,Sosa , Padang Lawas , Sumatera Utara 
+1.13517,99.8236,2016-06-25,06:43:59,67,snpp,Lubuk Barumun , Padang Lawas , Sumatera Utara 
+1.1495,99.8285,2016-06-25,06:43:59,100,snpp,Lubuk Barumun , Padang Lawas , Sumatera Utara 
+1.12059,99.5928,2016-06-25,06:43:59,92,snpp,Sosopan , Padang Lawas , Sumatera Utara 
+1.40059,99.924,2016-06-25,06:43:59,91,snpp,Huristak , Padang Lawas , Sumatera Utara 
+1.49976,99.5547,2016-06-25,06:43:59,61,snpp,Padang Bolak , Kab. Padang Lawas Utara , Sumatera Utara 
+1.88944,101.515,2016-06-25,06:43:59,48,snpp,Rupat , Bengkalis , Riau 
+2.58751,100.177,2016-06-25,06:45:24,76,snpp,Panai Hilir , Labuhanbatu , Sumatera Utara 
+2.57755,98.9542,2016-06-25,06:45:24,26,snpp,Ajibata , Toba Samosir , Sumatera Utara 
+4.29841,97.1668,2016-06-25,06:45:24,80,snpp,Linge , Aceh Tengah , Nanggroe Aceh Darussalam 
+-2.576187,121.383713,2016-06-25,14:23:00,100,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.5775,121.37458,2016-06-25,14:23:00,93,terra,Towuti , Luwu Timur , Sulawesi Selatan 
+0.644647,117.441299,2016-06-25,14:23:00,19,terra,Rantaupulung , Kutai Timur , Kalimantan Timur 
+1,99,2016-06-25,16:01:00,81,terra,Muara Batang Gadis , Mandailing Natal , Sumatera Utara 
+1.309972,99.92334,2016-06-25,16:01:00,63,terra,Huristak , Padang Lawas , Sumatera Utara 
+1.923695,100.460197,2016-06-25,16:01:00,57,terra,Simpang Kanan , Rokan Hilir , Riau 
+-2,121,2016-06-25,17:23:00,100,aqua,Mori Atas , Morowali , Sulawesi Tengah 
+-2.574811,121.388634,2016-06-25,17:23:00,100,aqua,Nuha , Luwu Timur , Sulawesi Selatan 
+1.348216,99.510139,2016-06-25,19:02:00,62,aqua,Batang Onang , Padang Lawas Utara , Sumatera Utara 
+-0.467048,117.584,2016-06-25,17:44:02,100,snpp,Anggana , Kutai Kartanegara , Kalimantan Timur 
+-2.57304,121.378,2016-06-25,17:44:02,67,snpp,Nuha , Luwu Timur , Sulawesi Selatan 
+1.039452,120.822121,2016-06-26,02:48:00,40,terra,Baolan , Toli-toli , Sulawesi Tengah 
+-6.614826,113.30352,2016-06-26,02:48:00,53,terra,Baolan , Toli-toli , Sulawesi Tengah 
+-6.374053,108.390709,2016-06-26,02:48:00,48,terra,Balongan , Indramayu , Jawa Barat 
+-7.358125,112.478539,2016-06-26,02:48:00,62,terra,Wringinanom , Gresik , Jawa Timur 
+-6.907697,108.717735,2016-06-26,02:48:00,69,terra,Pabuaran , Cirebon , Jawa Barat 
+-6.909831,108.731537,2016-06-26,02:48:00,67,terra,Ciledug , Cirebon , Jawa Barat 
+-7.768697,112.761909,2016-06-26,02:48:00,57,terra,Purwosari , Pasuruan , Jawa Timur 
+-10.06954,120.64901,2016-06-26,05:40:00,62,aqua,Pahungalodu , Sumba Timur , Nusa Tenggara Timur 
+-9.870003,119.818115,2016-06-26,05:40:00,62,aqua,Lewatidahu , Sumba Timur , Nusa Tenggara Timur 
+-8.750773,117.860031,2016-06-26,05:40:00,61,aqua,Plampang , Sumbawa , Nusa Tenggara Barat 
+-8.752082,117.8507,2016-06-26,05:40:00,49,aqua,Plampang , Sumbawa , Nusa Tenggara Barat 
+1.007275,120.888123,2016-06-26,05:40:00,56,aqua,Baolan , Toli-toli , Sulawesi Tengah 
+1,99,2016-06-26,07:18:00,79,aqua,Muara Batang Gadis , Mandailing Natal , Sumatera Utara 
+1.37999,99.931602,2016-06-26,07:18:00,76,aqua,Huristak , Padang Lawas , Sumatera Utara 
+-6.90149,109.318,2016-06-26,06:23:38,86,snpp,Warureja , Tegal , Jawa Tengah 
+-4.94907,105.688,2016-06-26,06:23:38,65,snpp,Hutan , Lampung Timur , Lampung 
+-4.4621,105.598,2016-06-26,06:23:38,48,snpp,Gedung Meneng , Tulangbawang , Lampung 
+-3.2659,104.162,2016-06-26,06:23:38,82,snpp,Tanah Abang , Muara Enim , Sumatera Selatan 
+-3.41855,103.034,2016-06-26,06:23:38,83,snpp,Tiang Pumpung Kepungut , Musi Rawas , Sumatera Selatan 
+-2.33236,101.039,2016-06-26,06:25:03,100,snpp,Lunang Silaut , Pesisir Selatan , Sumatera Barat 
+-2.31813,101.027,2016-06-26,06:25:03,57,snpp,Lunang Silaut , Pesisir Selatan , Sumatera Barat 
+-2.00849,102.791,2016-06-26,06:25:03,89,snpp,Air Hitam , Sarolangun , Jambi 
+-1.8637,102.548,2016-06-26,06:25:03,85,snpp,Muara Tabir , Tebo , Jambi 
+-1.86566,102.549,2016-06-26,06:25:03,77,snpp,Muara Tabir , Tebo , Jambi 
+-1.50334,101.997,2016-06-26,06:25:03,61,snpp,Muko-muko Bathin , Bungo , Jambi 
+0.685035,100.038,2016-06-26,06:25:03,85,snpp,Rao Utara , Pasaman , Sumatera Barat 
+0.844968,100.006,2016-06-26,06:25:03,77,snpp,Batang Lubu Sutam , Padang Lawas , Sumatera Utara 
+1.22885,100.066,2016-06-26,06:25:03,84,snpp,Huta Raja Tinggi , Padang Lawas , Sumatera Utara 
+1.29445,99.8476,2016-06-26,06:25:03,59,snpp,Barumun Tengah , Padang Lawas , Sumatera Utara 
+1.31735,99.941,2016-06-26,06:25:03,73,snpp,Huristak , Padang Lawas , Sumatera Utara 
+1.31574,99.9308,2016-06-26,06:25:03,62,snpp,Huristak , Padang Lawas , Sumatera Utara 
+1.30572,99.8671,2016-06-26,06:25:03,92,snpp,Huristak , Padang Lawas , Sumatera Utara 
+1.31372,99.8657,2016-06-26,06:25:03,89,snpp,Huristak , Padang Lawas , Sumatera Utara 
+1.32851,99.9078,2016-06-26,06:25:03,100,snpp,Huristak , Padang Lawas , Sumatera Utara 
+1.36043,99.9028,2016-06-26,06:25:03,83,snpp,Huristak , Padang Lawas , Sumatera Utara 
+1.38267,99.9413,2016-06-26,06:25:03,58,snpp,Huristak , Padang Lawas , Sumatera Utara 
+1.95828,101.641,2016-06-26,06:25:03,68,snpp,Rupat , Bengkalis , Riau 
+1.95703,101.633,2016-06-26,06:25:03,98,snpp,Rupat , Bengkalis , Riau 
+2.54753,98.8555,2016-06-26,06:26:29,62,snpp,Danau Toba , Danau Toba , Sumatera Utara 
+2.56663,98.8132,2016-06-26,06:26:29,35,snpp,Danau Toba , Danau Toba , Sumatera Utara 
+2.66568,99.3869,2016-06-26,06:26:29,81,snpp,Bandar Pulau , Asahan , Sumatera Utara 
+2.65661,98.8077,2016-06-26,06:26:29,71,snpp,Danau Toba , Danau Toba , Sumatera Utara 
+5.50003,95.5532,2016-06-26,06:26:29,93,snpp,Indrapuri , Aceh Besar , Nanggroe Aceh Darussalam 
+5.49911,95.5477,2016-06-26,06:26:29,94,snpp,Indrapuri , Aceh Besar , Nanggroe Aceh Darussalam 
+0,134,2016-06-27,01:52:00,55,terra,Indrapuri , Aceh Besar , Nanggroe Aceh Darussalam 
+-2.582072,121.378738,2016-06-27,01:52:00,40,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+1.700691,99.794708,2016-06-27,03:30:00,63,terra,Sungai Kanan , Labuhanbatu Selatan , Sumatera Utara 
+1,99,2016-06-27,03:32:00,63,terra,Muara Batang Gadis , Mandailing Natal , Sumatera Utara 
+-1.88896,110.071,2016-06-27,06:06:07,61,snpp,Benua Kayong , Ketapang , Kalimantan Barat 
+1.99697,100.525,2016-06-27,18:47:11,46,snpp,Kubu , Rokan Hilir , Riau 
+1.99141,100.517,2016-06-27,18:47:11,30,snpp,Kubu , Rokan Hilir , Riau 
+0.758318,101.873,2016-06-27,18:47:11,62,snpp,Koto Gasib , Siak , Riau 
+2.001635,100.51886,2016-06-27,18:49:00,27,aqua,Kubu , Rokan Hilir , Riau 
+2.000314,100.527863,2016-06-27,18:49:00,55,aqua,Kubu , Rokan Hilir , Riau 
+1.77694,100.794518,2016-06-27,18:49:00,47,aqua,Bangko Pusako , Rokan Hilir , Riau 
+0.762379,101.871017,2016-06-27,18:49:00,78,aqua,Koto Gasib , Siak , Riau 
+0,101,2016-06-27,15:50:00,62,terra,Kampar Kiri , Kampar , Riau 
+0.756781,101.873108,2016-06-27,15:50:00,51,terra,Koto Gasib , Siak , Riau 
+1.038621,101.112404,2016-06-27,15:50:00,44,terra,Kandis , Siak , Riau 
+1.778426,100.788292,2016-06-27,15:50:00,71,terra,Bangko Pusako , Rokan Hilir , Riau 
+1.995896,100.518639,2016-06-27,15:50:00,85,terra,Kubu , Rokan Hilir , Riau 
+1.994393,100.508026,2016-06-27,15:50:00,48,terra,Kubu , Rokan Hilir , Riau 
+-1.395253,120.75705,2016-06-28,02:37:00,53,terra,Poso Kota Selatan , Poso , Sulawesi Tengah 
+-2.572243,121.383232,2016-06-28,02:37:00,74,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.574065,121.376442,2016-06-28,02:37:00,73,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.576018,121.390434,2016-06-28,02:37:00,75,terra,Nuha , Luwu Timur , Sulawesi Selatan 
+-2.580112,121.378922,2016-06-28,05:28:00,93,aqua,Nuha , Luwu Timur , Sulawesi Selatan 
+0,103,2016-06-28,07:05:00,50,aqua,Gaung , Indragiri Hilir , Riau 
+0.301447,100.364227,2016-06-28,07:05:00,62,aqua,Kapur Ix , Lima Puluh Kota , Sumatera Barat 
+0.575014,100.494156,2016-06-28,07:05:00,82,aqua,Pendalian Iv Koto , Rokan Hulu , Riau 
+0.584367,100.501709,2016-06-28,07:05:00,67,aqua,Rokan Iv Koto , Rokan Hulu , Riau 
+0.58219,100.486023,2016-06-28,07:05:00,55,aqua,Rokan Iv Koto , Rokan Hulu , Riau 
+0.978002,100.438683,2016-06-28,07:05:00,60,aqua,Rambah Hilir , Rokan Hulu , Riau 
+1.245858,100.060837,2016-06-28,07:05:00,77,aqua,Huta Raja Tinggi , Padang Lawas , Sumatera Utara 
+1.358649,99.89373,2016-06-28,07:05:00,90,aqua,Huristak , Padang Lawas , Sumatera Utara 
+1.356573,99.878944,2016-06-28,07:05:00,100,aqua,Huristak , Padang Lawas , Sumatera Utara 
+1.873531,100.775391,2016-06-28,07:05:00,61,aqua,Bangko Pusako , Rokan Hilir , Riau 
+1.995121,100.51487,2016-06-28,07:05:00,80,aqua,Kubu , Rokan Hilir , Riau 
+1.908615,99.311607,2016-06-28,07:05:00,75,aqua,Pangaribuan , Tapanuli Utara , Sumatera Utara 
+4.154276,96.245125,2016-06-28,07:05:00,77,aqua,Meureubo , Aceh Barat , Nanggroe Aceh Darussalam 
+4.152916,96.235413,2016-06-28,07:05:00,65,aqua,Meureubo , Aceh Barat , Nanggroe Aceh Darussalam 
+5.298911,95.478249,2016-06-28,07:05:00,76,aqua,Kuta Cot Glie , Aceh Besar , Nanggroe Aceh Darussalam 
+-6.959928,107.786774,2016-06-29,06:10:00,29,aqua,Jatinangor , Sumedang , Jawa Barat 
+-3.737163,103.873955,2016-06-29,06:10:00,65,aqua,Lawang Kidul , Muara Enim , Sumatera Selatan 
+-3.137355,102.816643,2016-06-29,06:10:00,60,aqua,Selangit , Musi Rawas , Sumatera Selatan 
+-0.471854,109.407082,2016-06-29,06:10:00,66,aqua,Kubu , Kubu Raya , Kalimantan Barat 
+-0.071339,104.546677,2016-06-29,06:10:00,54,aqua,Lingga , Lingga , Kepulauan Riau 
+-0.247574,102.865448,2016-06-29,06:10:00,71,aqua,Gaung Anak Serka , Indragiri Hilir , Riau 
+0.482429,102.033943,2016-06-29,06:10:00,67,aqua,Pelalawan , Pelalawan , Riau 
+0.640441,100.106674,2016-06-29,06:10:00,66,aqua,Rao Utara , Pasaman , Sumatera Barat 
+1.380135,101.631355,2016-06-29,06:10:00,37,aqua,Bukit Batu , Bengkalis , Riau 
+1.370728,101.627853,2016-06-29,06:10:00,59,aqua,Bukit Batu , Bengkalis , Riau 
+1.129173,99.830864,2016-06-29,06:10:00,56,aqua,Sosa , Padang Lawas , Sumatera Utara 
+2.139081,100.877037,2016-06-29,06:10:00,57,aqua,Bangko , Rokan Hilir , Riau 
+2.139478,100.871895,2016-06-29,06:10:00,61,aqua,Bangko , Rokan Hilir , Riau 
+-0.071339,104.546677,2016-06-29,06:11:00,55,aqua,Lingga , Lingga , Kepulauan Riau 
+1.723091,101.153908,2016-06-29,06:11:00,44,aqua,Tanah Putih Tanjung Melawan , Rokan Hilir , Riau 
+0,101,2016-06-29,15:36:00,63,terra,Kampar Kiri , Kampar , Riau 
+1.183493,101.02636,2016-06-29,15:36:00,82,terra,Mandau , Bengkalis , Riau 
+1.14727,99.803642,2016-06-29,15:36:00,74,terra,Lubuk Barumun , Padang Lawas , Sumatera Utara 
+1.896902,100.802078,2016-06-29,15:36:00,24,terra,Bangko , Rokan Hilir , Riau 
+1.994093,100.517746,2016-06-29,15:36:00,68,terra,Kubu , Rokan Hilir , Riau 
+2.10869,100.86834,2016-06-29,15:36:00,85,terra,Bangko , Rokan Hilir , Riau 
+2.10615,100.850525,2016-06-29,15:36:00,82,terra,Bangko , Rokan Hilir , Riau 
+2.195315,100.959007,2016-06-29,15:36:00,68,terra,Sinaboi , Rokan Hilir , Riau 
+2.309067,100.337822,2016-06-29,15:36:00,69,terra,Pasir Limau Kapas , Rokan Hilir , Riau 
+2,99,2016-06-30,04:01:00,64,terra,Tarutung , Tapanuli Utara , Sumatera Utara 
+2.731014,98.589035,2016-06-30,04:01:00,34,terra,Sianjur Mulamula , Samosir , Sumatera Utara 
+2.307702,100.343002,2016-06-30,04:01:00,44,terra,Pasir Limau Kapas , Rokan Hilir , Riau 
+2.193891,100.963081,2016-06-30,04:01:00,59,terra,Sinaboi , Rokan Hilir , Riau 
+2.10437,100.872635,2016-06-30,04:01:00,65,terra,Bangko , Rokan Hilir , Riau 
+2.322296,98.926773,2016-06-30,04:01:00,77,terra,Paranginan , Humbang Hasundutan , Sumatera Utara 
+2.320736,98.937347,2016-06-30,04:01:00,69,terra,Paranginan , Humbang Hasundutan , Sumatera Utara 
+2.256299,99.373344,2016-06-30,04:01:00,54,terra,Habinsaran , Toba Samosir , Sumatera Utara 
+2.241522,99.270256,2016-06-30,04:01:00,62,terra,Borbor , Toba Samosir , Sumatera Utara 
+2.225503,98.697044,2016-06-30,04:01:00,44,terra,Doloksanggul , Humbang Hasundutan , Sumatera Utara 
+1.850357,101.18718,2016-06-30,04:01:00,28,terra,Sungai Sembilan , Dumai , Riau 
+2.10316,99.311432,2016-06-30,04:01:00,68,terra,Garoga , Tapanuli Utara , Sumatera Utara 
+2.100778,99.31636,2016-06-30,04:01:00,51,terra,Garoga , Tapanuli Utara , Sumatera Utara 
+1.812987,101.130974,2016-06-30,04:01:00,47,terra,Rimba Melintang , Rokan Hilir , Riau 
+2.07613,99.279152,2016-06-30,04:01:00,81,terra,Garoga , Tapanuli Utara , Sumatera Utara 
+1.758916,99.626778,2016-06-30,04:01:00,100,terra,Dolok , Padang Lawas Utara , Sumatera Utara 
+1.757225,99.638252,2016-06-30,04:01:00,65,terra,Dolok , Padang Lawas Utara , Sumatera Utara 
+1.371056,101.638794,2016-06-30,04:01:00,40,terra,Bukit Batu , Bengkalis , Riau 
+1.49328,98.797577,2016-06-30,04:01:00,73,terra,Badiri , Tapanuli Tengah , Sumatera Utara 
+1.321742,99.953537,2016-06-30,04:01:00,45,terra,Huristak , Padang Lawas , Sumatera Utara 
+1.314421,100.002869,2016-06-30,04:01:00,61,terra,Huristak , Padang Lawas , Sumatera Utara 
+1.395444,99.388123,2016-06-30,04:01:00,37,terra,Batang Onang , Padang Lawas Utara , Sumatera Utara 
+1.209281,99.807373,2016-06-30,04:01:00,87,terra,Lubuk Barumun , Padang Lawas , Sumatera Utara 
+1.149375,99.804504,2016-06-30,04:01:00,34,terra,Lubuk Barumun , Padang Lawas , Sumatera Utara 
+1.147603,99.816406,2016-06-30,04:01:00,50,terra,Lubuk Barumun , Padang Lawas , Sumatera Utara 
+0.933266,101.175446,2016-06-30,04:01:00,52,terra,Kandis , Siak , Riau 
+0.746144,101.521416,2016-06-30,04:01:00,63,terra,Minas , Siak , Riau 
+0.485987,102.048996,2016-06-30,04:01:00,24,terra,Pelalawan , Pelalawan , Riau 
+0.582165,101.306038,2016-06-30,04:01:00,81,terra,Tapung , Kampar , Riau 
+0.473559,102.047234,2016-06-30,04:01:00,57,terra,Pelalawan , Pelalawan , Riau 
+-1.598136,103.947464,2016-06-30,04:01:00,53,terra,Kumpeh , Muaro Jambi , Jambi 
+-2.21378,100.983391,2016-06-30,04:01:00,67,terra,Basa Ampek Balai Tapan , Pesisir Selatan , Sumatera Barat 
+-3,104,2016-06-30,06:53:00,24,aqua,Lais , Musi Banyuasin , Sumatera Selatan 
+-3.988685,102.598251,2016-06-30,06:53:00,84,aqua,Seluma Utara , Seluma , Bengkulu 
+-3.990421,102.586555,2016-06-30,06:53:00,66,aqua,Seluma Utara , Seluma , Bengkulu 
+-3.372895,103.87043,2016-06-30,06:53:00,60,aqua,Benakat , Muara Enim , Sumatera Selatan 
+-3.09689,104.49762,2016-06-30,06:53:00,78,aqua,Indralaya Utara , Ogan Ilir , Sumatera Selatan 
+-2.974257,103.771698,2016-06-30,06:53:00,67,aqua,Sungai Keruh , Musi Banyuasin , Sumatera Selatan 
+-2.315823,101.809883,2016-06-30,06:53:00,39,aqua,Muara Siau , Merangin , Jambi 
+-2.315792,101.026367,2016-06-30,06:53:00,66,aqua,Lunang Silaut , Pesisir Selatan , Sumatera Barat 
+-2.254122,101.022026,2016-06-30,06:53:00,49,aqua,Lunang Silaut , Pesisir Selatan , Sumatera Barat 
+-2.211117,100.985153,2016-06-30,06:53:00,60,aqua,Basa Ampek Balai Tapan , Pesisir Selatan , Sumatera Barat 
+-2.196557,100.95253,2016-06-30,06:53:00,23,aqua,Basa Ampek Balai Tapan , Pesisir Selatan , Sumatera Barat 
+-1.495173,101.976631,2016-06-30,06:53:00,94,aqua,Muko-muko Bathin , Bungo , Jambi 
+-1.373062,101.396286,2016-06-30,06:53:00,67,aqua,Sangir Batang Hari , Solok Selatan , Sumatera Barat 
+-1.388213,100.746407,2016-06-30,06:53:00,56,aqua,Sutera , Pesisir Selatan , Sumatera Barat 
+-1.143574,102.079727,2016-06-30,06:53:00,70,aqua,Vii Koto , Tebo , Jambi 
+-1.232564,101.392288,2016-06-30,06:53:00,79,aqua,Sangir Batang Hari , Solok Selatan , Sumatera Barat 
+-1.217684,101.357407,2016-06-30,06:53:00,62,aqua,Sangir Batang Hari , Solok Selatan , Sumatera Barat 
+-1.219221,101.346848,2016-06-30,06:53:00,89,aqua,Sangir Batang Hari , Solok Selatan , Sumatera Barat 
+-1.200576,100.837708,2016-06-30,06:53:00,33,aqua,Pantai Cermin , Solok , Sumatera Barat 
+-0.951761,101.991173,2016-06-30,06:53:00,68,aqua,Vii Koto , Tebo , Jambi 
+-0.922026,101.69828,2016-06-30,06:53:00,76,aqua,Timpeh , Dharmasraya , Sumatera Barat 
+-0.871443,101.628143,2016-06-30,06:53:00,80,aqua,Timpeh , Dharmasraya , Sumatera Barat 
+-0.873045,101.616821,2016-06-30,06:53:00,70,aqua,Timpeh , Dharmasraya , Sumatera Barat 
+-0.61209,101.226067,2016-06-30,06:53:00,69,aqua,Kamang Baru , Sijunjung , Sumatera Barat 
+-0.588337,100.689308,2016-06-30,06:53:00,64,aqua,X Koto Diatas , Solok , Sumatera Barat 
+-0.277815,100.557938,2016-06-30,06:53:00,69,aqua,Akabiluru , Lima Puluh Kota , Sumatera Barat 
+0.042688,101.100563,2016-06-30,06:53:00,59,aqua,Kampar Kiri , Kampar , Riau 
+0.423725,103.003838,2016-06-30,06:53:00,38,aqua,Teluk Meranti , Pelalawan , Riau 
+0.30875,100.397217,2016-06-30,06:53:00,68,aqua,Kapur Ix , Lima Puluh Kota , Sumatera Barat 
+0.735158,102.694427,2016-06-30,06:53:00,44,aqua,Sungai Apit , Siak , Riau 
+0.584123,101.309402,2016-06-30,06:53:00,92,aqua,Tapung , Kampar , Riau 
+0.582535,101.298248,2016-06-30,06:53:00,100,aqua,Tapung , Kampar , Riau 
+0.294939,99.278824,2016-06-30,06:53:00,85,aqua,Sungai Beremas , Pasaman Barat , Sumatera Barat 
+0.303989,99.277504,2016-06-30,06:53:00,42,aqua,Sungai Beremas , Pasaman Barat , Sumatera Barat 
+0.382272,99.436829,2016-06-30,06:53:00,72,aqua,Ranah Batahan , Pasaman Barat , Sumatera Barat 
+0.719917,99.987686,2016-06-30,06:53:00,62,aqua,Rao Utara , Pasaman , Sumatera Barat 
+1.352939,103.487389,2016-06-30,06:53:00,59,aqua,Rao Utara , Pasaman , Sumatera Barat 
+1.11002,101.624718,2016-06-30,06:53:00,52,aqua,Pinggir , Bengkalis , Riau 
+1.214121,102.016327,2016-06-30,06:53:00,88,aqua,Siak Kecil , Bengkalis , Riau 
+1.212353,102.003685,2016-06-30,06:53:00,45,aqua,Siak Kecil , Bengkalis , Riau 
+0.96298,99.82843,2016-06-30,06:53:00,82,aqua,Sosa , Padang Lawas , Sumatera Utara 
+1.178982,101.033752,2016-06-30,06:53:00,87,aqua,Mandau , Bengkalis , Riau 
+1.177438,101.02282,2016-06-30,06:53:00,77,aqua,Mandau , Bengkalis , Riau 
+1.393915,102.247345,2016-06-30,06:53:00,40,aqua,Merbau , Kepulauan Meranti , Riau 
+0.762462,97.71595,2016-06-30,06:53:00,46,aqua,Amandraya , Nias Selatan , Sumatera Utara 
+1.264779,101.139717,2016-06-30,06:53:00,73,aqua,Mandau , Bengkalis , Riau 
+1.132627,99.860153,2016-06-30,06:53:00,56,aqua,Sosa , Padang Lawas , Sumatera Utara 
+1.263967,100.709969,2016-06-30,06:53:00,76,aqua,Pujud , Rokan Hilir , Riau 
+1.141907,99.858871,2016-06-30,06:53:00,40,aqua,Sosa , Padang Lawas , Sumatera Utara 
+1.14053,99.849258,2016-06-30,06:53:00,88,aqua,Sosa , Padang Lawas , Sumatera Utara 
+1.145675,99.819229,2016-06-30,06:53:00,84,aqua,Lubuk Barumun , Padang Lawas , Sumatera Utara 
+1.144305,99.809692,2016-06-30,06:53:00,100,aqua,Lubuk Barumun , Padang Lawas , Sumatera Utara 
+1.153568,99.808418,2016-06-30,06:53:00,99,aqua,Lubuk Barumun , Padang Lawas , Sumatera Utara 
+1.134372,99.675186,2016-06-30,06:53:00,41,aqua,Ulu Barumun , Padang Lawas , Sumatera Utara 
+1.218411,99.812103,2016-06-30,06:53:00,82,aqua,Lubuk Barumun , Padang Lawas , Sumatera Utara 
+1.30908,99.94072,2016-06-30,06:53:00,48,aqua,Huristak , Padang Lawas , Sumatera Utara 
+1.307704,99.93103,2016-06-30,06:53:00,91,aqua,Huristak , Padang Lawas , Sumatera Utara 
+1.319787,99.949135,2016-06-30,06:53:00,61,aqua,Huristak , Padang Lawas , Sumatera Utara 
+1.329116,99.947838,2016-06-30,06:53:00,89,aqua,Huristak , Padang Lawas , Sumatera Utara 
+1.315735,99.400932,2016-06-30,06:53:00,64,aqua,Batang Onang , Padang Lawas Utara , Sumatera Utara 
+1.878061,99.541183,2016-06-30,06:53:00,83,aqua,Saipar Dolok Hole , Tapanuli Selatan , Sumatera Utara 
+2.10393,100.862907,2016-06-30,06:53:00,71,aqua,Bangko , Rokan Hilir , Riau 
+1.912723,98.815224,2016-06-30,06:53:00,43,aqua,Kolang , Tapanuli Tengah , Sumatera Utara 
+2.283859,100.331383,2016-06-30,06:53:00,71,aqua,Pasir Limau Kapas , Rokan Hilir , Riau 
+2.314129,100.337616,2016-06-30,06:53:00,81,aqua,Pasir Limau Kapas , Rokan Hilir , Riau 
+2.083947,98.33255,2016-06-30,06:53:00,61,aqua,Sirandorung , Tapanuli Tengah , Sumatera Utara 
+2.181201,98.88678,2016-06-30,06:53:00,65,aqua,Pagaran , Tapanuli Utara , Sumatera Utara 
+2.31757,99.468231,2016-06-30,06:53:00,79,aqua,Nassau , Toba Samosir , Sumatera Utara 
+2.304045,99.305382,2016-06-30,06:53:00,65,aqua,Habinsaran , Toba Samosir , Sumatera Utara 
+2.351115,99.308022,2016-06-30,06:53:00,51,aqua,Habinsaran , Toba Samosir , Sumatera Utara 
+2.349776,99.298637,2016-06-30,06:53:00,55,aqua,Habinsaran , Toba Samosir , Sumatera Utara 
+2.24437,98.431427,2016-06-30,06:53:00,28,aqua,Tarabintang , Humbang Hasundutan , Sumatera Utara 
+2.32495,98.928482,2016-06-30,06:53:00,57,aqua,Paranginan , Humbang Hasundutan , Sumatera Utara 
+2.270119,98.411888,2016-06-30,06:53:00,48,aqua,Tarabintang , Humbang Hasundutan , Sumatera Utara 
+2.337853,98.759239,2016-06-30,06:53:00,50,aqua,Pollung , Humbang Hasundutan , Sumatera Utara 
+2.558332,100.179176,2016-06-30,06:53:00,30,aqua,Panai Hilir , Labuhanbatu , Sumatera Utara 
+2.306045,98.342873,2016-06-30,06:53:00,37,aqua,Tarabintang , Humbang Hasundutan , Sumatera Utara 
+2.329056,98.375923,2016-06-30,06:53:00,22,aqua,Parlilitan , Humbang Hasundutan , Sumatera Utara 
+2.321416,98.322403,2016-06-30,06:53:00,92,aqua,Tarabintang , Humbang Hasundutan , Sumatera Utara 
+2.315059,98.277847,2016-06-30,06:53:00,41,aqua,Parlilitan , Humbang Hasundutan , Sumatera Utara 
+2.339731,98.387169,2016-06-30,06:53:00,32,aqua,Parlilitan , Humbang Hasundutan , Sumatera Utara 
+2.548785,98.883537,2016-06-30,06:53:00,73,aqua,Danau Toba , Danau Toba , Sumatera Utara 
+2.459322,98.062981,2016-06-30,06:53:00,75,aqua,Simpang Kanan , Aceh Singkil , Nanggroe Aceh Darussalam 
+2.451689,98.009529,2016-06-30,06:53:00,58,aqua,Simpang Kanan , Aceh Singkil , Nanggroe Aceh Darussalam 
+2.593646,98.81559,2016-06-30,06:53:00,19,aqua,Danau Toba , Danau Toba , Sumatera Utara 
+2.505849,98.132523,2016-06-30,06:53:00,63,aqua,Pagindar , Pakpak Barat , Sumatera Utara 
+2.559446,98.252037,2016-06-30,06:53:00,52,aqua,Pergetteng-getteng Sengkut , Pakpak Barat , Sumatera Utara 
+2.701701,99.120079,2016-06-30,06:53:00,83,aqua,Hatonduhan , Simalungun , Sumatera Utara 
+2.700359,99.110703,2016-06-30,06:53:00,17,aqua,Hatonduhan , Simalungun , Sumatera Utara 
+2.710842,99.118866,2016-06-30,06:53:00,81,aqua,Hatonduhan , Simalungun , Sumatera Utara 
+2.916298,98.56012,2016-06-30,06:53:00,36,aqua,Silimakuta , Simalungun , Sumatera Utara 
+2.915029,98.551163,2016-06-30,06:53:00,42,aqua,Pematang Silimahut , Simalungun , Sumatera Utara 
+2.984381,98.45829,2016-06-30,06:53:00,80,aqua,Merek , Karo , Sumatera Utara 
+3.011658,98.19239,2016-06-30,06:53:00,31,aqua,Tanah Pinem , Dairi , Sumatera Utara 
+3.167217,98.772858,2016-06-30,06:53:00,45,aqua,Dolok Silau , Simalungun , Sumatera Utara 
+3.176286,98.771584,2016-06-30,06:53:00,91,aqua,Dolok Silau , Simalungun , Sumatera Utara 
+3.174983,98.762398,2016-06-30,06:53:00,78,aqua,Dolok Silau , Simalungun , Sumatera Utara 
+3.967566,97.472115,2016-06-30,06:53:00,54,aqua,Dabun Gelang , Gayo Lues , Nanggroe Aceh Darussalam 
+4.49703,97.058235,2016-06-30,06:53:00,86,aqua,Linge , Aceh Tengah , Nanggroe Aceh Darussalam 
+4.68699,96.654396,2016-06-30,06:53:00,51,aqua,Ketol , Aceh Tengah , Nanggroe Aceh Darussalam 
+5.504548,95.75238,2016-06-30,06:53:00,86,aqua,Muara Tiga , Pidie , Nanggroe Aceh Darussalam 
+-3,104,2016-06-30,06:57:00,23,aqua,Lais , Musi Banyuasin , Sumatera Selatan 
+-1.200575,100.837708,2016-06-30,06:57:00,32,aqua,Pantai Cermin , Solok , Sumatera Barat 
+2.24437,98.431427,2016-06-30,06:57:00,29,aqua,Tarabintang , Humbang Hasundutan , Sumatera Utara 
+-2.254122,101.022026,2016-06-30,06:56:00,47,aqua,Lunang Silaut , Pesisir Selatan , Sumatera Barat 
+2.270119,98.411888,2016-06-30,06:57:00,49,aqua,Tarabintang , Humbang Hasundutan , Sumatera Utara 
+-2.196557,100.95253,2016-06-30,06:56:00,24,aqua,Basa Ampek Balai Tapan , Pesisir Selatan , Sumatera Barat 
+3.011658,98.19239,2016-06-30,06:57:00,34,aqua,Tanah Pinem , Dairi , Sumatera Utara 
+-3.0973,104.498,2016-06-30,06:48:57,92,snpp,Indralaya Utara , Ogan Ilir , Sumatera Selatan 
+-2.21574,100.979,2016-06-30,06:50:22,82,snpp,Basa Ampek Balai Tapan , Pesisir Selatan , Sumatera Barat 
+-1.50675,101.994,2016-06-30,06:50:22,87,snpp,Muko-muko Bathin , Bungo , Jambi 
+-0.804307,102.811,2016-06-30,06:50:22,34,snpp,Kemuning , Indragiri Hilir , Riau 
+-0.852941,102.18,2016-06-30,06:50:22,68,snpp,Batang Cenaku , Indragiri Hulu , Riau 
+-0.884597,101.68,2016-06-30,06:50:22,73,snpp,Timpeh , Dharmasraya , Sumatera Barat 
+-0.870657,101.628,2016-06-30,06:50:22,100,snpp,Timpeh , Dharmasraya , Sumatera Barat 
+-0.986693,100.78,2016-06-30,06:50:22,64,snpp,Lembah Gumanti , Solok , Sumatera Barat 
+-0.614894,101.229,2016-06-30,06:50:22,97,snpp,Kamang Baru , Sijunjung , Sumatera Barat 
+0.698276,103.019,2016-06-30,06:50:22,50,snpp,Tebing Tinggi , Kepulauan Meranti , Riau 
+0.851902,103.875,2016-06-30,06:50:22,82,snpp,Moro , Karimun , Kepulauan Riau 
+0.579038,101.311,2016-06-30,06:50:22,85,snpp,Tapung , Kampar , Riau 
+0.584928,101.302,2016-06-30,06:50:22,100,snpp,Tapung , Kampar , Riau 
+0.528534,100.038,2016-06-30,06:50:22,68,snpp,Rao , Pasaman , Sumatera Barat 
+0.427343,99.3735,2016-06-30,06:50:22,100,snpp,Ranah Batahan , Pasaman Barat , Sumatera Barat 
+1.17745,101.03,2016-06-30,06:50:22,95,snpp,Mandau , Bengkalis , Riau 
+1.13704,99.864,2016-06-30,06:50:22,84,snpp,Sosa , Padang Lawas , Sumatera Utara 
+1.14162,99.8486,2016-06-30,06:50:22,94,snpp,Sosa , Padang Lawas , Sumatera Utara 
+1.14292,99.8118,2016-06-30,06:50:22,100,snpp,Lubuk Barumun , Padang Lawas , Sumatera Utara 
+1.31049,99.9477,2016-06-30,06:50:22,69,snpp,Huristak , Padang Lawas , Sumatera Utara 
+1.30831,99.9332,2016-06-30,06:50:22,100,snpp,Huristak , Padang Lawas , Sumatera Utara 
+1.30614,99.9187,2016-06-30,06:50:22,71,snpp,Huristak , Padang Lawas , Sumatera Utara 
+1.32406,99.9457,2016-06-30,06:50:22,100,snpp,Huristak , Padang Lawas , Sumatera Utara 
+1.32539,99.9085,2016-06-30,06:50:22,45,snpp,Huristak , Padang Lawas , Sumatera Utara 
+1.33435,99.9219,2016-06-30,06:50:22,100,snpp,Huristak , Padang Lawas , Sumatera Utara 

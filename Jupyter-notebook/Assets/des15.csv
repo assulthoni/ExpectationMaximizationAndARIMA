@@ -1,0 +1,460 @@
+Lintang (deg), Bujur (deg), Tanggal (dd/mm/yyy), Waktu Akuisisi (UTC), Tingkat Kepercayaan (%), Satelit, Kecamatan, Kabupaten, Provinsi
+0.697569,102.724213,2015-12-02,03:30:00,32,terra,Sungai Apit , Siak , Riau 
+0.692518,102.694977,2015-12-02,03:30:00,66,terra,Sungai Apit , Siak , Riau 
+-0.670628,102.104828,2015-12-02,06:23:00,35,aqua,Pasir Penyu , Indragiri Hulu , Riau 
+1,102.435959,2015-12-03,07:05:00,43,aqua,Merbau , Kepulauan Meranti , Riau 
+1.512019,101.734207,2015-12-03,07:05:00,38,aqua,Bukit Batu , Bengkalis , Riau 
+1.354414,102.445366,2015-12-05,04:04:00,51,terra,Bengkalis , Bengkalis , Riau 
+1.341902,102.443527,2015-12-05,04:04:00,38,terra,Bengkalis , Bengkalis , Riau 
+0.986392,102.988831,2015-12-05,04:04:00,57,terra,Tebing Tinggi , Kepulauan Meranti , Riau 
+1,101.709183,2015-12-07,06:43:00,27,aqua,Siak , Siak , Riau 
+-0.376091,102.544846,2015-12-09,03:37:00,38,terra,Rengat , Indragiri Hulur , Riau 
+0,101.879189,2015-12-10,07:11:00,64,aqua,Pangkalan Kuras , Pelalawan , Riau 
+1.344116,102.431282,2015-12-10,07:11:00,32,aqua,Bengkalis , Bengkalis , Riau 
+-1,102.598,2015-12-11,06:39:00,51,snpp,Seberida , Indragiri Hulu , Riau 
+-1,102.598,2015-12-11,06:39:00,51,snpp,Seberida , Indragiri Hulu , Riau 
+-1,102.598,2015-12-11,06:39:00,51,snpp,Seberida , Indragiri Hulu , Riau 
+-1,102.598,2015-12-11,06:39:00,51,snpp,Seberida , Indragiri Hulu , Riau 
+-1,102.598,2015-12-11,06:39:00,51,snpp,Seberida , Indragiri Hulu , Riau 
+-1,102.598,2015-12-11,06:39:00,51,snpp,Seberida , Indragiri Hulu , Riau 
+-1,102.598,2015-12-11,06:39:00,51,snpp,Seberida , Indragiri Hulu , Riau 
+-1,102.598,2015-12-11,06:39:00,51,snpp,Seberida , Indragiri Hulu , Riau 
+-1,102.598,2015-12-11,06:39:00,51,snpp,Seberida , Indragiri Hulu , Riau 
+-1,102.598,2015-12-11,06:39:00,51,snpp,Seberida , Indragiri Hulu , Riau 
+0.102984,101.373,2015-12-12,06:20:00,49,snpp,Kampar Kiri Hilir , Kampar , Riau 
+1.39014,102.248,2015-12-12,06:20:00,59,snpp,Merbau , Kepulauan Meranti , Riau 
+-1,102.598,2015-12-11,06:39:00,51,snpp,Seberida , Indragiri Hulu , Riau 
+0.102984,101.373,2015-12-12,06:20:00,49,snpp,Kampar Kiri Hilir , Kampar , Riau 
+1.39014,102.248,2015-12-12,06:20:00,59,snpp,Merbau , Kepulauan Meranti , Riau 
+-1,102.598,2015-12-11,06:39:00,51,snpp,Seberida , Indragiri Hulu , Riau 
+0.102984,101.373,2015-12-12,06:20:00,49,snpp,Kampar Kiri Hilir , Kampar , Riau 
+1.39014,102.248,2015-12-12,06:20:00,59,snpp,Merbau , Kepulauan Meranti , Riau 
+-1,102.598,2015-12-11,06:39:00,51,snpp,Seberida , Indragiri Hulu , Riau 
+0.102984,101.373,2015-12-12,06:20:00,49,snpp,Kampar Kiri Hilir , Kampar , Riau 
+1.39014,102.248,2015-12-12,06:20:00,59,snpp,Merbau , Kepulauan Meranti , Riau 
+-1,102.598,2015-12-11,06:39:00,51,snpp,Seberida , Indragiri Hulu , Riau 
+0.102984,101.373,2015-12-12,06:20:00,49,snpp,Kampar Kiri Hilir , Kampar , Riau 
+1.39014,102.248,2015-12-12,06:20:00,59,snpp,Merbau , Kepulauan Meranti , Riau 
+-1,102.598,2015-12-11,06:39:00,51,snpp,Seberida , Indragiri Hulu , Riau 
+0.102984,101.373,2015-12-12,06:20:00,49,snpp,Kampar Kiri Hilir , Kampar , Riau 
+1.39014,102.248,2015-12-12,06:20:00,59,snpp,Merbau , Kepulauan Meranti , Riau 
+-1,102.598,2015-12-11,06:39:00,51,snpp,Seberida , Indragiri Hulu , Riau 
+0.102984,101.373,2015-12-12,06:20:00,49,snpp,Kampar Kiri Hilir , Kampar , Riau 
+1.39014,102.248,2015-12-12,06:20:00,59,snpp,Merbau , Kepulauan Meranti , Riau 
+-0.946363,101.723,2015-12-22,06:32:00,67,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.209346,101.828,2015-12-22,06:32:00,34,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.180236,101.883,2015-12-22,06:32:00,42,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.164015,101.642,2015-12-22,06:32:00,68,snpp,Langgam , Pelalawan , Riau 
+1.87884,100.389,2015-12-22,06:32:00,69,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+1.87847,100.389,2015-12-22,06:32:00,67,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+-0.946363,101.723,2015-12-22,06:32:00,67,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.209346,101.828,2015-12-22,06:32:00,34,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.180236,101.883,2015-12-22,06:32:00,42,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.164015,101.642,2015-12-22,06:32:00,68,snpp,Langgam , Pelalawan , Riau 
+1.87884,100.389,2015-12-22,06:32:00,69,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+1.87847,100.389,2015-12-22,06:32:00,67,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+-0.946363,101.723,2015-12-22,06:32:00,67,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.209346,101.828,2015-12-22,06:32:00,34,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.180236,101.883,2015-12-22,06:32:00,42,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.164015,101.642,2015-12-22,06:32:00,68,snpp,Langgam , Pelalawan , Riau 
+1.87884,100.389,2015-12-22,06:32:00,69,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+1.87847,100.389,2015-12-22,06:32:00,67,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+-0.946363,101.723,2015-12-22,06:32:00,67,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.209346,101.828,2015-12-22,06:32:00,34,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.180236,101.883,2015-12-22,06:32:00,42,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.164015,101.642,2015-12-22,06:32:00,68,snpp,Langgam , Pelalawan , Riau 
+1.87884,100.389,2015-12-22,06:32:00,69,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+1.87847,100.389,2015-12-22,06:32:00,67,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+-0.946363,101.723,2015-12-22,06:32:00,67,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.209346,101.828,2015-12-22,06:32:00,34,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.180236,101.883,2015-12-22,06:32:00,42,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.164015,101.642,2015-12-22,06:32:00,68,snpp,Langgam , Pelalawan , Riau 
+1.87884,100.389,2015-12-22,06:32:00,69,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+1.87847,100.389,2015-12-22,06:32:00,67,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+-0.946363,101.723,2015-12-22,06:32:00,67,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.209346,101.828,2015-12-22,06:32:00,34,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.180236,101.883,2015-12-22,06:32:00,42,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.164015,101.642,2015-12-22,06:32:00,68,snpp,Langgam , Pelalawan , Riau 
+1.87884,100.389,2015-12-22,06:32:00,69,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+1.87847,100.389,2015-12-22,06:32:00,67,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+-0.946363,101.723,2015-12-22,06:32:00,67,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.209346,101.828,2015-12-22,06:32:00,34,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.180236,101.883,2015-12-22,06:32:00,42,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.164015,101.642,2015-12-22,06:32:00,68,snpp,Langgam , Pelalawan , Riau 
+1.87884,100.389,2015-12-22,06:32:00,69,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+1.87847,100.389,2015-12-22,06:32:00,67,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+-0.946363,101.723,2015-12-22,06:32:00,67,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.209346,101.828,2015-12-22,06:32:00,34,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.180236,101.883,2015-12-22,06:32:00,42,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.164015,101.642,2015-12-22,06:32:00,68,snpp,Langgam , Pelalawan , Riau 
+1.87884,100.389,2015-12-22,06:32:00,69,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+1.87847,100.389,2015-12-22,06:32:00,67,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+-0.946363,101.723,2015-12-22,06:32:00,67,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.209346,101.828,2015-12-22,06:32:00,34,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.180236,101.883,2015-12-22,06:32:00,42,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.164015,101.642,2015-12-22,06:32:00,68,snpp,Langgam , Pelalawan , Riau 
+1.87884,100.389,2015-12-22,06:32:00,69,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+1.87847,100.389,2015-12-22,06:32:00,67,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+-0.946363,101.723,2015-12-22,06:32:00,67,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.209346,101.828,2015-12-22,06:32:00,34,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.180236,101.883,2015-12-22,06:32:00,42,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.164015,101.642,2015-12-22,06:32:00,68,snpp,Langgam , Pelalawan , Riau 
+1.87884,100.389,2015-12-22,06:32:00,69,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+1.87847,100.389,2015-12-22,06:32:00,67,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+0.897007,101.981,2015-12-23,06:13:00,21,snpp,Siak Sri Indrapura , Siak , Riau 
+-0.946363,101.723,2015-12-22,06:32:00,67,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.209346,101.828,2015-12-22,06:32:00,34,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.180236,101.883,2015-12-22,06:32:00,42,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.164015,101.642,2015-12-22,06:32:00,68,snpp,Langgam , Pelalawan , Riau 
+1.87884,100.389,2015-12-22,06:32:00,69,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+1.87847,100.389,2015-12-22,06:32:00,67,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+0.897007,101.981,2015-12-23,06:13:00,21,snpp,Siak Sri Indrapura , Siak , Riau 
+-0.946363,101.723,2015-12-22,06:32:00,67,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.209346,101.828,2015-12-22,06:32:00,34,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.180236,101.883,2015-12-22,06:32:00,42,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.164015,101.642,2015-12-22,06:32:00,68,snpp,Langgam , Pelalawan , Riau 
+1.87884,100.389,2015-12-22,06:32:00,69,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+1.87847,100.389,2015-12-22,06:32:00,67,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+-0.946363,101.723,2015-12-22,06:32:00,67,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.209346,101.828,2015-12-22,06:32:00,34,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.180236,101.883,2015-12-22,06:32:00,42,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.164015,101.642,2015-12-22,06:32:00,68,snpp,Langgam , Pelalawan , Riau 
+1.87884,100.389,2015-12-22,06:32:00,69,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+1.87847,100.389,2015-12-22,06:32:00,67,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+0.897007,101.981,2015-12-23,06:13:00,21,snpp,Siak Sri Indrapura , Siak , Riau 
+-0.946363,101.723,2015-12-22,06:32:00,67,snpp,Kuatan Mudik , Kuantan Singingi , Riau 
+-0.209346,101.828,2015-12-22,06:32:00,34,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.180236,101.883,2015-12-22,06:32:00,42,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.164015,101.642,2015-12-22,06:32:00,68,snpp,Langgam , Pelalawan , Riau 
+1.87884,100.389,2015-12-22,06:32:00,69,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+1.87847,100.389,2015-12-22,06:32:00,67,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+0.897007,101.981,2015-12-23,06:13:00,21,snpp,Siak Sri Indrapura , Siak , Riau 
+0,103.176,2015-12-23,18:55:00,42,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0.897007,101.981,2015-12-23,06:13:00,21,snpp,Siak Sri Indrapura , Siak , Riau 
+0,103.176,2015-12-23,18:55:00,42,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0.897007,101.981,2015-12-23,06:13:00,21,snpp,Siak Sri Indrapura , Siak , Riau 
+0,103.176,2015-12-23,18:55:00,42,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0.897007,101.981,2015-12-23,06:13:00,21,snpp,Siak Sri Indrapura , Siak , Riau 
+0,103.176,2015-12-23,18:55:00,42,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0.897007,101.981,2015-12-23,06:13:00,21,snpp,Siak Sri Indrapura , Siak , Riau 
+0,103.176,2015-12-23,18:55:00,42,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0.897007,101.981,2015-12-23,06:13:00,21,snpp,Siak Sri Indrapura , Siak , Riau 
+0,103.176,2015-12-23,18:55:00,42,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0.897007,101.981,2015-12-23,06:13:00,21,snpp,Siak Sri Indrapura , Siak , Riau 
+0,103.176,2015-12-23,18:55:00,42,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0.897007,101.981,2015-12-23,06:13:00,21,snpp,Siak Sri Indrapura , Siak , Riau 
+0,103.176,2015-12-23,18:55:00,42,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0.897007,101.981,2015-12-23,06:13:00,21,snpp,Siak Sri Indrapura , Siak , Riau 
+0,103.176,2015-12-23,18:55:00,42,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0.897007,101.981,2015-12-23,06:13:00,21,snpp,Siak Sri Indrapura , Siak , Riau 
+0,103.176,2015-12-23,18:55:00,42,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0.897007,101.981,2015-12-23,06:13:00,21,snpp,Siak Sri Indrapura , Siak , Riau 
+0,103.176,2015-12-23,18:55:00,42,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0,103.176,2015-12-23,18:55:00,42,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0,103.176,2015-12-23,18:55:00,42,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0,103.176,2015-12-23,18:55:00,42,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0,103.176,2015-12-23,18:55:00,42,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0,102.994,2015-12-26,06:58:00,33,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0,102.994,2015-12-26,06:58:00,33,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0,102.994,2015-12-26,06:58:00,33,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0,102.994,2015-12-26,06:58:00,33,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0,102.754,2015-12-27,06:39:00,38,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0.188091,102.765,2015-12-27,06:39:00,58,snpp,Kuala Kampar , Pelalawan , Riau 
+0.220612,102.853,2015-12-27,06:39:00,39,snpp,Kuala Kampar , Pelalawan , Riau 
+0.219547,102.846,2015-12-27,06:39:00,42,snpp,Kuala Kampar , Pelalawan , Riau 
+0.460778,102.251,2015-12-27,06:39:00,58,snpp,Bunut , Pelalawan , Riau 
+1.01527,103.015,2015-12-27,06:39:00,64,snpp,Tebing Tinggi , Kepulauan Meranti , Riau 
+2.09053,100.51,2015-12-27,06:39:00,57,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.08946,100.503,2015-12-27,06:39:00,92,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.19711,101.034,2015-12-27,06:39:00,81,snpp,Dumai Barat , Kota Dumai , Riau 
+2.24345,100.941,2015-12-27,06:39:00,57,snpp,Bangko , Rokan Hilir , Riau 
+0,102.994,2015-12-26,06:58:00,33,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0,102.754,2015-12-27,06:39:00,38,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0.188091,102.765,2015-12-27,06:39:00,58,snpp,Kuala Kampar , Pelalawan , Riau 
+0.220612,102.853,2015-12-27,06:39:00,39,snpp,Kuala Kampar , Pelalawan , Riau 
+0.219547,102.846,2015-12-27,06:39:00,42,snpp,Kuala Kampar , Pelalawan , Riau 
+0.460778,102.251,2015-12-27,06:39:00,58,snpp,Bunut , Pelalawan , Riau 
+1.01527,103.015,2015-12-27,06:39:00,64,snpp,Tebing Tinggi , Kepulauan Meranti , Riau 
+2.09053,100.51,2015-12-27,06:39:00,57,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.08946,100.503,2015-12-27,06:39:00,92,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.19711,101.034,2015-12-27,06:39:00,81,snpp,Dumai Barat , Kota Dumai , Riau 
+2.24345,100.941,2015-12-27,06:39:00,57,snpp,Bangko , Rokan Hilir , Riau 
+0,102.994,2015-12-26,06:58:00,33,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0,102.754,2015-12-27,06:39:00,38,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0.188091,102.765,2015-12-27,06:39:00,58,snpp,Kuala Kampar , Pelalawan , Riau 
+0.220612,102.853,2015-12-27,06:39:00,39,snpp,Kuala Kampar , Pelalawan , Riau 
+0.219547,102.846,2015-12-27,06:39:00,42,snpp,Kuala Kampar , Pelalawan , Riau 
+0.460778,102.251,2015-12-27,06:39:00,58,snpp,Bunut , Pelalawan , Riau 
+1.01527,103.015,2015-12-27,06:39:00,64,snpp,Tebing Tinggi , Kepulauan Meranti , Riau 
+2.09053,100.51,2015-12-27,06:39:00,57,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.08946,100.503,2015-12-27,06:39:00,92,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.19711,101.034,2015-12-27,06:39:00,81,snpp,Dumai Barat , Kota Dumai , Riau 
+2.24345,100.941,2015-12-27,06:39:00,57,snpp,Bangko , Rokan Hilir , Riau 
+0,102.994,2015-12-26,06:58:00,33,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0,102.754,2015-12-27,06:39:00,38,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0.188091,102.765,2015-12-27,06:39:00,58,snpp,Kuala Kampar , Pelalawan , Riau 
+0.220612,102.853,2015-12-27,06:39:00,39,snpp,Kuala Kampar , Pelalawan , Riau 
+0.219547,102.846,2015-12-27,06:39:00,42,snpp,Kuala Kampar , Pelalawan , Riau 
+0.460778,102.251,2015-12-27,06:39:00,58,snpp,Bunut , Pelalawan , Riau 
+1.01527,103.015,2015-12-27,06:39:00,64,snpp,Tebing Tinggi , Kepulauan Meranti , Riau 
+2.09053,100.51,2015-12-27,06:39:00,57,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.08946,100.503,2015-12-27,06:39:00,92,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.19711,101.034,2015-12-27,06:39:00,81,snpp,Dumai Barat , Kota Dumai , Riau 
+2.24345,100.941,2015-12-27,06:39:00,57,snpp,Bangko , Rokan Hilir , Riau 
+0,102.994,2015-12-26,06:58:00,33,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0,102.754,2015-12-27,06:39:00,38,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0.188091,102.765,2015-12-27,06:39:00,58,snpp,Kuala Kampar , Pelalawan , Riau 
+0.220612,102.853,2015-12-27,06:39:00,39,snpp,Kuala Kampar , Pelalawan , Riau 
+0.219547,102.846,2015-12-27,06:39:00,42,snpp,Kuala Kampar , Pelalawan , Riau 
+0.460778,102.251,2015-12-27,06:39:00,58,snpp,Bunut , Pelalawan , Riau 
+1.01527,103.015,2015-12-27,06:39:00,64,snpp,Tebing Tinggi , Kepulauan Meranti , Riau 
+2.09053,100.51,2015-12-27,06:39:00,57,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.08946,100.503,2015-12-27,06:39:00,92,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.19711,101.034,2015-12-27,06:39:00,81,snpp,Dumai Barat , Kota Dumai , Riau 
+2.24345,100.941,2015-12-27,06:39:00,57,snpp,Bangko , Rokan Hilir , Riau 
+0,102.754,2015-12-27,06:39:00,38,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0.188091,102.765,2015-12-27,06:39:00,58,snpp,Kuala Kampar , Pelalawan , Riau 
+0.220612,102.853,2015-12-27,06:39:00,39,snpp,Kuala Kampar , Pelalawan , Riau 
+0.219547,102.846,2015-12-27,06:39:00,42,snpp,Kuala Kampar , Pelalawan , Riau 
+0.460778,102.251,2015-12-27,06:39:00,58,snpp,Bunut , Pelalawan , Riau 
+1.01527,103.015,2015-12-27,06:39:00,64,snpp,Tebing Tinggi , Kepulauan Meranti , Riau 
+2.09053,100.51,2015-12-27,06:39:00,57,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.08946,100.503,2015-12-27,06:39:00,92,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.19711,101.034,2015-12-27,06:39:00,81,snpp,Dumai Barat , Kota Dumai , Riau 
+2.24345,100.941,2015-12-27,06:39:00,57,snpp,Bangko , Rokan Hilir , Riau 
+0,101.891418,2015-12-21,06:56:00,30,aqua,Pangkalan Kuras , Pelalawan , Riau 
+0.125748,101.877953,2015-12-21,06:56:00,57,aqua,Langgam , Pelalawan , Riau 
+-0.290518,102.495064,2015-12-19,05:27:00,58,aqua,Rengat , Indragiri Hulur , Riau 
+-0.325959,103.154305,2015-12-23,06:43:00,32,aqua,Tembilahan , Indragiri Hilir , Riau 
+-0.325959,103.154305,2015-12-23,06:43:00,32,aqua,Tembilahan , Indragiri Hilir , Riau 
+-0.325959,103.154305,2015-12-23,05:04:00,67,aqua,Tembilahan , Indragiri Hilir , Riau 
+0.858642,102.496445,2015-12-23,06:43:00,33,aqua,Tebingtinggi Barat , Kepulauan Meranti , Riau 
+1.075477,102.922569,2015-12-23,06:43:00,36,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.858642,102.496445,2015-12-23,06:43:00,33,aqua,Tebingtinggi Barat , Kepulauan Meranti , Riau 
+1.074119,102.913017,2015-12-23,06:43:00,50,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.075477,102.922569,2015-12-23,06:43:00,36,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.074119,102.913017,2015-12-23,06:43:00,50,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.347913,102.44606,2015-12-23,06:43:00,50,aqua,Bengkalis , Bengkalis , Riau 
+1.347913,102.44606,2015-12-23,06:43:00,50,aqua,Bengkalis , Bengkalis , Riau 
+0.858642,102.496445,2015-12-23,05:04:00,79,aqua,Tebingtinggi Barat , Kepulauan Meranti , Riau 
+1.74092,101.580482,2015-12-23,06:43:00,40,aqua,Rupat , Bengkalis , Riau 
+1.74092,101.580482,2015-12-23,06:43:00,40,aqua,Rupat , Bengkalis , Riau 
+1.074119,102.913017,2015-12-23,05:04:00,60,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.347913,102.44606,2015-12-23,05:04:00,72,aqua,Bengkalis , Bengkalis , Riau 
+1.74092,101.580482,2015-12-23,05:04:00,79,aqua,Rupat , Bengkalis , Riau 
+1,102.43399,2015-12-26,07:12:00,53,aqua,Merbau , Kepulauan Meranti , Riau 
+1.439156,101.765305,2015-12-26,07:12:00,10,aqua,Bukit Batu , Bengkalis , Riau 
+1,102.43399,2015-12-24,15:12:00,100,terra,Merbau , Kepulauan Meranti , Riau 
+0,102.754,2015-12-27,06:39:00,38,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0.188091,102.765,2015-12-27,06:39:00,58,snpp,Kuala Kampar , Pelalawan , Riau 
+0.220612,102.853,2015-12-27,06:39:00,39,snpp,Kuala Kampar , Pelalawan , Riau 
+0.219547,102.846,2015-12-27,06:39:00,42,snpp,Kuala Kampar , Pelalawan , Riau 
+0.460778,102.251,2015-12-27,06:39:00,58,snpp,Bunut , Pelalawan , Riau 
+1.01527,103.015,2015-12-27,06:39:00,64,snpp,Tebing Tinggi , Kepulauan Meranti , Riau 
+2.09053,100.51,2015-12-27,06:39:00,57,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.08946,100.503,2015-12-27,06:39:00,92,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.19711,101.034,2015-12-27,06:39:00,81,snpp,Dumai Barat , Kota Dumai , Riau 
+2.24345,100.941,2015-12-27,06:39:00,57,snpp,Bangko , Rokan Hilir , Riau 
+0.864604,102.496902,2015-12-27,03:24:00,43,terra,Tebingtinggi Barat , Kepulauan Meranti , Riau 
+0.535739,102.989784,2015-12-27,03:24:00,33,terra,Kuala Kampar , Pelalawan , Riau 
+0.409359,102.954483,2015-12-27,03:24:00,32,terra,Kuala Kampar , Pelalawan , Riau 
+0.864604,102.496902,2015-12-27,03:24:00,43,terra,Tebingtinggi Barat , Kepulauan Meranti , Riau 
+0.535739,102.989784,2015-12-27,03:24:00,33,terra,Kuala Kampar , Pelalawan , Riau 
+0.07273,102.740013,2015-12-27,03:24:00,52,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.864604,102.496902,2015-12-27,03:24:00,43,terra,Tebingtinggi Barat , Kepulauan Meranti , Riau 
+0.071154,102.750771,2015-12-27,03:24:00,43,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.409359,102.954483,2015-12-27,03:24:00,32,terra,Kuala Kampar , Pelalawan , Riau 
+0.07273,102.740013,2015-12-27,03:24:00,52,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.535739,102.989784,2015-12-27,03:24:00,33,terra,Kuala Kampar , Pelalawan , Riau 
+0.864604,102.496902,2015-12-27,03:24:00,43,terra,Tebingtinggi Barat , Kepulauan Meranti , Riau 
+0.535739,102.989784,2015-12-27,03:24:00,33,terra,Kuala Kampar , Pelalawan , Riau 
+0.409359,102.954483,2015-12-27,03:24:00,32,terra,Kuala Kampar , Pelalawan , Riau 
+0.409359,102.954483,2015-12-27,03:24:00,32,terra,Kuala Kampar , Pelalawan , Riau 
+0.071154,102.750771,2015-12-27,03:24:00,43,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.07273,102.740013,2015-12-27,03:24:00,52,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.864604,102.496902,2015-12-27,03:24:00,43,terra,Tebingtinggi Barat , Kepulauan Meranti , Riau 
+0.071154,102.750771,2015-12-27,03:24:00,43,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.864604,102.496902,2015-12-27,03:24:00,43,terra,Tebingtinggi Barat , Kepulauan Meranti , Riau 
+0.864604,102.496902,2015-12-27,03:24:00,43,terra,Tebingtinggi Barat , Kepulauan Meranti , Riau 
+0.07273,102.740013,2015-12-27,03:24:00,52,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.071154,102.750771,2015-12-27,03:24:00,43,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.535739,102.989784,2015-12-27,03:24:00,33,terra,Kuala Kampar , Pelalawan , Riau 
+0.535739,102.989784,2015-12-27,03:24:00,33,terra,Kuala Kampar , Pelalawan , Riau 
+0.409359,102.954483,2015-12-27,03:24:00,32,terra,Kuala Kampar , Pelalawan , Riau 
+0.409359,102.954483,2015-12-27,03:24:00,32,terra,Kuala Kampar , Pelalawan , Riau 
+0.535739,102.989784,2015-12-27,03:24:00,33,terra,Kuala Kampar , Pelalawan , Riau 
+0.864604,102.496902,2015-12-27,03:24:00,43,terra,Tebingtinggi Barat , Kepulauan Meranti , Riau 
+0.535739,102.989784,2015-12-27,03:24:00,33,terra,Kuala Kampar , Pelalawan , Riau 
+0.07273,102.740013,2015-12-27,03:24:00,52,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.409359,102.954483,2015-12-27,03:24:00,32,terra,Kuala Kampar , Pelalawan , Riau 
+0.07273,102.740013,2015-12-27,03:24:00,52,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.071154,102.750771,2015-12-27,03:24:00,43,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.07273,102.740013,2015-12-27,03:24:00,52,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.409359,102.954483,2015-12-27,03:24:00,32,terra,Kuala Kampar , Pelalawan , Riau 
+0.071154,102.750771,2015-12-27,03:24:00,43,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.07273,102.740013,2015-12-27,03:24:00,52,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.071154,102.750771,2015-12-27,03:24:00,43,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.864604,102.496902,2015-12-27,03:24:00,43,terra,Tebingtinggi Barat , Kepulauan Meranti , Riau 
+0.071154,102.750771,2015-12-27,03:24:00,43,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.535739,102.989784,2015-12-27,03:24:00,33,terra,Kuala Kampar , Pelalawan , Riau 
+0.409359,102.954483,2015-12-27,03:24:00,32,terra,Kuala Kampar , Pelalawan , Riau 
+0.07273,102.740013,2015-12-27,03:24:00,52,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.864604,102.496902,2015-12-27,03:24:00,43,terra,Tebingtinggi Barat , Kepulauan Meranti , Riau 
+0.535739,102.989784,2015-12-27,03:24:00,33,terra,Kuala Kampar , Pelalawan , Riau 
+0.864604,102.496902,2015-12-27,03:24:00,43,terra,Tebingtinggi Barat , Kepulauan Meranti , Riau 
+0.071154,102.750771,2015-12-27,03:24:00,43,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.864604,102.496902,2015-12-27,03:24:00,43,terra,Tebingtinggi Barat , Kepulauan Meranti , Riau 
+0.409359,102.954483,2015-12-27,03:24:00,32,terra,Kuala Kampar , Pelalawan , Riau 
+0.864604,102.496902,2015-12-27,03:24:00,43,terra,Tebingtinggi Barat , Kepulauan Meranti , Riau 
+0.535739,102.989784,2015-12-27,03:24:00,33,terra,Kuala Kampar , Pelalawan , Riau 
+0.07273,102.740013,2015-12-27,03:24:00,52,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.535739,102.989784,2015-12-27,03:24:00,33,terra,Kuala Kampar , Pelalawan , Riau 
+0.864604,102.496902,2015-12-27,03:24:00,43,terra,Tebingtinggi Barat , Kepulauan Meranti , Riau 
+0.409359,102.954483,2015-12-27,03:24:00,32,terra,Kuala Kampar , Pelalawan , Riau 
+0.535739,102.989784,2015-12-27,03:24:00,33,terra,Kuala Kampar , Pelalawan , Riau 
+0.864604,102.496902,2015-12-27,03:24:00,43,terra,Tebingtinggi Barat , Kepulauan Meranti , Riau 
+0.409359,102.954483,2015-12-27,03:24:00,32,terra,Kuala Kampar , Pelalawan , Riau 
+0.535739,102.989784,2015-12-27,03:24:00,33,terra,Kuala Kampar , Pelalawan , Riau 
+0.409359,102.954483,2015-12-27,03:24:00,32,terra,Kuala Kampar , Pelalawan , Riau 
+0.07273,102.740013,2015-12-27,03:24:00,52,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.071154,102.750771,2015-12-27,03:24:00,43,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.535739,102.989784,2015-12-27,03:24:00,33,terra,Kuala Kampar , Pelalawan , Riau 
+0.864604,102.496902,2015-12-27,03:24:00,43,terra,Tebingtinggi Barat , Kepulauan Meranti , Riau 
+0.07273,102.740013,2015-12-27,03:24:00,52,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.409359,102.954483,2015-12-27,03:24:00,32,terra,Kuala Kampar , Pelalawan , Riau 
+0.07273,102.740013,2015-12-27,03:24:00,52,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.071154,102.750771,2015-12-27,03:24:00,43,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.071154,102.750771,2015-12-27,03:24:00,43,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.07273,102.740013,2015-12-27,03:24:00,52,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.409359,102.954483,2015-12-27,03:24:00,32,terra,Kuala Kampar , Pelalawan , Riau 
+0.535739,102.989784,2015-12-27,03:24:00,33,terra,Kuala Kampar , Pelalawan , Riau 
+0.07273,102.740013,2015-12-27,03:24:00,52,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.864604,102.496902,2015-12-27,03:24:00,43,terra,Tebingtinggi Barat , Kepulauan Meranti , Riau 
+0.409359,102.954483,2015-12-27,03:24:00,32,terra,Kuala Kampar , Pelalawan , Riau 
+0.071154,102.750771,2015-12-27,03:24:00,43,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.07273,102.740013,2015-12-27,03:24:00,52,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.071154,102.750771,2015-12-27,03:24:00,43,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.535739,102.989784,2015-12-27,03:24:00,33,terra,Kuala Kampar , Pelalawan , Riau 
+0.864604,102.496902,2015-12-27,03:24:00,43,terra,Tebingtinggi Barat , Kepulauan Meranti , Riau 
+0.535739,102.989784,2015-12-27,03:24:00,33,terra,Kuala Kampar , Pelalawan , Riau 
+0.071154,102.750771,2015-12-27,03:24:00,43,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.409359,102.954483,2015-12-27,03:24:00,32,terra,Kuala Kampar , Pelalawan , Riau 
+0.071154,102.750771,2015-12-27,03:24:00,43,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.07273,102.740013,2015-12-27,03:24:00,52,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.409359,102.954483,2015-12-27,03:24:00,32,terra,Kuala Kampar , Pelalawan , Riau 
+0.071154,102.750771,2015-12-27,03:24:00,43,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.864604,102.496902,2015-12-27,03:24:00,43,terra,Tebingtinggi Barat , Kepulauan Meranti , Riau 
+0.07273,102.740013,2015-12-27,03:24:00,52,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.071154,102.750771,2015-12-27,03:24:00,43,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.535739,102.989784,2015-12-27,03:24:00,33,terra,Kuala Kampar , Pelalawan , Riau 
+0.409359,102.954483,2015-12-27,03:24:00,32,terra,Kuala Kampar , Pelalawan , Riau 
+0.07273,102.740013,2015-12-27,03:24:00,52,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.071154,102.750771,2015-12-27,03:24:00,43,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.864604,102.496902,2015-12-27,03:24:00,43,terra,Tebingtinggi Barat , Kepulauan Meranti , Riau 
+0.535739,102.989784,2015-12-27,03:24:00,33,terra,Kuala Kampar , Pelalawan , Riau 
+0.409359,102.954483,2015-12-27,03:24:00,32,terra,Kuala Kampar , Pelalawan , Riau 
+0.07273,102.740013,2015-12-27,03:24:00,52,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.071154,102.750771,2015-12-27,03:24:00,43,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.864604,102.496902,2015-12-27,03:24:00,43,terra,Tebingtinggi Barat , Kepulauan Meranti , Riau 
+0.535739,102.989784,2015-12-27,03:24:00,33,terra,Kuala Kampar , Pelalawan , Riau 
+0.409359,102.954483,2015-12-27,03:24:00,32,terra,Kuala Kampar , Pelalawan , Riau 
+0.07273,102.740013,2015-12-27,03:24:00,52,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0.071154,102.750771,2015-12-27,03:24:00,43,terra,Gaunganakserka , Indragiri Hilir , Riau 
+0,102.754,2015-12-27,06:39:00,38,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0.188091,102.765,2015-12-27,06:39:00,58,snpp,Kuala Kampar , Pelalawan , Riau 
+0.220612,102.853,2015-12-27,06:39:00,39,snpp,Kuala Kampar , Pelalawan , Riau 
+0.219547,102.846,2015-12-27,06:39:00,42,snpp,Kuala Kampar , Pelalawan , Riau 
+0.460778,102.251,2015-12-27,06:39:00,58,snpp,Bunut , Pelalawan , Riau 
+1.01527,103.015,2015-12-27,06:39:00,64,snpp,Tebing Tinggi , Kepulauan Meranti , Riau 
+2.09053,100.51,2015-12-27,06:39:00,57,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.08946,100.503,2015-12-27,06:39:00,92,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.19711,101.034,2015-12-27,06:39:00,81,snpp,Dumai Barat , Kota Dumai , Riau 
+2.24345,100.941,2015-12-27,06:39:00,57,snpp,Bangko , Rokan Hilir , Riau 
+0,102.754,2015-12-27,06:39:00,38,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0.188091,102.765,2015-12-27,06:39:00,58,snpp,Kuala Kampar , Pelalawan , Riau 
+0.220612,102.853,2015-12-27,06:39:00,39,snpp,Kuala Kampar , Pelalawan , Riau 
+0.219547,102.846,2015-12-27,06:39:00,42,snpp,Kuala Kampar , Pelalawan , Riau 
+0.460778,102.251,2015-12-27,06:39:00,58,snpp,Bunut , Pelalawan , Riau 
+1.01527,103.015,2015-12-27,06:39:00,64,snpp,Tebing Tinggi , Kepulauan Meranti , Riau 
+2.09053,100.51,2015-12-27,06:39:00,57,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.08946,100.503,2015-12-27,06:39:00,92,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.19711,101.034,2015-12-27,06:39:00,81,snpp,Dumai Barat , Kota Dumai , Riau 
+2.24345,100.941,2015-12-27,06:39:00,57,snpp,Bangko , Rokan Hilir , Riau 
+0,102.754,2015-12-27,06:39:00,38,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0.188091,102.765,2015-12-27,06:39:00,58,snpp,Kuala Kampar , Pelalawan , Riau 
+0.220612,102.853,2015-12-27,06:39:00,39,snpp,Kuala Kampar , Pelalawan , Riau 
+0.219547,102.846,2015-12-27,06:39:00,42,snpp,Kuala Kampar , Pelalawan , Riau 
+0.460778,102.251,2015-12-27,06:39:00,58,snpp,Bunut , Pelalawan , Riau 
+1.01527,103.015,2015-12-27,06:39:00,64,snpp,Tebing Tinggi , Kepulauan Meranti , Riau 
+2.09053,100.51,2015-12-27,06:39:00,57,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.08946,100.503,2015-12-27,06:39:00,92,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.19711,101.034,2015-12-27,06:39:00,81,snpp,Dumai Barat , Kota Dumai , Riau 
+2.24345,100.941,2015-12-27,06:39:00,57,snpp,Bangko , Rokan Hilir , Riau 
+0,102.754,2015-12-27,06:39:00,38,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0.188091,102.765,2015-12-27,06:39:00,58,snpp,Kuala Kampar , Pelalawan , Riau 
+0.220612,102.853,2015-12-27,06:39:00,39,snpp,Kuala Kampar , Pelalawan , Riau 
+0.219547,102.846,2015-12-27,06:39:00,42,snpp,Kuala Kampar , Pelalawan , Riau 
+0.460778,102.251,2015-12-27,06:39:00,58,snpp,Bunut , Pelalawan , Riau 
+1.01527,103.015,2015-12-27,06:39:00,64,snpp,Tebing Tinggi , Kepulauan Meranti , Riau 
+2.09053,100.51,2015-12-27,06:39:00,57,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.08946,100.503,2015-12-27,06:39:00,92,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.19711,101.034,2015-12-27,06:39:00,81,snpp,Dumai Barat , Kota Dumai , Riau 
+2.24345,100.941,2015-12-27,06:39:00,57,snpp,Bangko , Rokan Hilir , Riau 
+0,102.754,2015-12-27,06:39:00,38,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0.188091,102.765,2015-12-27,06:39:00,58,snpp,Kuala Kampar , Pelalawan , Riau 
+0.220612,102.853,2015-12-27,06:39:00,39,snpp,Kuala Kampar , Pelalawan , Riau 
+0.219547,102.846,2015-12-27,06:39:00,42,snpp,Kuala Kampar , Pelalawan , Riau 
+0.460778,102.251,2015-12-27,06:39:00,58,snpp,Bunut , Pelalawan , Riau 
+1.01527,103.015,2015-12-27,06:39:00,64,snpp,Tebing Tinggi , Kepulauan Meranti , Riau 
+2.09053,100.51,2015-12-27,06:39:00,57,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.08946,100.503,2015-12-27,06:39:00,92,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.19711,101.034,2015-12-27,06:39:00,81,snpp,Dumai Barat , Kota Dumai , Riau 
+2.24345,100.941,2015-12-27,06:39:00,57,snpp,Bangko , Rokan Hilir , Riau 
+1.17104,100.93,2015-12-28,06:20:00,39,snpp,Mandau , Bengkalis , Riau 
+0,102.754,2015-12-27,06:39:00,38,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0.188091,102.765,2015-12-27,06:39:00,58,snpp,Kuala Kampar , Pelalawan , Riau 
+0.220612,102.853,2015-12-27,06:39:00,39,snpp,Kuala Kampar , Pelalawan , Riau 
+0.219547,102.846,2015-12-27,06:39:00,42,snpp,Kuala Kampar , Pelalawan , Riau 
+0.460778,102.251,2015-12-27,06:39:00,58,snpp,Bunut , Pelalawan , Riau 
+1.01527,103.015,2015-12-27,06:39:00,64,snpp,Tebing Tinggi , Kepulauan Meranti , Riau 
+2.09053,100.51,2015-12-27,06:39:00,57,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.08946,100.503,2015-12-27,06:39:00,92,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.19711,101.034,2015-12-27,06:39:00,81,snpp,Dumai Barat , Kota Dumai , Riau 
+2.24345,100.941,2015-12-27,06:39:00,57,snpp,Bangko , Rokan Hilir , Riau 
+0,102.754,2015-12-27,06:39:00,38,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0.188091,102.765,2015-12-27,06:39:00,58,snpp,Kuala Kampar , Pelalawan , Riau 
+0.220612,102.853,2015-12-27,06:39:00,39,snpp,Kuala Kampar , Pelalawan , Riau 
+0.219547,102.846,2015-12-27,06:39:00,42,snpp,Kuala Kampar , Pelalawan , Riau 
+0.460778,102.251,2015-12-27,06:39:00,58,snpp,Bunut , Pelalawan , Riau 
+1.01527,103.015,2015-12-27,06:39:00,64,snpp,Tebing Tinggi , Kepulauan Meranti , Riau 
+2.09053,100.51,2015-12-27,06:39:00,57,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.08946,100.503,2015-12-27,06:39:00,92,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.19711,101.034,2015-12-27,06:39:00,81,snpp,Dumai Barat , Kota Dumai , Riau 
+2.24345,100.941,2015-12-27,06:39:00,57,snpp,Bangko , Rokan Hilir , Riau 
+1.17104,100.93,2015-12-28,06:20:00,39,snpp,Mandau , Bengkalis , Riau 
+0,102.754,2015-12-27,06:39:00,38,snpp,Gaunganakserka , Indragiri Hilir , Riau 
+0.188091,102.765,2015-12-27,06:39:00,58,snpp,Kuala Kampar , Pelalawan , Riau 
+0.220612,102.853,2015-12-27,06:39:00,39,snpp,Kuala Kampar , Pelalawan , Riau 
+0.219547,102.846,2015-12-27,06:39:00,42,snpp,Kuala Kampar , Pelalawan , Riau 
+0.460778,102.251,2015-12-27,06:39:00,58,snpp,Bunut , Pelalawan , Riau 
+1.01527,103.015,2015-12-27,06:39:00,64,snpp,Tebing Tinggi , Kepulauan Meranti , Riau 
+2.09053,100.51,2015-12-27,06:39:00,57,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.08946,100.503,2015-12-27,06:39:00,92,snpp,Bagan Sinembah , Rokan Hilir , Riau 
+2.19711,101.034,2015-12-27,06:39:00,81,snpp,Dumai Barat , Kota Dumai , Riau 
+2.24345,100.941,2015-12-27,06:39:00,57,snpp,Bangko , Rokan Hilir , Riau 
+1.17104,100.93,2015-12-28,06:20:00,39,snpp,Mandau , Bengkalis , Riau 
+1.17104,100.93,2015-12-28,06:20:00,39,snpp,Mandau , Bengkalis , Riau 
+1.17104,100.93,2015-12-28,06:20:00,39,snpp,Mandau , Bengkalis , Riau 
+1.17104,100.93,2015-12-28,06:20:00,39,snpp,Mandau , Bengkalis , Riau 
+1.17104,100.93,2015-12-28,06:20:00,39,snpp,Mandau , Bengkalis , Riau 
+1.17104,100.93,2015-12-28,06:20:00,39,snpp,Mandau , Bengkalis , Riau 
+1.17104,100.93,2015-12-28,06:20:00,39,snpp,Mandau , Bengkalis , Riau 
+1.17104,100.93,2015-12-28,06:20:00,39,snpp,Mandau , Bengkalis , Riau 
+1.17104,100.93,2015-12-28,06:20:00,39,snpp,Mandau , Bengkalis , Riau 
+1.17104,100.93,2015-12-28,06:20:00,39,snpp,Mandau , Bengkalis , Riau 
+1.17104,100.93,2015-12-28,06:20:00,39,snpp,Mandau , Bengkalis , Riau 
+1.17104,100.93,2015-12-28,06:20:00,39,snpp,Mandau , Bengkalis , Riau 
+1.07291,102.922813,2015-12-30,06:47:00,53,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.457811,101.754494,2015-12-30,06:47:00,90,aqua,Bukit Batu , Bengkalis , Riau 
+1.456387,101.744499,2015-12-30,06:47:00,100,aqua,Bukit Batu , Bengkalis , Riau 
+1.507444,101.519081,2015-12-30,06:47:00,68,aqua,Bukit Batu , Bengkalis , Riau 

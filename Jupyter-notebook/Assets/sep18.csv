@@ -1,0 +1,541 @@
+Lintang (deg), Bujur (deg), Tanggal (dd/mm/yyy), Waktu Akuisisi (UTC), Tingkat Kepercayaan (%), Satelit, Kecamatan, Kabupaten, Provinsi
+0.0294836442918,101.882286072,2018-09-02,03:01:00,62,terra,Pangkalan Kuras , Kab. Pelalawan , Riau 
+0.0244046375155,101.917068481,2018-09-02,03:01:00,37,terra,Pangkalan Kuras , Kab. Pelalawan , Riau 
+0.0190422479063,101.908699036,2018-09-02,03:01:00,47,terra,Pangkalan Kuras , Kab. Pelalawan , Riau 
+-0.20010791719,102.937133789,2018-09-02,03:01:00,49,terra,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+-0.0879805088043,102.67401123,2018-09-03,03:47:00,62,terra,Rengat , Kab. Indragiri Hulu , Riau 
+-0.0883473455906,102.671554565,2018-09-03,06:37:00,78,aqua,Rengat , Kab. Indragiri Hulu , Riau 
+-0.0873677283525,101.589447021,2018-09-03,06:37:00,90,aqua,Langgam , Kab. Pelalawan , Riau 
+-0.0887210518122,101.580062866,2018-09-03,06:37:00,74,aqua,Langgam , Kab. Pelalawan , Riau 
+0.888960599899,101.785453796,2018-09-03,06:37:00,45,aqua,Siak , Kab. Siak , Riau 
+0.776646018028,100.437522888,2018-09-03,06:37:00,66,aqua,Rambah , Kab. Rokan Hulu , Riau 
+1.57810807228,100.824462891,2018-09-03,06:37:00,71,aqua,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.57670259476,100.814727783,2018-09-03,06:37:00,75,aqua,Tanah Putih , Kab. Rokan Hilir , Riau 
+1.82330918312,101.627113342,2018-09-03,06:37:00,40,aqua,Rupat , Kab. Bengkalis , Riau 
+1.81721246243,101.206680298,2018-09-03,06:37:00,48,aqua,Dumai Barat , Kota Dumai , Riau 
+1.85777652264,101.16242218,2018-09-03,06:37:00,62,aqua,Dumai Barat , Kota Dumai , Riau 
+1.48362255096,101.821350098,2018-09-04,07:18:00,25,aqua,Bukit Batu , Kab. Bengkalis , Riau 
+0.778435,100.437,2018-09-04,06:25:19,80,snpp,Rambah Samo , Rokan Hulu , Riau 
+1.59745,100.894,2018-09-04,06:25:19,100,snpp,Bangko Pusako , Rokan Hilir , Riau 
+1.85621750355,101.604278564,2018-09-05,03:33:00,34,terra,Rupat , Kab. Bengkalis , Riau 
+-0.325365513563,103.161262512,2018-09-05,06:24:00,26,aqua,Tembilahan , Kab. Indragiri Hilir , Riau 
+-0.326968818903,103.150115967,2018-09-05,06:24:00,59,aqua,Tembilahan , Kab. Indragiri Hilir , Riau 
+1.93855154514,101.433296204,2018-09-10,03:49:00,47,terra,Rupat , Kab. Bengkalis , Riau 
+0.318085968494,101.180587769,2018-09-10,03:49:00,64,terra,Kampar Timur , Kab. Kampar , Riau 
+-0.205608919263,102.354003906,2018-09-10,03:49:00,29,terra,Rengat , Kab. Indragiri Hulu , Riau 
+-0.888843595982,102.094856262,2018-09-10,06:43:00,50,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+-0.822192966938,102.299003601,2018-09-10,06:43:00,51,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+-0.842686295509,102.090766907,2018-09-10,06:43:00,28,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+-0.843965828419,102.081802368,2018-09-10,06:43:00,69,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+-0.583064615726,102.298561096,2018-09-10,06:43:00,88,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+-0.635846555233,101.86618042,2018-09-10,06:43:00,59,aqua,Peranap , Kab. Indragiri Hulu , Riau 
+-0.28636482358,101.864517212,2018-09-10,06:43:00,75,aqua,Pangkalan Kuras , Kab. Pelalawan , Riau 
+-0.243903636932,101.90750885,2018-09-10,06:43:00,65,aqua,Pangkalan Kuras , Kab. Pelalawan , Riau 
+-0.22323410213,101.731193542,2018-09-10,06:43:00,74,aqua,Pangkalan Kuras , Kab. Pelalawan , Riau 
+-0.224509879947,101.722259521,2018-09-10,06:43:00,61,aqua,Pangkalan Kuras , Kab. Pelalawan , Riau 
+-0.837265,102.084,2018-09-10,06:11:21,45,snpp,Peranap , Indragiri Hulu , Riau 
+-0.294133,101.884,2018-09-10,06:11:21,34,snpp,Ukui , Pelalawan , Riau 
+-0.21911,101.73,2018-09-10,06:11:21,74,snpp,Pangkalan Kuras , Pelalawan , Riau 
+1.47949433327,101.003921509,2018-09-12,03:39:00,62,terra,Tanah Putih , Kab. Rokan Hilir , Riau 
+0.976056218147,103.045646667,2018-09-12,03:39:00,49,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.974719405174,103.054649353,2018-09-12,03:39:00,44,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.626850187778,102.72644043,2018-09-12,03:39:00,45,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.483962416649,102.012298584,2018-09-12,03:39:00,37,terra,Bunut , Kab. Pelalawan , Riau 
+-0.880463600159,102.078689575,2018-09-12,03:39:00,82,terra,Seberida , Kab. Indragiri Hulu , Riau 
+-0.855480670929,102.320228577,2018-09-12,06:29:00,55,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+-0.85691934824,102.309997559,2018-09-12,06:29:00,38,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+0.297515243292,103.008155823,2018-09-12,06:29:00,78,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.589266002178,102.040344238,2018-09-12,06:29:00,28,aqua,Siak Sri Indrapura , Kab. Siak , Riau 
+0.900749742985,103.104827881,2018-09-12,06:29:00,60,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.24178206921,100.708305359,2018-09-12,06:29:00,59,aqua,Tanah Putih , Kab. Rokan Hilir , Riau 
+-0.871101140976,102.047584534,2018-09-12,06:30:00,65,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+1.904910326,101.469512939,2018-09-12,06:30:00,63,aqua,Rupat , Kab. Bengkalis , Riau 
+-0.869632,102.044,2018-09-12,18:15:57,52,snpp,Peranap , Indragiri Hulu , Riau 
+-0.868651330471,102.045806885,2018-09-12,15:55:00,49,terra,Seberida , Kab. Indragiri Hulu , Riau 
+0.392628192902,101.891769409,2018-09-12,15:55:00,49,terra,Bunut , Kab. Pelalawan , Riau 
+0.150836601853,101.864273071,2018-09-13,07:12:00,42,aqua,Langgam , Kab. Pelalawan , Riau 
+0.608321726322,102.088424683,2018-09-13,07:12:00,47,aqua,Siak Sri Indrapura , Kab. Siak , Riau 
+0.159315645695,101.862731934,2018-09-13,15:00:00,60,terra,Langgam , Kab. Pelalawan , Riau 
+-0.220953,101.772,2018-09-13,17:57:03,100,snpp,Ukui , Pelalawan , Riau 
+0.166783,101.873,2018-09-13,17:55:37,82,snpp,Langgam , Pelalawan , Riau 
+0.798151791096,102.264671326,2018-09-14,03:26:00,31,terra,Sungai Apit , Kab. Siak , Riau 
+0.172453507781,101.864974976,2018-09-14,03:26:00,83,terra,Langgam , Kab. Pelalawan , Riau 
+0.170709580183,101.876785278,2018-09-14,03:26:00,86,terra,Pangkalan Kuras , Kab. Pelalawan , Riau 
+0.162214025855,101.863555908,2018-09-14,03:26:00,67,terra,Langgam , Kab. Pelalawan , Riau 
+0.160481244326,101.875350952,2018-09-14,03:26:00,88,terra,Langgam , Kab. Pelalawan , Riau 
+-0.2133038342,101.773200989,2018-09-14,03:26:00,86,terra,Pangkalan Kuras , Kab. Pelalawan , Riau 
+-0.215035289526,101.785087585,2018-09-14,03:26:00,83,terra,Pangkalan Kuras , Kab. Pelalawan , Riau 
+-0.198728829622,102.356636047,2018-09-14,06:17:00,69,aqua,Rengat , Kab. Indragiri Hulu , Riau 
+-0.24103488028,101.895271301,2018-09-14,06:17:00,34,aqua,Pangkalan Kuras , Kab. Pelalawan , Riau 
+-0.211805522442,101.744819641,2018-09-14,06:17:00,20,aqua,Pangkalan Kuras , Kab. Pelalawan , Riau 
+-0.191036760807,101.603683472,2018-09-14,06:17:00,66,aqua,Langgam , Kab. Pelalawan , Riau 
+0.171093285084,101.865272522,2018-09-14,06:17:00,66,aqua,Langgam , Kab. Pelalawan , Riau 
+0.16221614182,101.859672546,2018-09-14,06:17:00,75,aqua,Langgam , Kab. Pelalawan , Riau 
+0.613796174526,102.100349426,2018-09-14,06:17:00,44,aqua,Siak Sri Indrapura , Kab. Siak , Riau 
+0.796559751034,102.260734558,2018-09-14,06:17:00,57,aqua,Sungai Apit , Kab. Siak , Riau 
+0.611519217491,102.084037781,2018-09-14,06:17:00,64,aqua,Siak Sri Indrapura , Kab. Siak , Riau 
+-0.885617,102.085,2018-09-14,06:36:39,26,snpp,Peranap , Indragiri Hulu , Riau 
+-0.880024,102.077,2018-09-14,06:36:39,29,snpp,Peranap , Indragiri Hulu , Riau 
+-0.904096,101.918,2018-09-14,06:36:39,75,snpp,Kuantan Mudik , Kuantan Singingi , Riau 
+-0.905142,101.911,2018-09-14,06:36:39,94,snpp,Kuantan Mudik , Kuantan Singingi , Riau 
+-0.274424,101.926,2018-09-14,06:36:39,60,snpp,Ukui , Pelalawan , Riau 
+-0.211215,101.718,2018-09-14,06:36:39,91,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.162251,101.683,2018-09-14,06:36:39,50,snpp,Pangkalan Kuras , Pelalawan , Riau 
+-0.105445,101.793,2018-09-14,06:36:39,70,snpp,Pangkalan Kuras , Pelalawan , Riau 
+0.15686,101.873,2018-09-14,06:36:39,84,snpp,Langgam , Pelalawan , Riau 
+0.155813,101.866,2018-09-14,06:36:39,78,snpp,Langgam , Pelalawan , Riau 
+0.170139,101.871,2018-09-14,06:36:39,100,snpp,Langgam , Pelalawan , Riau 
+-0.269652873278,101.930007935,2018-09-14,15:45:00,89,terra,Pangkalan Kuras , Kab. Pelalawan , Riau 
+-0.271097093821,101.920021057,2018-09-14,15:45:00,100,terra,Pangkalan Kuras , Kab. Pelalawan , Riau 
+-0.258744567633,101.901763916,2018-09-14,15:45:00,45,terra,Pangkalan Kuras , Kab. Pelalawan , Riau 
+0.913456499577,102.506767273,2018-09-14,18:44:00,78,aqua,Tebingtinggi Barat , Kab. Kepulauan Meranti , Riau 
+0.170297831297,101.863594055,2018-09-14,18:44:00,27,aqua,Langgam , Kab. Pelalawan , Riau 
+0.168984353542,101.872512817,2018-09-14,18:44:00,100,aqua,Langgam , Kab. Pelalawan , Riau 
+0.167671784759,101.88143158,2018-09-14,18:44:00,89,aqua,Langgam , Kab. Pelalawan , Riau 
+0.160024389625,101.871238708,2018-09-14,18:44:00,9,aqua,Langgam , Kab. Pelalawan , Riau 
+0.158713236451,101.880149841,2018-09-14,18:44:00,26,aqua,Langgam , Kab. Pelalawan , Riau 
+-0.263149917126,101.931549072,2018-09-14,18:44:00,10,aqua,Pangkalan Kuras , Kab. Pelalawan , Riau 
+0.163460180163,101.877593994,2018-09-14,15:43:00,90,terra,Langgam , Kab. Pelalawan , Riau 
+0.162022992969,101.86756134,2018-09-14,15:43:00,62,terra,Langgam , Kab. Pelalawan , Riau 
+0.907510340214,102.509216309,2018-09-14,15:43:00,40,terra,Tebingtinggi Barat , Kab. Kepulauan Meranti , Riau 
+0.905928611755,102.498207092,2018-09-14,15:43:00,71,terra,Tebingtinggi Barat , Kab. Kepulauan Meranti , Riau 
+-0.742289,102.47,2018-09-15,06:17:43,87,snpp,Batang Gansal , Indragiri Hulu , Riau 
+-0.294487,101.916,2018-09-15,06:17:43,73,snpp,Ukui , Pelalawan , Riau 
+-0.286509,101.915,2018-09-15,06:17:43,53,snpp,Ukui , Pelalawan , Riau 
+-0.291046559811,101.909317017,2018-09-16,15:32:00,8,terra,Pangkalan Kuras , Kab. Pelalawan , Riau 
+-0.292356818914,101.900123596,2018-09-16,15:32:00,100,terra,Pangkalan Kuras , Kab. Pelalawan , Riau 
+0.624326348305,100.724052429,2018-09-16,15:32:00,28,terra,Tapung Hulu , Kab. Kampar , Riau 
+0.602607011795,102.793685913,2018-09-17,03:55:00,48,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+-0.873863697052,102.057403564,2018-09-17,03:55:00,40,terra,Seberida , Kab. Indragiri Hulu , Riau 
+-0.843150675297,102.340522766,2018-09-17,06:50:00,58,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+-0.883495390415,102.060050964,2018-09-17,06:50:00,54,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+-0.884921550751,102.050132751,2018-09-17,06:50:00,86,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+-0.874062359333,102.058891296,2018-09-17,06:50:00,89,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+-0.875503242016,102.048912048,2018-09-17,06:50:00,94,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+-0.0509046204388,103.094245911,2018-09-17,06:48:00,37,aqua,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+-0.743562340736,102.467147827,2018-09-17,06:48:00,62,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+-0.561634480953,102.597183228,2018-09-18,03:01:00,86,terra,Seberida , Kab. Indragiri Hulu , Riau 
+0.718312561512,102.482048035,2018-09-19,03:47:00,39,terra,Sungai Apit , Kab. Siak , Riau 
+-0.42622423172,102.746932983,2018-09-19,06:36:00,51,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.427501887083,102.737983704,2018-09-19,06:36:00,32,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.199315860868,102.363990784,2018-09-22,07:05:00,28,aqua,Rengat , Kab. Indragiri Hulu , Riau 
+-0.00495172524825,101.719573975,2018-09-22,07:05:00,67,aqua,Langgam , Kab. Pelalawan , Riau 
+1.82094633579,101.618972778,2018-09-23,03:19:00,46,terra,Rupat , Kab. Bengkalis , Riau 
+0.886951684952,101.958129883,2018-09-23,03:19:00,45,terra,Siak Sri Indrapura , Kab. Siak , Riau 
+0.902206659317,101.793922424,2018-09-23,03:19:00,40,terra,Siak , Kab. Siak , Riau 
+0.890490353107,101.792274475,2018-09-23,03:19:00,60,terra,Siak , Kab. Siak , Riau 
+0.853054642677,101.80317688,2018-09-23,03:19:00,20,terra,Siak Sri Indrapura , Kab. Siak , Riau 
+-0.550186038017,102.612487793,2018-09-23,03:19:00,31,terra,Rengat , Kab. Indragiri Hulu , Riau 
+-0.560916721821,102.610961914,2018-09-23,03:19:00,60,terra,Rengat , Kab. Indragiri Hulu , Riau 
+0.470309793949,102.175971985,2018-09-23,06:11:00,14,aqua,Bunut , Kab. Pelalawan , Riau 
+0.824472665787,102.188606262,2018-09-23,06:11:00,45,aqua,Siak Sri Indrapura , Kab. Siak , Riau 
+0.929032921791,101.896751404,2018-09-23,06:11:00,61,aqua,Siak Sri Indrapura , Kab. Siak , Riau 
+0.924620211124,101.915313721,2018-09-23,06:11:00,33,aqua,Siak Sri Indrapura , Kab. Siak , Riau 
+0.552255272865,102.201194763,2018-09-23,06:10:00,19,aqua,Bunut , Kab. Pelalawan , Riau 
+-0.558517217636,102.615318298,2018-09-23,15:38:00,59,terra,Rengat , Kab. Indragiri Hulu , Riau 
+-0.549406945705,102.614006042,2018-09-23,15:38:00,71,terra,Rengat , Kab. Indragiri Hulu , Riau 
+-0.54848664999,102.614120483,2018-09-23,18:37:00,82,aqua,Rengat , Kab. Indragiri Hulu , Riau 
+1.30864429474,102.009414673,2018-09-24,04:02:00,29,terra,Bukit Batu , Kab. Bengkalis , Riau 
+1.00130057335,102.918769836,2018-09-24,04:02:00,53,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.992439091206,102.910697937,2018-09-24,04:02:00,54,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.989340603352,102.93170929,2018-09-24,04:02:00,45,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+1.10917985439,101.031707764,2018-09-24,04:02:00,48,terra,Pinggir , Kab. Bengkalis , Riau 
+0.900873243809,101.783950806,2018-09-24,04:02:00,34,terra,Siak , Kab. Siak , Riau 
+0.800784349442,102.257843018,2018-09-24,04:02:00,42,terra,Sungai Apit , Kab. Siak , Riau 
+0.679875314236,102.890716553,2018-09-24,04:02:00,36,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.827491343021,101.62310791,2018-09-24,04:02:00,58,terra,Siak , Kab. Siak , Riau 
+0.614637970924,102.105125427,2018-09-24,04:02:00,58,terra,Siak Sri Indrapura , Kab. Siak , Riau 
+0.559669733047,102.203971863,2018-09-24,04:02:00,42,terra,Bunut , Kab. Pelalawan , Riau 
+0.483424752951,102.187538147,2018-09-24,04:02:00,60,terra,Bunut , Kab. Pelalawan , Riau 
+0.365992039442,102.908073425,2018-09-24,04:02:00,41,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.385630220175,102.053359985,2018-09-24,04:02:00,52,terra,Bunut , Kab. Pelalawan , Riau 
+0.301280021667,102.449829102,2018-09-24,04:02:00,45,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.298342227936,102.469642639,2018-09-24,04:02:00,37,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.292428433895,102.509536743,2018-09-24,04:02:00,66,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.029365837574,102.704994202,2018-09-24,04:02:00,32,terra,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+-0.103556454182,102.89805603,2018-09-24,04:02:00,39,terra,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+-0.195623964071,102.3620224,2018-09-24,04:02:00,46,terra,Rengat , Kab. Indragiri Hulu , Riau 
+-0.559364438057,102.605926514,2018-09-24,04:02:00,62,terra,Rengat , Kab. Indragiri Hulu , Riau 
+0.0338288322091,102.698204041,2018-09-24,06:53:00,19,aqua,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+-0.0125306034461,102.380172729,2018-09-24,06:53:00,84,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.298078775406,102.443717957,2018-09-24,06:53:00,47,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.797525882721,102.260498047,2018-09-24,06:53:00,54,aqua,Sungai Apit , Kab. Siak , Riau 
+0.994769215584,102.915710449,2018-09-24,06:53:00,73,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.227257,102.896,2018-09-24,06:49:24,65,snpp,Teluk Meranti , Pelalawan , Riau 
+0.786764383316,102.262077332,2018-09-24,06:53:00,13,aqua,Sungai Apit , Kab. Siak , Riau 
+1.49526441097,101.834075928,2018-09-25,03:06:00,42,terra,Bukit Batu , Kab. Bengkalis , Riau 
+-0.398306488991,102.723320007,2018-09-25,03:06:00,81,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.40156647563,102.745559692,2018-09-25,03:06:00,81,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.416628271341,102.718780518,2018-09-25,05:59:00,73,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.399882405996,102.716468811,2018-09-25,05:59:00,86,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.782822,102.799,2018-09-25,06:30:31,77,snpp,Kemuning , Indragiri Hilir , Riau 
+-0.555378,102.613,2018-09-25,06:30:31,34,snpp,Batang Gansal , Indragiri Hulu , Riau 
+-0.413688,102.742,2018-09-25,06:30:31,76,snpp,Kempas , Indragiri Hilir , Riau 
+-0.414756,102.735,2018-09-25,06:30:31,100,snpp,Kempas , Indragiri Hilir , Riau 
+-0.407008,102.741,2018-09-25,06:30:31,97,snpp,Kempas , Indragiri Hilir , Riau 
+-0.408076,102.734,2018-09-25,06:30:31,100,snpp,Kempas , Indragiri Hilir , Riau 
+-0.400329,102.74,2018-09-25,06:30:31,77,snpp,Kempas , Indragiri Hilir , Riau 
+-0.401389,102.733,2018-09-25,06:30:31,100,snpp,Kempas , Indragiri Hilir , Riau 
+-0.402456,102.726,2018-09-25,06:30:31,100,snpp,Kempas , Indragiri Hilir , Riau 
+-0.403516,102.719,2018-09-25,06:30:31,87,snpp,Kempas , Indragiri Hilir , Riau 
+-0.395776,102.725,2018-09-25,06:30:31,100,snpp,Kempas , Indragiri Hilir , Riau 
+-0.396833,102.718,2018-09-25,06:30:31,100,snpp,Kempas , Indragiri Hilir , Riau 
+-0.256117,103.42,2018-09-25,06:30:31,53,snpp,Kuala Indragiri , Indragiri Hilir , Riau 
+-0.0613751,102.079,2018-09-25,06:30:31,63,snpp,Pangkalan Lesung , Pelalawan , Riau 
+0.297554,101.869,2018-09-25,06:30:31,80,snpp,Pangkalan Kerinci , Pelalawan , Riau 
+-0.418313831091,102.743019104,2018-09-25,15:25:00,43,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.419711619616,102.733306885,2018-09-25,15:25:00,84,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.407588928938,102.751396179,2018-09-25,15:25:00,55,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.408981621265,102.741691589,2018-09-25,15:25:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.410375416279,102.73197937,2018-09-25,15:25:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.411770969629,102.722251892,2018-09-25,15:25:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.399648994207,102.740364075,2018-09-25,15:25:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.401038497686,102.730651855,2018-09-25,15:25:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.402429908514,102.720924377,2018-09-25,15:25:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.403823286295,102.71118927,2018-09-25,15:25:00,90,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.390317857265,102.739021301,2018-09-25,15:25:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.391702830791,102.729316711,2018-09-25,15:25:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.393089741468,102.719589233,2018-09-25,15:25:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.394478231668,102.709861755,2018-09-25,15:25:00,64,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.380069702864,102.730003357,2018-09-25,18:27:00,16,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.382034957409,102.743209839,2018-09-25,18:27:00,58,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.388890445232,102.715194702,2018-09-25,18:27:00,48,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.390850663185,102.72844696,2018-09-25,18:27:00,100,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.392805188894,102.741661072,2018-09-25,18:27:00,100,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.399679243565,102.713615417,2018-09-25,18:27:00,89,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.401629298925,102.726882935,2018-09-25,18:27:00,100,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.403573602438,102.740097046,2018-09-25,18:27:00,100,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.412405371666,102.725288391,2018-09-25,18:27:00,89,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.414338290691,102.738510132,2018-09-25,18:27:00,44,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+0.964544951916,103.067092896,2018-09-26,03:49:00,47,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.848887979984,102.253257751,2018-09-26,03:49:00,14,terra,Sungai Apit , Kab. Siak , Riau 
+0.298127710819,102.452522278,2018-09-26,03:49:00,33,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+-0.183356761932,103.077682495,2018-09-26,03:49:00,68,terra,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+-0.388121724129,102.742683411,2018-09-26,03:49:00,86,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.389952123165,102.755195618,2018-09-26,03:49:00,13,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.398623555899,102.741188049,2018-09-26,03:49:00,90,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.400464743376,102.753707886,2018-09-26,03:49:00,53,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.40912976861,102.739723206,2018-09-26,03:49:00,89,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.410979092121,102.752227783,2018-09-26,03:49:00,79,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.415929317474,102.71333313,2018-09-26,03:49:00,61,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.417779535055,102.725776672,2018-09-26,03:49:00,71,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.419635027647,102.738258362,2018-09-26,03:49:00,80,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.421493798494,102.75075531,2018-09-26,03:49:00,44,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.793236613274,102.783180237,2018-09-26,06:43:00,84,aqua,Keritang , Kab. Indragiri Hilir , Riau 
+-0.940373897552,101.692108154,2018-09-26,06:43:00,54,aqua,Kuatan Mudik , Kab. Kuantan Singingi , Riau 
+-0.812957108021,101.679733276,2018-09-26,06:43:00,78,aqua,Kuatan Mudik , Kab. Kuantan Singingi , Riau 
+-0.561219990253,102.610038757,2018-09-26,06:43:00,30,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+-0.412568956614,102.741584778,2018-09-26,06:43:00,65,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.415226072073,102.723136902,2018-09-26,06:43:00,84,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.416552871466,102.713920593,2018-09-26,06:43:00,83,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.402121931314,102.74949646,2018-09-26,06:43:00,52,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.403454661369,102.740264893,2018-09-26,06:43:00,38,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+0.982881426811,102.918647766,2018-09-26,06:43:00,56,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.972831070423,103.047576904,2018-09-26,06:41:00,38,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.992271,102.924,2018-09-26,06:13:00,79,snpp,Rangsang , Kepulauan Meranti , Riau 
+0.991166,102.917,2018-09-26,06:13:00,70,snpp,Rangsang , Kepulauan Meranti , Riau 
+-0.40057,102.749,2018-09-26,06:11:35,42,snpp,Kempas , Indragiri Hilir , Riau 
+-0.39216,102.747,2018-09-26,06:11:35,100,snpp,Kempas , Indragiri Hilir , Riau 
+-0.393303,102.74,2018-09-26,06:11:35,100,snpp,Kempas , Indragiri Hilir , Riau 
+-0.394456,102.732,2018-09-26,06:11:35,80,snpp,Kempas , Indragiri Hilir , Riau 
+-0.384893,102.739,2018-09-26,06:11:35,98,snpp,Kempas , Indragiri Hilir , Riau 
+-0.415084213018,102.754211426,2018-09-27,15:13:00,54,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.417209178209,102.739128113,2018-09-27,15:13:00,84,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.419339448214,102.723999023,2018-09-27,15:13:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.421478658915,102.708816528,2018-09-27,15:13:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.423626154661,102.693572998,2018-09-27,15:13:00,93,terra,Rengat , Kab. Indragiri Hulu , Riau 
+-0.40364292264,102.752578735,2018-09-27,15:13:00,87,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.405751377344,102.737510681,2018-09-27,15:13:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.40786704421,102.722389221,2018-09-27,15:13:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.409991502762,102.707206726,2018-09-27,15:13:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.412123203278,102.691970825,2018-09-27,15:13:00,100,terra,Rengat , Kab. Indragiri Hulu , Riau 
+-0.392203181982,102.750946045,2018-09-27,15:13:00,91,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.394294977188,102.73589325,2018-09-27,15:13:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.396395653486,102.72077179,2018-09-27,15:13:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.398504078388,102.705596924,2018-09-27,15:13:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.400619506836,102.690376282,2018-09-27,15:13:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.383130759001,102.744064331,2018-09-27,15:13:00,99,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.385322958231,102.729019165,2018-09-27,15:13:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.387523174286,102.713928223,2018-09-27,15:13:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.389732837677,102.698768616,2018-09-27,15:13:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.391950398684,102.683555603,2018-09-27,15:13:00,33,terra,Rengat , Kab. Indragiri Hulu , Riau 
+0.133611813188,102.577430725,2018-09-27,15:13:00,52,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.132844254375,102.587394714,2018-09-27,15:13:00,63,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+-0.377951949835,102.706436157,2018-09-27,18:11:00,73,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.381343632936,102.729415894,2018-09-27,18:11:00,100,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.384714275599,102.752258301,2018-09-27,18:11:00,98,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.391787588596,102.704391479,2018-09-27,18:11:00,100,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.395155280828,102.727401733,2018-09-27,18:11:00,100,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.405614674091,102.702293396,2018-09-27,18:11:00,100,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.408957004547,102.725311279,2018-09-27,18:11:00,100,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.422756135464,102.723197937,2018-09-27,18:11:00,76,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.405663788319,102.74370575,2018-09-27,18:11:00,84,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.412454396486,102.695770264,2018-09-27,18:11:00,89,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.419443637133,102.741653442,2018-09-27,18:11:00,91,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.413671,102.727,2018-09-27,05:52:39,69,snpp,Kempas , Indragiri Hilir , Riau 
+-0.414957,102.719,2018-09-27,05:52:39,100,snpp,Kempas , Indragiri Hilir , Riau 
+-0.387817,102.74,2018-09-27,05:52:39,100,snpp,Kempas , Indragiri Hilir , Riau 
+-0.389074,102.732,2018-09-27,05:52:39,100,snpp,Kempas , Indragiri Hilir , Riau 
+0.127772,102.586,2018-09-27,18:33:41,46,snpp,Teluk Meranti , Pelalawan , Riau 
+-0.387053,102.717,2018-09-27,18:33:41,95,snpp,Kempas , Indragiri Hilir , Riau 
+-0.388134,102.724,2018-09-27,18:33:41,100,snpp,Kempas , Indragiri Hilir , Riau 
+-0.389215,102.731,2018-09-27,18:33:41,100,snpp,Kempas , Indragiri Hilir , Riau 
+-0.390296,102.738,2018-09-27,18:33:41,100,snpp,Kempas , Indragiri Hilir , Riau 
+-0.391253,102.702,2018-09-27,18:33:41,100,snpp,Kuala Cenaku , Indragiri Hulu , Riau 
+-0.392332,102.709,2018-09-27,18:33:41,100,snpp,Kuala Cenaku , Indragiri Hulu , Riau 
+-0.396807,102.694,2018-09-27,18:33:41,33,snpp,Kuala Cenaku , Indragiri Hulu , Riau 
+-0.400046,102.715,2018-09-27,18:33:41,100,snpp,Kuala Cenaku , Indragiri Hulu , Riau 
+-0.401126,102.722,2018-09-27,18:33:41,52,snpp,Kempas , Indragiri Hilir , Riau 
+-0.402207,102.729,2018-09-27,18:33:41,99,snpp,Kempas , Indragiri Hilir , Riau 
+-0.405445,102.749,2018-09-27,18:33:41,71,snpp,Kempas , Indragiri Hilir , Riau 
+-0.404522,102.7,2018-09-27,18:33:41,100,snpp,Kuala Cenaku , Indragiri Hulu , Riau 
+-0.405601,102.707,2018-09-27,18:33:41,100,snpp,Kuala Cenaku , Indragiri Hulu , Riau 
+-0.410076,102.692,2018-09-27,18:33:41,92,snpp,Kuala Cenaku , Indragiri Hulu , Riau 
+-0.413316,102.713,2018-09-27,18:33:41,100,snpp,Kuala Cenaku , Indragiri Hulu , Riau 
+-0.414396,102.72,2018-09-27,18:33:41,100,snpp,Kempas , Indragiri Hilir , Riau 
+-0.418716,102.747,2018-09-27,18:33:41,8,snpp,Kempas , Indragiri Hilir , Riau 
+-0.418871,102.705,2018-09-27,18:33:41,100,snpp,Kuala Cenaku , Indragiri Hulu , Riau 
+-0.422111,102.726,2018-09-27,18:33:41,76,snpp,Kempas , Indragiri Hilir , Riau 
+0.99237215519,102.919692993,2018-09-28,03:38:00,52,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.891800940037,103.100746155,2018-09-28,03:38:00,63,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.286922335625,102.516639709,2018-09-28,03:38:00,31,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.129212155938,102.588394165,2018-09-28,03:38:00,90,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+-0.387223005295,102.715156555,2018-09-28,03:38:00,93,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.388545662165,102.724143982,2018-09-28,03:38:00,94,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.389868736267,102.733139038,2018-09-28,03:38:00,92,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.391192317009,102.742141724,2018-09-28,03:38:00,91,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.392516255379,102.751144409,2018-09-28,03:38:00,71,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.393578112125,102.695907593,2018-09-28,03:38:00,89,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.394901245832,102.70488739,2018-09-28,03:38:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.396224826574,102.713874817,2018-09-28,03:38:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.398873358965,102.731864929,2018-09-28,03:38:00,77,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.401523828506,102.7498703,2018-09-28,03:38:00,15,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.402577459812,102.694633484,2018-09-28,03:38:00,98,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.403902113438,102.703613281,2018-09-28,03:38:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.405227124691,102.712600708,2018-09-28,03:38:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.406552433968,102.721595764,2018-09-28,03:38:00,94,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.407878398895,102.73059082,2018-09-28,03:38:00,87,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.411577373743,102.693359375,2018-09-28,03:38:00,84,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.412903189659,102.702346802,2018-09-28,03:38:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.414229512215,102.711334229,2018-09-28,03:38:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.415556311607,102.720321655,2018-09-28,03:38:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.416883409023,102.729316711,2018-09-28,03:38:00,83,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.418211400509,102.738311768,2018-09-28,03:38:00,64,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.419539630413,102.747314453,2018-09-28,03:38:00,54,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.423232316971,102.71006012,2018-09-28,03:38:00,77,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.42456048727,102.719047546,2018-09-28,03:38:00,85,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.428547590971,102.746040344,2018-09-28,03:38:00,50,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.556646823883,102.614501953,2018-09-28,03:38:00,79,terra,Rengat , Kab. Indragiri Hulu , Riau 
+-0.736850500107,102.775382996,2018-09-28,03:38:00,66,terra,Keritang , Kab. Indragiri Hilir , Riau 
+-0.820613920689,102.905654907,2018-09-28,03:38:00,65,terra,Keritang , Kab. Indragiri Hilir , Riau 
+-0.905095934868,102.355766296,2018-09-28,06:30:00,64,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+-0.807626664639,102.907020569,2018-09-28,06:30:00,75,aqua,Keritang , Kab. Indragiri Hilir , Riau 
+-0.789658606052,102.787437439,2018-09-28,06:30:00,64,aqua,Keritang , Kab. Indragiri Hilir , Riau 
+-0.622561097145,102.670249939,2018-09-28,06:30:00,77,aqua,Keritang , Kab. Indragiri Hilir , Riau 
+-0.624001204967,102.660270691,2018-09-28,06:30:00,97,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+-0.611677408218,102.678840637,2018-09-28,06:30:00,65,aqua,Keritang , Kab. Indragiri Hilir , Riau 
+-0.502872765064,103.371147156,2018-09-28,06:30:00,27,aqua,Tanah Merah , Kab. Indragiri Hilir , Riau 
+-0.563021242619,102.682052612,2018-09-28,06:30:00,88,aqua,Keritang , Kab. Indragiri Hilir , Riau 
+-0.554980635643,102.670730591,2018-09-28,06:30:00,77,aqua,Rengat , Kab. Indragiri Hulu , Riau 
+-0.563429713249,102.610748291,2018-09-28,06:30:00,77,aqua,Seberida , Kab. Indragiri Hulu , Riau 
+-0.418855428696,102.740196228,2018-09-28,06:30:00,54,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.420274496078,102.730331421,2018-09-28,06:30:00,94,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.421697199345,102.720443726,2018-09-28,06:30:00,100,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.423121243715,102.710548401,2018-09-28,06:30:00,100,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.424547255039,102.700637817,2018-09-28,06:30:00,100,aqua,Rengat , Kab. Indragiri Hulu , Riau 
+-0.410866737366,102.728988647,2018-09-28,06:30:00,83,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.412283837795,102.719108582,2018-09-28,06:30:00,85,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.413702756166,102.709213257,2018-09-28,06:30:00,100,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.40004786849,102.737518311,2018-09-28,06:30:00,84,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.404284805059,102.707878113,2018-09-28,06:30:00,100,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.405700087547,102.697975159,2018-09-28,06:30:00,94,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.389241963625,102.746025085,2018-09-28,06:30:00,54,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.390645295382,102.736175537,2018-09-28,06:30:00,95,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.392050743103,102.72631073,2018-09-28,06:30:00,96,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.393458098173,102.716430664,2018-09-28,06:30:00,77,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.394867181778,102.706542969,2018-09-28,06:30:00,100,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.396277934313,102.696640015,2018-09-28,06:30:00,87,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.258670568466,103.413452148,2018-09-28,06:30:00,79,aqua,Kuala Indragiri , Kab. Indragiri Hilir , Riau 
+-0.287225604057,101.882545471,2018-09-28,06:30:00,74,aqua,Pangkalan Kuras , Kab. Pelalawan , Riau 
+-0.105433754623,103.004379272,2018-09-28,06:30:00,27,aqua,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+-0.0879608765244,103.060264587,2018-09-28,06:30:00,73,aqua,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+-0.0961674004793,103.003044128,2018-09-28,06:30:00,28,aqua,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+0.0841710492969,103.355018616,2018-09-28,06:30:00,51,aqua,Enok , Kab. Indragiri Hilir , Riau 
+0.298518210649,102.477287292,2018-09-28,06:30:00,41,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.246469005942,101.758094788,2018-09-28,06:30:00,51,aqua,Langgam , Kab. Pelalawan , Riau 
+0.378242701292,102.191612244,2018-09-28,06:30:00,31,aqua,Bunut , Kab. Pelalawan , Riau 
+0.635164558887,102.394325256,2018-09-28,06:30:00,32,aqua,Sungai Apit , Kab. Siak , Riau 
+0.986502289772,102.919746399,2018-09-28,06:28:00,87,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.996859,102.916,2018-09-28,18:14:47,37,snpp,Rangsang , Kepulauan Meranti , Riau 
+0.136823,102.582,2018-09-28,18:14:47,77,snpp,Teluk Meranti , Pelalawan , Riau 
+0.128787,102.581,2018-09-28,18:14:47,100,snpp,Teluk Meranti , Pelalawan , Riau 
+0.12771,102.588,2018-09-28,18:14:47,100,snpp,Teluk Meranti , Pelalawan , Riau 
+-0.388932,102.701,2018-09-28,18:14:47,100,snpp,Kuala Cenaku , Indragiri Hulu , Riau 
+-0.396841,102.7,2018-09-28,18:14:47,100,snpp,Kuala Cenaku , Indragiri Hulu , Riau 
+-0.412653,102.697,2018-09-28,18:14:47,44,snpp,Kuala Cenaku , Indragiri Hulu , Riau 
+-0.414237,102.707,2018-09-28,18:14:47,100,snpp,Kuala Cenaku , Indragiri Hulu , Riau 
+-0.415813,102.717,2018-09-28,18:14:47,67,snpp,Kempas , Indragiri Hilir , Riau 
+-0.420526,102.747,2018-09-28,18:14:47,10,snpp,Kempas , Indragiri Hilir , Riau 
+-0.422131,102.706,2018-09-28,18:14:47,100,snpp,Kuala Cenaku , Indragiri Hulu , Riau 
+-0.423706,102.716,2018-09-28,18:14:47,98,snpp,Kuala Cenaku , Indragiri Hulu , Riau 
+-0.550015,102.679,2018-09-28,18:14:47,100,snpp,Batang Gansal , Indragiri Hulu , Riau 
+-0.557922,102.678,2018-09-28,18:14:47,100,snpp,Batang Gansal , Indragiri Hulu , Riau 
+-0.559473,102.688,2018-09-28,18:14:47,88,snpp,Keritang , Indragiri Hilir , Riau 
+-0.744544804096,102.76776123,2018-09-28,15:55:00,47,terra,Keritang , Kab. Indragiri Hilir , Riau 
+-0.559772789478,102.691879272,2018-09-28,15:55:00,56,terra,Keritang , Kab. Indragiri Hilir , Riau 
+-0.562385320663,102.674072266,2018-09-28,15:55:00,74,terra,Seberida , Kab. Indragiri Hulu , Riau 
+-0.547416865826,102.690048218,2018-09-28,15:55:00,25,terra,Rengat , Kab. Indragiri Hulu , Riau 
+-0.550046503544,102.67224884,2018-09-28,15:55:00,100,terra,Rengat , Kab. Indragiri Hulu , Riau 
+-0.421320170164,102.732688904,2018-09-28,15:55:00,13,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.423878729343,102.714691162,2018-09-28,15:55:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.426430761814,102.696739197,2018-09-28,15:55:00,23,terra,Rengat , Kab. Indragiri Hulu , Riau 
+-0.411474913359,102.712791443,2018-09-28,15:55:00,98,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.414045870304,102.694839478,2018-09-28,15:55:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.39907053113,102.710899353,2018-09-28,15:55:00,51,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.40166208148,102.692932129,2018-09-28,15:55:00,58,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.386661589146,102.709037781,2018-09-28,15:55:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.389272838831,102.691070557,2018-09-28,15:55:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+0.13135586679,102.578643799,2018-09-28,15:55:00,98,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.990312099457,102.918907166,2018-09-28,15:55:00,58,terra,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+-0.555496454239,102.679611206,2018-09-29,15:00:00,100,terra,Rengat , Kab. Indragiri Hulu , Riau 
+-0.54070276022,102.677474976,2018-09-29,15:00:00,100,terra,Rengat , Kab. Indragiri Hulu , Riau 
+-0.551869869232,102.699790955,2018-09-29,15:00:00,86,terra,Rengat , Kab. Indragiri Hulu , Riau 
+-0.537103295326,102.697692871,2018-09-29,15:00:00,45,terra,Rengat , Kab. Indragiri Hulu , Riau 
+-0.425892025232,102.730697632,2018-09-29,15:00:00,76,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.429765164852,102.703979492,2018-09-29,15:00:00,67,terra,Rengat , Kab. Indragiri Hulu , Riau 
+-0.407385855913,102.755065918,2018-09-29,15:00:00,9,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.411182194948,102.728652954,2018-09-29,15:00:00,21,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.41500890255,102.702041626,2018-09-29,15:00:00,58,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.385526329279,102.697952271,2018-09-29,15:00:00,16,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+0.133038,102.584,2018-09-29,17:55:51,52,snpp,Teluk Meranti , Pelalawan , Riau 
+-0.391962,102.7,2018-09-29,17:55:51,62,snpp,Kuala Cenaku , Indragiri Hulu , Riau 
+-0.545994,102.676,2018-09-29,17:57:16,100,snpp,Batang Gansal , Indragiri Hulu , Riau 
+-0.421838,102.71,2018-09-29,17:55:51,76,snpp,Kuala Cenaku , Indragiri Hulu , Riau 
+-0.547123,102.683,2018-09-29,17:57:16,100,snpp,Batang Gansal , Indragiri Hulu , Riau 
+-0.422965,102.717,2018-09-29,17:55:51,66,snpp,Kempas , Indragiri Hilir , Riau 
+-0.558037,102.681,2018-09-29,17:57:16,100,snpp,Keritang , Indragiri Hilir , Riau 
+-0.559162,102.689,2018-09-29,17:57:16,100,snpp,Keritang , Indragiri Hilir , Riau 
+0.168039038777,101.869514465,2018-09-30,03:26:00,54,terra,Langgam , Kab. Pelalawan , Riau 
+-0.321101933718,102.881568909,2018-09-30,03:26:00,23,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.392493158579,102.902656555,2018-09-30,03:26:00,17,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.391690194607,102.738937378,2018-09-30,03:26:00,75,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.402865022421,102.747909546,2018-09-30,03:26:00,40,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.412483155727,102.746536255,2018-09-30,03:26:00,93,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.415931344032,102.703643799,2018-09-30,03:26:00,92,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.417477846146,102.714050293,2018-09-30,03:26:00,93,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.419021576643,102.724433899,2018-09-30,03:26:00,95,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.42056325078,102.734802246,2018-09-30,03:26:00,79,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.422102123499,102.745155334,2018-09-30,03:26:00,84,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.54384303093,102.679389954,2018-09-30,03:26:00,100,terra,Rengat , Kab. Indragiri Hulu , Riau 
+-0.545366287231,102.689796448,2018-09-30,03:26:00,97,terra,Rengat , Kab. Indragiri Hulu , Riau 
+-0.553484857082,102.678016663,2018-09-30,03:26:00,97,terra,Rengat , Kab. Indragiri Hulu , Riau 
+-0.555002570152,102.688415527,2018-09-30,03:26:00,100,terra,Rengat , Kab. Indragiri Hulu , Riau 
+-0.554021775723,102.613960266,2018-09-30,03:26:00,66,terra,Rengat , Kab. Indragiri Hulu , Riau 
+-0.741991400719,102.775527954,2018-09-30,03:26:00,82,terra,Keritang , Kab. Indragiri Hilir , Riau 
+-0.814448595047,102.669052124,2018-09-30,06:17:00,70,aqua,Keritang , Kab. Indragiri Hilir , Riau 
+-0.751775920391,102.772323608,2018-09-30,06:17:00,71,aqua,Keritang , Kab. Indragiri Hilir , Riau 
+-0.740149974823,102.7706604,2018-09-30,06:17:00,46,aqua,Keritang , Kab. Indragiri Hilir , Riau 
+-0.56885433197,102.686233521,2018-09-30,06:17:00,64,aqua,Keritang , Kab. Indragiri Hilir , Riau 
+-0.557184100151,102.684562683,2018-09-30,06:17:00,75,aqua,Rengat , Kab. Indragiri Hulu , Riau 
+-0.550306677818,102.678497314,2018-09-30,06:17:00,38,aqua,Rengat , Kab. Indragiri Hulu , Riau 
+-0.430812120438,102.701972961,2018-09-30,06:16:00,55,aqua,Rengat , Kab. Indragiri Hulu , Riau 
+-0.36798080802,102.972198486,2018-09-30,06:16:00,62,aqua,Batang Tuaka , Kab. Indragiri Hilir , Riau 
+0.0967581272125,103.415863037,2018-09-30,06:16:00,71,aqua,Enok , Kab. Indragiri Hilir , Riau 
+0.0389895997941,102.237411499,2018-09-30,06:16:00,28,aqua,Bunut , Kab. Pelalawan , Riau 
+0.150914639235,102.754402161,2018-09-30,06:16:00,49,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.0643695443869,101.901626587,2018-09-30,06:16:00,71,aqua,Pangkalan Kuras , Kab. Pelalawan , Riau 
+0.229206487536,102.895248413,2018-09-30,06:16:00,34,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.290622234344,102.453857422,2018-09-30,06:16:00,31,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.0911885499954,100.903289795,2018-09-30,06:16:00,78,aqua,Tiga Belas Koto Kampar , Kab. Kampar , Riau 
+0.0881818160415,100.88243866,2018-09-30,06:16:00,72,aqua,Tiga Belas Koto Kampar , Kab. Kampar , Riau 
+0.0926207527518,100.818222046,2018-09-30,06:16:00,73,aqua,Tiga Belas Koto Kampar , Kab. Kampar , Riau 
+0.100338645279,100.811706543,2018-09-30,06:16:00,65,aqua,Tiga Belas Koto Kampar , Kab. Kampar , Riau 
+0.603566348553,102.085533142,2018-09-30,06:16:00,32,aqua,Siak Sri Indrapura , Kab. Siak , Riau 
+0.694548010826,102.084243774,2018-09-30,06:16:00,25,aqua,Siak Sri Indrapura , Kab. Siak , Riau 
+1.82060372829,101.632164001,2018-09-30,06:16:00,57,aqua,Rupat , Kab. Bengkalis , Riau 
+1.81802558899,101.614845276,2018-09-30,06:16:00,65,aqua,Rupat , Kab. Bengkalis , Riau 
+-0.194564133883,102.35761261,2018-09-30,06:17:00,56,aqua,Rengat , Kab. Indragiri Hulu , Riau 
+0.483297944069,102.183105469,2018-09-30,06:17:00,30,aqua,Bunut , Kab. Pelalawan , Riau 
+0.484891533852,101.988983154,2018-09-30,06:17:00,53,aqua,Bunut , Kab. Pelalawan , Riau 
+1.33948,101.521,2018-09-30,06:38:18,92,snpp,Pinggir , Bengkalis , Riau 
+-0.742301,102.772,2018-09-30,06:36:52,93,snpp,Keritang , Indragiri Hilir , Riau 
+-0.741151,101.845,2018-09-30,06:36:52,47,snpp,Batang Peranap , Indragiri Hulu , Riau 
+-0.579088,102.647,2018-09-30,06:36:52,71,snpp,Batang Gansal , Indragiri Hulu , Riau 
+-0.559446,102.687,2018-09-30,06:36:52,96,snpp,Keritang , Indragiri Hilir , Riau 
+-0.41423,102.75,2018-09-30,06:36:52,100,snpp,Kempas , Indragiri Hilir , Riau 
+-0.419528,102.715,2018-09-30,06:36:52,82,snpp,Kuala Cenaku , Indragiri Hulu , Riau 
+-0.407558,102.749,2018-09-30,06:36:52,96,snpp,Kempas , Indragiri Hilir , Riau 
+-0.414974,102.7,2018-09-30,06:36:52,80,snpp,Kuala Cenaku , Indragiri Hulu , Riau 
+-0.00148087,101.729,2018-09-30,06:36:52,55,snpp,Langgam , Pelalawan , Riau 
+0.0654961,101.903,2018-09-30,06:36:52,86,snpp,Pangkalan Kuras , Pelalawan , Riau 
+0.23462,102.886,2018-09-30,06:36:52,59,snpp,Teluk Meranti , Pelalawan , Riau 
+0.193624,102.306,2018-09-30,06:36:52,92,snpp,Teluk Meranti , Pelalawan , Riau 
+0.0952867,100.897,2018-09-30,06:36:52,100,snpp,Xiii Koto Kampar , Kampar , Riau 
+0.0969574,100.818,2018-09-30,06:36:52,100,snpp,Xiii Koto Kampar , Kampar , Riau 
+0.103647,100.817,2018-09-30,06:36:52,66,snpp,Xiii Koto Kampar , Kampar , Riau 
+0.452615,102.274,2018-09-30,06:36:52,55,snpp,Pelalawan , Pelalawan , Riau 
+0.983125,102.923,2018-09-30,06:36:52,36,snpp,Rangsang , Kepulauan Meranti , Riau 
+-0.743174791336,102.773994446,2018-09-30,15:45:00,71,terra,Keritang , Kab. Indragiri Hilir , Riau 
+-0.5611358881,102.69103241,2018-09-30,15:45:00,100,terra,Keritang , Kab. Indragiri Hilir , Riau 
+-0.56267285347,102.680229187,2018-09-30,15:45:00,100,terra,Keritang , Kab. Indragiri Hilir , Riau 
+-0.551323235035,102.689598083,2018-09-30,15:45:00,98,terra,Rengat , Kab. Indragiri Hulu , Riau 
+-0.552866220474,102.67880249,2018-09-30,15:45:00,100,terra,Rengat , Kab. Indragiri Hulu , Riau 
+-0.541509389877,102.688179016,2018-09-30,15:45:00,87,terra,Rengat , Kab. Indragiri Hulu , Riau 
+-0.543059706688,102.677375793,2018-09-30,15:45:00,100,terra,Rengat , Kab. Indragiri Hulu , Riau 
+-0.544607758522,102.666595459,2018-09-30,15:45:00,55,terra,Rengat , Kab. Indragiri Hulu , Riau 
+-0.409195691347,102.898078918,2018-09-30,15:45:00,64,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.42004391551,102.753005981,2018-09-30,15:45:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.421625971794,102.742080688,2018-09-30,15:45:00,90,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.424780786037,102.720291138,2018-09-30,15:45:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.426352262497,102.709434509,2018-09-30,15:45:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.410177439451,102.751564026,2018-09-30,15:45:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.411766201258,102.740646362,2018-09-30,15:45:00,100,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.414937436581,102.718841553,2018-09-30,15:45:00,20,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.416517913342,102.707969666,2018-09-30,15:45:00,84,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.4180945158,102.697128296,2018-09-30,15:45:00,84,terra,Rengat , Kab. Indragiri Hulu , Riau 
+-0.396207094193,102.699203491,2018-09-30,15:45:00,81,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.386368095875,102.697761536,2018-09-30,15:45:00,65,terra,Tempuling , Kab. Indragiri Hilir , Riau 
+0.983064830303,102.921028137,2018-09-30,18:43:00,28,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.98174726963,102.929954529,2018-09-30,18:43:00,44,aqua,Tebing Tinggi , Kab. Kepulauan Meranti , Riau 
+0.208925396204,102.294433594,2018-09-30,18:43:00,48,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.206312417984,102.312202454,2018-09-30,18:43:00,100,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.199976742268,102.293159485,2018-09-30,18:43:00,80,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.197363942862,102.310928345,2018-09-30,18:43:00,100,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+0.189721822739,102.300765991,2018-09-30,18:43:00,96,aqua,Kuala Kampar , Kab. Pelalawan , Riau 
+-0.401851862669,102.751930237,2018-09-30,18:43:00,100,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.403164982796,102.760894775,2018-09-30,18:43:00,100,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.410835802555,102.750656128,2018-09-30,18:43:00,100,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.412149995565,102.759613037,2018-09-30,18:43:00,100,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.413247704506,102.704627991,2018-09-30,18:43:00,67,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.415875464678,102.722518921,2018-09-30,18:43:00,100,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.4171898067,102.731468201,2018-09-30,18:43:00,54,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.419819802046,102.74937439,2018-09-30,18:43:00,100,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.421135216951,102.758338928,2018-09-30,18:43:00,98,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.423541426659,102.712303162,2018-09-30,18:43:00,100,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.424856513739,102.721244812,2018-09-30,18:43:00,100,aqua,Tempuling , Kab. Indragiri Hilir , Riau 
+-0.537819981575,102.680259705,2018-09-30,18:43:00,99,aqua,Rengat , Kab. Indragiri Hulu , Riau 
+-0.539138376713,102.689208984,2018-09-30,18:43:00,89,aqua,Rengat , Kab. Indragiri Hulu , Riau 
+-0.546798169613,102.678977966,2018-09-30,18:43:00,94,aqua,Rengat , Kab. Indragiri Hulu , Riau 
+-0.548117637634,102.687927246,2018-09-30,18:43:00,100,aqua,Rengat , Kab. Indragiri Hulu , Riau 
+-0.557312369347,102.68081665,2018-09-30,18:43:00,95,aqua,Rengat , Kab. Indragiri Hulu , Riau 
+-0.558621764183,102.68976593,2018-09-30,18:43:00,100,aqua,Keritang , Kab. Indragiri Hilir , Riau 
+-0.559931516647,102.69871521,2018-09-30,18:43:00,67,aqua,Keritang , Kab. Indragiri Hilir , Riau 
+-0.745355665684,102.775627136,2018-09-30,18:43:00,47,aqua,Keritang , Kab. Indragiri Hilir , Riau 
+1.406924,100.818741,2018-09-01,00:00:00,66,aqua,Tanah Putih , Kab. Rokan Hilir , Riau 
+-0.149585,102.774139,2018-09-10,00:00:00,58,aqua,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+0.779218,101.677299,2018-09-24,00:00:00,54,terra,Siak , Kab. Siak , Riau 
+-0.14761,102.774216,2018-09-24,00:00:00,44,terra,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+0.333885,101.0205,2018-09-08,00:00:00,69,aqua,Tapungkiri , Kab. Rokan Hulu , Riau 
+-0.147151,102.777512,2018-09-04,00:00:00,35,terra,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+0.033521,102.735764,2018-09-07,00:00:00,49,aqua,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+-0.007847,102.748444,2018-09-07,00:00:00,43,aqua,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+0.058095,101.642464,2018-09-25,00:00:00,48,terra,Langgam , Kab. Pelalawan , Riau 
+-0.108194,102.90844,2018-09-21,00:00:00,49,aqua,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+0.66893,101.598839,2018-09-21,00:00:00,46,aqua,Siak Sri Indrapura , Kab. Siak , Riau 
+-0.320137,103.160851,2018-09-27,00:00:00,59,aqua,Tembilahan , Kab. Indragiri Hilir , Riau 
+-0.178996,102.795639,2018-09-05,00:00:00,50,terra,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+0.283583,102.519402,2018-09-29,00:00:00,46,terra,Kuala Kampar , Kab. Pelalawan , Riau 
+0.015616,101.910034,2018-09-29,00:00:00,54,terra,Pangkalan Kuras , Kab. Pelalawan , Riau 
+-0.326433,103.153992,2018-09-10,00:00:00,59,terra,Tembilahan , Kab. Indragiri Hilir , Riau 
+-0.149585,102.774139,2018-09-10,00:00:00,58,terra,Gaunganakserka , Kab. Indragiri Hilir , Riau 
+0.666221,101.59375,2018-09-10,00:00:00,44,terra,Siak Sri Indrapura , Kab. Siak , Riau 
